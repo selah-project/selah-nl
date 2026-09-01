@@ -1,0 +1,97 @@
+#:rendering{:label "Nederlands",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role
+              :open-questions
+              :rendering/people
+              :rendering/process
+              :rendering/checks]},
+            :role :served,
+            :produced {:from "2026-08-31", :to "2026-09-01"},
+            :people
+            {:ruled-by "Scott",
+             :shovel "Claude (Fable 5)",
+             :assayer "Codex"},
+            :id "nl.v1",
+            :catalog {:ui "resources/i18n/ui/nl.edn"},
+            :license "CC BY-SA 4.0 (The Selah Dutch Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/nl.md",
+             :rails-commit "3e2d4147",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adonai",
+              "אל" "El",
+              "אלהים" "Elohim",
+              "אלוה" "Eloa",
+              "יה" "Jah",
+              "יהוה" "Jahweh",
+              "שדי" "Sjaddai"},
+             :open-questions []},
+            :status :live,
+            :checks
+            {:census
+             {:verses 23213,
+              :jahweh 5795,
+              :elohim 2180,
+              :et-verses 7453,
+              :leak-classes 0,
+              :god-lawful 19,
+              :heer-human-lawful 215,
+              :name-seat-heer 0},
+             :aleph-tav {:misaligned 0, :stray 0, :missing 0},
+             :gleaning-rounds [248 23 8],
+             :residue-after-relay 77,
+             :hand-repaired 16},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-nl",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :nl,
+            :process
+            [:relay-burn
+             :census-gleaning-rounds
+             :hand-repair
+             :tekoa-review
+             :aleph-tav-audit
+             :readers-documents
+             :notes
+             :manifest]}
