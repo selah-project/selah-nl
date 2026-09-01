@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "En woorden van haat hebben mij omringd, en zij hebben mij ⟨zonder⟩ ⟨oorzaak⟩ bestreden — ⟨zonder⟩ reden.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "en woorden van"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "haat"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "hebben mij omringd"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "en hebben mij bestreden"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zonder reden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:49.555302440Z",
+  "model": "glm-5.3"
+}

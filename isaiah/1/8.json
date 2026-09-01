@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ⟨de⟩ dochter van Tsion blijft over als een hut in ⟨een⟩ wijngaard, als een nachthut in ⟨een⟩ komkommerveld, als een stad die belegerd wordt.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "en blijft over"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "van Tsion"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "als een hut"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "in een wijngaard"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "als een nachthut"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "in een komkommerveld"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "als een stad"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "die belegerd wordt"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:54.188706934Z",
+  "model": "glm-5.3"
+}

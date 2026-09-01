@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "En ⟨את⟩ Chamor en ⟨את⟩ Sjechem zijn zoon doodden zij door de mond van het zwaard, en zij namen ⟨את⟩ Dina uit het huis van Sjechem mee en gingen weg.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sjechem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjechem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "doodden zij"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "door de mond van"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "het zwaard"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "en zij namen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit het huis van"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjechem"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "en gingen weg"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:00.618547239Z",
+  "model": "glm-5.3"
+}

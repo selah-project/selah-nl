@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "En zij zullen opschieten tussen ⟨het⟩ gras, als wilgen aan waterstromen.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "en zij zullen opschieten"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gras"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "als wilgen"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "waterstromen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van water"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:36.070234808Z",
+  "model": "glm-5.3"
+}

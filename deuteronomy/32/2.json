@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Mijn onderwijs druipe als regen, mijn woord sijpelen als dauw, als regenbuien op het jonge gras en als druppels op het groen.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "druipe"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "als regen"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "mijn onderwijs"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "sijpelen ⟨zal⟩"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "als dauw"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mijn woord"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "als regenbuien"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "het jonge gras"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "en als druppels"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "het groen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:28.326027344Z",
+  "model": "glm-5.3"
+}

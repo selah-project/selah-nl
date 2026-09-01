@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En nu: één verzoek vraag ik van ⟨את⟩ u; keer ⟨את⟩ mijn gezicht niet terug. En zij zei tot hem: Spreek.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nu"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "verzoek"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "één"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "vraag"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "van ⟨את⟩ u"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn gezicht"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mijn gezicht"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:40.000147934Z",
+  "model": "glm-5.3"
+}

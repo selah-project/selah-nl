@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 98,
+  "translation": "Laat de zee donderen en al wat ⟨hem⟩ vult, ⟨de⟩ wereld en wie erin wonen.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Laat donderen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "en al wat hem vult"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "wereld"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "en wie wonen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "erin"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:52.025149783Z",
+  "model": "glm-5.3"
+}

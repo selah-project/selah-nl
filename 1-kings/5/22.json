@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Chiram zond naar Sjelomo om te zeggen: Ik heb ⟨את⟩ gehoord wat je naar mij toe gezonden hebt; ik zal al jouw wens doen ⟨met⟩ cederhout en met cipreshout.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "zond"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te zeggen"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Ik heb gehoord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "je gezonden hebt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naar mij"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zal doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al jouw wens"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "jouw wens"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "met hout van"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ceders"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "en met hout van"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "cipressen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:11.777602053Z",
+  "model": "glm-5.3"
+}

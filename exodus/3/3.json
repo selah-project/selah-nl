@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Mosjee zei: Ik wil toch even afwijken en ⟨את⟩ dit grote gezicht zien — waarom brandt de struik niet op?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ik wil afwijken"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "en zien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit grote gezicht"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "het gezicht"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "grote"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "brandt op"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "de struik"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:40.758936203Z",
+  "model": "glm-5.3"
+}

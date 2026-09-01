@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Het gebeurde toen Dawid bij ⟨את⟩ Edom was, in het opgaan van Joav, de bevelhebber van het leger, om ⟨את⟩ de gesneuvelden te begraven, dat hij elke mannelijke sloeg in Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Het gebeurde"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "toen ... was"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "bij ⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "in het opgaan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "bevelhebber"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "van het leger"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "om te begraven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gesneuvelden"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "de gesneuvelden"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dat hij sloeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mannelijke"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "in Edom"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:33.541349910Z",
+  "model": "glm-5.3"
+}

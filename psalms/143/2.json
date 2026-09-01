@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 143,
+  "translation": "En kom niet in ⟨het⟩ gericht met ⟨את⟩ uw dienaar, want geen levende zal rechtvaardig zijn voor uw aangezicht.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in gericht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw dienaar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "rechtvaardig zijn"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor uw aangezicht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levende"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:39.658421346Z",
+  "model": "glm-5.3"
+}

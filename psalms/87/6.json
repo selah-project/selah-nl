@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 87,
+  "translation": "Jahweh zal tellen bij het opschrijven van de volken: deze is daar geboren. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "zal tellen"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "bij het opschrijven"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "זה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "is geboren"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:13.720876552Z",
+  "model": "glm-5.3"
+}

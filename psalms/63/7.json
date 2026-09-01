@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 63,
+  "translation": "Wanneer ik aan U denk op mijn rustbed, in de nachtwaken peins ik over U.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ik aan U denk"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "mijn rustbed"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "in de nachtwaken"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "peins ik"
+    },
+    {
+      "surface": "בך",
+      "gloss": "over U"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.898512534Z",
+  "model": "glm-5.3"
+}

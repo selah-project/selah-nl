@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 40:25",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Kun jij Livjatan trekken met ⟨de⟩ haak, en met een touw zijn tong doen zinken?",
+  "tokens": [
+    {
+      "surface": "תמשך",
+      "gloss": "kun jij trekken"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livjatan"
+    },
+    {
+      "surface": "בחכה",
+      "gloss": "met ⟨de⟩ haak"
+    },
+    {
+      "surface": "ובחבל",
+      "gloss": "en met een touw"
+    },
+    {
+      "surface": "תשקיע",
+      "gloss": "doen zinken"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "zijn tong"
+    }
+  ],
+  "timestamp": "2026-08-31T22:37:37.120874555Z",
+  "model": "glm-5.3"
+}

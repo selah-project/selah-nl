@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Zeg nu Israël: tot in eeuwigheid ⟨duurt⟩ zijn chesed.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "Zeg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:13.475474099Z",
+  "model": "glm-5.3"
+}

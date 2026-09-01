@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 82,
+  "translation": "Red de zwakke en de behoeftige, uit de hand van de goddelozen ontworpel hen.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Red"
+    },
+    {
+      "surface": "דל",
+      "gloss": "de zwakke"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en de behoeftige"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ontworpel hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:23.700824583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En na hem richtte Ivtsan uit Beit-Lechem ⟨את⟩ Israël.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "En ... richtte"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "na hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Lechem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:38:50.150731142Z",
+  "model": "glm-5.3"
+}

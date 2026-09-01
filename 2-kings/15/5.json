@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 15:5",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En Jahweh sloeg ⟨את⟩ de koning, en hij was melaats tot de dag van zijn dood, en hij woonde in een vrijstaand huis; en Jotam, de zoon van de koning, was over het huis ⟨en⟩ richtte ⟨את⟩ het volk van het land.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "en sloeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en hij was"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "melaats"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "van zijn dood"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hij woonde"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in een huis"
+    },
+    {
+      "surface": "החפשית",
+      "gloss": "vrijstaand"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "en Jotam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "richtte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk van het land"
+    },
+    {
+      "surface": "עם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:13.090691595Z",
+  "model": "glm-5.3"
+}

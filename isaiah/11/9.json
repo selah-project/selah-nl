@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Zij zullen geen kwaad doen en niet verderven op heel mijn heilige berg, want de aarde is vol van de kennis van Jahweh ⟨את⟩, zoals de wateren de zee bedekken.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "zullen doen (kwaad)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "verderven"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "op heel"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mijn heilige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "is vol"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "van de kennis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "zoals de wateren"
+    },
+    {
+      "surface": "לים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "bedekken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:16:12.386573962Z",
+  "model": "glm-5.3"
+}

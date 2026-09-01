@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Ga en zeg tot David, mijn dienaar: Zo zegt Jahweh: Niet jij zult mij het huis bouwen om ⟨daarin⟩ te wonen.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "ויאמרת... ואמרת",
+      "gloss": "en zeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mijn dienaar"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Niet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "zult bouwen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "om te wonen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:02:11.431139006Z",
+  "model": "glm-5.3"
+}

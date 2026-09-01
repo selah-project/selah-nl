@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "In de moeite van ⟨de⟩ stervelingen zijn zij niet, en met de mensen worden zij niet aangeraakt.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "in de moeite van"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "stervelingen"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "zijn zij niet"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de mensen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "worden aangeraakt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:12.496462466Z",
+  "model": "glm-5.3"
+}

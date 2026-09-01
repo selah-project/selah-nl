@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 141,
+  "translation": "Mogen de goddelozen vallen in hun eigen netten, ik daarenten ⟨zal⟩ ondertussen veilig doorgaan.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Mogen vallen"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "in hun eigen netten"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tegelijk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ondertussen, totdat"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "doorgaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:09.036880724Z",
+  "model": "glm-5.3"
+}

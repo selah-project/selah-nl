@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Sta op, Jahweh; red mij, mijn Elohim, want u hebt ⟨את⟩ al mijn vijanden op de wang geslagen; de tanden van de goddelozen hebt u gebroken.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "sta op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "u hebt geslagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al mijn vijanden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "op de wang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de tanden"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "hebt u gebroken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:43.830192572Z",
+  "model": "glm-5.3"
+}

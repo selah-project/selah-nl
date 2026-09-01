@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 82,
+  "translation": "Ik heb gezegd: goden zijn jullie, en zonen van Eljon, jullie allemaal.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "heb gezegd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "goden"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en zonen"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "van Eljon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "jullie allemaal"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:19.158571833Z",
+  "model": "glm-5.3"
+}

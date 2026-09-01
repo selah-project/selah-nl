@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Want ⟨את⟩ het juk van zijn last, en ⟨את⟩ de staf van zijn schouder, de roede van zijn drijver — ⟨dat⟩ heeft U gebroken als op de dag van Midjan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het juk"
+    },
+    {
+      "surface": "על",
+      "gloss": "het juk"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "van zijn last"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de staf"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "de staf"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "van zijn schouder"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "de roede"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "van zijn drijver"
+    },
+    {
+      "surface": "בו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "heeft U gebroken"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "als op de dag"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "van Midjan"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:36.866184158Z",
+  "model": "glm-5.3"
+}

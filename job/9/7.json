@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Die tot de zon zegt en zij schijnt niet, en de sterren verzegelt",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "die zegt"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "tot de zon"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "zij schijnt"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "en"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "de sterren"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "verzegelt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:51.349499667Z",
+  "model": "glm-5.3"
+}

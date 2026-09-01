@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Jahweh Elohim zond hem weg uit de hof van Eden, om ⟨את⟩ de aardbodem te bewerken, waaruit hij genomen was.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "en hij zond hem weg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "uit de hof"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "van Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "om te bewerken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de aardbodem"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de aardbodem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hij genomen was"
+    },
+    {
+      "surface": "משם",
+      "gloss": "vandaar"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:07.537145813Z",
+  "model": "glm-5.3"
+}

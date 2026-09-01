@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Jahweh verhief de tegenstanders van Retsin tegen hem, en zijn vijanden hitste hij op.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "en verhief"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tegenstanders"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "de tegenstanders"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "van Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tegen hem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vijanden"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "zijn vijanden"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "hitste hij op"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:54.397458876Z",
+  "model": "glm-5.3"
+}

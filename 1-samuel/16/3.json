@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En roep Jisjaj bij het offer; dan zal ik jou laten weten ⟨את⟩ wat je doen moet, en u zult mij zalven ⟨את⟩ wie ik u noem.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "en roep"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Jisjaj"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "bij het offer"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "zal ik jou laten weten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat je doen moet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "je doen moet"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "en u zult zalven"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wie ik u noem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ik noem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:23.056255379Z",
+  "model": "glm-5.3"
+}

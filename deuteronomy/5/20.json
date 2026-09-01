@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En gij zult tegen uw naaste geen vals getuigenis geven.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "zult antwoorden\/getuigen"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "tegen uw naaste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "getuigenis"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "vals"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:39.045638745Z",
+  "model": "glm-5.3"
+}

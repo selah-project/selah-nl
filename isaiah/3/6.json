@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 3:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Want een man grijpt zijn broeder in het huis van zijn vader ⟨zeggende⟩: jij hebt een mantel, wees onze voorman, en laat deze puinhoop onder jouw hand zijn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יתפש",
+      "gloss": "grijpt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "zijn broeder"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van zijn vader"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "een mantel"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "⟨jij⟩ toch"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "voorman"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wees"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "onze"
+    },
+    {
+      "surface": "והמכשלה",
+      "gloss": "en deze puinhoop"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jouw hand"
+    }
+  ],
+  "timestamp": "2026-08-31T21:13:27.824605266Z",
+  "model": "glm-5.3"
+}

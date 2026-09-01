@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En Lea zei: Geluk komt! En zij riep ⟨את⟩ zijn naam Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Geluk komt!"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "en zij riep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:51.674601678Z",
+  "model": "glm-5.3"
+}

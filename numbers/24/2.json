@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En Bilam hief ⟨את⟩ zijn ogen op, en hij zag ⟨את⟩ Jisraël wonen naar zijn stammen, en de roeach van Elohim kwam op hem.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "en hij hief op"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn ogen"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "zijn ogen"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en hij zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "wonen"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "naar zijn stammen"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en zij was"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeach (geest)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:16:30.254554265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Met een vloek zijn jullie vervloekt, en mij zijn jullie aan het beroven — heel ⟨את⟩ ⟨de⟩ natie, in zijn geheel.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "met een vloek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "vervloekt"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ en mij",
+      "marks": "jullie (die beroven)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "berovende"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨de⟩ natie"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "in zijn geheel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:26.167339567Z",
+  "model": "glm-5.3"
+}

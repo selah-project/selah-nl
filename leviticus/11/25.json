@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En ieder die iets draagt van hun kadaver wast zijn klederen en is onrein tot de avond.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "En ieder"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "die draagt"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "van hun kadaver"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "wast"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zijn klederen"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "en is onrein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "de avond"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:13.605554880Z",
+  "model": "glm-5.3"
+}

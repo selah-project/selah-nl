@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En hij spande ⟨את⟩ zijn strijdwagen in, en ⟨את⟩ zijn volk nam hij met zich mee.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "en hij spande in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn strijdwagen"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "zijn strijdwagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nam"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met zich"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:06.446141216Z",
+  "model": "glm-5.3"
+}

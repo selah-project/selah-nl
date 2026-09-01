@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Die tezamen vertrouwelijke raad zoetten, ⟨en⟩ in het huis van Elohim wandelden in ⟨de⟩ menigte.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tezamen"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "zoetten"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "vertrouwelijke raad"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "wandelden wij"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "in menigte"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:49.539716984Z",
+  "model": "glm-5.3"
+}

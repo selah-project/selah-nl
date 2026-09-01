@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Jahweh zal voor u strijden, en u — zwijgt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "zal strijden"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en u"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "zwijgt"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:11.583107173Z",
+  "model": "glm-5.3"
+}

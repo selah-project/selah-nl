@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ik zei tot jullie: jullie zullen niet sidderen en jullie zullen niet bevreesd zijn voor hen.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "En ik zei"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "tot jullie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "zullen sidderen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "bevreesd zijn"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "voor hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:10.563446383Z",
+  "model": "glm-5.3"
+}

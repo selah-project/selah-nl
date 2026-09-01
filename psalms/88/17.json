@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "Over mij zijn uw brandende toornen gegaan; uw verschrikkingen hebben mij uitgeroeid.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "zijn gegaan"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "uw brandende toornen"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "uw verschrikkingen"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "hebben mij uitgeroeid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:57.934772101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En de kinderen van Israël gaven aan de Levieten uit hun erfdeel, volgens de mond van Jahweh, ⟨את⟩ deze steden en ⟨את⟩ hun weidegronden.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "en gaven"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "aan de Levieten"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "uit hun erfdeel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "volgens"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de mond van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze steden"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "steden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun weidegronden"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "hun weidegronden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:33:47.358692371Z",
+  "model": "glm-5.3"
+}

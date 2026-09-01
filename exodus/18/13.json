@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En het gebeurde de volgende dag, dat Mosjee ging zitten om ⟨את⟩ het volk te richten; en het volk stond bij Mosjee, van de morgen tot de avond.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "de volgende dag"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dat hij ging zitten"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "om te richten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "en stond"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "bij"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "de morgen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "de avond"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:28.259372555Z",
+  "model": "glm-5.3"
+}

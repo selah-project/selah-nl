@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En het gebeurde, toen Avram in Mitsrajim aankwam, dat de Mitsrieten de vrouw zagen — ⟨את⟩ de vrouw — omdat zij zeer mooi was.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "toen ... aankwam"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "dat ... zagen"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "de Mitsrieten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vrouw"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "mooi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:39.781714899Z",
+  "model": "glm-5.3"
+}

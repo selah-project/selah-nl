@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 110,
+  "translation": "Uit een beek op de weg zal hij drinken; daarom zal hij het hoofd opheffen.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "Uit een beek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "zal hij drinken"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "zal hij opheffen"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "het hoofd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:23.422735258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En nu: het is voorwaar zo dat ik ⟨een⟩ verlosser ben, maar er is ook een verlosser die nauwer ⟨verwant⟩ is dan ik.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨zo⟩"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "verlosser"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "maar ook"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er is"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "verlosser"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nabij"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dan ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:03.353503307Z",
+  "model": "glm-5.3"
+}

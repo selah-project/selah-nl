@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 81,
+  "translation": "Juich ⟨voor⟩ Elohim, onze sterkte; jubel ⟨voor⟩ ⟨de⟩ Elohim van Jaakov!",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "juich"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "voor Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "onze sterkte"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "voor ⟨de⟩ Elohim van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-09-01T00:03:25.902171922Z",
+  "model": "glm-5.3"
+}

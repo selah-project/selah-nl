@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En als het zich op de huid uitbreidt, dan zal de priester hem onrein verklaren ⟨את⟩: het is een plaag.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En als"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "zich uitbreidt"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "het zich uitbreidt"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "op de huid"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "zal onrein verklaren"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "een plaag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:20.360267692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Vanwege de stem van hem die smaadde en lasterde, vanwege het aangezicht ⟨van⟩ de vijand en de wrekende.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "vanwege de stem"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "die smaadde"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "en lasterde"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanwege het aangezicht ⟨van⟩"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "de vijand"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "en de wrekende"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:29.958283771Z",
+  "model": "glm-5.3"
+}

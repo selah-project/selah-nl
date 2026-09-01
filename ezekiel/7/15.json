@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Buiten ⟨is⟩ het zwaard, en binnen de pest en de honger; wie op het veld is, sterft door het zwaard, en wie in de stad is, honger en pest verteren hem.",
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "het zwaard"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "en de pest"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "en de honger"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "binnen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "door het zwaard"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sterft"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en die"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "honger"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "en pest"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "verteren hem"
+    }
+  ],
+  "timestamp": "2026-08-31T21:41:56.152857860Z",
+  "model": "glm-5.3"
+}

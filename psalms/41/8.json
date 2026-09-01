@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Tezamen fluisteren al mijn haters tegen mij; tegen mij beramen zij kwaad ⟨voor⟩ mij.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Tezamen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "fluisteren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "mijn haters"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "beramen zij"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨voor⟩ mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:10.747301727Z",
+  "model": "glm-5.3"
+}

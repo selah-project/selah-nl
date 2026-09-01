@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Valt een vogel in een strik op de aarde, terwijl er geen vangstrik voor haar is? Komt een strik omhoog van de grond, zonder dat hij iets vangt?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "valt"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "een vogel"
+    },
+    {
+      "surface": "על",
+      "gloss": "in op"
+    },
+    {
+      "surface": "פח",
+      "gloss": "een strik"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "terwijl er geen vangstrik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "voor haar"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "komt omhoog"
+    },
+    {
+      "surface": "פח",
+      "gloss": "een strik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de grond"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "om te vangen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "hij vangt"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:40.319320815Z",
+  "model": "glm-5.3"
+}

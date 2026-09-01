@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Zij haasten ⟨zich⟩, zij vergaten zijn daden; zij wachtten niet op zijn raad.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "zij haasten ⟨zich⟩"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "zij vergeten"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "zijn daden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "zij wachtten"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "op zijn raad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:53.794212586Z",
+  "model": "glm-5.3"
+}

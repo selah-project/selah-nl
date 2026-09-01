@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Leugens spreekt ieder ⟨את⟩ zijn naaste ⟨aan⟩, ⟨met⟩ lippen van vleiende gladheid; met hart en ⟨dubbel⟩ hart spreken zij.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "leugens"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "spreekt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naaste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zijn naaste"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lippen"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "van vleiende gladheid"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "met hart"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "en ⟨dubbel⟩ hart"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "spreken zij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:49.193906266Z",
+  "model": "glm-5.3"
+}

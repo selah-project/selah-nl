@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En gij zult u met hen niet verbinden in huwelijk; uw dochter zult gij niet geven aan zijn zoon, en zijn dochter zult gij niet nemen voor uw zoon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "zult gij u verbinden in huwelijk"
+    },
+    {
+      "surface": "בם",
+      "gloss": "met hen"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "uw dochter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zult gij geven"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "aan zijn zoon"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "en zijn dochter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "zult gij nemen"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "voor uw zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:42.622060003Z",
+  "model": "glm-5.3"
+}

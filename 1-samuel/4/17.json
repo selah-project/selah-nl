@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 4:17",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En de bode antwoordde en zei: Israël is gevlucht voor de Filistijmen, en ook is er een grote slaging geweest onder het volk, en ook jouw twee zonen zijn gestorven, Chofni en Pinechas, en de ark van Elohim is meegenomen.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en hij antwoordde"
+    },
+    {
+      "surface": "המבשר",
+      "gloss": "de bode"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "נס",
+      "gloss": "is gevlucht"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Filistijmen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "een slaging"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grote"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "is geweest"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "onder het volk"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "jouw zonen"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "zijn gestorven"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Chofni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "en Pinechas"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "en de ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "נלקחה",
+      "gloss": "is meegenomen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:56.319795618Z",
+  "model": "glm-5.3"
+}

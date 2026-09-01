@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En hij geve jou ⟨את⟩ de zegen van Avraham, jou en je nageslacht ⟨את⟩ met je, om te doen jou erven ⟨את⟩ het land van je vreemdelingschap, dat Elohim aan Avraham gegeven heeft.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "geve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zegen van Avraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "de zegen"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "van Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "en je nageslacht"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met je"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "om te doen jou erven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "van je vreemdelingschap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegeven heeft"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "aan Avraham"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:29.716050669Z",
+  "model": "glm-5.3"
+}

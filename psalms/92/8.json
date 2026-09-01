@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "Als de bozen ontkiemen als gras, en alle daders van onrecht doen bloeien — ⟨het is⟩ om voor eeuwig en altijd verdelgd te worden.",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "als … ontkiemen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de bozen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "gras"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "en … doen bloeien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "daders"
+    },
+    {
+      "surface": "און",
+      "gloss": "van onrecht"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "om verdelgd te worden"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "en altijd"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:02.356136175Z",
+  "model": "glm-5.3"
+}

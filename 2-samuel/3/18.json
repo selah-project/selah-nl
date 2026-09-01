@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En nu, doet het; want Jahweh heeft tot David gesproken, zeggende: Door de hand van David, mijn dienaar, zal ik ⟨את⟩ mijn volk Jisraël redden uit de hand van de Filistijnen en uit de hand van al hun vijanden.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "doet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gesproken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mijn dienaar"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "zal ik redden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn volk Jisraël"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van de Filistijnen"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "en uit de hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "hun vijanden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:50:39.647462515Z",
+  "model": "glm-5.3"
+}

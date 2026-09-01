@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "Een stem van rumoer ⟨komt⟩ uit de stad, een stem uit de heikal, een stem van Jahweh, die vergelding vergeldt aan zijn vijanden.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Een stem"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "van rumoer"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "uit de stad"
+    },
+    {
+      "surface": "קול",
+      "gloss": "een stem"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "uit de heikal"
+    },
+    {
+      "surface": "קול",
+      "gloss": "een stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "die vergeldt"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "vergelding"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "aan zijn vijanden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:26:42.496617248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 97,
+  "translation": "Zijn bliksemen verlichtten ⟨de⟩ wereld; de aarde zag en beefde.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "verlichtten"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Zijn bliksemen"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "wereld"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "zag"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "en beefde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:14.788266821Z",
+  "model": "glm-5.3"
+}

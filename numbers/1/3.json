@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "van twintig jaar oud en daarboven, iedereen die uittrekt tot het leger in Jisraël — hen moet u tellen ⟨את⟩ naar hun legers, u en Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "van"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "en daarboven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iedereen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "die uittrekt"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tot het leger"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisraël"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "moet u tellen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "naar hun legers"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:13.081394487Z",
+  "model": "glm-5.3"
+}

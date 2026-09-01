@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En de Filistijnen hingen zich vast achter Sjaoel en achter zijn zonen, en de Filistijnen sloegen ⟨את⟩ Jonatan en ⟨את⟩ Avinadav en ⟨את⟩ Malki-Sjoea, zonen van Sjaoel.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "En hingen zich vast"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Filistijnen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "en achter"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en sloegen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Filistijnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jónatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malki-Sjoea"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Sjoea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sjaoel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:00:16.313357622Z",
+  "model": "glm-5.3"
+}

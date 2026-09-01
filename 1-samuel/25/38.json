@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En het gebeurde na ongeveer tien dagen, dat Jahweh Nabal ⟨את⟩ sloeg, en hij stierf.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "na ongeveer tien"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "sloeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hij stierf"
+    }
+  ],
+  "timestamp": "2026-08-31T20:48:40.401473647Z",
+  "model": "glm-5.3"
+}

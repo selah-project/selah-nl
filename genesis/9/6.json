@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Wie het bloed van de mens vergiet, door de mens zal zijn bloed vergoten worden, want in de tselem van Elohim heeft Hij ⟨את⟩ de mens gemaakt.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "vergiet"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "door de mens"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "zijn bloed"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "zal vergoten worden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "in de tselem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "heeft gemaakt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:14.556832630Z",
+  "model": "glm-5.3"
+}

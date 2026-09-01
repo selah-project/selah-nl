@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Want Jahweh zal zijn volk niet verstoten, en zijn erfdeel zal hij niet verlaten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "zal verstoten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "en zijn erfdeel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "zal verlaten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:21.779023584Z",
+  "model": "glm-5.3"
+}

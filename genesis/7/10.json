@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En het gebeurde na zeven dagen dat de wateren van de mabboel over de aarde waren.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "na zeven"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "van de mabboel"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:31.714366796Z",
+  "model": "glm-5.3"
+}

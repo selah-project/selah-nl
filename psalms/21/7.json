@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Want U stelt hem ⟨tot⟩ zegeningen voor altijd; U verblijdt hem met vreugde ⟨bij⟩ ⟨את⟩ Uw aangezicht.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "stelt U hem"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "⟨tot⟩ zegeningen"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "voor altijd"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "verblijdt U hem"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "met vreugde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uw aangezicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Uw aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:49.855836395Z",
+  "model": "glm-5.3"
+}

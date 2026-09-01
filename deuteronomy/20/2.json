@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En het zal geschieden: wanneer gij nadert tot de strijd, dan treedt de priester naar voren en spreekt tot het volk.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En het zal geschieden"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "wanneer gij nadert"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "de strijd"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "dan treedt naar voren"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "en spreekt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:54.666569042Z",
+  "model": "glm-5.3"
+}

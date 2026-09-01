@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 2:13",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En zij zeide: Moge ik genade vinden in uw ogen, mijn adoni, want gij hebt mij vertroost en tot het hart van uw dienstmaagd gesproken, terwijl ik niet ben als één van uw dienstmaagden.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zeide"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "moge ik vinden"
+    },
+    {
+      "surface": "חן",
+      "gloss": "genade"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in uw ogen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn adoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נחמתני",
+      "gloss": "gij hebt mij vertroost"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "en dat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "gij hebt gesproken"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "van uw dienstmaagd"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "terwijl ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ben"
+    },
+    {
+      "surface": "כאחת",
+      "gloss": "als één van"
+    },
+    {
+      "surface": "שפחתיך",
+      "gloss": "uw dienstmaagden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:13.052069332Z",
+  "model": "glm-5.3"
+}

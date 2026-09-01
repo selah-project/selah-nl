@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En dit waren de zonen van Oholibama, dochter van Ana, dochter van Tsiveon, ⟨de⟩ vrouw van Esav; en zij baarde aan Esav ⟨את⟩ Jeüsj en ⟨את⟩ Jaälam en ⟨את⟩ Korach.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter van"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter van"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsiveon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vrouw van"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en zij baarde"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "aan Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeüsj"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeüsj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Jaälam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jaälam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-31T23:14:05.179300068Z",
+  "model": "glm-5.3"
+}

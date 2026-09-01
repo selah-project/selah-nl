@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Jahweh schraagt de ootmoedigen; Hij vernedert ⟨de⟩ goddelozen tot aan de aarde.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "schraagt"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ootmoedigen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "vernedert"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddelozen"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:35.203258566Z",
+  "model": "glm-5.3"
+}

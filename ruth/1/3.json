@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elimelech, de man van Naomi, stierf; en zij bleef over, zij en haar twee zonen.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "en stierf"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelech"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de man van"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "en zij bleef over"
+    },
+    {
+      "surface": "היא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "en haar twee"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "zonen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:20.610929693Z",
+  "model": "glm-5.3"
+}

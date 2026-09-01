@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Speelt ⟨muziek⟩ voor Jahweh, ⟨die⟩ troont in Tsijon; maak onder de volken zijn daden bekend",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Speelt ⟨muziek⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "troont"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "in Tsiyon"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "maak bekend"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "onder de volken"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "zijn daden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:19.004213817Z",
+  "model": "glm-5.3"
+}

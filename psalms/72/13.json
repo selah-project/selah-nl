@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "Hij zal zich ontfermen over de zwakke en de behoeftige, en de levens van de behoeftigen zal hij redden.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "zal zich ontfermen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "דל",
+      "gloss": "de zwakke"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en de behoeftige"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "en de levens"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "van de behoeftigen"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "zal hij redden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:56.385166992Z",
+  "model": "glm-5.3"
+}

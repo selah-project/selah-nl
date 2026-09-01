@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Vanwege de verwoesting van de armen, vanwege de zucht van de behoeftigen — nu zal Ik opstaan, zegt Jahweh; Ik zal stellen in veiligheid wie naar ⟨ Hem ⟩ hijgt.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "vanwege de verwoesting"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "van de armen"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "vanwege de zucht"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "van de behoeftigen"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "zal Ik opstaan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "Ik zal stellen"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "in veiligheid"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "hijgt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "naar Hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:08.600252295Z",
+  "model": "glm-5.3"
+}

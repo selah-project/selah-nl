@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Wij denken aan de vis die wij in Mitsrajim gratis aten ⟨את⟩ de komkommers en ⟨את⟩ de meloenen en ⟨את⟩ de prei en ⟨את⟩ de uien en ⟨את⟩ de knoflook.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "wij denken aan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vis"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "de vis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "wij aten"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "gratis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de komkommers"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "de komkommers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de meloenen"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "de meloenen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de prei"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "de prei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de uien"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "de uien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de knoflook"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "de knoflook"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:15.744678361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Avram woonde in het land Kenaan, en Lot woonde in de steden van de vlakte, en hij sloeg ⟨zijn⟩ tenten op tot aan Sedom.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "woonde"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "en Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "woonde"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "in de steden"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "van de vlakte"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "en hij sloeg tenten op"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:01.900604935Z",
+  "model": "glm-5.3"
+}

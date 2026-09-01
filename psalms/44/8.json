@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Want U heeft ons gered uit ⟨de hand van⟩ onze verdrukkers, en onze haters heeft U tot schande gemaakt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "U heeft ons gered"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "uit onze verdrukkers"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "en onze haters"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "heeft U tot schande gemaakt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:21.587035842Z",
+  "model": "glm-5.3"
+}

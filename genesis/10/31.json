@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Dit zijn de zonen van Sjem, naar hun familiegeslachten, naar hun talen, in hun landen, naar hun volken.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sjem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "naar hun familiegeslachten"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "naar hun talen"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "in hun landen"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "naar hun volken"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:22.649079531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Welzalig de man die niet wandelde in de raad van de goddelozen, en op de weg van zondaars niet stond, en in de kring van spotters niet zat.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Welzalig"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wandelde"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "in de raad van"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "en op de weg van"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "zondaars"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stond"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "en in de kring van"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "spotters"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "zat"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:02.340665382Z",
+  "model": "glm-5.3"
+}

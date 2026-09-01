@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Kwaad achtervolgt zondaars, maar ⟨את⟩ de rechtvaardigen vergeldt ⟨het⟩ met goed.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "zondaars"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "achtervolgt"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de rechtvaardigen"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rechtvaardigen"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "vergeldt"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "met goed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:26.649295749Z",
+  "model": "glm-5.3"
+}

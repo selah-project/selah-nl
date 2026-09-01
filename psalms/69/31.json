@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Ik zal de naam van Elohim loven met een lied, en hem grootmaken met dankbetuiging.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "ik zal loven"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "met een lied"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "en hem grootmaken"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "met dankbetuiging"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:51.164312486Z",
+  "model": "glm-5.3"
+}

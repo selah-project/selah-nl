@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 13:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Zie, de dag van Jahweh komt, wreed, met woede en brandende toorn, om de aarde tot een woestijn te maken en haar zondaars daaruit te verdelgen.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "wreed"
+    },
+    {
+      "surface": "ועברה",
+      "gloss": "met woede"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "en brandende"
+    },
+    {
+      "surface": "אף",
+      "gloss": "toorn"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "om te maken"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "tot een woestijn"
+    },
+    {
+      "surface": "וחטאיה",
+      "gloss": "en haar zondaars"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "zal verdelgen"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daaruit"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:49.634420893Z",
+  "model": "glm-5.3"
+}

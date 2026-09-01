@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "De wachters die de stad rondgingen vonden mij; zij sloegen mij, verwondden mij; de bewakers van de muren namen ⟨את⟩ mijn sluier van mij weg.",
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "vonden mij"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "De wachters"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "die rondgingen"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "zij sloegen mij"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "verwondden mij"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "namen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn sluier"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "mijn sluier"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van mij weg"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "de bewakers"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "van de muren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:12.495933674Z",
+  "model": "glm-5.3"
+}

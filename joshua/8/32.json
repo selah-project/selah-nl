@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij schreef daar op de stenen ⟨את⟩ een afschrift van de Tora van Mosjee, dat hij schreef voor het aangezicht van de kinderen van Israël.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "en hij schreef"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "de stenen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "een afschrift"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "een afschrift"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "van de Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "van Mosjee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "hij schreef"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:31:10.615498197Z",
+  "model": "glm-5.3"
+}

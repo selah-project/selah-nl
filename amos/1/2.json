@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij zei: Jahweh brult vanuit TSION en geeft zijn stem vanuit Jeruzalem; dan treuren de weiden van de herders en verdort de top van de Karmel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "vanuit TSION"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "brult"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "en vanuit Jeruzalem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "zijn stem"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "treuren"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "de weiden"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "van de herders"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "en verdort"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "de top"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "van de Karmel"
+    }
+  ],
+  "timestamp": "2026-08-31T21:57:04.286928227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "over wie zijn verbond bewaren, die zijn voorschriften gedenken om ze te doen.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "over wie bewaren"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "zijn verbond"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "die gedenken"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "zijn voorschriften"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "om ze te doen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:51.831794765Z",
+  "model": "glm-5.3"
+}

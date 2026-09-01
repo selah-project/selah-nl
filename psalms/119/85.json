@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Arroganten groeven kuilen voor mij, ⟨die⟩ niet naar uw Tora ⟨zijn⟩.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "groeven"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "arroganten"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "kuilen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨die⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "naar uw Tora"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:04.312386588Z",
+  "model": "glm-5.3"
+}

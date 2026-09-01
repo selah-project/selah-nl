@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 52,
+  "translation": "Maar ik ben als een groene olijfboom in het huis van Elohim; ik vertrouw op de chesed van Elohim, eeuwig en altijd.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Maar ik"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "als een olijfboom"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "groene"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ik vertrouw"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "op de chesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en altijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:32.198489011Z",
+  "model": "glm-5.3"
+}

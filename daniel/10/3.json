@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Begeerlijk brood at ik niet, en vlees en wijn kwamen niet in mijn mond, en ik zalfde mij niet met zalf tot het vervuld waren van drie weken van dagen.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "Begeerlijk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "at ik"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "en vlees"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "en wijn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwamen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "en met zalf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "zalfde ik mij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "vervuld waren van"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drie"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "weken"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:49:29.599361164Z",
+  "model": "glm-5.3"
+}

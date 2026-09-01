@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En zij werd zwanger en baarde een zoon, en hij riep ⟨את⟩ zijn naam Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "en zij werd zwanger"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en baarde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij riep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:48.583129762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En nu, zie, het geschreeuw van de kinderen van Jisraël is tot Mij gekomen, en Ik heb ook ⟨את⟩ de onderdrukking gezien waarmee de Mitsrieten ⟨את⟩ hen onderdrukken.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "geschreeuw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "באה",
+      "gloss": "is gekomen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot Mij"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "heb Ik gezien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de onderdrukking"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "de onderdrukking"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitsrieten"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "onderdrukken"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:45.426342104Z",
+  "model": "glm-5.3"
+}

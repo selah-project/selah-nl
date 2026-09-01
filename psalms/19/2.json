@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "De hemelen vertellen de heerlijkheid van El, en het uitspansel verkondigt het werk van zijn handen.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "vertellen"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "de heerlijkheid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "en het werk"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "van zijn handen"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "verkondigt"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "het uitspansel"
+    }
+  ],
+  "timestamp": "2026-09-01T00:07:39.285103793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 149,
+  "translation": "om hun koningen te binden in ketenen en hun edelen in boeien van ijzer;",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "om te binden"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "hun koningen"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "in ketenen"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "en hun edelen"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "in boeien"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "van ijzer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:14.843575168Z",
+  "model": "glm-5.3"
+}

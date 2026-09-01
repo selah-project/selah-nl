@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 77,
+  "translation": "Mijn stem tot Elohim, en ik schreeuw; mijn stem tot Elohim, en Hij geeft oor aan mij.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "mijn stem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "en ik schreeuw"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mijn stem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "en Hij geeft oor"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aan mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:48.054513098Z",
+  "model": "glm-5.3"
+}

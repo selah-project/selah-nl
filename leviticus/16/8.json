@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Aharon zal over de twee bokken loten werpen: één lot voor Jahweh, en één lot voor Aza'zel.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "zal geven\/werpen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de twee"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "bokken"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "loten"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "lot"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "en één lot"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "voor Aza'zel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:21.005472707Z",
+  "model": "glm-5.3"
+}

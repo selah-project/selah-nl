@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Met hun kwaad verblijden zij de koning, en met hun leugens de vorsten.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "Met hun kwaad"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "verblijden zij"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "en met hun leugens"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "de vorsten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:42.603423965Z",
+  "model": "glm-5.3"
+}

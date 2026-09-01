@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Na hem stond op Jaïr, de Gileadiet, en hij richtte ⟨את⟩ Israël tweeëntwintig jaar.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en stond op"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "na hem"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jaïr"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "de Gileadiet"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "en hij richtte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "en twee"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:38:02.776910354Z",
+  "model": "glm-5.3"
+}

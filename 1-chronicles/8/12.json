@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En de zonen van Elpa'al: Ever, Miseam en Sjemed — hij bouwde ⟨את⟩ Ono en ⟨את⟩ Lod en haar dochtersteden.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "en de zonen van"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpa'al"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "en Miseam"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "en Sjemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "en haar dochtersteden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:46.464343112Z",
+  "model": "glm-5.3"
+}

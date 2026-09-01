@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "Dit zijn de zonen van Esav — dit zijn hun stamhoofden — hij ⟨is⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "hun stamhoofden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:23.753840640Z",
+  "model": "glm-5.3"
+}

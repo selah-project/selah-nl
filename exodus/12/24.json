@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En gij zult ⟨את⟩ dit woord in acht nemen als een verordening voor u en voor uw zonen tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en gij zult in acht nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "als een verordening"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "en voor uw zonen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:19.522224447Z",
+  "model": "glm-5.3"
+}

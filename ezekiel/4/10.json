@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En je voedsel dat je zult eten ⟨zal⟩ naar gewicht ⟨zijn⟩: twintig sjekel per dag; van vast tijdstip tot vast tijdstip zul je het eten.",
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "en je voedsel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "je zult eten"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "naar gewicht"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sjekel"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "per dag"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "van vast tijdstip"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vast tijdstip"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "zul je het eten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:41:50.493867424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Naömí nam ⟨את⟩ het kind en legde het in haar schoot, en zij werd het tot voedster.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "en zij nam"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naömí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "het kind"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "en zij legde het"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "in haar schoot"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en zij werd"
+    },
+    {
+      "surface": "לו",
+      "gloss": "het"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "tot voedster"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:56.954228085Z",
+  "model": "glm-5.3"
+}

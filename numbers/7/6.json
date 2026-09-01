@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Mosjee nam ⟨את⟩ de wagens en ⟨את⟩ de runderen, en gaf ze aan de Leviieten.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de wagens"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "de wagens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de runderen"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "de runderen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij gaf"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ze",
+      "marks": "aan de Leviieten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "de Leviieten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:28.870128955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En Mosjee gaf ⟨את⟩ Gil'ad aan Machir, zoon van Menashshe, en hij ging daar wonen.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "En gaf"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gil'ad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "aan Machir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hij ging wonen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-08-31T20:18:04.229685319Z",
+  "model": "glm-5.3"
+}

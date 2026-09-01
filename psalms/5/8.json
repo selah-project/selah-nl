@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En ik — in de veelheid van Uw chesed (goedertierenheid) kom ik Uw huis binnen; ik buig mij neer richting Uw heilige tempel, in Uw vreze.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "in de veelheid"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "van Uw chesed"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kom ik binnen"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "Uw huis"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "buig ik mij neer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "richting"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempel"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "Uw heilige"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "in Uw vreze"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:24.223936956Z",
+  "model": "glm-5.3"
+}

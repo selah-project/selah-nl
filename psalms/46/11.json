@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "Laat af, en weet dat Ík Elohim ben; verheven ben Ik onder de naties, verheven op de aarde.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Laat af"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "en weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ík"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "verheven ben Ik"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder de naties"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "verheven"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:59.085270660Z",
+  "model": "glm-5.3"
+}

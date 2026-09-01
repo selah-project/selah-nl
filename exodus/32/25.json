@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En Mosjee zag ⟨את⟩ het volk, dat het losgeslagen was, want Aharon had het losgeslagen tot een smaad onder hun tegenstanders.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "losgeslagen was"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "had het losgeslagen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "tot een smaad"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "onder hun tegenstanders"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:19.094671550Z",
+  "model": "glm-5.3"
+}

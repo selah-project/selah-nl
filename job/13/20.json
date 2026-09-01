@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Alleen ⟨dit⟩ twee⟨dingen⟩ doe niet met mij, dan zal ik mij voor uw aangezicht niet verbergen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Alleen"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twee⟨dingen⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "doe"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "met mij"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "voor uw aangezicht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "zal ik mij verbergen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:37.468000207Z",
+  "model": "glm-5.3"
+}

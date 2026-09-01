@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "De mond van een rechtvaardige mompelt wijsheid, en zijn tong spreekt recht.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "de mond"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van een rechtvaardige"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "mompelt"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "en zijn tong"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "spreekt"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "recht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:41.504791121Z",
+  "model": "glm-5.3"
+}

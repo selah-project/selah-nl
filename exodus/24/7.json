@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En hij nam het boek van het verbond en las het voor in de oren van het volk; en zij zeiden: Alles wat Jahweh gesproken heeft, zullen wij doen, en zullen wij gehoorzamen.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "het boek"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "van het verbond"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en las voor"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "in de oren"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "zullen wij doen"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "en zullen wij gehoorzamen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:08.338314553Z",
+  "model": "glm-5.3"
+}

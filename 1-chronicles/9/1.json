@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En heel Jisraël werd in geslachtsregisters opgenomen, en zie, zij zijn geschreven in het boek van de koningen van Jisraël en Jehoeda; zij werden naar Bavel weggevoerd om hun ontrouw.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "En heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "werd in geslachtsregisters opgenomen"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "en zie, zij"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "zijn geschreven"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "het boek"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "van de koningen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "werden weggevoerd"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "naar Bavel"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "om hun ontrouw"
+    }
+  ],
+  "timestamp": "2026-08-31T23:00:07.183936851Z",
+  "model": "glm-5.3"
+}

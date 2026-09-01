@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 137,
+  "translation": "Want dáár vroegen zij die ons gevangen wegvoerden ⟨את⟩ woorden van een lied, en die ons uitplunderden ⟨את⟩ vreugde: «Zingt voor ons uit de liederen van Tsiyyon!»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dáár"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "vroegen zij ons"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "die ons gevangen wegvoerden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "van een lied"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "en die ons uitplunderden"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "vreugde"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "zingt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "uit de liederen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "van Tsiyyon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:34.329509942Z",
+  "model": "glm-5.3"
+}

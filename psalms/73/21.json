@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Want mijn hart gist ⟨van bitterheid⟩, en mijn nieren zijn doorpriemd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "gist"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "en mijn nieren"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "zijn doorpriemd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:15.059656098Z",
+  "model": "glm-5.3"
+}

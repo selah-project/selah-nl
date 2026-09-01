@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Mijn hart dwaalt, verschrikking heeft mij doen verschrikken; ⟨את⟩ de schemering van mijn verlangen heeft hij mij tot beven gesteld.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "dwaalt"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "verschrikking"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "heeft mij doen verschrikken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de schemering van mijn verlangen"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "schemering"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "van mijn verlangen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "heeft gesteld"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "tot beven"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:29.897745546Z",
+  "model": "glm-5.3"
+}

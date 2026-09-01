@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "van Sallai: Kallai; van Amok: Ever;",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "van Sallai"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "Kallai"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "van Amok"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-31T22:56:19.922499224Z",
+  "model": "glm-5.3"
+}

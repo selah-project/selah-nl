@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 17:16",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Zo waar ik leef, spreekt Adonai Jahweh: indien niet — in de plaats van de koning die ⟨את⟩ hem koning maakte, wiens eed hij veracht heeft en wiens verbond hij verbroken heeft, ⟨את⟩ met hem, in het midden van Bavel zal hij sterven.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "(zo waar ik) leef"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "spreekt (als oracle)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "indien"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in de plaats"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "הממליך",
+      "gloss": "die koning maakt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wiens"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "hij veracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn eed"
+    },
+    {
+      "surface": "אלתו",
+      "gloss": "zijn eed"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wiens"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "hij verbrak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn verbond"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "zijn verbond"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ (met hem)",
+      "marks": "met hem"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in het midden"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Bavel"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zal hij sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T21:45:25.603311936Z",
+  "model": "glm-5.3"
+}

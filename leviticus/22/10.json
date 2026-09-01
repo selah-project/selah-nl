@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En geen enkele vreemde zal het heilige eten; een bijwonende vreemdeling van een priester en een dagloner zal het heilige niet eten.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en geen enkele"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vreemde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zal eten"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "het heilige"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "bijwonende vreemdeling"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "van een priester"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "en een dagloner"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zal eten"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "het heilige"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:27.801570368Z",
+  "model": "glm-5.3"
+}

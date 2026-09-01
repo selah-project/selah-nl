@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Beter is een lankmoedige dan een held, en wie heerst over zijn geest, dan wie een stad inneemt.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "beter"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lankmoedig"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "(van toorn)"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "dan een held"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "en die heerst"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "over zijn geest"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "dan die inneemt"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "een stad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:08.004181411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Achaz nam ⟨את⟩ het zilver en ⟨את⟩ het goud dat gevonden werd in het huis van Jahweh en in de schatkamers van het huis van de koning, en zond het naar de koning van Asjoer als een geschenk.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "En hij nam"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het zilver"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "het zilver"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het goud"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "het goud"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "dat gevonden werd"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "en in de schatkamers"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "naar de koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asjoer"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "als een geschenk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:38.370638348Z",
+  "model": "glm-5.3"
+}

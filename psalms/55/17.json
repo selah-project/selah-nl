@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Ik — tot Elohim roep ik, en Jahweh zal mij redden.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "roep ik"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "zal mij redden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:31.170079253Z",
+  "model": "glm-5.3"
+}

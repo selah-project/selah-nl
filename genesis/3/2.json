@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En de vrouw zei tot de nachasj: Van de vrucht van de bomen van de tuin eten wij,",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "En zij zei"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "de nachasj"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Van de vrucht"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "van de bomen"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "van de tuin"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "eten wij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:09.454525231Z",
+  "model": "glm-5.3"
+}

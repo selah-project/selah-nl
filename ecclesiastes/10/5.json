@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Er is een kwaad dat ik gezien heb onder de zon, als een misgreep die uitgaat van voor het aangezicht van de heerser.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Er is"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "een kwaad"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "dat ik gezien heb"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "als een misgreep"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "die uitgaat"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "van voor het aangezicht van"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "de heerser"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:19.058305844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En ik zei tot hen: Als het goed is in jullie ogen, geef dan mijn loon; en zo niet, laat het. En zij wogen ⟨את⟩ mijn loon: dertig ⟨stukken⟩ zilver.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "En ik zei"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "in jullie ogen"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "geef"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "mijn loon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en zo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "laat het"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "en zij wogen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn loon"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "mijn loon"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    }
+  ],
+  "timestamp": "2026-08-31T22:04:10.057709207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En zij verdreven ⟨את⟩ de Kenaäniet die in Gazer woonde niet; en de Kenaäniet woonde in het midden van Ephrajim tot op deze dag, en hij werd tot dwangarbeid, tot dienaar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "En niet"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "verdreven zij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Kenaäniet"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "de Kenaäniet"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "die woonde"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "in Gazer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en woonde"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "de Kenaäniet"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "היום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en hij werd"
+    },
+    {
+      "surface": "למס",
+      "gloss": "tot dwangarbeid"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tot dienaar"
+    }
+  ],
+  "timestamp": "2026-08-31T23:18:09.431371574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En nu, kom, en Ik zal u zenden naar Par'o, zodat gij ⟨את⟩ Mijn volk, de kinderen van Jisraël, uit Mitsrajim kunt doen uitgaan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "en Ik zal u zenden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "en doe uitgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mijn volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mijn volk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:45.426614576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En ⟨u⟩ hebt mij niet overgeleverd in de hand van de vijand; ⟨u⟩ hebt mijn voeten doen staan in een ruime plaats.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "hebt mij overgeleverd"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "van de vijand"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "hebt doen staan"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "in een ruime ⟨plaats⟩"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mijn voeten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:09.811100725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Laat mij gaan op het pad van uw geboden, want daarin vind ik mijn welbehagen.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "laat mij gaan"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "op het pad"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "van uw geboden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "vind ik mijn welbehagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:25.566380863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Want zie, zij liggen op de loer voor mijn nefesj; sterken verzamelen zich tegen mij — niet door mijn opstandigheid, niet door mijn zonde, Jahweh ⟨weet ik het⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "zij liggen op de loer"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "voor mijn nefesj"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "zij verzamelen zich"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "sterken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "door mijn opstandigheid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "door mijn zonde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:19.266164505Z",
+  "model": "glm-5.3"
+}

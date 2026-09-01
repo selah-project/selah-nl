@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "dan moet je die man of die vrouw, die deze slechte daad gedaan heeft, naar je poorten brengen — die man of die vrouw — en je moet hen met stenen stenigen en zij zullen sterven.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "dan moet je … brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vrouw"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrouw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gedaan heeft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze slechte daad"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "deze daad"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "slechte"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "je poorten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vrouw"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrouw"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "en je moet hen stenigen"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "met stenen"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "en zij zullen sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:13.066766818Z",
+  "model": "glm-5.3"
+}

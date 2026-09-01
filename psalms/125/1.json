@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 125,
+  "translation": "Een lied van de opgangen. Wie vertrouwen in Jahweh ⟨zijn⟩ als de berg Tsijon, ⟨die⟩ niet wankelt — voor eeuwig woont ⟨hij⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Een lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van de opgangen"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "wie vertrouwen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "als de berg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "wankelt"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "woont"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:45.997318626Z",
+  "model": "glm-5.3"
+}

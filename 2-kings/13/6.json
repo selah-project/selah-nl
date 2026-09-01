@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Maar zij wijken niet af van de zonden van het huis van Jerobeam, waarmee hij ⟨את⟩ Israël deed zondigen; daarin wandelden zij, en ook de asjera bleef staan in Samaria.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "maar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "wijken zij af"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "van de zonden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van het huis van"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "hij deed zondigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wandelden"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "de asjera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "bleef staan"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Samaria"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:30.548103743Z",
+  "model": "glm-5.3"
+}

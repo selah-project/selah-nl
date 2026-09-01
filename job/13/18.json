@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 13:18",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Zie toch, ik heb mijn rechtszaak ⟨in orde⟩ gebr⟨ach⟩t; ik weet dat ik rechtvaardig ⟨zal worden bevonden⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ik heb gebr⟨ach⟩t ⟨in orde⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mijn rechtszaak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ik weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "rechtvaardig ⟨zal worden bevonden⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:37.467667525Z",
+  "model": "glm-5.3"
+}

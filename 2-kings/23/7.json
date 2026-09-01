@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En hij brak af ⟨את⟩ de huizen van de kedesjim die in het huis van Jahweh ⟨waren⟩, waar de vrouwen daar huizen weefden voor de Asjera.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "en hij brak af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de huizen"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "de huizen van"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "de kedesjim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "de vrouwen"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "weefden"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huizen"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "voor de Asjera"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:20.590957534Z",
+  "model": "glm-5.3"
+}

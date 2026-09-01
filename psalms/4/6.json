@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Breng offerslachtoffers van tsedek, en vertrouw op Jahweh.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "breng offerslachtoffers"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "offerslachtoffers"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "van tsedek"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "en vertrouw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:42.769109841Z",
+  "model": "glm-5.3"
+}

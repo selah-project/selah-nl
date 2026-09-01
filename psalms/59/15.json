@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "En laat hen terugkeren in de avond, laten zij janken als een hond, en de stad rondgaan.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "en laat hen terugkeren"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "in de avond"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "laten zij janken"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "als een hond"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "en rondgaan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "de stad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:18.050914746Z",
+  "model": "glm-5.3"
+}

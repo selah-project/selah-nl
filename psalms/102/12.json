@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Mijn dagen ⟨zijn⟩ als een uitgestrekte schaduw, en ik ⟨ben⟩ als het gras verdord.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "mijn dagen"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "als een schaduw"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "uitgestrekt"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "als het gras"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "verdord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:36.644600346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 12:26",
+  "book": "nehemiah",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Dezen ⟨waren⟩ in de dagen van Jojakim, zoon van Jehosjoea, zoon van Jotsadak, en in de dagen van Nechemjah, de landvoogd, en van Ezra, de priester, de schriftgeleerde.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dezen"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in de dagen van"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "יוצדק",
+      "gloss": "Jotsadak"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "en in de dagen van"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemjah"
+    },
+    {
+      "surface": "הפחה",
+      "gloss": "de landvoogd"
+    },
+    {
+      "surface": "ועזרא",
+      "gloss": "en Ezra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "de schriftgeleerde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:56:36.705371084Z",
+  "model": "glm-5.3"
+}

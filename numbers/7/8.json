@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En ⟨את⟩ vier wagens en ⟨את⟩ acht runderen gaf hij aan de zonen van Merari, naar de maat van hun dienst, onder de hand van Itamar, zoon van Aharon, de priester.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "vier wagens"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "wagens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "acht runderen"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "acht"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "runderen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf hij"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan de zonen van"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "naar de maat van"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "hun dienst"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "onder de hand van"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:28.870453394Z",
+  "model": "glm-5.3"
+}

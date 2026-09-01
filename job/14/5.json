@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Zijn dagen zijn ⟨bepaald⟩, het getal van zijn maanden ⟨staat⟩ bij U ⟨את⟩; zijn grens hebt U vastgesteld, en hij zal ⟨die⟩ niet overschrijden.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "⟨als\/bepaald⟩"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "bepaald"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "zijn dagen"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "het getal"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "van zijn maanden"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bij U",
+      "marks": "het getal van zijn maanden"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "zijn grens"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hebt U vastgesteld"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "zal hij overschrijden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:59.642833795Z",
+  "model": "glm-5.3"
+}

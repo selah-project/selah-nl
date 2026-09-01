@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 10:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Te dien tijd scheidde Jahweh ⟨את⟩ de stam van Levi af om ⟨את⟩ de ark van het verbond van Jahweh te dragen, om te staan voor het aangezicht van Jahweh, om Hem te dienen en om te zegenen in zijn Naam, tot op deze dag.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "te dien tijd"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dien"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "scheidde af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stam van Levi"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "de stam"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "van Levi"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "om te dragen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van het verbond van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "van het verbond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "om te staan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "om Hem te dienen"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "en om te zegenen"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "in zijn Naam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "היום",
+      "gloss": "op deze dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:58.765337246Z",
+  "model": "glm-5.3"
+}

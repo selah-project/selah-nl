@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En het gebeurde de dag daarna dat de Filistijmen kwamen om ⟨את⟩ de gesneuvelden te beroven; en zij vonden ⟨את⟩ Sjaoel en ⟨את⟩ zijn drie zonen, liggend op de berg Hagilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "de dag daarna"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dat kwamen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Filistijmen"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "om te beroven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gesneuvelden"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "de gesneuvelden"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "en zij vonden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjaoel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn drie zonen"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "zijn drie"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "liggend"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op de berg"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Hagilboa"
+    }
+  ],
+  "timestamp": "2026-08-31T20:50:40.286620540Z",
+  "model": "glm-5.3"
+}

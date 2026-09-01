@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Want geen slachtoffer verlangt u, anders zou ik het geven; brandoffer, u heeft er geen behagen in.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "verlangt u"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slachtoffer"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "anders zou ik het geven"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen behagen"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "u heeft er in"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:29.731245613Z",
+  "model": "glm-5.3"
+}

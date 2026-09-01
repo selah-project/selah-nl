@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Zij dringen samen tegen de nefesj van de rechtvaardige, en onschuldig bloed verklaren zij schuldig.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "dringen samen"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van de rechtvaardige"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "en bloed"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "onschuldig"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "verklaren zij schuldig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.811096595Z",
+  "model": "glm-5.3"
+}

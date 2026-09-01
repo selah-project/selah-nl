@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Zijn linkerhand ⟨is⟩ onder mijn hoofd, en zijn rechterhand omarmt mij.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "zijn linkerhand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mijn hoofd"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "en zijn rechterhand"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "omarmt mij"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:37.467011173Z",
+  "model": "glm-5.3"
+}

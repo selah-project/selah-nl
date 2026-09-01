@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En zij wisten niet dat Jozef ⟨het⟩ verstond, want de tolk was tussen hen.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "en zij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wisten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "verstond"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "de tolk"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "tussen hen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:02.752278107Z",
+  "model": "glm-5.3"
+}

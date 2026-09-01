@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "Maar u ⟨bent⟩ hoog verheven voor eeuwig, Jahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Maar u"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hoog verheven"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:49.934600471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Jullie geen vuur ontsteken in al jullie woonplaatsen op de dag van de sjabbat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "zullen jullie ontsteken"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in al"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "jullie woonplaatsen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "van de sjabbat"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:28.877843532Z",
+  "model": "glm-5.3"
+}

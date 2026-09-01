@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 125,
+  "translation": "Jeroesjalajim — bergen rondom haar, en Jahweh rondom zijn volk, van nu aan en tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "לה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "van nu aan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:45.997605838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En jullie kracht zal tevergeefs verteerd worden, en jullie land zal zijn opbrengst ⟨את⟩ niet geven, en de bomen van het land zullen hun vrucht niet geven.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "zal verteerd worden"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "tevergeefs"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "jullie kracht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zal geven"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "jullie land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn opbrengst"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "zijn opbrengst"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "en de bomen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "zullen geven"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "hun vrucht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:29.037023817Z",
+  "model": "glm-5.3"
+}

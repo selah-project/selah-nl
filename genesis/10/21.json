@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En ook aan Sjem werden ⟨zonen⟩ geboren — hij ⟨is⟩ de vader van alle zonen van Ever, de broer van Jefet de oudste.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "en aan Sjem"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "werden geboren"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "vader van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broer van"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jefet"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "de oudste"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:20.098367167Z",
+  "model": "glm-5.3"
+}

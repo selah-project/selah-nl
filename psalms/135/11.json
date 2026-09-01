@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Sichon, koning van de Emorieten, en Og, koning van de Bashan, en alle koninkrijken van Kenaan:",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "van de Emorieten"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "en Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "van de Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "koninkrijken"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:44.587589266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "De vijand ⟨is⟩ vernietigd, puinhopen voor altijd; hun steden hebt U uitgerukt, vergaan is hun gedenkteken, even zij ⟨zelf⟩.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "de vijand"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "⟨is⟩ vernietigd"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "puinhopen"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "voor altijd"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "en steden"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "hebt U uitgerukt"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "vergaan ⟨is⟩"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "hun gedenkteken"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij ⟨zelf⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:55.929585820Z",
+  "model": "glm-5.3"
+}

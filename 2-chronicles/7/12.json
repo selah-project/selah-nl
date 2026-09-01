@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Jahweh verscheen aan Sjelomo in de nacht en zei tot hem: Ik heb ⟨את⟩ uw gebed verhoord, en Ik heb deze plaats voor Mijzelf uitgekozen als huis voor een slachtoffer.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "verscheen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in de night"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Ik heb verhoord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw gebed"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "uw gebed"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "en Ik heb uitgekozen"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deze plaats"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor Mij"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "als huis"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "voor een slachtoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T23:06:18.023936102Z",
+  "model": "glm-5.3"
+}

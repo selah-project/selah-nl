@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En de koning Jehoram ging op die dag uit van Sjomron en monsterde ⟨את⟩ heel Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ging uit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "van Sjomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "en monsterde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:58.144001142Z",
+  "model": "glm-5.3"
+}

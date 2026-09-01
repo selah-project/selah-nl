@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En op de achtste dag wordt het vlees van zijn voorhuid besneden.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "en op de dag"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "de achtste"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "wordt besneden"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "van zijn voorhuid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:29.408573367Z",
+  "model": "glm-5.3"
+}

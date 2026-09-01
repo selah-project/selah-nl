@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "Ik zal uw naam doen gedenken in alle geslacht en geslacht; daarom zullen de volken u loven tot in eeuwigheid en verder.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "zal ik doen gedenken"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in alle"
+    },
+    {
+      "surface": "דר",
+      "gloss": "geslacht"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en geslacht"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "zullen u loven"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en verder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:37.093658688Z",
+  "model": "glm-5.3"
+}

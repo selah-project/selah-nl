@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Jehonatan antwoordde ⟨את⟩ Sjaoel zijn vader en zei tot hem: Waarom zou hij gedood worden? Wat heeft hij gedaan?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en hij antwoordde"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjaoel zijn vader"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal hij gedood worden"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "heeft hij gedaan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:01.031211683Z",
+  "model": "glm-5.3"
+}

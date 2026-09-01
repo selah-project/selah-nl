@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Zij die de tora verlaten, prijzen de rasha; maar zij die de tora bewaren, twisten met hen.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "zij die verlaten"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "de tora"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "prijzen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de rasha"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "maar zij die bewaren"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "de tora"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "twisten"
+    },
+    {
+      "surface": "בם",
+      "gloss": "met hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:57.888726949Z",
+  "model": "glm-5.3"
+}

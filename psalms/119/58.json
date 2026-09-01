@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik heb uw aangezicht gesmeekt met heel mijn hart; wees mij genadig overeenkomstig uw zegging.",
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "ik heb gesmeekt (mij verootmoedigd)"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met heel"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "wees mij genadig"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "overeenkomstig uw zegging"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:23.122706130Z",
+  "model": "glm-5.3"
+}

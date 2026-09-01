@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "en ik zal gras geven in uw veld voor uw vee, en gij zult eten en verzadigd worden.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en ik zal geven"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "gras"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "in uw veld"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "voor uw vee"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "en gij zult eten"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "en verzadigd worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:32.855183909Z",
+  "model": "glm-5.3"
+}

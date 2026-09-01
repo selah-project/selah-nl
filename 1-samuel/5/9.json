@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 5:9",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En het gebeurde, nadat zij ⟨את⟩ het rondgedragen hadden, dat de hand van Jahweh tegen de stad was ⟨met⟩ een zeer grote verwarring; en hij sloeg ⟨את⟩ de mannen van de stad, van klein tot groot, en er braken zweren bij hen uit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "zij rondgedragen hadden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (de ark, rondgedragen)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dat … was"
+    },
+    {
+      "surface": "יד",
+      "gloss": "de hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tegen de stad"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "verwarring"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grote"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en hij sloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mannen van de stad"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "van klein"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "וישתרו",
+      "gloss": "en er braken uit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bij hen"
+    },
+    {
+      "surface": "עפלים",
+      "gloss": "zweren"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:40.235557490Z",
+  "model": "glm-5.3"
+}

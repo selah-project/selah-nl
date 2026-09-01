@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En hij ging in tot Hagar, en zij werd zwanger; en toen zij zag dat zij zwanger ⟨was⟩, werd haar meesteres licht geacht in haar ogen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "En hij ging in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "en zij werd zwanger"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "en toen zij zag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "zij zwanger was"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "werd licht geacht"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "haar meesteres"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "in haar ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:53.652949553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "U, Jahweh, zult hen bewaren; U zult hem beschermen voor dit geslacht, tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "zult hen bewaren"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "zult beschermen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "voor"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "dit geslacht"
+    },
+    {
+      "surface": "זו",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:08.600531961Z",
+  "model": "glm-5.3"
+}

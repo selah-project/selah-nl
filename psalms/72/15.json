@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "En hij zal leven, en men zal hem geven van het goud van Sjeva, en men zal voortdurend voor hem bidden; de gehele dag zal men hem zegenen.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "en hij zal leven"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en men zal geven"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "van het goud"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "van Sjeva"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "en men zal bidden"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de gehele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "zal men hem zegenen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:56.385547940Z",
+  "model": "glm-5.3"
+}

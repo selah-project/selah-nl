@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 14:19",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En hij zegende hem en zeide: Gezegend ⟨is⟩ Avram van El Eljon, bezitter van de hemel en de aarde.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "en hij zegende hem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zeide"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Gezegend"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "bezitter"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "en de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:03.604911324Z",
+  "model": "glm-5.3"
+}

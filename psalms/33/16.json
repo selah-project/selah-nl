@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Geen koning wordt gered door ⟨een⟩ groot leger; een held wordt niet ontzet door ⟨een⟩ grote kracht.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "wordt gered"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "door een groot"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "leger"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "held"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "wordt ontzet"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "door een grote"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kracht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:18.674837566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Wiens oogst de hongerige opeet, en zelfs uit de dorens wordt ⟨die⟩ weggenomen, en de strik hapt hun have op.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wiens"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "oogst"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "de hongerige"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "opeet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en zelfs uit"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "de dorens"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "wordt weggenomen"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "en hapt op"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "de strik"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "hun have"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:40.418915191Z",
+  "model": "glm-5.3"
+}

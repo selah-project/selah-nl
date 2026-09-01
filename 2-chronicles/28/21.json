@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Want Achaz sneed ⟨een deel⟩ weg uit het huis van Jahweh en ⟨את⟩ het huis van de koning en ⟨את⟩ de vorsten, en gaf ⟨het⟩ aan de koning van Assjoer — maar het hielp hem niet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "sneed ⟨een deel⟩ weg"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het huis van de koning en de vorsten"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "en de vorsten"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en gaf"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan de koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assjoer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "tot hulp"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:10:03.207983762Z",
+  "model": "glm-5.3"
+}

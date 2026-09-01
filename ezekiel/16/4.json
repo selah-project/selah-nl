@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Wat je geboorte betreft: op de dag dat jij geboren werd, werd je navelstreng niet doorgesneden, en met water werd je niet gewassen tot reiniging, en met zout werd je niet ingewreven, en in doeken werd je niet gewikkeld.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Wat je geboorte betreft"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "dat geboren werd"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "jij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "werd doorgesneden"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "je navelstreng"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "en met water"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "werd je gewassen"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "tot reiniging"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "en met zout"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "werd je ingewreven"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "en in doeken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "werd je gewikkeld"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:04.364585561Z",
+  "model": "glm-5.3"
+}

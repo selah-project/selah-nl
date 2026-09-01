@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Wie de goddeloze rechtvaardigt en wie de rechtvaardige schuldig verklaart — een gruwel voor Jahweh zijn zij beiden.",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "rechtvaardigt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "en schuldig verklaart"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de rechtvaardige"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "een gruwel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zowel"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "zij beiden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:27.667001947Z",
+  "model": "glm-5.3"
+}

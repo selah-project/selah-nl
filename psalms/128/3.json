@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 128,
+  "translation": "Je vrouw ⟨is⟩ als een vruchtdragende wijnstok, in de binnenvertrekken van je huis; je kinderen als olijfplantjes, rondom je tafel.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "je vrouw"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "als een wijnstok"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "vruchtdragende"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "in de binnenvertrekken"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "van je huis"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "je kinderen"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "als plantjes"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "olijf-"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "je tafel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:22.241815293Z",
+  "model": "glm-5.3"
+}

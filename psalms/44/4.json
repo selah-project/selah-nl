@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Want niet door hun zwaard hebben zij het land in bezit gekregen, en hun arm heeft hen niet verlost; want Uw rechterhand, Uw arm en het licht van Uw aangezicht — omdat U hen welgevallig was.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "door hun zwaard"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "hebben zij in bezit gekregen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "en hun arm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "heeft verlost"
+    },
+    {
+      "surface": "למו",
+      "gloss": "hen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "Uw rechterhand"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "en Uw arm"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "en het licht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "van Uw aangezicht"
+    },
+    {
+      "surface": "כי",
+      "gloss": " omdat"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "U hen welgevallig was"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:28.795857766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Zie, Ik heb U gelouterd, doch niet als zilver; Ik heb U uitverkoren in de oven van ellende.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "Ik heb U gelouterd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "doch niet"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "als zilver"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "Ik heb U uitverkoren"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "in de oven"
+    },
+    {
+      "surface": "עני",
+      "gloss": "van ellende"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:53.409528367Z",
+  "model": "glm-5.3"
+}

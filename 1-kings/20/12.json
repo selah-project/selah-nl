@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En het gebeurde, toen hij ⟨את⟩ dit woord hoorde — terwijl hij aan het drinken was, hij en de koningen, in de tenten — dat hij tot zijn dienaren zei: Stel ⟨jullie op⟩. En zij stelden zich op tegen de stad.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toen hij hoorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "terwijl hij"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "aan het drinken was"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "en de koningen"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "in de tenten"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "stel op"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "en zij stelden zich op"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:04.289522005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Ieder helpt ⟨את⟩ zijn naaste, en tot zijn broeder zegt hij: Wees sterk!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naaste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zijn naaste"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "helpt"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "en tot zijn broeder"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zegt hij"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Wees sterk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:49.066190027Z",
+  "model": "glm-5.3"
+}

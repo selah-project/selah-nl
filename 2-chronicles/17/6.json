@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En zijn hart werd verheven in de wegen van Jahweh; bovendien verwijderde hij ⟨את⟩ de hoogten en ⟨את⟩ de Ashera-beelden uit Jehoeda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "en werd verheven"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zijn hart"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "in de wegen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "bovendien"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "verwijderde hij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hoogten"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "de hoogten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Ashera-beelden"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "de Ashera-beelden"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "uit Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T23:07:50.497998749Z",
+  "model": "glm-5.3"
+}

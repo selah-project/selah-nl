@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En het hele huis van Achav zal vergaan, en ik zal voor Achav ⟨de⟩ man uithakken ⟨die⟩ tegen de muur plast, zowel de opgeslotene als de verlatene, in Jisraël.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "en zal vergaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "het hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "en ik zal uithakken"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "voor Achav"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "⟨die⟩ plast"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "tegen de muur"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "en de opgeslotene"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "en de verlatene"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:52.356988405Z",
+  "model": "glm-5.3"
+}

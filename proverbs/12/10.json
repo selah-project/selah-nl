@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Een rechtvaardige kent de nefesj van zijn dier, maar de barmhartigheden van de goddelozen zijn wreed.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "een rechtvaardige"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "de nefesj"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "van zijn dier"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "maar de barmhartigheden"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "zijn wreed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:17.651291246Z",
+  "model": "glm-5.3"
+}

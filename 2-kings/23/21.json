@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En de koning gebood heel ⟨את⟩ het volk, zeggend: houd ⟨את⟩ pesach voor Jahweh, jullie Elohim, zoals geschreven in het boek van dit verbond.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en gebood"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel het volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "houd\/maket"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "zoals geschreven"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "het boek"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "van het verbond"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:41.098188134Z",
+  "model": "glm-5.3"
+}

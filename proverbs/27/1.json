@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Roem niet over de dag van morgen, want jij weet niet wat een dag zal baren.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "roem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "over de dag"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "van morgen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "jij weet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zal baren"
+    },
+    {
+      "surface": "יום",
+      "gloss": "een dag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:27.538356097Z",
+  "model": "glm-5.3"
+}

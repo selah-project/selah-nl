@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Zie ⟨mij⟩ aan, antwoord mij, Jahweh, mijn Elohim! Verlicht mijn ogen, anders slaap ik de slaap ⟨van⟩ de dood —",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "zie ⟨mij⟩ aan"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "verlicht"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn ogen"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "slaap ik"
+    },
+    {
+      "surface": "המות",
+      "gloss": "de dood"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:11.121743683Z",
+  "model": "glm-5.3"
+}

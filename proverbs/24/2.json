@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Want geweld peinst hun hart, en hun lippen spreken ⟨van⟩ onheil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שד",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "peinst"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hun hart"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "en onheil"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "hun lippen"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "spreken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:48.386651867Z",
+  "model": "glm-5.3"
+}

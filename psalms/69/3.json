@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Ik ben gezonken in diep slijk, en er is geen grond ⟨onder mijn voeten⟩; ik ben gekomen in diepe wateren, en de stroomvloed heeft mij overspoeld.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "ik ben gezonken"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "in"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "diep slijk"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is niet"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "grond om te staan"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ik ben gekomen"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "in de diepten van"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wateren"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "en de stroomvloed"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "heeft mij overspoeld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:47.782941979Z",
+  "model": "glm-5.3"
+}

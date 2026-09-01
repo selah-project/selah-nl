@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En zij zei tot de koning: waarachtig ⟨is⟩ het woord dat ik hoorde in mijn land over uw woorden en over uw wijsheid.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waarachtig"
+    },
+    {
+      "surface": "היה",
+      "gloss": "is geweest"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ik hoorde"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "in mijn land"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "uw woorden"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en over"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "uw wijsheid"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:23.856516907Z",
+  "model": "glm-5.3"
+}

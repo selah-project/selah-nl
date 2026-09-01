@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "⟨את⟩ Jahweh, jouw Elohim, zul je vrezen; ⟨את⟩⟨hem⟩ zul je dienen, en aan hem vasthouden, en bij zijn naam zweren.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh, jouw Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "zul je vrezen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩⟨hem⟩",
+      "marks": "hem ( Jahweh )"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "zul je dienen"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "en aan hem"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "vasthouden"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "en bij zijn naam"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "zweren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:09.003021071Z",
+  "model": "glm-5.3"
+}

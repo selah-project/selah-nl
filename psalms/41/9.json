@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "⟨Zij zeggen:⟩ een woord van Belial wordt over hem uitgegoten, en wie neerligt, zal niet meer opstaan.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "een woord"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "van Belial"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "wordt uitgegoten"
+    },
+    {
+      "surface": "בו",
+      "gloss": "over hem"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nerligt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "zal meer"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "opstaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:59.233178828Z",
+  "model": "glm-5.3"
+}

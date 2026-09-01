@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Sjemoeël deed ⟨את⟩ wat Jahweh gesproken had, en hij kwam in Bet-lechem. En de oudsten van de stad beefden bij zijn komst en zeiden: is uw komst in vrede?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij deed"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Jahweh gesproken had"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lechem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "en zij beefden"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de oudsten"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "bij zijn komst"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "in vrede"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "is uw komst"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:23.056485316Z",
+  "model": "glm-5.3"
+}

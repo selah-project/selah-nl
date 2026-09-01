@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "⟨Dit is⟩ het brandoffer van de sjabbat, op zijn sjabbat, bovenop het voortdurende brandoffer en ⟨zijn⟩ drankoffer ⟨erbij⟩.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "van de sjabbat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "op zijn sjabbat"
+    },
+    {
+      "surface": "על",
+      "gloss": "bovenop"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "het voortdurende"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "en zijn drankoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:17:04.381396629Z",
+  "model": "glm-5.3"
+}

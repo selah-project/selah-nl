@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Voor een grijs hoofd zult gij opstaan, en het aangezicht van een oudere zult gij eren, en uw Elohim zult gij vrezen; ik ben Jahweh.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "een grijs hoofd"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "zult gij opstaan"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "en zult gij eren"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht van"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "een oudere"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "en zult gij vrezen"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:09.608958300Z",
+  "model": "glm-5.3"
+}

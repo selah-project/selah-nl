@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Toen de vrouw ⟨את⟩ Sjemoeël zag, schreeuwde ze het uit met luide stem, en de vrouw zei tot Sjaoel, zeggend: Waarom heb je mij bedrogen — jij bent Sjaoel!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "zag"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjemoeël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "schreeuwde het uit"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "met stem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "luide"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "heb je mij bedrogen"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "jij bent"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:48:41.735188914Z",
+  "model": "glm-5.3"
+}

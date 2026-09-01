@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Dit ⟨is⟩ mijn troost in mijn ellende, dat uw woord mij heeft doen leven.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "mijn troost"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "in mijn ellende"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "uw woord"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "heeft doen leven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:31.487177104Z",
+  "model": "glm-5.3"
+}

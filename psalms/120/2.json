@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 120,
+  "translation": "Jahweh, red mijn nefesj ⟨van⟩⟩ leugenachtige lippen, ⟨van⟩ een tong van bedrog.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "red"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "⟨van⟩ leugenachtige lippen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leugen"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "⟨van⟩ een tong"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "van bedrog"
+    }
+  ],
+  "timestamp": "2026-08-31T23:45:48.078420025Z",
+  "model": "glm-5.3"
+}

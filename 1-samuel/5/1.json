@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En de Filistijnen namen ⟨את⟩ de ark van Elohim en brachten ⟨die⟩ van Eben-ha-Ezer naar Asjdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "En de Filistijnen"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "namen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "en brachten ⟨die⟩"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "van Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "-ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "naar Asjdod"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:59.523325111Z",
+  "model": "glm-5.3"
+}

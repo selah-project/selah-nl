@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En nu, zie, ik weet dat u koning zult zijn, u zult zekerlijk regeren, en het koninkrijk van Jisraël zal in uw hand opgericht worden.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ik weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning zult zijn"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "u zult zekerlijk regeren"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "zal opgericht worden"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in uw hand"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "het koninkrijk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:11.045858358Z",
+  "model": "glm-5.3"
+}

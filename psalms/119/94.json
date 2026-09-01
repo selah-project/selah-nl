@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Van u ben ik — red mij, want uw verordeningen heb ik nagejaagd.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "van u"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben ik"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "uw verordeningen"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "heb ik nagejaagd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:01.484065009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En je wijngaard zul je niet geheel afplukken, en de losse druiven van je wijngaard zul je niet verzamelen; voor de arme en voor de vreemdeling zul je ⟨את⟩ ze achterlaten — ik ben Jahweh, jullie Elohim.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "en je wijngaard"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "zul je geheel afplukken"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "en de losse druiven"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "van je wijngaard"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "zul je verzamelen"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "voor de arme"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "en voor de vreemdeling"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "zul je achterlaten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ze — de rand van het veld en de losse druiven"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:29.319768192Z",
+  "model": "glm-5.3"
+}

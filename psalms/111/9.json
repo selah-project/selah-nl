@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 111,
+  "translation": "Loskoop heeft Hij gezonden aan zijn volk; Hij heeft voor eeuwig geboden ⟨את⟩ zijn verbond; heilig en ontzagwekkend is zijn Naam.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "loskoop"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "heeft Hij gezonden"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "aan zijn volk"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Hij heeft geboden"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "zijn verbond"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "en ontzagwekkend"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn Naam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:14.132120471Z",
+  "model": "glm-5.3"
+}

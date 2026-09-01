@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 7:1",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En de mannen van Kirjat-Jearim kwamen en brachten ⟨את⟩ de ark van Jahweh omhoog, en zij brachten ⟨את⟩ hem naar het huis van Avinadav op de heuvel, en ⟨את⟩ Elazar, zijn zoon, heiligden zij om de ark van Jahweh te bewaren.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en zij kwamen"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "de mannen van"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-Jearim"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "en brachten omhoog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en zij brachten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (de ark)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis van"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "op de heuvel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "heiligden zij"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te bewaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:21.008208424Z",
+  "model": "glm-5.3"
+}

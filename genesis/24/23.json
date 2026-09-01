@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En hij zeide: van wie ben jij ⟨een⟩ dochter? Vertel het mij toch; ⟨is⟩ er in het huis van je vader plaats voor ons om te overnachten?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zeide"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "מי",
+      "gloss": "van wie"
+    },
+    {
+      "surface": "את",
+      "gloss": "jij"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "Vertel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "לי",
+      "gloss": "het mij"
+    },
+    {
+      "surface": "היש",
+      "gloss": "⟨is⟩ er"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van je vader"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "plaats"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "om te overnachten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:40.423607704Z",
+  "model": "glm-5.3"
+}

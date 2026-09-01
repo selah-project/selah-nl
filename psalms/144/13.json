@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 144,
+  "translation": "Onze graanschuren ⟨zijn⟩ vol, ⟨die⟩ voedsel voortbrengen, soort na soort; ons kleinvee ⟨is⟩ vruchtbaar, duizendvoudig en tienduizendvoudig in onze straten.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "onze graanschuren"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "vol"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "voortbrengen"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "van soort"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "זן",
+      "gloss": "soort"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "ons kleinvee"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "duizendvoudig"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "tienduizendvoudig"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "in onze straten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:05.317899704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Mijn stem hebt Gij gehoord; verberg uw oor niet voor mijn ademhaling, voor mijn geschreeuw.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Mijn stem"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hebt Gij gehoord"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "verberg"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "uw oor"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "voor mijn ademhaling"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "voor mijn geschreeuw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:41:18.552414567Z",
+  "model": "glm-5.3"
+}

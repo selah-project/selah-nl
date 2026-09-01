@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 3:1",
+  "book": "joel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En het zal geschieden daarna: ik zal ⟨את⟩ mijn geest uitgieten over alle vlees, en uw zonen en uw dochters zullen profeteren; uw ouderen zullen dromen dromen, uw jongemannen zullen visioenen zien.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En het zal geschieden"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨daarna⟩"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "zal ik uitgieten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn geest"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mijn geest"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "ונבאו",
+      "gloss": "en zullen profeteren"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "uw zonen"
+    },
+    {
+      "surface": "ובנותיכם",
+      "gloss": "uw dochters"
+    },
+    {
+      "surface": "זקניכם",
+      "gloss": "uw ouderen"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "dromen"
+    },
+    {
+      "surface": "יחלמון",
+      "gloss": "zullen dromen"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "uw jongemannen"
+    },
+    {
+      "surface": "חזינות",
+      "gloss": "visioenen"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "zullen zien"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:27.870525428Z",
+  "model": "glm-5.3"
+}

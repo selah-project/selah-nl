@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Breek de arm van de rasha en van de boze; onderzoek zijn goddeloosheid — ⟨ dat ⟩ je ⟨ niets ⟩ meer vindt.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "breek"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "de arm"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de rasha"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "en de boze"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "onderzoek"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "zijn goddeloosheid"
+    },
+    {
+      "surface": "בל",
+      "gloss": "helemaal niet"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "je vindt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:52.365364144Z",
+  "model": "glm-5.3"
+}

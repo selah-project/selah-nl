@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En hij maakte ⟨את⟩ de draagstaven van acacia-hout, en hij overtrok ⟨את⟩ ze met goud, om ⟨את⟩ de tafel te dragen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de draagstaven"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "de draagstaven"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "en hij overtrok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ze"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "met goud"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "om te dragen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "de tafel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:09.270547027Z",
+  "model": "glm-5.3"
+}

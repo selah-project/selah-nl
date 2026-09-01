@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En u zult de kleden nemen en Aharon kleden met ⟨את⟩ de kethonet, en ⟨את⟩ de mantel van de efod, en ⟨את⟩ de efod, en ⟨את⟩ de chosjen, en u zult hem omgorden met de kunstig geweven band van de efod.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "en u zult nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kleden"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "de kleden"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "en kleden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kethonet"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "de kethonet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de mantel van de efod"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "de mantel"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "van de efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "de efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de chosjen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "de chosjen"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "en u zult omgorden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "met de kunstig geweven band"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "van de efod"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:29.846811791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 1:17",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Leer goed te doen, zoek het recht, help ⟨de⟩ verdrukte, doe de wees recht, voer het pleit voor de weduwe.",
+  "tokens": [
+    {
+      "surface": "למדו",
+      "gloss": "Leer"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "goed te doen"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "zoek"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "het recht"
+    },
+    {
+      "surface": "אשרו",
+      "gloss": "help"
+    },
+    {
+      "surface": "חמוץ",
+      "gloss": "de verdrukte"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "doe … recht"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "de wees"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "voer het pleit voor"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "de weduwe"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:48.250825350Z",
+  "model": "glm-5.3"
+}

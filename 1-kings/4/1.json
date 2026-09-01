@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En koning Sjelomo was koning over heel Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En hij was"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:03.943740619Z",
+  "model": "glm-5.3"
+}

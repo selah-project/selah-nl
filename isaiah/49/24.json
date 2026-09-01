@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Kan van een held de buit worden weggenomen, of kan een gevangene van de rechtvaardige ontkomen?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "kan worden weggenomen"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "van een held"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "de buit"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "of"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "gevangene"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van de rechtvaardige"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "kan ontkomen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:23:27.343649564Z",
+  "model": "glm-5.3"
+}

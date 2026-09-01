@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En Jehosjoea verzwakte ⟨את⟩ Amalek en ⟨את⟩ zijn volk door de scherpte van het zwaard.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "en verzwakte"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "door de scherpte"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van het zwaard"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:07.858764085Z",
+  "model": "glm-5.3"
+}

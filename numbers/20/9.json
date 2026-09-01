@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Mosjee nam ⟨את⟩ de staf van voor het aangezicht van Jahweh, zoals hij ⟨את⟩ geboden had.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de staf"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "de staf"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "van voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hij hem geboden had"
+    }
+  ],
+  "timestamp": "2026-09-01T00:04:37.928059982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Want onderdrukking maakt een wijze dwaas, en een geschenk verdient ⟨את⟩ het hart.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "onderdrukking"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "maakt dwaas"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "een wijze"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "en verdient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hart"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "een geschenk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:26.221005177Z",
+  "model": "glm-5.3"
+}

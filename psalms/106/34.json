@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Zij roeiden ⟨את⟩ de volken niet uit, wie Jahweh ⟨aan⟩ hen geboden had.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "roeiden uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de volken"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "geboden had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:47.630168471Z",
+  "model": "glm-5.3"
+}

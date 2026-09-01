@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Mijn macht, u zal ik loven met snarenspel, want Elohim ⟨is⟩ mijn hoogrots, Elohim van mijn chesed.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Mijn macht"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "u"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zal ik loven met snarenspel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mijn hoogrots"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "van mijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:11.971071620Z",
+  "model": "glm-5.3"
+}

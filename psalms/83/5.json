@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "Zij hebben gezegd: Kom, en laten wij hen uitroeien ⟨als⟩ een natie, en de naam van Jisraël zal niet meer worden herdacht.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "zij hebben gezegd"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "en laten wij hen uitroeien"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "⟨als⟩ een natie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "zal worden herdacht"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:34.404412612Z",
+  "model": "glm-5.3"
+}

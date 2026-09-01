@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 64,
+  "translation": "Voor de koorleider. Een mizmor van David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:57.781322557Z",
+  "model": "glm-5.3"
+}

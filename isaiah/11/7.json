@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En koe en beer zullen samen weiden, hun jongen zullen neerliggen; en de leeuw zal stro eten als het rund.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "en koe"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "en beer"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "zullen weiden"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "samen"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "zullen neerliggen"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "hun jongen"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "en de leeuw"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "als het rund"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zal eten"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "stro"
+    }
+  ],
+  "timestamp": "2026-08-31T21:16:05.606190678Z",
+  "model": "glm-5.3"
+}

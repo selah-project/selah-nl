@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "In de voorhoven van het huis van Jahweh, in uw midden, Jeroesjalajim. Hallelu Jah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "in de voorhoven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "in uw midden"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:05.203628896Z",
+  "model": "glm-5.3"
+}

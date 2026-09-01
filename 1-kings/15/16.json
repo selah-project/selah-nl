@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En er was oorlog tussen Asa en tussen Basja, koning van Jisraël, al hun dagen.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "en oorlog"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "er was"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "hun dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:54.956793516Z",
+  "model": "glm-5.3"
+}

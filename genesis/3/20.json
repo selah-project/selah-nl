@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En de mens noemde de naam van zijn vrouw Chava, omdat zij de moeder was van alle levenden.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "En noemde"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "van zijn vrouw"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was"
+    },
+    {
+      "surface": "אם",
+      "gloss": "de moeder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van alle"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levenden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:08.367718202Z",
+  "model": "glm-5.3"
+}

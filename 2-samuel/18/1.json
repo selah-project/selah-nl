@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Dawid stelde ⟨את⟩ het volk dat ⟨את⟩ bij hem was op, en hij stelde over hen aanvoerders van duizenden en aanvoerders van honderden.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "en stelde op"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bij hem was"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en hij stelde"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over hen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "aanvoerders van"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duizenden"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "en aanvoerders van"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:54:43.767543364Z",
+  "model": "glm-5.3"
+}

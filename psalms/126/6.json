@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 126,
+  "translation": "Gaan zal hij, gaande en wenend, dragende de zak zaaizaad; komen zal hij komen in gejuich, dragende zijn schoven.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "zal hij gaan"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "en wenend"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "dragende"
+    },
+    {
+      "surface": "משך",
+      "gloss": "de zak zaaizaad"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "de zaaizaad"
+    },
+    {
+      "surface": "בא",
+      "gloss": "komen"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "zal hij komen"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "in gejuich"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "dragende"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "zijn schoven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:38.057462876Z",
+  "model": "glm-5.3"
+}

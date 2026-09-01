@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 57,
+  "translation": "Ik roep tot Elohim Eljon, tot ⟨de⟩ El die ⟨het⟩ voor mij voltooit.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "ik roep"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon (de Hoogste)"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "tot El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "die voltooit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "voor mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:24.340796158Z",
+  "model": "glm-5.3"
+}

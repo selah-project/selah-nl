@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Al dit kwam over Nevukadnetsar, de koning.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "Al dit"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:47:29.824572201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 9:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Want een kind is ons geboren, een zoon is ons gegeven; en de heerschappij is op zijn schouder; en zijn naam wordt genoemd: Pele-Joëts (wonderbaarlijke raadsman), El Gibbor, Avi-Ad (vader van eeuwigheid), Sar-Sjalom (vorst van vrede).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "een kind"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "is geboren"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "is gegeven"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en is"
+    },
+    {
+      "surface": "המשרה",
+      "gloss": "de heerschappij"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "zijn schouder"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en wordt genoemd"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "Pele (wonder)"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "Joëts (raadsman)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Gibbor (machtige)"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Avi (vader van)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Ad (eeuwigheid)"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Sar (vorst van)"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Sjalom (vrede)"
+    }
+  ],
+  "timestamp": "2026-08-31T21:16:17.523291525Z",
+  "model": "glm-5.3"
+}

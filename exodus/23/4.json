@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Als je de os van je vijand ontmoet, of zijn ezel die verdwaald is, breng die dan zeker terug naar hem terug.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "als"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "je ontmoet"
+    },
+    {
+      "surface": "שור",
+      "gloss": "os"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "van je vijand"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "zijn ezel"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "verdwaald"
+    },
+    {
+      "surface": "השב",
+      "gloss": "breng terug"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "zul je hem terugbrengen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "naar hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:01.423093716Z",
+  "model": "glm-5.3"
+}

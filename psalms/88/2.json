@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "Jahweh, Elohim van mijn heil, dag en nacht schreeuw ik voor Uw aangezicht.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mijn heil"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "schreeuw ik"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nacht"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "voor Uw aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:14.297733655Z",
+  "model": "glm-5.3"
+}

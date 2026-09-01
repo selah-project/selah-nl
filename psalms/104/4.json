@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Die zijn bodes maakt tot roeachen, zijn dienaren tot vlammend vuur.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "die maakt"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "zijn bodes"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "tot roeachen"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "להט",
+      "gloss": "vlammend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:14.978176687Z",
+  "model": "glm-5.3"
+}

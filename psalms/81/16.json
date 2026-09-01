@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 81,
+  "translation": "Jahwehs haters zouden zich aan hem onderwerpen, en hun tijd zou ⟨duren⟩ tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "haters"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "zouden zich onderwerpen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en zou zijn"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "hun tijd"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:23.450066663Z",
+  "model": "glm-5.3"
+}

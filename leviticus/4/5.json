@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En de Masjiach-gewijde priester zal van het bloed van de stier nemen en het brengen naar de tent van ontmoeting.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "en zal nemen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "de gezalfde"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "van het bloed"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "van de stier"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "en brengen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ het",
+      "marks": "het (bloed)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:22.351870460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 106:47",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Verlos ons, Jahweh, onze Elohim, en verzamel ons uit de natiën, om te danken uw heilige naam, om ons te beroemen in uw lof.",
+  "tokens": [
+    {
+      "surface": "הושיענו",
+      "gloss": "Verlos ons"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "וקבצנו",
+      "gloss": "en verzamel ons"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "de natiën"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "om te danken"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "heilige (van u)"
+    },
+    {
+      "surface": "להשתבח",
+      "gloss": "om ons te beroemen"
+    },
+    {
+      "surface": "בתהלתך",
+      "gloss": "in uw lof"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:58.120358328Z",
+  "model": "glm-5.3"
+}

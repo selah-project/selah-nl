@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Jahweh zei tot Mosjee: Zie, Ik heb u gemaakt tot Elohim voor Par'o, en Aharon, uw broeder, zal uw profeet zijn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "heb Ik u gemaakt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "voor Par'o"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "uw broeder"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "uw profeet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:12.519922507Z",
+  "model": "glm-5.3"
+}

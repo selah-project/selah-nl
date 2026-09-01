@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Een lamp voor mijn voet ⟨is⟩ uw woord, en een licht voor mijn pad.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "een lamp"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "voor mijn voet"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "uw woord"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "en een licht"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "voor mijn pad"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:08.266597002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Wij hebben uw chesed overdacht, Elohim, in het middelpunt van uw heiligdom ⟨paleis⟩.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "wij hebben overdacht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in het middelpunt van"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "uw paleis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:48.437741678Z",
+  "model": "glm-5.3"
+}

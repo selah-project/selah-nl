@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Een mizmor van David, om te gedenken.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "om te gedenken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:06.844509145Z",
+  "model": "glm-5.3"
+}

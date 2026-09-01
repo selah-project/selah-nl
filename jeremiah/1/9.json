@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jahweh stuurde ⟨את⟩ zijn hand uit en raakte ⟨mijn⟩ mond aan; en Jahweh zei tegen mij: Zie, ik heb mijn woorden in jouw mond gelegd.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en stuurde uit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "en raakte aan"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ik heb gelegd"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mijn woorden"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "in jouw mond"
+    }
+  ],
+  "timestamp": "2026-08-31T21:26:37.746450309Z",
+  "model": "glm-5.3"
+}

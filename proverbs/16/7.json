@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Wanneer de wegen van een man Jahweh behagen, doet Hij zelfs zijn vijanden vrede met hem sluiten ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "wanneer ⟨het⟩ behaagt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "de wegen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van een man"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zelfs"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "zijn vijanden"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "doet Hij vrede sluiten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "met hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:04.030489170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Op die dag zal het gegeten worden; jullie zullen niets ervan overlaten tot de morgen: ik ⟨ben⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op ⟨de⟩ dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zal het gegeten worden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "zullen jullie overlaten"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ervan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de morgen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:33.396232795Z",
+  "model": "glm-5.3"
+}

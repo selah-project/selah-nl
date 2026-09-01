@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Zoek hun vrede en hun welzijn niet, al je dagen, voor altijd.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "zoek"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "hun vrede"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "en hun welzijn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "je dagen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor altijd"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:58.410856992Z",
+  "model": "glm-5.3"
+}

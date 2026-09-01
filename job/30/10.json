@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Zij verafschuwen mij, zij verwijderen zich ⟨ver⟩ van mij, en voor mijn aangezicht houden zij ⟨hun⟩ speeksel niet in.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "zij verafschuwen mij"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "zij verwijderen zich"
+    },
+    {
+      "surface": "מני",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "en voor mijn aangezicht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "houden zij in"
+    },
+    {
+      "surface": "רק",
+      "gloss": "speeksel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:57.707826612Z",
+  "model": "glm-5.3"
+}

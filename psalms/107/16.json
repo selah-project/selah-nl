@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Want hij verbrijzelde deuren van koper en grendels van ijzer hakte hij door.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "verbrijzelde"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "deuren"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "van koper"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "en grendels"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "van ijzer"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "hakte hij door"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:04.842941503Z",
+  "model": "glm-5.3"
+}

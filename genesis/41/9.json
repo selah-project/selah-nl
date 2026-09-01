@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Toen sprak de overste der schenkers ⟨את⟩ tot Par'o, zeggend: ⟨את⟩ mijn zonden maak ik heden meldend.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Toen sprak"
+    },
+    {
+      "surface": "שר",
+      "gloss": "de overste"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "der schenkers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ tot",
+      "marks": "Par'o"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn zonden"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "mijn zonden"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "maak ik meldend"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:16.986856789Z",
+  "model": "glm-5.3"
+}

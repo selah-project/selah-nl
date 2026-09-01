@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Hoelang, Jahweh, zult u ⟨uzelf⟩ verbergen, voor eeuwig? Zal uw gramschap branden als vuur?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hoelang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "zult u verbergen"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "zal branden"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "uw gramschap"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:18.530663187Z",
+  "model": "glm-5.3"
+}

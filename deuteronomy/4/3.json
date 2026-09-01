@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Jullie ogen ⟨hebben⟩ gezien ⟨את⟩ wat Jahweh gedaan heeft aan Baäl-Peör: dat iedere man die Baäl-Peör achternaliep, Jahweh jullie Elohim ⟨hem⟩ heeft verdelgd uit jullie midden.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "jullie ogen"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "gezien hebben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Jahweh gedaan heeft"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedaan heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "aan Baäl"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "-Peör"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "liep"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baäl"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peör"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "heeft verdelgd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jullie Elohim"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "uit jullie midden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:24.055337426Z",
+  "model": "glm-5.3"
+}

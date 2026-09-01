@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En het zal geschieden op die dag, dat ik de boog van Israël zal breken in het dal van Jizreël.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En het zal geschieden"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op ⟨de⟩ dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "zal ik breken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de boog"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "boog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "in het dal"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:11.482999490Z",
+  "model": "glm-5.3"
+}

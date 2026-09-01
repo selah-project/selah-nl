@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En zij werd opnieuw zwanger en baarde een zoon, en zij riep ⟨את⟩ zijn naam Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "en zij werd zwanger"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opnieuw"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en baarde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "en zij riep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:48.583236418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Ester zei tegen Hatach en gaf hem een opdracht mee voor Mordechai:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "tegen Hatach"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "en gaf hem een opdracht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "voor"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:28.957732457Z",
+  "model": "glm-5.3"
+}

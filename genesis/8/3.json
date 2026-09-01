@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En de wateren keerden terug van de aarde, gaand en kerend; en de wateren namen af na het einde van honderdvijftig dagen.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "en keerden terug"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "gaand"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "en kerend"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "en namen af"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "na het einde van"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vijftig"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "en honderd"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:06.593156279Z",
+  "model": "glm-5.3"
+}

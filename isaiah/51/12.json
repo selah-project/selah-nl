@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Ik, ík ben het die jullie troost. Wie ben jij, dat jij bevreesd bent voor een stervende mens, en voor een mensenkind dat als gras wordt neergelegd?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ík"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ben het"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "die jullie troost"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "את",
+      "gloss": "jij",
+      "marks": "jij"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "dat jij bevreesd bent"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "voor een mens"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "die sterft"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "en voor een zoon van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam (mens)"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "als gras"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "wordt neergelegd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:19.247256103Z",
+  "model": "glm-5.3"
+}

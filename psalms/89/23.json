@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Geen vijand zal op ⟨hem⟩ woeker vorderen, en een zoon van onrecht zal hem niet verdrukken.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "zal woeker vorderen"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vijand"
+    },
+    {
+      "surface": "בו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "en een zoon"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "van onrecht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "zal hem verdrukken"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:56.654808752Z",
+  "model": "glm-5.3"
+}

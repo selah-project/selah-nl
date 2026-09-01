@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "en dat u mijn vader en mijn moeder in leven houdt, en mijn broers en mijn zussen, en alles wat van hen is, en onze nefesj uit de dood redt.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "en dat u in leven houdt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn vader"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "mijn moeder"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mijn moeder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "mijn broers"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mijn broers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "mijn zussen"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "mijn zussen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles wat van hen is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "van hen is"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "en dat u redt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onze nefesj"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "onze nefesj"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "uit de dood"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:23.982486458Z",
+  "model": "glm-5.3"
+}

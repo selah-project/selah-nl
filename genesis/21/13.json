@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En ook ⟨את⟩ de zoon van de dienstmaagd zal ik tot een volk maken, want hij is jouw zaad.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "En ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zoon van de dienstmaagd"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "van de dienstmaagd"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tot een volk"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "zal ik hem maken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "hij is jouw zaad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:54.182296990Z",
+  "model": "glm-5.3"
+}

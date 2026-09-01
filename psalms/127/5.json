@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 127,
+  "translation": "Gelukkig de man die zijn koker gevuld heeft — ⟨את⟩ zijn koker uit hen — zij zullen niet beschaamd worden, want zij zullen spreken ⟨את⟩ vijanden in de poort.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Gelukkig"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "de man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "gevuld heeft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn koker"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "zijn koker"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "uit hen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "zullen beschaamd worden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "zij zullen spreken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vijanden"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "vijanden"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in de poort"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:17.822328316Z",
+  "model": "glm-5.3"
+}

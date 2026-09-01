@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 61,
+  "translation": "Want u, Elohim, hebt mijn geloften gehoord; u hebt ⟨een⟩ erfdeel gegeven ⟨aan⟩ wie uw naam vrezen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hebt gehoord"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "mijn geloften"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "u hebt gegeven"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "erfdeel"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "wie vrezen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:54.147755425Z",
+  "model": "glm-5.3"
+}

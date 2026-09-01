@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Maar daarna keerden zij terug en zij deden ⟨את⟩ de slaven en ⟨את⟩ de slavinnen, die zij vrij hadden laten gaan, terugkeren, en zij onderwierpen hen tot slaven en tot slavinnen.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Maar ... keerden zij terug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "en zij deden terugkeren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de slaven"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "de slaven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de slavinnen"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "de slavinnen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "zij hadden laten gaan"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "vrij"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "en zij onderwierpen hen"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "tot slaven"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "en tot slavinnen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:35:57.158226862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Jahweh versterkte ⟨את⟩ het hart van Par'o, en hij luisterde niet naar hen, zoals Jahweh tot Mosjee gesproken had.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "en versterkte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hart van Par'o"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "luisterde"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "naar hen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:04.239020682Z",
+  "model": "glm-5.3"
+}

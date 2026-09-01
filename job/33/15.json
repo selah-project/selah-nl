@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "In een droom, een nachtelijke visioen, wanneer diepe slaap op mensen valt, in sluimeringen op ⟨het⟩ bed —",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "in een droom"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "visioen"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nachtelijke"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "wanneer... valt"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "diepe slaap"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mensen"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "in sluimeringen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "⟨het⟩ bed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:32.121315675Z",
+  "model": "glm-5.3"
+}

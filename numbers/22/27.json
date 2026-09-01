@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 22:27",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En de ezelin zag ⟨את⟩ de engel van Jahweh, en ze ging liggen onder Bilam; toen ontbrandde de woede van Bilam, en hij sloeg ⟨את⟩ de ezelin met de staf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "de ezelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de engel van Jahweh"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "engel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ותרבץ",
+      "gloss": "en ging liggen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "toen ontbrandde"
+    },
+    {
+      "surface": "אף",
+      "gloss": "de woede"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "van Bilam"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en sloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ezelin"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "de ezelin"
+    },
+    {
+      "surface": "במקל",
+      "gloss": "met de staf"
+    }
+  ],
+  "timestamp": "2026-08-31T20:15:54.555730667Z",
+  "model": "glm-5.3"
+}

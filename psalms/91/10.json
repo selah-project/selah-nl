@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Er zal geen kwaad over je komen, en geen plaag zal naderen tot je tent.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "zal over je komen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "je"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "en geen plaag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "zal naderen"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "tot je tent"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:53.382401083Z",
+  "model": "glm-5.3"
+}

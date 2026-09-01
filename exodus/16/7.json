@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "en in de morgen zullen jullie ⟨את⟩ de kavod van Jahweh zien, wanneer hij ⟨את⟩ jullie gemor tegen Jahweh hoort; en wat zijn wij, dat jullie tegen ons morren?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "en in de morgen"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "jullie zullen zien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kavod van Jahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "de kavod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "wanneer hij hoort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie gemor"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "jullie gemor"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "en wat zijn wij"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "jullie morren"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "tegen ons"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:31.414519640Z",
+  "model": "glm-5.3"
+}

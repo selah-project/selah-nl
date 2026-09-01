@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Par'o maakte zwaar ⟨את⟩ zijn hart, ook deze keer, en hij zond ⟨את⟩ het volk niet weg.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "en hij maakte zwaar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hart"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zijn hart"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "deze keer"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zond weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:05.372347938Z",
+  "model": "glm-5.3"
+}

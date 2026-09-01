@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Want Hij staat aan de rechterhand van de arme, om hem te redden van ⟨hen die⟩ zijn leven ⟨ver⟩oordelen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "staat"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "aan de rechterhand"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "van de arme"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "om te redden"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "⟨van hen die⟩ oordelen"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn leven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:33.322177928Z",
+  "model": "glm-5.3"
+}

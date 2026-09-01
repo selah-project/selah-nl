@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Als jij wijs geworden bent, ben jij het voor jezelf geweest; maar als jij gespot hebt, zul jij ⟨dat⟩ alleen dragen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "jij wijs geworden bent"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ben jij het geweest"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jezelf"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "maar als jij gespot hebt"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "zul jij dragen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:35.212061035Z",
+  "model": "glm-5.3"
+}

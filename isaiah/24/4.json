@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Treurt, verdort het land; verwelkt, verdort de aardbol; verwelkt de hoogten ⟨van⟩ het volk des lands.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Treurt"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "verdort"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "verwelkt"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "verdort"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "de aardbol"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "verwelkt"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "de hoogten"
+    },
+    {
+      "surface": "עם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des lands"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:53.056109897Z",
+  "model": "glm-5.3"
+}

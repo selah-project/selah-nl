@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 138,
+  "translation": "Ik buig mij neer richting Uw heilige heiligdom, en ik dank ⟨את⟩ Uw naam, om Uw chesed en om Uw trouw; want U hebt groot gemaakt boven heel Uw naam Uw woord.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Ik buig mij neer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "richting"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heiligdom"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "Uw heilige"
+    },
+    {
+      "surface": "וודה",
+      "gloss": "en ik dank"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uw naam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Uw naam"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Uw chesed"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en om"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "Uw trouw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "U hebt groot gemaakt"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Uw naam"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Uw woord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:33.838899776Z",
+  "model": "glm-5.3"
+}

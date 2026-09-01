@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Ik zal zeggen tot El, mijn rots: waarom hebt U mij vergeten? Waarom ga ik, donker gekleed in rouw, onder de druk van de vijand?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Ik zal zeggen"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "tot El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mijn rots"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "hebt U mij vergeten"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "donker gekleed in rouw"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ga ik"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "onder de druk"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "van de vijand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:03.266343486Z",
+  "model": "glm-5.3"
+}

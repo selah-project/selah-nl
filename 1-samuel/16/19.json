@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Sjaoel zond boden naar Jisjai en zei: Zend mij ⟨את⟩ Dawid, je zoon, die bij het kleinvee ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "boden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisjai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "zend"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "je zoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "bij het kleinvee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:30.552478466Z",
+  "model": "glm-5.3"
+}

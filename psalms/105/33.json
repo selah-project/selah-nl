@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij sloeg hun wijnstok en hun vijgenboom, en hij brak de bomen van hun gebied.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "en Hij sloeg"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "hun wijnstok"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "en hun vijgenboom"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "en hij brak"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "de bomen"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "van hun gebied"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:31.552199684Z",
+  "model": "glm-5.3"
+}

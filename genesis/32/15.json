@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Tweehonderd geiten en twintig bokken, tweehonderd ooien en twintig rammen,",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "geiten"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tweehonderd"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "en bokken"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "ooien"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tweehonderd"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "en rammen"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:20.903867092Z",
+  "model": "glm-5.3"
+}

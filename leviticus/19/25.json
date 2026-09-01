@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En in het vijfde jaar mogen jullie ⟨את⟩ zijn vrucht eten, om jullie zijn opbrengst te vermeerderen; ik ben Jahweh ⟨jullie⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "En in het jaar"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "het vijfde"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mogen jullie eten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vrucht"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "zijn vrucht"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "om te vermeerderen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "zijn opbrengst"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:21.940139736Z",
+  "model": "glm-5.3"
+}

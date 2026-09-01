@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Wanneer de rechtvaardigen ⟨velen⟩ zijn, verheugt zich het volk; maar wanneer een slechte heerst, zucht een volk.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "wanneer … velen zijn"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rechtvaardigen"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "verheugt zich"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "maar wanneer … heerst"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "een slechte"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "zucht"
+    },
+    {
+      "surface": "עם",
+      "gloss": "een volk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:47.427128390Z",
+  "model": "glm-5.3"
+}

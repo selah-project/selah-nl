@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 108,
+  "translation": "Want groot boven de hemelen is uw chesed, en tot de wolken uw trouw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "boven"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "de wolken"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "uw trouw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:34.295301054Z",
+  "model": "glm-5.3"
+}

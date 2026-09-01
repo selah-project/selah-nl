@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 27:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En Rivka zei tot Jaäkov, haar zoon: Zie, ik heb ⟨את⟩ je vader horen spreken tot Esav, je broer, zeggende:",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "En Rivka"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "haar zoon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ik heb gehoord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je vader"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "je vader"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "spreken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "je broer"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:20.920102509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "De zee is opgestegen tegen Bavel, met de menigte van zijn golven is ⟨zij⟩ bedekt.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "is opgestegen"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "met de menigte"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "van zijn golven"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "is bedekt"
+    }
+  ],
+  "timestamp": "2026-08-31T21:40:28.702728080Z",
+  "model": "glm-5.3"
+}

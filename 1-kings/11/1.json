@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En koning Sjelomo hield van vele vreemde vrouwen, en ⟨את⟩ de dochter van Par'o: Moabitische, Ammonitische, Edomitische, Tsidonitische, Chittitische.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "En ⟨de⟩ koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hield van"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vrouwen"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "vreemde"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "vele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de dochter van Par'o"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moabitische"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Ammonitische"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edomitische"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Tsidonitische"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Chittitische"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:23.313423524Z",
+  "model": "glm-5.3"
+}

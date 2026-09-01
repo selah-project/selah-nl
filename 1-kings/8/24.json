@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "die aan Uw dienaar Dawid mijn vader hebt bewaard ⟨את⟩ wat U tot hem gesproken hebt; met Uw mond hebt U gesproken en met Uw hand hebt U het vervuld, als op deze dag.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "U hebt bewaard"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "aan Uw dienaar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat U tot hem gesproken hebt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "U hebt gesproken"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "en U hebt gesproken"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "met Uw mond"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "en met Uw hand"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "hebt U vervuld"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "als op"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze dag"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:41.745807924Z",
+  "model": "glm-5.3"
+}

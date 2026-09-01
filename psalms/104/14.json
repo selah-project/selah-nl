@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Die gras doet uitkomen voor het vee, en gewas voor de dienst van de mens, om brood voort te brengen uit de aarde",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "doet uitkomen"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gras"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "voor het vee"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "en gewas"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "voor de dienst"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "om voort te brengen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:06.617916162Z",
+  "model": "glm-5.3"
+}

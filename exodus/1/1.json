@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En dit zijn de namen van de zonen van Jisraël die naar Mitsrajim kwamen: ⟨את⟩ Jaäkov, ⟨elk⟩ man en zijn huis, kwamen ⟨zij⟩.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "zijn de namen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "die kwamen"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "naar Mitsrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaäkov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "en zijn huis"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kwamen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:25.820205366Z",
+  "model": "glm-5.3"
+}

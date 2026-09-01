@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Want de koning vertrouwt op Jahweh, en door ⟨de⟩ chesed van de Allerhoogste zal hij niet wankelen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertrouwt"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "en door ⟨de⟩ chesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "van de Allerhoogste"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "zal hij wankelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:49.856056067Z",
+  "model": "glm-5.3"
+}

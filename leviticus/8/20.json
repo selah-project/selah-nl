@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En ⟨את⟩ de ram hakte hij in stukken naar zijn delen, en Mosjee liet ⟨את⟩ de kop, en ⟨את⟩ de stukken, en ⟨את⟩ het vet in rook op.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "de ram"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "hakte hij in stukken"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "naar zijn delen"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "liet in rook op"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kop"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "de kop"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de stukken"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "de stukken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het vet"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "het vet"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:09.066001883Z",
+  "model": "glm-5.3"
+}

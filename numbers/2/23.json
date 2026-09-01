@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "en zijn leger met zijn getelden: vijf en dertig duizend en vierhonderd.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "en zijn leger"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "met zijn getelden"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "en vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:24.935973144Z",
+  "model": "glm-5.3"
+}

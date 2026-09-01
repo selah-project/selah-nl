@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "De sterveling — als gras ⟨zijn⟩ zijn dagen; als een bloem van het veld, zo bloeit hij.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "De sterveling"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "als gras"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "zijn dagen"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "als een bloem"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van het veld"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "bloeit hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:52.572907077Z",
+  "model": "glm-5.3"
+}

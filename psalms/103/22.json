@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Loof Jahweh, al zijn werken, in alle plaatsen van zijn heerschappij; loof, mijn nefesj, ⟨את⟩ Jahweh!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "zijn werken"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in alle"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "plaatsen"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "van zijn heerschappij"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "loof"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:38.154264710Z",
+  "model": "glm-5.3"
+}

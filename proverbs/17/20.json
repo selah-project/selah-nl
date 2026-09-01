@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Die verkeerd van hart ⟨is⟩, vindt het goede niet; en wie ⟨er⟩ verdraaids in zijn tong ⟨heeft⟩, valt in kwaad.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "verkeerd\/krom"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "vindt"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "en die verdraaide"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "in zijn tong"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "valt"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "in kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:19.537383077Z",
+  "model": "glm-5.3"
+}

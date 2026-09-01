@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "en ⟨את⟩ Bosmath, dochter van Jishmael, zuster van Nevajot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Bosmath"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "van Jishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "zuster"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "van Nevajot"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:10.656922890Z",
+  "model": "glm-5.3"
+}

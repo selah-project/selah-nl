@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Want zo heeft Jahweh van de legerscharen gesproken: nog eens, een weinig is het, en ik doe ⟨את⟩ de hemel beven en ⟨את⟩ de aarde en ⟨את⟩ de zee en ⟨את⟩ het droge.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gesproken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "van de legerscharen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog eens"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "één"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "een weinig"
+    },
+    {
+      "surface": "היא",
+      "gloss": "is het"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "doe beven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hemel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de zee"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het droge"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "het droge"
+    }
+  ],
+  "timestamp": "2026-08-31T22:02:05.903925897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Jehosjafat zei: Het woord van Jahweh is bij hem. Toen gingen de koning van Jisraël en Jehosjafat en de koning van Edom naar hem af.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "is"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "het woord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "toen gingen af"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naar hem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "en Jehosjafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "en de koning"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "van Edom"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:43.836140378Z",
+  "model": "glm-5.3"
+}

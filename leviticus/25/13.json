@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "In het jaar van dit jobel shallen jullie terugkeren, ieder ⟨man⟩ naar zijn bezit.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "In het jaar van"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "het jobel"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "zullen jullie terugkeren"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder ⟨man⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "zijn bezit"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:35.192256236Z",
+  "model": "glm-5.3"
+}

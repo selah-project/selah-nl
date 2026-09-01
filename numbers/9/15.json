@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En op de dag dat ⟨את⟩ de tabernakel werd opgericht, bedekte de wolk ⟨את⟩ de tabernakel, ⟨namelijk⟩ de tent van de getuigenis; en in de avond was er boven de tabernakel ⟨iets⟩ als de aanblik van vuur, tot de morgen.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "en op de dag"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "dat werd opgericht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tabernakel"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "de tabernakel"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "bedekte"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "de wolk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tabernakel"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "de tabernakel"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "⟨namelijk⟩ de tent van"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "de getuigenis"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "en in de avond"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "was er"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "de tabernakel"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "als de aanblik van"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de morgen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:09.120208594Z",
+  "model": "glm-5.3"
+}

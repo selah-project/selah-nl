@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 51:9",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Wij hebben Bavel willen genezen ⟨את⟩, maar zij is niet genezen; verlaat haar en laten wij gaan, ieder naar zijn land, want haar rechtspraak reikt tot aan de hemel en wordt opgetild tot aan de wolken.",
+  "tokens": [
+    {
+      "surface": "רפאנו",
+      "gloss": "hebben wij genezen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bavel"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "נרפתה",
+      "gloss": "is genezen"
+    },
+    {
+      "surface": "עזבוה",
+      "gloss": "verlaat haar"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "en laten wij gaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "naar zijn land"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "reikt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "משפטה",
+      "gloss": "haar rechtspraak"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "en wordt opgetild"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "de wolken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:41:07.979349919Z",
+  "model": "glm-5.3"
+}

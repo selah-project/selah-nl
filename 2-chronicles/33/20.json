@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 33:20",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En Menasjje ging rusten bij zijn vaderen, en men begroef hem in zijn huis; en Amon, zijn zoon, werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "En hij ging rusten"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasjje"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaderen"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "en men begroef hem"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "in zijn huis"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en hij werd koning"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T23:11:15.189902256Z",
+  "model": "glm-5.3"
+}

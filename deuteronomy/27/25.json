@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Vervloekt ⟨is⟩ hij die een geschenk aanneemt om een nefesj te slaan, ⟨een⟩ onschuldig ⟨levens⟩bloed; en heel het volk zal zeggen: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Vervloekt"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "die neemt"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "een omkoopgeschenk"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "om te slaan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "een nefesj"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "onschuldig"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en zal zeggen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:38.720943650Z",
+  "model": "glm-5.3"
+}

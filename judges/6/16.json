@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Jahweh zei tot hem: omdat ik met u zal zijn, zult u Midjan slaan ⟨את⟩ als één man.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat \/ zeker"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ik zal zijn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met u"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "zult u slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midjan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "als één man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "als één ⟨man⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T20:36:41.576250877Z",
+  "model": "glm-5.3"
+}

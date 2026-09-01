@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Mijn oog brengt mijn nefesj ⟨te pijn⟩, boven ⟨alle⟩ dochters van mijn stad.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mijn oog"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "brengt pijn"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "boven alle"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dochters"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "van mijn stad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:55.304210123Z",
+  "model": "glm-5.3"
+}

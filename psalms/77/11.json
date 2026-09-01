@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 77,
+  "translation": "En ik zei: dit is mijn krankheid — ⟨maar ik herinner mij⟩ de jaren van ⟨de⟩ rechterhand van de Eljon.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ik zei"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "mijn krankheid"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "de jaren"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "rechterhand"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "de Eljon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:35.252246822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En Jahweh heeft mijn heer ⟨את⟩ zeer gezegend, en hij is groot geworden; en Hij heeft hem gegeven kleinvee en rundvee, en zilver en goud, en dienaren en dienaressen, en kamelen en ezels.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "heeft gezegend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn heer"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn heer"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "en hij is groot geworden"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en Hij heeft gegeven"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kleinvee"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "en rundvee"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "en zilver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "en dienaren"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "en dienaressen"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "en kamelen"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "en ezels"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:17.764832069Z",
+  "model": "glm-5.3"
+}

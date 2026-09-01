@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "Wie zijn deze ⟨die⟩ als een wolk vliegen, en als duiven naar hun vensters?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "als een wolk"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "vliegen"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "en als duiven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "hun vensters"
+    }
+  ],
+  "timestamp": "2026-08-31T21:25:56.228348274Z",
+  "model": "glm-5.3"
+}

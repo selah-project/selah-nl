@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Echter, laat geen man een ander aanklagen, en laat geen man bestraffen; en jouw volk ⟨is⟩ als aanklagers van een priester.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Echter"
+    },
+    {
+      "surface": "איש",
+      "gloss": "geen man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "aanklagen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en laat niet"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "bestraffen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "geen man"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "en jouw volk"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "als aanklagers van"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "een priester"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:43.882745334Z",
+  "model": "glm-5.3"
+}

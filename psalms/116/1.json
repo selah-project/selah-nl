@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "Ik heb lief, omdat Jahweh hoort ⟨את⟩ mijn stem, mijn smekingen.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "ik heb lief"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hoort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn stem"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mijn stem"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mijn smekingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:20.957129546Z",
+  "model": "glm-5.3"
+}

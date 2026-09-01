@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Avram ging, zoals Jahweh tot hem gesproken had; en Lot ging met ⟨את⟩ hem mee. En Avram was vijf en zeventig jaar oud toen hij uit Charan trok.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "En hij ging"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem (Lot)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "En Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "was … oud"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaren"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "en zeventig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "toen hij uittrok"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "uit Charan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:47.783152153Z",
+  "model": "glm-5.3"
+}

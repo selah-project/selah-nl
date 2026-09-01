@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En hij maakte ⟨את⟩ de planken voor de mishkan, van acacia-hout, staande overeind.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de planken"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "de planken"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "voor de mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "van hout"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "van acacia's"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "staande overeind"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:13.223792957Z",
+  "model": "glm-5.3"
+}

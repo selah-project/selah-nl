@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 144,
+  "translation": "Van David. Gezegend zij Jahweh, mijn rots, die mijn handen ⟨onderwijst⟩ voor de strijd, mijn vingers voor de oorlog.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Van David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Gezegend"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mijn rots"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "die onderwijst"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mijn handen"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "voor de strijd"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "mijn vingers"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "voor de oorlog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:47.981878024Z",
+  "model": "glm-5.3"
+}

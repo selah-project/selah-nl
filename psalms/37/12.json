@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "De goddeloze smeedt ⟨את⟩ een plan tegen de rechtvaardige, en knarsetandt over hem met zijn tanden.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "smeedt een plan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "tegen de rechtvaardige"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "en knarsetandt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over hem"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "met zijn tanden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:25.885961377Z",
+  "model": "glm-5.3"
+}

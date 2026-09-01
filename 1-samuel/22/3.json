@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En Dawid ging van daar naar Mitspe van Moav, en hij zei tot de koning van Moav: Laat toch mijn vader en mijn moeder bij ⟨את⟩ jullie uitkomen, totdat ik weet wat Elohim met mij doen zal.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en ging"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "naar Mitspe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moav"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "laat uitkomen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "en mijn moeder"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ik weet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hij doen zal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "met mij"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:48:04.435313148Z",
+  "model": "glm-5.3"
+}

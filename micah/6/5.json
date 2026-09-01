@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 6:5",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Mijn volk, herinner u toch wat Balak, koning van Moav, beraadde, en wat Bilam, zoon van Beor, hem antwoordde, van HaSjittim tot HaGilgal, om de rechtshandelingen van Jahweh te kennen.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Mijn volk"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "herinner u"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "beraadde"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moav"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "antwoordde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (Bilam als onderwerp; את markeert het antwoord)"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "van Beor"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "השטים",
+      "gloss": "HaSjittim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "HaGilgal"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om te"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennen"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "de rechtshandelingen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:01:10.984072676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En je zult ze schrijven op de deurposten van je huis en op je poorten.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "en je zult ze schrijven"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "de deurposten"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "van je huis"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "en op je poorten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:19.520798738Z",
+  "model": "glm-5.3"
+}

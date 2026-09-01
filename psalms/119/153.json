@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Zie mijn ellende en red mij, want uw Tora heb ik niet vergeten.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mijn ellende"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "en red mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "uw Tora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "heb ik vergeten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:40.609484815Z",
+  "model": "glm-5.3"
+}

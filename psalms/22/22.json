@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Red mij uit de bek van de leeuw; en van de hoorns van de remiem — U hebt mij geantwoord.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "uit de bek"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "van de leeuw"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "en van de hoorns"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "van de remiem"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "U hebt mij geantwoord"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:46.189240801Z",
+  "model": "glm-5.3"
+}

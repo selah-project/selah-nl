@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En Jaäkov zag ⟨את⟩ het aangezicht van Lavan, en zie, het was niet met hem als gisteren en eergisteren.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hij zag"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het aangezicht"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "van Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "het was niet"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "als gisteren"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "en eergisteren"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:49.372738363Z",
+  "model": "glm-5.3"
+}

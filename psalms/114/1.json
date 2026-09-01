@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 114,
+  "translation": "Bij het uitgaan van Jisraël uit Mitsrajim, het huis van Jaakov uit ⟨een⟩ volk van vreemde taal,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "bij het uitgaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "uit ⟨een⟩ volk"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "van vreemde taal"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:41.556697209Z",
+  "model": "glm-5.3"
+}

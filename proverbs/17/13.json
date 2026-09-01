@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Wie kwaad terugbrengt in plaats van goed — kwaad zal niet wijken uit zijn huis.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "terugbrengt"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "goed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "zal wijken"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "uit zijn huis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:27.666558907Z",
+  "model": "glm-5.3"
+}

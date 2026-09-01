@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En zij zullen haar en ⟨את⟩ al haar vaten leggen in een omhulsel van tahasj-huid, en zij zullen haar op de draagbalk plaatsen.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "en zij zullen leggen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ haar",
+      "marks": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al haar vaten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "haar vaten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "een omhulsel"
+    },
+    {
+      "surface": "עור",
+      "gloss": "van huid"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahasj"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "en zij zullen plaatsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "de draagbalk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:10.811838974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En de Filistijn keek om en zag ⟨את⟩ Dawid, en hij verachtte hem, omdat hij een jongen was, rossig, met een schoon aanzien.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "en keek om"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "de Filistijn"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "en verachtte hem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "נער",
+      "gloss": "een jongen"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "rossig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "schoon"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "aanzien"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:56.351357536Z",
+  "model": "glm-5.3"
+}

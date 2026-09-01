@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Hierna opende Ijov ⟨את⟩ zijn mond en vervloekte ⟨את⟩ zijn dag.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Hierna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hierna"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "opende"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn mond"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "zijn mond"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "en vervloekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn dag"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "zijn dag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:35.198070043Z",
+  "model": "glm-5.3"
+}

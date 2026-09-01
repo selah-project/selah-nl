@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Mijn voet staat op effen grond; in de vergaderingen zal ik Jahweh zegenen.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "Mijn voet"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "staat"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "op effen grond"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "in de vergaderingen"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "zal ik zegenen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:00.072268411Z",
+  "model": "glm-5.3"
+}

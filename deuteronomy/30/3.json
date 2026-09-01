@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "dan zal Jahweh, je Elohim, ⟨את⟩ je lot in gevangenschap doen keren en zich over je ontfermen, en hij zal zich keren en je verzamelen uit alle volken waarheen Jahweh, je Elohim, je heeft verstrooid —",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "dan zal doen keren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "je Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je lot in gevangenschap"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "je lot in gevangenschap"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "en zich over je ontfermen"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "en hij zal zich keren"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "en je verzamelen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "je heeft verstrooid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "je Elohim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:47.571161734Z",
+  "model": "glm-5.3"
+}

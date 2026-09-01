@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "en hij zei tot hem: Zo zegt Jiftach: Israël heeft ⟨את⟩ het land van Moab niet genomen, en ⟨את⟩ het land van de kinderen van Ammon niet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "genomen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land van Moab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het land van de kinderen van Ammon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de kinderen"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "van Ammon"
+    }
+  ],
+  "timestamp": "2026-08-31T20:38:57.154105152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En gij zult ⟨את⟩ de geboden van Jahweh uw Elohim bewaren, om in zijn wegen te wandelen en hem te vrezen.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "en gij zult bewaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de geboden van Jahweh uw Elohim"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "de geboden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te wandelen"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "in zijn wegen"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "en te vrezen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:14.511648905Z",
+  "model": "glm-5.3"
+}

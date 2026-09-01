@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Zimri kwam binnen en sloeg hem en doodde hem, in het zevenentwintigste jaar van Asa, koning van Jehoeda, en hij werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kwam binnen"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "sloeg hem"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "doodde hem"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "in het jaar"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "en zeven"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "van Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "werd koning"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:46.888495620Z",
+  "model": "glm-5.3"
+}

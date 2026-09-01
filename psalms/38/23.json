@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Haast U ⟨om⟩ mij te hulp, Adonai, mijn redding!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Haast U"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "mij te hulp"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "mijn redding"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:51.230700104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "jullie kleine kinderen, jullie vrouwen, en je vreemdeling die in het midden van je kamp ⟨is⟩, van je houthakker tot je waterputter;",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "jullie kleine kinderen"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "jullie vrouwen"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "en je vreemdeling"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "je kamp"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "van je houthakker"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "je hout"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "waterputter"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "je water"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:12.428964015Z",
+  "model": "glm-5.3"
+}

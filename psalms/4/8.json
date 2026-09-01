@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "U hebt vreugde gegeven in mijn hart, ⟨meer⟩ dan van de tijd dat hun koren en hun most zich vermenigvuldigden.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "U hebt gegeven"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "vreugde"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "in mijn hart"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "dan van de tijd dat"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "hun koren"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "en hun most"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "zich vermenigvuldigden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:42.769418215Z",
+  "model": "glm-5.3"
+}

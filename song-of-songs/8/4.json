@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Ik heb jullie doen zweren, dochters van Jeroesjalajim: wat wekken jullie, en wat verwekken ⟨את⟩ de liefde, totdat het ⟨haar⟩ behaagt?",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "ik heb doen zweren"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dochters"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "wekken jullie"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "verwekken jullie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de liefde"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "de liefde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "het behaagt"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:37.467304529Z",
+  "model": "glm-5.3"
+}

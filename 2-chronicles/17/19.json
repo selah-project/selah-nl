@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 17:19",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Dit waren zij die de koning dienden, ⟨את⟩ de koning ⟨dienstbaar⟩, behalve ⟨hen⟩ die de koning gesteld had in de versterkte steden in heel Jehoeda.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "die dienden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "behalve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gesteld had"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "in de steden"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "versterkte"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in heel"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T23:28:53.145453425Z",
+  "model": "glm-5.3"
+}

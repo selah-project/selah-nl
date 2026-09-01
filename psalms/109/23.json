@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Als een schaduw bij het neigen ervan ben ik heengegaan, ik ben weggeschud als een sprinkhaan.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "als een schaduw"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "bij het neigen ervan"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "ben ik heengegaan"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "ben ik weggeschud"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "als een sprinkhaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:21.323207672Z",
+  "model": "glm-5.3"
+}

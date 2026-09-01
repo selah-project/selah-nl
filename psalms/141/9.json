@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 141,
+  "translation": "Behoed mij voor de handen van het strik-net dat zij voor mij gespannen hebben, en voor de vallen van de daders van ongerechtigheid.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Behoed mij"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "voor de handen van"
+    },
+    {
+      "surface": "פח",
+      "gloss": "het strik-net"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "dat zij gespannen hebben"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "en voor de vallen"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "van de daders"
+    },
+    {
+      "surface": "און",
+      "gloss": "van ongerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:09.036558379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Toen stond Ijob op, en hij scheurde ⟨את⟩ zijn mantel en schoor ⟨את⟩ zijn hoofd, en hij viel op de aarde en boog zich neer.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "toen stond op"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "en hij scheurde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn mantel"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "zijn mantel"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "en schoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hoofd"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "zijn hoofd"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "en hij viel"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "en boog zich neer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:53.664450134Z",
+  "model": "glm-5.3"
+}

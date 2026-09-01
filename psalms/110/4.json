@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 110,
+  "translation": "Jahweh heeft gezworen en zal het niet berouwen: „U bent een cohen tot in eeuwigheid, naar de wijze van Malki-Tsedek.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "heeft gezworen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en zal... niet"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "berouwen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "een cohen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "על",
+      "gloss": "naar"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "de wijze"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "van Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:31.042863545Z",
+  "model": "glm-5.3"
+}

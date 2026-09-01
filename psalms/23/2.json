@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "In weiden van jong gras laat Hij mij neerliggen; aan wateren van rust leidt Hij mij.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "in weiden"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "van jong gras"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "laat Hij mij neerliggen"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wateren"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "van rust"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "leidt Hij mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:52.417965299Z",
+  "model": "glm-5.3"
+}

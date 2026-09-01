@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En Jehoeda zag haar, en hij hield haar voor een hoer, want zij had haar aangezicht bedekt.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "en hij zag"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "en hij hield haar voor"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "een hoer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "zij had bedekt"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "haar aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:49.580138305Z",
+  "model": "glm-5.3"
+}

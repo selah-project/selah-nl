@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Zeg tegen jullie broeders: 'Ammi' (mijn volk), en tegen jullie zusters: 'Roechama' (barmhartig).",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "zeg"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "tegen jullie broeders"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (mijn volk)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "en tegen jullie zusters"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Roechama (barmhartig)"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:29.924731297Z",
+  "model": "glm-5.3"
+}

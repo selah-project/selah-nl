@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "⟨Dit⟩ is het woord van Jahweh dat kwam tot Jirmejahoe, de profeet, over de Pelisjtim, voordat Par'o ⟨את⟩ Gaza sloeg.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨Dit⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahoe"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "de profeet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Pelisjtim"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "sloeg"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    }
+  ],
+  "timestamp": "2026-08-31T21:38:29.785459610Z",
+  "model": "glm-5.3"
+}

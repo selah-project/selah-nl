@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En de priester maakt er ⟨את⟩ ⟨van⟩ de één tot zonde-offer en de andere tot brandoffer, en de priester doet verzoening over hem, voor het aangezicht van Jahweh, wegens zijn vloeiing.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "En maakt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ze (de twee vogels)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "de één"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "tot zonde-offer"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "en de andere"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tot brandoffer"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "en doet verzoening"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over hem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "wegens zijn vloeiing"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:09.481642222Z",
+  "model": "glm-5.3"
+}

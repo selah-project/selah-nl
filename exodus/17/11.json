@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En het gebeurde: wanneer Mosjee zijn hand ophief, dan had Israël de overhand, en wanneer hij zijn hand liet rusten, dan had Amalek de overhand.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ophief"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "dan had de overhand"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "en wanneer"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "liet rusten"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "dan had de overhand"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:29.970949628Z",
+  "model": "glm-5.3"
+}

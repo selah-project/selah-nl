@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "Onrecht, als ik het aanschouwde in mijn hart, zou Adonai niet horen.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "Onrecht"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ik aanschouwde"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "in mijn hart"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "zou horen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:46.588143181Z",
+  "model": "glm-5.3"
+}

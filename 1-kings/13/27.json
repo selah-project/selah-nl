@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En hij sprak tot zijn zonen, zeggende: Zadelt mij ⟨את⟩ de ezel; en zij zadelden ⟨deze⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en hij sprak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "zadelt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ezel"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "de ezel"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "en zij zadelden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:33.328995650Z",
+  "model": "glm-5.3"
+}

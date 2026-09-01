@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Jahweh heeft in de hemelen zijn troon gevestigd, en zijn koningschap heerst over alles.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemelen"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "heeft gevestigd"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "zijn troon"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "en zijn koningschap"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "over alles"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "heerst"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:51.831956881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 115,
+  "translation": "Hun handen, maar zij tasten niet; hun voeten, maar zij wandelen niet; zij brabbelen niet met hun keel.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "hun handen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "zij tasten"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "hun voeten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "zij wandelen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "zij brabbelen"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "met hun keel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:44.666123042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Ik zag ⟨את⟩ de aarde, en zie: woestijn en leegte; en ⟨ik zag⟩ naar de hemelen, en hun licht was er niet.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ik zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "woestijn"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "en leegte"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en naar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er was niet"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "hun licht"
+    }
+  ],
+  "timestamp": "2026-08-31T21:27:56.858031144Z",
+  "model": "glm-5.3"
+}

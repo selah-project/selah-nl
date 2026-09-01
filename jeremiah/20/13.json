@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Zing voor Jahweh, lof Jahweh ⟨את⟩! Want hij heeft de nefesj van de arme gered ⟨את⟩ uit de hand van kwaaddoeners.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Zing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lof"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "heeft gered"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de nefesj van de arme"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "van de arme"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "van kwaaddoeners"
+    }
+  ],
+  "timestamp": "2026-08-31T21:31:57.581989448Z",
+  "model": "glm-5.3"
+}

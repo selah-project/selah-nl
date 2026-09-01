@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij nam tien mannen van de oudsten van de stad en zei: Gaat hier zitten. En zij gingen zitten.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "En hij nam"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "van de oudsten"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "gaat zitten"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "en zij gingen zitten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:24.143366362Z",
+  "model": "glm-5.3"
+}

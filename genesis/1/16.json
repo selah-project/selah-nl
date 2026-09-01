@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim maakte ⟨את⟩ de twee grote lichtdragers: ⟨את⟩ de grote lichtdrager tot heerschappij van de dag, en ⟨את⟩ de kleine lichtdrager tot heerschappij van de nacht, en ⟨את⟩ de sterren.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "En … maakte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de twee grote lichtdragers"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de twee"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "grote lichtdragers"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "grote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de grote lichtdrager"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "de lichtdrager"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "de grote"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "tot heerschappij van"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de kleine lichtdrager"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "de lichtdrager"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "de kleine"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "tot heerschappij van"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "de nacht"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de sterren"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "de sterren"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:26.225759557Z",
+  "model": "glm-5.3"
+}

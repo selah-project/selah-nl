@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Doe open, Libanon, je deuren, en vuur zal je ceders verteren.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Doe open"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "je deuren"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "en zal verteren"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "je ceders"
+    }
+  ],
+  "timestamp": "2026-08-31T22:04:09.429501406Z",
+  "model": "glm-5.3"
+}

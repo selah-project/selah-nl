@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En hij plaatste ⟨את⟩ het bekken tussen de tent van samenkomst en het altaar, en hij gaf daar water in om te wassen.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en hij plaatste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bekken"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "het bekken"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij gaf"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "om te wassen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:07.890815087Z",
+  "model": "glm-5.3"
+}

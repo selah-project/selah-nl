@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "Een lied, een mizmor van Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor (gezang met snarenspel)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:29.299341687Z",
+  "model": "glm-5.3"
+}

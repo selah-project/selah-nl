@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Van uw verordeningen ben ik niet afgeweken, want ú hebt mij onderwezen.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "van uw verordeningen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "ben ik afgeweken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ú"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "hebt mij onderwezen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:44.055318762Z",
+  "model": "glm-5.3"
+}

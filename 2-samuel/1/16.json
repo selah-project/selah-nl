@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Dawid zei tot hem: Uw bloed ⟨zij⟩ op uw hoofd, want uw mond heeft tegen u getuigd door te zeggen: Ik heb ⟨את⟩ de Masjiach van Jahweh gedood.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "uw bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "uw hoofd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "uw mond"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "heeft getuigd"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tegen u"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "door te zeggen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "heb gedood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Masjiach"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Masjiach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:50:10.706421071Z",
+  "model": "glm-5.3"
+}

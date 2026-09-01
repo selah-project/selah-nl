@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En To'i, koning van Chamat, hoorde dat Dawid heel ⟨את⟩ het leger van Hadadezer geslagen had.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hij hoorde"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "To'i"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "van Chamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "geslagen had"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel het leger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "het leger"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "van Hadadezer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:51:31.953866009Z",
+  "model": "glm-5.3"
+}

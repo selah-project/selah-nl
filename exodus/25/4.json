@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "en tjèchelet, en argaman, en tola'at sjaní, en sjes, en geitenhaar;",
+  "tokens": [
+    {
+      "surface": "ו2&כלת",
+      "gloss": "en tjèchelet"
+    },
+    {
+      "surface": "ו2&רגמן",
+      "gloss": "en argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "en tola'at"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sjaní (scharlaken)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en sjes (fijn linnen)"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "en geiten(haar)"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:44.850311619Z",
+  "model": "glm-5.3"
+}

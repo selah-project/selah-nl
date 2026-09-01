@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Grondig leeggeplunderd, leeggeplunderd wordt het land, en grondig beroofd, beroofd — want Jahweh heeft ⟨את⟩ dit woord gesproken.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "grondig leeggeplunderd"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "leeggeplunderd wordt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "en grondig beroofd"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "beroofd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "heeft gesproken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dit woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:53.055935279Z",
+  "model": "glm-5.3"
+}

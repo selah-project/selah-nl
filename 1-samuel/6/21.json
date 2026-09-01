@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 6:21",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En zij zonden boden naar de inwoners van Kirjat-Je'arim, zeggend: De Filistijnen hebben ⟨את⟩ de ark van Jahweh teruggebracht; daal af, haal ⟨את⟩ hem naar jullie omhoog.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "en zij zonden"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "boden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "de inwoners van"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Je'arim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "השבו",
+      "gloss": "hebben teruggebracht"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Filistijnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "daal af"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "haal omhoog"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "naar jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:06.255691274Z",
+  "model": "glm-5.3"
+}

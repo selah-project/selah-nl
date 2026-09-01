@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En Mosjee nam de helft van het bloed en zette ⟨het⟩ in schalen, en ⟨de⟩ helft van het bloed sprenkelde hij op het altaar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "de helft"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "van het bloed"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en zette"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "in schalen"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en de helft"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "van het bloed"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "sprenkelde hij"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:08.338134417Z",
+  "model": "glm-5.3"
+}

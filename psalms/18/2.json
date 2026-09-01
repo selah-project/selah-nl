@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En hij zei: U zal ik liefhebben, Jahweh, mijn kracht.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "U zal ik liefhebben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "mijn kracht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:25.718807937Z",
+  "model": "glm-5.3"
+}

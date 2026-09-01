@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "en ⟨את⟩ Resen, tussen Ninevé en tussen Kelach — dat is de grote stad.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninevé"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dat is"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "de grote"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:29.098420340Z",
+  "model": "glm-5.3"
+}

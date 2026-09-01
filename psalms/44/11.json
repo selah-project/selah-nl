@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "U doet ons terugwijken voor de vijand, en wie ons haten plunderen voor zichzelf.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "doet u ons terugwijken"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "achteruit"
+    },
+    {
+      "surface": "מני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "צר",
+      "gloss": "de vijand"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "en wie ons haten"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "plunderen"
+    },
+    {
+      "surface": "למו",
+      "gloss": "voor zichzelf"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:35.038622876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "een kleine stad en weinig mannen darin, en er kwam een grote koning tegen haar, en hij omringde ⟨את⟩ haar en bouwde tegen haar grote belegeringswerken.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "een stad"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "kleine"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "en mannen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "darin"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "weinig"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "en er kwam"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "tegen haar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "een koning"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grote"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "en hij omringde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ haar",
+      "marks": "de kleine stad (⟨את⟩ verwijst naar 'haar', de stad)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tegen haar"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "belegeringswerken"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grote"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:41.072160697Z",
+  "model": "glm-5.3"
+}

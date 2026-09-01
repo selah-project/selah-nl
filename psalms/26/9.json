@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Verzamel mijn nefesj niet met de schuldigen, en mijn leven niet met de mannen van bloed",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "verzamel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "schuldigen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "van bloed"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mijn leven"
+    }
+  ],
+  "timestamp": "2026-09-01T00:07:27.611879957Z",
+  "model": "glm-5.3"
+}

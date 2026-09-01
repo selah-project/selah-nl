@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 110,
+  "translation": "Adonai aan uw rechterhand verplettert koningen op de dag van zijn toorn.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "uw rechterhand"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "verplettert"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "van zijn toorn"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "koningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:23.422272590Z",
+  "model": "glm-5.3"
+}

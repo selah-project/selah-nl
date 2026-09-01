@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En tot mij werd een woord gestolen ⟨toegefluisterd⟩, en mijn oor ving een gefluister ervan op.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "en tot mij"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "een woord"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "werd gestolen ⟨toegefluisterd⟩"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "en ving op"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "mijn oor"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "een gefluister"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "ervan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:22.805164704Z",
+  "model": "glm-5.3"
+}

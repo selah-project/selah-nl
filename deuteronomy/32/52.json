@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Want van een afstand zul je ⟨את⟩ het land zien, maar daarheen zul je niet komen, naar het land dat ik geef aan de kinderen van Jisraël.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "van een afstand"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "zul je zien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "maar daarheen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "zul je komen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:53.991906006Z",
+  "model": "glm-5.3"
+}

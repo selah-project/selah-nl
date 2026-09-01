@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En zijn broers waren jaloers op hem, maar zijn vader bewaarde ⟨את⟩ het woord.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "waren jaloers"
+    },
+    {
+      "surface": "בו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "maar zijn vader"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewaarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:55.586560105Z",
+  "model": "glm-5.3"
+}

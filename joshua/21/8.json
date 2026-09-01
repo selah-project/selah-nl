@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En de zonen van Jisraël gaven aan de Leviieten deze steden ⟨את⟩ en hun weidegronden ⟨את⟩, zoals Jahweh geboden had door de hand van Mosjee, door het lot.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "En gaven"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "aan de Leviieten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze steden"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "deze steden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun weidegronden"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "hun weidegronden"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboden had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand van"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "door het lot"
+    }
+  ],
+  "timestamp": "2026-08-31T20:33:42.948184426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En hij die ⟨את⟩ ze verbrandt, ⟨את⟩ zijn klederen zal hij wassen en zijn vlees in het water baden, en daarna mag hij het kamp binnengaan.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "En hij die verbrandt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ze"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "zal hij wassen"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zijn klederen"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "en baden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vlees"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "zijn vlees"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in het water"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "mag hij binnengaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "het kamp"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:51.548782284Z",
+  "model": "glm-5.3"
+}

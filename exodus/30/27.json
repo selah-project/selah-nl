@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En ⟨את⟩ de tafel en ⟨את⟩ al zijn gerei, en ⟨את⟩ de kandelaar en ⟨את⟩ al haar gerei, en ⟨את⟩ het reukwerkaltaar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "de tafel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al zijn gerei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zijn gerei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de kandelaar"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "de kandelaar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al haar gerei"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "haar gerei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het reukwerkaltaar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "van reukwerk"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:27.947259028Z",
+  "model": "glm-5.3"
+}

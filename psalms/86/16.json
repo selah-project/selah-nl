@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 86,
+  "translation": "Wend u tot mij en wees mij genadig; geef uw kracht aan uw dienaar en red de zoon van uw dienstmaagd.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "wend u"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "en wees mij genadig"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "geef"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "uw kracht"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "aan uw dienaar"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "en red"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "de zoon van"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "uw dienstmaagd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:15.006792235Z",
+  "model": "glm-5.3"
+}

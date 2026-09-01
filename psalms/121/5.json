@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 121,
+  "translation": "Jahweh is ⟨jouw⟩ bewaarder, Jahweh is ⟨jouw⟩ schaduw aan ⟨jouw⟩ rechterhand.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "jouw bewaarder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "jouw schaduw"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "jouw rechter"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:19.739963563Z",
+  "model": "glm-5.3"
+}

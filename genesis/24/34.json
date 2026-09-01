@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En hij zei: Ik ben de dienaar van Avraham.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "dienaar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:17.764653191Z",
+  "model": "glm-5.3"
+}

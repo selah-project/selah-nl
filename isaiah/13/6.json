@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Huilt, want nabij is de dag van Jahweh; als verwoesting van Sjaddai ⟨zal hij⟩ komen.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "huilt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nabij"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "als verwoesting"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "van Sjaddai"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "zal hij komen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:21:09.221496938Z",
+  "model": "glm-5.3"
+}

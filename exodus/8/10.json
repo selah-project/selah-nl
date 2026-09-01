@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En zij stapelden ⟨את⟩ hen bijeen, hoop na hoop, en het land stonk.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "En zij stapelden bijeen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen (de kikvorsen)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "hoop na"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "hoop"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "en het stonk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:06.429666114Z",
+  "model": "glm-5.3"
+}

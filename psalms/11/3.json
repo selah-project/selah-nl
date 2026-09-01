@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Want de fundamenten worden neergehaald — de rechtvaardige, wat heeft hij gedaan?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "de fundamenten"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "worden neergehaald"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de rechtvaardige"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "heeft hij gedaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:22.101088008Z",
+  "model": "glm-5.3"
+}

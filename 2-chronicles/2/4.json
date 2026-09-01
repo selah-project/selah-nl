@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En het huis dat ik bouw ⟨is⟩ groot, want groot ⟨is⟩ ons Elohim boven alle elohim.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "en het huis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "bouw"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "boven alle"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:05:23.018545762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "en Gij hoort in de hemelen, de plaats van uw troon, ⟨את⟩ hun gebed en ⟨את⟩ hun smeking, en Gij doet hun recht;",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "en Gij hoort"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "in de hemelen"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "de plaats"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "van uw troon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun gebed"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "hun gebed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun smeking"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "hun smeking"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en Gij doet"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "hun recht"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:00.932079138Z",
+  "model": "glm-5.3"
+}

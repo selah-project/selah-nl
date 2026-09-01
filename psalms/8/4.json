@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Wanneer ik Uw hemelen zie, het werk van Uw vingers, de maan en de sterren die U hebt gegrondvest —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ik zie"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "Uw hemelen"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "het werk"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "van Uw vingers"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "de maan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "en de sterren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "U hebt gegrondvest"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:08.346163638Z",
+  "model": "glm-5.3"
+}

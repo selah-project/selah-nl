@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "want zij zullen ⟨את⟩ uw grote Naam en ⟨את⟩ uw sterke hand en uw uitgestrekte arm horen — en hij komt en bidt naar dit huis toe,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "zij zullen horen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw grote Naam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw Naam"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "grote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uw sterke hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uw hand"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "sterke"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "en uw arm"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "uitgestrekte"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "en komt"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "en bidt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:01.212548818Z",
+  "model": "glm-5.3"
+}

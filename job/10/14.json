@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Als ik gezondigd heb, bewaak jij mij, en van mijn ongerechtigheid verklaar jij mij niet vrij.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ik gezondigd heb"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "bewaak jij mij"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "en van mijn ongerechtigheid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "verklaar jij mij vrij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:22.209188384Z",
+  "model": "glm-5.3"
+}

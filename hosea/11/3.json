@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En ik leerde Efraim lopen: ik nam hen bij hun armen, maar zij wisten niet dat ik hen genas.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "leerde ik lopen"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "ik nam hen"
+    },
+    {
+      "surface": "על",
+      "gloss": "bij"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "hun armen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wisten zij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ik hen genas"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:16.885175196Z",
+  "model": "glm-5.3"
+}

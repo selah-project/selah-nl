@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Zij vroegen, en Hij bracht kwartels, en met brood van de hemel verzadigde Hij hen.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Zij vroegen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en Hij bracht"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "kwartels"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "en met brood"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "van de hemel"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "verzadigde Hij hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:27.442964468Z",
+  "model": "glm-5.3"
+}

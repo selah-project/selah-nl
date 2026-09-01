@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Want als jij weigert mijn volk ⟨את⟩ te laten gaan, zie, ík breng morgen de sprinkhaan binnen in je grensgebied.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "jij weigert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "te laten gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "zie, ik"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "breng binnen"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "de sprinkhaan"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "in je grensgebied"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:40.685823567Z",
+  "model": "glm-5.3"
+}

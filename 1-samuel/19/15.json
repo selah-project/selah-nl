@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En Sjaoel zond ⟨את⟩ de boden om ⟨את⟩ Dawid te zien, zeggend: Brengt hem op ∙in∙ het bed bij mij om ∙hem∙ te doden.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en zond"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de boden"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "de boden"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "brengt op"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "op het bed"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "in het bed"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bij mij"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "om hem te doden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:46:31.905050491Z",
+  "model": "glm-5.3"
+}

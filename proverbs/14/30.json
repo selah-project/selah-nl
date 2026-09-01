@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Een hart vol geneeskracht ⟨is⟩ leven voor het lichaam, maar afgunst is het verrotten van de beenderen.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "leven"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "voor het lichaam"
+    },
+    {
+      "surface": "לב",
+      "gloss": "een hart"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "vol geneeskracht"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "maar het verrotten"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "van de beenderen"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "afgunst"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:31.132559889Z",
+  "model": "glm-5.3"
+}

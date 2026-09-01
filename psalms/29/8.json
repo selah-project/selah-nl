@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "De stem van Jahweh doet de woestijn wervelen, doet Jahweh de woestijn van Kadesj wervelen.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "doet wervelen"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "de woestijn"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "doet wervelen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "de woestijn van"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:19.664404089Z",
+  "model": "glm-5.3"
+}

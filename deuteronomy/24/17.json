@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "U mag het recht van de vreemdeling ⟨en van⟩ de wees niet buigen, en u mag het kleed van een weduwe niet in onderpand nemen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "buigen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "het recht"
+    },
+    {
+      "surface": "גר",
+      "gloss": "van de vreemdeling"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "[de wees]"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "in onderpand nemen"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "het kleed"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "van een weduwe"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:23.113645595Z",
+  "model": "glm-5.3"
+}

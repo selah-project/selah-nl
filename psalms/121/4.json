@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 121,
+  "translation": "Zie, de bewaker van Israël sluimert niet en slaapt niet.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "sluimert"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "slaapt"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "bewaker"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:15.974083638Z",
+  "model": "glm-5.3"
+}

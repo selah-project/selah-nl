@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En wanneer jullie een slachtoffer van sjelamim ⟨aan⟩ Jahweh slachten, zullen jullie het slachten ⟨opdat⟩ het jullie welgevallig zij.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "en wanneer"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "jullie slachten"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "een slachtoffer"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "van sjelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "voor jullie welgevallen"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "zullen jullie het slachten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:38.422592669Z",
+  "model": "glm-5.3"
+}

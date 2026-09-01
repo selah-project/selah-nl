@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Achisj zei tot zijn dienaren: zie, jullie zien ⟨een⟩ man die krankzinnig is — waarom brengen jullie ⟨את⟩ hem bij mij?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Achisj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "jullie zien"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "krankzinnig"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "brengen jullie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bij mij"
+    }
+  ],
+  "timestamp": "2026-09-01T00:07:11.233237397Z",
+  "model": "glm-5.3"
+}

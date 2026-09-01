@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "En Par'o zei tegen Jehosjefa: Een droom heb ik gedroomd, en er is niemand die hem uitlegt; en ik heb over u gehoord, zeggend: ⟨als⟩ jij een droom hoort, dan kun jij hem uitleggen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jehosjefa"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "een droom"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "heb ik gedroomd"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "uitlegging"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is niet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (de droom \/ de uitlegger)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "heb gehoord"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "over u"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "⟨als⟩ jij hoort"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "een droom"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "om uit te leggen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (de droom)"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:35.777512357Z",
+  "model": "glm-5.3"
+}

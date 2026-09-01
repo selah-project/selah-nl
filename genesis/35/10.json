@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En Elohim zei tot hem: uw naam ⟨is⟩ Jaäkov; niet zal meer genoemd worden uw naam Jaäkov, maar Israël zal uw naam zijn. En hij noemde ⟨את⟩ zijn naam Israël.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "zal genoemd worden"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maletve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij noemde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:47.852807869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Maar als jij ervan afziet een gelofte te doen, zal er geen zonde in jou zijn.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "maar als"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "jij ervan afziet"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "een gelofte te doen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal er zijn"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in jou"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "zonde"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:38.740800229Z",
+  "model": "glm-5.3"
+}

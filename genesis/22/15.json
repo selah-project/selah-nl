@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En de malach van Jahweh riep tot Avraham, ten tweede, vanuit de hemelen.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en riep"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "de malach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ten tweede"
+    },
+    {
+      "surface": "מן",
+      "gloss": "vanuit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemelen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:31.555386062Z",
+  "model": "glm-5.3"
+}

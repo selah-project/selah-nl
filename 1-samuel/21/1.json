@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En hij stond op en ging weg, en Jehonatan kwam de stad in.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en hij stond op"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en ging weg"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "en Jehonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad in"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:27.184166859Z",
+  "model": "glm-5.3"
+}

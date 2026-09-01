@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Oversten hebben mij ⟨zonder⟩ reden vervolgd, ⟨maar⟩ voor uw woorden wordt mijn hart ⟨met⟩ ontzag ⟨bevangen⟩.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "oversten"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "hebben mij vervolgd"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zonder reden"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "⟨maar⟩ voor uw woorden"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ontzag"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:41.184418347Z",
+  "model": "glm-5.3"
+}

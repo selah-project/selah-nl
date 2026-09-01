@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de zonen van Aharon, de priester, zullen vuur op het altaar leggen en hout op het vuur schikken.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "en zij zullen leggen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "en zij zullen schikken"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "hout"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האש",
+      "gloss": "het vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:59.891685717Z",
+  "model": "glm-5.3"
+}

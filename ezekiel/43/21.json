@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "En u zult ⟨את⟩ de stier van de zondeofferte nemen, en men zal hem verbranden in het aangewezen ⟨deel⟩ van het huis, buiten het heiligdom.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "en u zult nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stier van de zondeofferte"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "de stier"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van de zondeofferte"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "en men zal hem verbranden"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "in het aangewezen ⟨deel⟩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "het heiligdom"
+    }
+  ],
+  "timestamp": "2026-08-31T21:52:28.276995332Z",
+  "model": "glm-5.3"
+}

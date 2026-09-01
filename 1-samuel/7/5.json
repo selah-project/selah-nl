@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Sjemoeël zei: Verzamel heel Jisraël naar de Mitspa, en ik zal voor jullie bidden tot Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … zei"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Verzamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "naar de Mitspa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "en ik zal bidden"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:49.240962515Z",
+  "model": "glm-5.3"
+}

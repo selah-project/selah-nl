@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "Elohim, wees niet stil voor u, zwijg niet, en houd u niet rustig, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "wees stil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "zwijg"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "houd u rustig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:29.299602707Z",
+  "model": "glm-5.3"
+}

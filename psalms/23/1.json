@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Een mizmor van David. Jahweh is mijn herder, ik zal niets ontbreken.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "is mijn herder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "zal ik ontbreken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:52.417678084Z",
+  "model": "glm-5.3"
+}

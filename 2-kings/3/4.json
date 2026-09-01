@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Mesja, de koning van Moav, was een schapenhouder; en hij bracht op aan de koning van Israël honderdduizend lammeren en honderdduizend rammen, wol.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "En Mesja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moav"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "een schapenhouder"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "en hij bracht op"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan de koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "lammeren"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "en honderd"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "rammen"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "wol"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:01.172752293Z",
+  "model": "glm-5.3"
+}

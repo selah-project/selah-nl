@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Ga, eet met vreugde je brood, en drink met een goed hart je wijn, want lang geleden heeft Elohim al ⟨את⟩ je werken goedgekeurd.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "met vreugde"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "je brood"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "en drink"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "met een hart"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "je wijn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "lang geleden"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "heeft goedgekeurd"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je werken"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "je werken"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:52.218636967Z",
+  "model": "glm-5.3"
+}

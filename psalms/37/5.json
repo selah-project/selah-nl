@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Wentel uw weg op Jahweh en vertrouw op Hem, en Hij zal het volbrengen.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Wentel"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "uw weg"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "en vertrouw"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op Hem"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en Hij"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zal het volbrengen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:37.858189225Z",
+  "model": "glm-5.3"
+}

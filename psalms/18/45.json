@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Bij het horen van ⟨het⟩ oor zullen zij naar mij luisteren; zonen van het vreemde zullen zich aan mij onderwerpen.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "bij het horen"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "zullen zij luisteren"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naar mij"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "van het vreemde"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "zullen zich onderwerpen (veinzen gehoorzaamheid)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:03.365385929Z",
+  "model": "glm-5.3"
+}

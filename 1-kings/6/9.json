@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En hij bouwde ⟨את⟩ het huis en voltooide het, en hij overdekte ⟨את⟩ het huis met balken en rijen ⟨in⟩ cederhout.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "en voltooide het"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "en hij overdekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "met balken"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "en rijen"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "cederhout"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:47.733027547Z",
+  "model": "glm-5.3"
+}

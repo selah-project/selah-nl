@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Koninkrijken van de aarde, zing voor Elohim, psalm Adonai. Sela.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "koninkrijken"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "zing"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "voor Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:34.942965713Z",
+  "model": "glm-5.3"
+}

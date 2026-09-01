@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Jahweh zal ⟨את⟩ jouw vijanden, die tegen jou opstaan, geslagen doen worden voor jouw aangezicht; op één weg zullen zij tegen jou uittrekken, en langs zeven wegen zullen zij voor jouw aangezicht vluchten.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "zal doen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw vijanden"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "jouw vijanden"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "die opstaan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tegen jou"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "geslagen"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor jouw aangezicht"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op één weg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "zullen zij uittrekken"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tegen jou"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "en langs zeven"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "zullen zij vluchten"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor jouw aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:00.942601449Z",
+  "model": "glm-5.3"
+}

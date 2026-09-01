@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Bij wie van uw dienaren ⟨את⟩ met hem gevonden wordt, die zal sterven, en ook wij zullen voor mijn heer tot slaven worden.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "bij wie"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gevonden wordt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hem",
+      "marks": "hij (die met de beker gevonden wordt)"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "van uw dienaren"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "en zal sterven"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wij"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "zullen worden"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "voor mijn heer"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "tot slaven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:25.802420741Z",
+  "model": "glm-5.3"
+}

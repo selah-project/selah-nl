@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En de koning van Aram had ⟨את⟩ de bevelhebbers van de strijdwagens die bij hem waren geboden, zeggend: vecht niet met de kleine noch met de grote, maar alleen met de koning van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "en de koning"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "van Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "had geboden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bevelhebbers van de strijdwagens"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "de bevelhebbers"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "van de strijdwagens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "vecht"
+    },
+    {
+      "surface": "את",
+      "gloss": "met ⟨את⟩",
+      "marks": "de kleine"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "de kleine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de grote"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "de grote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "met ⟨את⟩",
+      "marks": "de koning van Jisraël"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:08:25.139301369Z",
+  "model": "glm-5.3"
+}

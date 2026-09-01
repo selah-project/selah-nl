@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Jahweh sprak tot Mosjee, zeggende:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en hij sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:51.390400473Z",
+  "model": "glm-5.3"
+}

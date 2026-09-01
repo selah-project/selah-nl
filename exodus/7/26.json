@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Jahweh zei tot Mosjee: Ga naar Par'o en zeg tot hem: Zo zegt Jahweh: Stuur ⟨את⟩ mijn volk weg, zodat zij mij dienen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en zeg"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "stuur weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "zodat zij mij dienen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:58.218463773Z",
+  "model": "glm-5.3"
+}

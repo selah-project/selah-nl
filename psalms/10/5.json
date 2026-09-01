@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Zijn wegen ⟨zijn⟩ te allen tijde stevig; hoog ⟨verheven⟩ zijn uw oordelen, ver van hem ⟨af⟩; al zijn tegenstanders blaast hij aan.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "te allen tijde stevig"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "zijn wegen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "te allen"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tijde"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hoog"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "uw oordelen"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "ver van hem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "zijn tegenstanders"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "blaast hij"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "aan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:15.267296850Z",
+  "model": "glm-5.3"
+}

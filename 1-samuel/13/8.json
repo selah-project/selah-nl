@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En hij wachtte zeven dagen, tot de vastgestelde tijd die ⟨met⟩ Sjemoeël ⟨afgesproken was⟩; maar Sjemoeël kwam niet naar Gilgal, en het volk verspreidde zich van hem weg.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "En hij wachtte"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "tot de vastgestelde tijd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "⟨met⟩ Sjemoeël ⟨afgesproken was⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "naar Gilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "en verspreidde zich"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "van hem weg"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:37.101845290Z",
+  "model": "glm-5.3"
+}

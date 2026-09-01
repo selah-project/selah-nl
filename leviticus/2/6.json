@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Breek ⟨את⟩ ⟨het⟩ in stukken en giet er olie over — het is een mingen.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "breek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "het"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "in stukken"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "en giet"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "erover"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mingen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:55.333223672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Hebben ⟨את⟩ hen gered de elohim van de volken die mijn vaders hebben verdorven — ⟨את⟩ Gozan en ⟨את⟩ Charan, en Retsef, en de zonen van Eden, die in Telassar ⟨zijn⟩?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "hebben gered"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "van de volken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "hebben verdorven"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "mijn vaders"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "en Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en de zonen"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "van Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "in Telassar"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:35.010116066Z",
+  "model": "glm-5.3"
+}

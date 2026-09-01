@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En hij bouwde de stad rondom, van de Milo af tot rondom toe; en Joab herstelde ⟨את⟩ de rest van de stad.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "de Milo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "rondom toe"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "en Joab"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "herstelde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de rest"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "de rest van"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:59:38.108295400Z",
+  "model": "glm-5.3"
+}

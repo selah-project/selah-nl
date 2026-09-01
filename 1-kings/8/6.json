@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En de priesters brachten ⟨את⟩ de ark van het verbond van Jahweh naar zijn plaats, naar het debir van het huis, naar het heilige der heiligen, naar onder de vleugels van de keruvim.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "En brachten"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van het verbond van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "van het verbond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "zijn plaats"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "het debir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "het heilige"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "der heiligen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "de vleugels van"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "de keruvim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:23.900147753Z",
+  "model": "glm-5.3"
+}

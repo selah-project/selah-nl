@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Mijn schuilplaats en mijn schild ⟨ben⟩ jij; op uw woord heb ik gehoopt.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "mijn schuilplaats"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "en mijn schild"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "op uw woord"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "heb ik gehoopt"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:01.893420195Z",
+  "model": "glm-5.3"
+}

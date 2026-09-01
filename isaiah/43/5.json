@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "Vrees niet, want ⟨את⟩ jou ben ik; vanuit het oosten breng ik jouw nazaad, en vanuit het westen verzamel ik jou.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "jij (Israël)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "vanuit het oosten"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "breng ik"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "jouw nazaad"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "en vanuit het westen"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "verzamel ik jou"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:05.951828966Z",
+  "model": "glm-5.3"
+}

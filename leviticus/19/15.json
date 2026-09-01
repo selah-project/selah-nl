@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Doe geen onrecht in het gericht; sla het aangezicht van een arme niet achteloos op, en verheerlijk het aangezicht van een machtige niet; in gerechtigheid zult je je naaste rechtspreken.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "doe"
+    },
+    {
+      "surface": "עול",
+      "gloss": "onrecht"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in het gericht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "sla niet op"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "דל",
+      "gloss": "van een arme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "verheerlijk"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "van een machtige"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "in gerechtigheid"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "zult rechtspreken"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "je naaste"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:07.231526205Z",
+  "model": "glm-5.3"
+}

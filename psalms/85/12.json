@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 85,
+  "translation": "Emet ontkiemt uit de aarde, en tsedek buigt zich uit de hemelen neer.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "emet (trouw)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit de aarde"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "ontkiemt"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "en tsedek (gerechtigheid)"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "uit de hemelen"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "buigt zich neer \/ kijkt neer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:01.465040134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Zij omringden mij als bijen; ⟨zij⟩ doofden uit als vuur van doornen; in de Naam van Jahweh — ja, ik hak ze af.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "zij omringden mij"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "als bijen"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "⟨zij⟩ doofden uit"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "als vuur"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "van doornen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in de Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ik hak ze af"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:08.578647872Z",
+  "model": "glm-5.3"
+}

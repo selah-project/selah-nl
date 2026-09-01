@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Allen die langs de weg gaan, plunderen hem; hij is een smaad geworden voor zijn naasten.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "plunderen hem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "die gaan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "langs de weg"
+    },
+    {
+      "surface": "היה",
+      "gloss": "is geworden"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "een smaad"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "voor zijn naasten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:02.758872778Z",
+  "model": "glm-5.3"
+}

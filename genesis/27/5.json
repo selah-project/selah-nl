@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 27:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En Rivka luisterde toen Jitschak tot Esav, zijn zoon, sprak; en Esav ging naar het veld om wild te vangen, om het ⟨te⟩ brengen.",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "En Rivka"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "luisterde"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "toen … sprak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "naar het veld"
+    },
+    {
+      "surface": "לצוד",
+      "gloss": "om te vangen"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "wild"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "om te brengen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:20.919812714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En Hij bestrafte ⟨de⟩ Rietzee, en zij droogde op, en Hij deed hen gaan door de diepten als door ⟨de⟩ woestijn.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "en Hij bestrafte"
+    },
+    {
+      "surface": "בים",
+      "gloss": "⟨de⟩ zee"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Riet(zee)"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "en zij droogde op"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "en Hij deed hen gaan"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "door de diepten"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "als door ⟨de⟩ woestijn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:40.686575063Z",
+  "model": "glm-5.3"
+}

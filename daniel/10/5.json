@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En ik hief ⟨את⟩ mijn ogen op en ik zag, en zie: één man, gekleed in linnen, en zijn heupen waren omgord met goud van Oefaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "en ik hief op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn ogen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn ogen"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "en ik zag"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "gekleed"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "in linnen"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "zijn heupen"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "omgord"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "met goud"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "van Oefaz"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:59.859294974Z",
+  "model": "glm-5.3"
+}

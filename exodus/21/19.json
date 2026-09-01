@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "als hij opstaat en buiten rondloopt op zijn staf, dan wordt de slaaggever vrijsproken; alleen moet hij ⟨de schade van⟩ zijn stilzitten vergoeden en volledig laten genezen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "hij opstaat"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "en rondloopt"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "zijn staf"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "dan wordt hij vrijsproken"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "de slaaggever"
+    },
+    {
+      "surface": "רק",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "zijn stilzitten"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "moet hij vergoeden"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "en laten genezen"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "volledig laten genezen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:50.629926876Z",
+  "model": "glm-5.3"
+}

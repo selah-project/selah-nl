@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En Esav zei: Laat mij toch ⟨enigen⟩ van het volk dat ⟨את⟩ met mij is, bij jou achterblijven. Maar hij zei: Waarom dit? Ik vind chen in de ogen van mijn heer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En Esav zei"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "Laat mij ... achterblijven"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bij jou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ met mij"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Maar hij zei"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "Ik vind"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chen (genade)"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in de ogen van"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn heer"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:48.722132133Z",
+  "model": "glm-5.3"
+}

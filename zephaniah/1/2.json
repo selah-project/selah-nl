@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Ik zal voorgoed wegvegen, wegvegen alles van ⟨over⟩ de oppervlakte van de aardbodem — spreuk van Jahweh.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Ik zal wegvegen"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "voorgoed wegvegen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van ⟨over⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "de oppervlakte van"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de aardbodem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "spreuk van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:02:16.790044286Z",
+  "model": "glm-5.3"
+}

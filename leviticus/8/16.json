@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij nam ⟨את⟩ al het vet dat op de ingewanden was, en ⟨את⟩ de flap van de lever, en ⟨את⟩ de twee nieren en ⟨את⟩ hun vet, en Mosjee liet het als rook opgaan op het altaar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al het vet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "החלeb",
+      "gloss": "het vet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "de ingewanden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de flap van de lever"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "de flap"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "van de lever"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de twee nieren"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de twee"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "nieren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun vet"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "hun vet"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "liet als rook opgaan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:31.739511633Z",
+  "model": "glm-5.3"
+}

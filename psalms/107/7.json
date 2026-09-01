@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "En hij leidde hen op een rechte weg, om te gaan naar een bewoonbare stad.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "En hij leidde hen"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op een weg"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "rechte"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "een stad"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "bewoonbare ⟨vesting⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:59.353393992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Een wijze man gaat een geschil aan met ⟨את⟩ een dwaze man — hij toornt en hij lacht — en er is geen rust.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wijze"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "gaat een geschil aan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "een dwaze man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "dwaze"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "toornt"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "lacht"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is geen"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "rust"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:24.322765728Z",
+  "model": "glm-5.3"
+}

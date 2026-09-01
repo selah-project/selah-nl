@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 63,
+  "translation": "Zij zullen worden overgeleverd aan de macht van het zwaard; zij zullen een deel voor jakhalzen worden.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "zij zullen worden uitgestort ⟨overgeleverd⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "de macht"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van het zwaard"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "een deel"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "voor jakhalzen"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zullen worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:31.585837476Z",
+  "model": "glm-5.3"
+}

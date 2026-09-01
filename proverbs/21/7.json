@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Het geweld van de goddelozen sleurt hen mee, want zij weigerden recht te doen.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "het geweld"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "sleurt hen mee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "zij weigerden"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "te doen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "recht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:57.994940467Z",
+  "model": "glm-5.3"
+}

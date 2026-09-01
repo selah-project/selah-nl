@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 79,
+  "translation": "Een mizmor van Asaf. O Elohim, volken zijn binnengekomen in uw erfdeel, zij hebben ⟨את⟩ uw heiligdomstempel onrein gemaakt, zij hebben ⟨את⟩ Jeroesjalajim tot puinhoopen gemaakt.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Een mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zijn binnengekomen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "in uw erfdeel"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "zij hebben onrein gemaakt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw heiligdomstempel"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempel"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "uw heiligdoms-"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zij hebben gemaakt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeroesjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "tot puinhoopen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:44.511965104Z",
+  "model": "glm-5.3"
+}

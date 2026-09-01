@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Mosjee zei tot zijn schoonvader: Omdat het volk tot mij komt om Elohim te raadplegen —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "tot zijn schoonvader"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "om te raadplegen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:28.259911284Z",
+  "model": "glm-5.3"
+}

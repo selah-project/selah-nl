@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En voltooid werden de hemel en de aarde en al hun heir.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "En voltooid werden"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "en de aarde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "hun heir"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:19.468770574Z",
+  "model": "glm-5.3"
+}

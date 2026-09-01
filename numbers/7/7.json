@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "⟨את⟩ twee wagens en ⟨את⟩ vier runderen gaf hij aan de zonen van Gersjon, naar de maat van hun dienst.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twee wagens"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "wagens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "vier runderen"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "vier"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "runderen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf hij"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan de zonen van"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gersjon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "naar de maat van"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "hun dienst"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:28.870296448Z",
+  "model": "glm-5.3"
+}

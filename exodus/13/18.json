@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Elohim leidde ⟨את⟩ het volk een omweg langs de weg van de woestijn naar de Rietzee; en in slagorde trokken de zonen van Jisraël op uit het land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "en leidde een omweg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "langs de weg"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "van de woestijn"
+    },
+    {
+      "surface": "ים",
+      "gloss": "zee"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Riet(zee)"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "in slagorde"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "trokken op"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:03.064415705Z",
+  "model": "glm-5.3"
+}

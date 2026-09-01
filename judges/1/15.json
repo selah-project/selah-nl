@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En zij zei tot hem: Geef mij een zegening, want een land van de Negev heb je mij gegeven — geef mij dan ook waterbronnen. En Kalev gaf haar ⟨את⟩ de bovenbronnen en ⟨את⟩ de benedenbronnen.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "geef"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "een zegening"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "van de Negev"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "heb je mij gegeven"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "en geef"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "bronnen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij gaf"
+    },
+    {
+      "surface": "לה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bovenbronnen"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "bronnen"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "boven-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de benedenbronnen"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "bronnen"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "beneden-"
+    }
+  ],
+  "timestamp": "2026-08-31T20:35:11.605504695Z",
+  "model": "glm-5.3"
+}

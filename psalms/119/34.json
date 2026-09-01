@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Geef mij inzicht, en ik zal uw tora in acht nemen; ja, ik zal die bewaren met heel mijn hart.",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "geef mij inzicht"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "en ik zal ⟨die⟩ in acht nemen"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "uw tora"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "en ik zal die bewaren"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met heel"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨mijn⟩ hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:25.566245429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Jahweh heeft gezworen bij de trots van Jaäkov: Ik zal nooit vergeten, voor eeuwig niet, al hun daden.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "heeft gezworen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "bij de trots van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niet ⟨in eedformule⟩"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ik zal vergeten"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "hun daden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:57:59.279095696Z",
+  "model": "glm-5.3"
+}

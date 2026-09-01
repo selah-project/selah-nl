@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Looft Jah, want goed is het om onze Elohim te bezingen, want lieflijk, passend is lof.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Looft"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "om te bezingen"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "lieflijk"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "passend"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lof"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:21.950047426Z",
+  "model": "glm-5.3"
+}

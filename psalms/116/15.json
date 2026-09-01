@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "Kostbaar is in de ogen van Jahweh de dood van zijn chassidim ⟨⟨his faithful ones⟩⟩.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "kostbaar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in de ogen van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "de dood"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "van zijn chassidim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:13.902115325Z",
+  "model": "glm-5.3"
+}

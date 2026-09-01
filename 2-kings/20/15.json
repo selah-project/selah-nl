@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 20:15",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En hij zei: Wat hebben zij in jouw huis gezien? En Chizkijahoe zei: ⟨את⟩ alles wat in mijn huis is, hebben zij gezien; er was geen ding dat ik hun niet heb laten zien, in mijn schatkamers.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hebben zij gezien"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in jouw huis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles (כל)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "in mijn huis"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hebben zij gezien"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "היה",
+      "gloss": "er was"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ding"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "הראיתם",
+      "gloss": "ik hun heb laten zien"
+    },
+    {
+      "surface": "באצרתי",
+      "gloss": "in mijn schatkamers"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:43.025875669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En het gebeurde in de avond, en de slavenkwartels stegen op en bedekten ⟨את⟩ het legerkamp; en in de morgen was er een neerligging van dauw rondom het kamp.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in de avond"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "en steeg op"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "de slavenkwartels"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "en bedekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het legerkamp"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "het legerkamp"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "en in de morgen"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was er"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "een neerligging"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "van dauw"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "het kamp"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:50.387805554Z",
+  "model": "glm-5.3"
+}

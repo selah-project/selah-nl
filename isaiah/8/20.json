@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "⟨Tot⟩ de Tora en tot de getuigenis! Als zij niet spreken volgens dit woord, ⟨is er⟩ voor hem geen dageraad.",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "tot de Tora"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "en tot de getuigenis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "zij spreken"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "volgens het woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is er niet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "dageraad"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:05.352180443Z",
+  "model": "glm-5.3"
+}

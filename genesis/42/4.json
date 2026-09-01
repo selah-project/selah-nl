@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Maar ⟨את⟩ Binyamin, de broer van Joesef, zond Jaakob niet ⟨את⟩ met zijn broers, want hij zei: misschien overkomt hem een onheil.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broer van"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zond"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "met zijn broers"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hij zei"
+    },
+    {
+      "surface": "פן",
+      "gloss": "misschien\/anders"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "overkomt hem"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "een onheil"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:17.913709737Z",
+  "model": "glm-5.3"
+}

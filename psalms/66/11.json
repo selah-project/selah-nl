@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "U bracht ons in het net, U legde druk op onze heupen.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "bracht ons"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "in het net"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "legde U"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "druk"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "op onze heupen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:28.781476712Z",
+  "model": "glm-5.3"
+}

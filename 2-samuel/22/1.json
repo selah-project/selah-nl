@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En Dawid sprak tot Jahweh ⟨את⟩ de woorden van dit lied, op de dag dat Jahweh hem ⟨את⟩ gered had uit de hand van al zijn vijanden en uit de hand van Sjaoel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "En hij sprak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tot Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de woorden van dit lied"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "van het lied"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "gered had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (Dawid)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "zijn vijanden"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "en uit de hand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:06.387480325Z",
+  "model": "glm-5.3"
+}

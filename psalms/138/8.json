@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 138,
+  "translation": "Jahweh zal het ten einde brengen voor mij; Jahweh, Uw chesed ⟨ duurt ⟩ tot in eeuwigheid; de werken van Uw handen — laat niet vallen!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "zal ten einde brengen"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Uw chesed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "de werken van"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "Uw handen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "laat vallen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:37.490964607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Hoor, Jahweh, mijn stem wanneer ik roep; wees mij genadig en antwoord mij.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mijn stem"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "wanneer ik roep"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "wees mij genadig"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "en antwoord mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:32.417799172Z",
+  "model": "glm-5.3"
+}

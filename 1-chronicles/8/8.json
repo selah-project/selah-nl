@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Sjacharajim verwekte ⟨zonen⟩ in het veld van Moab, nadat hij ⟨את⟩ hen had weggezonden — Choesjim en ⟨את⟩ Baära, zijn vrouwen.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "En Sjacharajim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in het veld"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "hij had weggezonden"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen — wijzend op Choesjim"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Choesjim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baära"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baära"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "zijn vrouwen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:46:45.719724466Z",
+  "model": "glm-5.3"
+}

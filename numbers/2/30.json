@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En zijn heir, en hun getelden: drie en vijftig duizend en vierhonderd.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "En zijn heir"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "en hun getelden"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "en vijftig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "en vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:27.988267200Z",
+  "model": "glm-5.3"
+}

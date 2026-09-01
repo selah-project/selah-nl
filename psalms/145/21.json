@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "De lof van Jahweh zal mijn mond spreken, en alle vleesze zegene zijn heilige naam, van eeuwigheid tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "de lof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "zal spreken"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en zegene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "שם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "zijn heilige"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "van eeuwigheid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:57.577215578Z",
+  "model": "glm-5.3"
+}

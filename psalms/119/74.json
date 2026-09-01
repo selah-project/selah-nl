@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Wie u vrezen, zullen mij zien en zich verblijden, omdat ik op uw woord gehoopt heb.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "wie u vrezen"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "zullen mij zien"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "en zich verblijden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "op uw woord"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "heb ik gehoopt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:44.536911887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Door U stoten wij onze tegenstanders neer; in Uw naam vertrappen wij hen die tegen ons opstaan.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "door U"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "onze tegenstanders"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "stoten wij neer"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "in Uw naam"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "vertrappen wij"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "hen die tegen ons opstaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:21.586731584Z",
+  "model": "glm-5.3"
+}

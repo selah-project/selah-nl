@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 62,
+  "translation": "Alleen Hij is mijn rots en mijn heil, mijn hoog toevluchtsoord; ik zal niet wankelen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Hij"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mijn rots"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "en mijn heil"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mijn hoog toevluchtsoord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ik zal wankelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:47.305908633Z",
+  "model": "glm-5.3"
+}

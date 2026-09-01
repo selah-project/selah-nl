@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Groot is zijn heerlijkheid in Uw heil; pracht en luister legt U op hem.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Groot"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "is zijn heerlijkheid"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "in Uw heil"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "pracht"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "en luister"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "legt U"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:49.855698864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 4:18",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En het kind groeide op, en het gebeurde op een dag dat hij naar zijn vader ging, naar de maaiers.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "groeide op"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "het kind"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "het gebeurde"
+    },
+    {
+      "surface": "היום",
+      "gloss": "op een dag"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ging hij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "de maaiers"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:21.943195482Z",
+  "model": "glm-5.3"
+}

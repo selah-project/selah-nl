@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En hij nam en plaatste ⟨את⟩ de getuigenis in de aron, en stelde ⟨את⟩ de draagstokken op de aron, en plaatste ⟨את⟩ het kapporet op de aron, van boven.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "En hij nam"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en plaatste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de getuigenis"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "de getuigenis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de aron"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en stelde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de draagstokken"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "de draagstokken"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de aron"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en plaatste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "het kapporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de aron"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "van boven"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:24.874203021Z",
+  "model": "glm-5.3"
+}

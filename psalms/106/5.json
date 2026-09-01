@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "om te zien in het goed van uw uitverkorenen, om te vreugd te hebben in de blijdschap van uw volk, om mee te prijzen met uw erfdeel",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "in het goed van"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "uw uitverkorenen"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "om te vreugd te hebben"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "in de blijdschap van"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "uw volk"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "om mee te prijzen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "uw erfdeel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:38.950041270Z",
+  "model": "glm-5.3"
+}

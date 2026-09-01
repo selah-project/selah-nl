@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Vanuit Uw paleis, boven Jeroesjalajim — tot U zullen koningen geschenken voeren.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "vanuit Uw paleis"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "zullen voeren"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "koningen"
+    },
+    {
+      "surface": "שי",
+      "gloss": "geschenken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:59.908029344Z",
+  "model": "glm-5.3"
+}

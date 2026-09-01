@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Onschuld en oprechtheid bewaren mij, want ik hoop op U.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "onschuld"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "en oprechtheid"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "bewaren mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "ik hoop op U"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:54.358451932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Waarom kwamen de knieën mij tegemoet, en wat ⟨zijn⟩ borsten, dat ik zou zuigen?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "kwamen mij tegemoet"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "de knieën"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "borsten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "ik zou zuigen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:15.689602054Z",
+  "model": "glm-5.3"
+}

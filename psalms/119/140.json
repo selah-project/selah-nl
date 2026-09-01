@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Uiterst gelouterd is uw woord, en uw dienaar heeft het ⟨erg⟩ lief.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "gelouterd"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "uw woord"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "uiterst"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "en uw dienaar"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "heeft lief"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:06.880183441Z",
+  "model": "glm-5.3"
+}

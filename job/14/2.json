@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 14:2",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Als een bloem gaat hij uit en wordt afgesneden, en hij vlucht als een schaduw en houdt geen stand.",
+  "tokens": [
+    {
+      "surface": "כציץ",
+      "gloss": "als een bloem"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gaat hij uit"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "en wordt afgesneden"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "en hij vlucht"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "als een schaduw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יעמוד",
+      "gloss": "houdt stand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:52.704028048Z",
+  "model": "glm-5.3"
+}

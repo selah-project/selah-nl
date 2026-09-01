@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "En hij maakte ⟨את⟩ de efod: goud, blauw en purper en scharlaken, en fijn getwijnd linnen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "de efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "blauw"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "en purper"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "en scharlaken worm"
+    },
+    {
+      "surface": "שני",
+      "gloss": "scharlaken"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en fijn linnen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "getwijnd"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:35.852852089Z",
+  "model": "glm-5.3"
+}

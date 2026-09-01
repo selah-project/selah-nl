@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Want een wind gaat eroverheen en hij is er niet meer, en zijn plaats kent hem niet meer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "een wind"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "gaat eroverheen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "er (over hem)"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "en hij is er niet meer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "kent hem"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "niet meer"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:52.573040137Z",
+  "model": "glm-5.3"
+}

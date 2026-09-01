@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Je zult ze wannen en een wind zal ze wegnemen, en een stormwind zal ⟨את⟩ hen verstrooien; en jij zult je verheugen in Jahweh, in de Heilige van Israël zul je roemen.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "zult wannen"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en een wind"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "zal ze wegnemen"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "en een stormwind"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "zal verstrooien"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en jij"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "zult je verheugen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "in de Heilige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "zul je roemen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:03.524614733Z",
+  "model": "glm-5.3"
+}

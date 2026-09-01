@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En de mannen die niet stierven werden geslagen met ⟨aambeien⟩, en het geschreeuw van de stad steeg op tot de hemel.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "En de mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "stierven"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "werden geslagen"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "met ⟨aambeien⟩"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "en steeg op"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "het geschreeuw"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tot de hemel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:36.661909564Z",
+  "model": "glm-5.3"
+}

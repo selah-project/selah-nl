@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Want ik heb de wegen van Jahweh bewaard en ben niet goddeloos gehandeld tegen mijn Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "heb ik bewaard"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "de wegen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "ben ik goddeloos gehandeld"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "tegen mijn Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:01.748806305Z",
+  "model": "glm-5.3"
+}

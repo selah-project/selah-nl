@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Beter weinig met rechtvaardigheid dan overvloed van opbrengst zonder recht.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "beter"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "weinig"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "met rechtvaardigheid"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "dan overvloed"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "van opbrengst"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "recht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:04.030636268Z",
+  "model": "glm-5.3"
+}

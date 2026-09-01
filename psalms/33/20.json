@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Onze nefesj (ziel) heeft op Jahweh gewacht; hij ⟨is⟩ onze hulp en ons schild.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Onze nefesj (ziel)"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "heeft gewacht"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "onze hulp"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "en ons schild"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:14.254465541Z",
+  "model": "glm-5.3"
+}

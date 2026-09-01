@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Hatach kwam en vertelde aan Ester ⟨את⟩ de woorden van Mordechai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "en kwam"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatach"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en vertelde"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "aan Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de woorden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "van Mordechai"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:28.957418704Z",
+  "model": "glm-5.3"
+}

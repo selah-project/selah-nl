@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Uzzi verwekte ⟨את⟩ Zerachja, en Zerachja verwekte ⟨את⟩ Merajot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "En Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachja"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachja"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "en Zerachja"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:13.811852809Z",
+  "model": "glm-5.3"
+}

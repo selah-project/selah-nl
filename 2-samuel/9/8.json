@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En hij boog zich neer en zei: Wat ⟨is⟩ uw dienaar, dat u zich hebt gewend naar de dode hond, die ⟨zo⟩als ik ⟨ben⟩?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "boog zich neer"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "u zich hebt gewend"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "de hond"
+    },
+    {
+      "surface": "המת",
+      "gloss": "dode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "zoals ik"
+    }
+  ],
+  "timestamp": "2026-08-31T20:51:59.454277557Z",
+  "model": "glm-5.3"
+}

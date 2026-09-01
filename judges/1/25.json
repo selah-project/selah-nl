@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij toon­de hun ⟨את⟩ de toegang tot de stad, en zij sloegen ⟨את⟩ de stad naar de mond van het zwaard; maar ⟨את⟩ de man en ⟨את⟩ heel zijn familie lieten zij gaan.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "en hij toonde hun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de toegang tot de stad"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "de toegang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en zij sloegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "naar de mond van"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "het zwaard"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "maar ⟨את⟩",
+      "marks": "de man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "heel zijn familie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "zijn familie"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "lieten zij gaan"
+    }
+  ],
+  "timestamp": "2026-08-31T23:18:26.604980602Z",
+  "model": "glm-5.3"
+}

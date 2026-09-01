@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, keer terug toch! Zie neer vanuit de hemel en aanschouw, en bezoek deze wijnstok.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "Zie neer"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "vanuit de hemel"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en aanschouw"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "en bezoek"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "deze wijnstok"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:35.476512672Z",
+  "model": "glm-5.3"
+}

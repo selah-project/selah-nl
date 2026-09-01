@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "mijn zoon, wandel niet ⟨את⟩ in de weg met hen, houd je voet terug van hun pad;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "wandel"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in de weg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ met hen",
+      "marks": "in de weg met hen"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "houd terug"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "je voet"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "van hun pad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:34.928475348Z",
+  "model": "glm-5.3"
+}

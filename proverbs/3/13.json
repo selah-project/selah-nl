@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Gelukkig de mens die wijsheid vindt, en de mens die inzicht verwint.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "vindt"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "en de mens"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "verwint"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "inzicht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:53.453351737Z",
+  "model": "glm-5.3"
+}

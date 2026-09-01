@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En Elohim hielp hem tegen de Filistijnen en tegen de Arabieren die woonden in Goer-Baäl, en tegen de Meünieten.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "En hielp hem"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Filistijnen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en tegen"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "de Arabieren"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "die woonden"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "in Goer"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baäl"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "en de Meünieten"
+    }
+  ],
+  "timestamp": "2026-08-31T23:09:47.362124080Z",
+  "model": "glm-5.3"
+}

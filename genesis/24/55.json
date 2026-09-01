@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "genesis 24:55",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En haar broer en haar moeder zeiden: Laat het meisje blijven bij ⟨את⟩-ons, dagen of tien ⟨dagen⟩; daarna mag zij gaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zeiden"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "haar broer"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en haar moeder"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "laat blijven"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "het meisje"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "bij ⟨את⟩-ons",
+      "marks": "bij ons"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "mag zij gaan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:53.541310607Z",
+  "model": "glm-5.3"
+}

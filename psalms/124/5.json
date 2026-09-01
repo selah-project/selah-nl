@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 124,
+  "translation": "Dan zouden de wateren, de hoogmoedige ⟨wateren⟩, over onze nefesj zijn gegaan.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "dan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "zouden gegaan zijn"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "onze nefesj"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "de hoogmoedige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:47.471586054Z",
+  "model": "glm-5.3"
+}

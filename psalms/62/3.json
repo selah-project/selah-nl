@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 62,
+  "translation": "Alleen Hij ⟨is⟩ mijn rots en mijn heil, mijn hoogslot; ⟨ik⟩ zal niet veel worden beroerd.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Alleen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Hij"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mijn rots"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "en mijn heil"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mijn hoogslot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "zal worden beroerd"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "veel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:04.309645583Z",
+  "model": "glm-5.3"
+}

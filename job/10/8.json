@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 10:8",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Uw handen hebben mij gevormd en mij gemaakt, geheel rondom, en u verslindt mij.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "uw handen"
+    },
+    {
+      "surface": "עצבוני",
+      "gloss": "hebben mij gevormd"
+    },
+    {
+      "surface": "ויעשוני",
+      "gloss": "en mij gemaakt"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "geheel"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ותבלעני",
+      "gloss": "en u verslindt mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:10.101759992Z",
+  "model": "glm-5.3"
+}

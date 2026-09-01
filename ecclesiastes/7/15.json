@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "⟨את⟩ alles heb ik gezien in de dagen van mijn hevel: er is een rechtvaardige die vergaat in zijn gerechtigheid, en er is een goddeloze die ⟨lang⟩ leeft in zijn kwaad.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "heb ik gezien"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in de dagen"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "van mijn hevel"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er is"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "een rechtvaardige"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "die vergaat"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "in zijn gerechtigheid"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "en er is"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "een goddeloze"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "die lang leeft"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "in zijn kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:33.199383992Z",
+  "model": "glm-5.3"
+}

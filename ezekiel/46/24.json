@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 46:24",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "En hij zei tot mij: Dit zijn de kookhuizen waar de dienaren van het huis daar ⟨de offers⟩ van het volk zullen koken ⟨את⟩ het slachtoffer van het volk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dit zijn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huizen"
+    },
+    {
+      "surface": "המבשלים",
+      "gloss": "de kook-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "יבשלו",
+      "gloss": "zij zullen koken"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "de dienaren van"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het slachtoffer van het volk"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "het slachtoffer"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:52:52.659688072Z",
+  "model": "glm-5.3"
+}

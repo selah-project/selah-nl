@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim gaf ⟨את⟩ hen in het uitspansel van de hemel, om te lichten over ⟨את⟩ de aarde.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "En … gaf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "de lichtdragers"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "in het uitspansel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van de hemel"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "om te lichten"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:26.226138407Z",
+  "model": "glm-5.3"
+}

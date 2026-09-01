@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "En hij zal komen en ⟨את⟩ het land Mitsrajim slaan: wie ⟨bestemd is⟩ voor de dood, voor de dood, en wie voor de gevangenschap, voor de gevangenschap, en wie voor het zwaard, voor het zwaard.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "en hij zal komen"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "en slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land Mitsrajim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "למות",
+      "gloss": "voor de dood"
+    },
+    {
+      "surface": "למות",
+      "gloss": "voor de dood"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en die"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "voor de gevangenschap"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "voor de gevangenschap"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en die"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "voor het zwaard"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "voor het zwaard"
+    }
+  ],
+  "timestamp": "2026-08-31T23:45:04.862302446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En zij lieten ⟨את⟩ de ark van Elohim rijden op een nieuwe wagen, uit het huis van Avinadav; en Oeza en zijn broer Achjo menden de wagen.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "lieten rijden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "een wagen"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nieuwe"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit het huis"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "en Oeza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "zijn broer"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "menden"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "de wagen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:11.790468637Z",
+  "model": "glm-5.3"
+}

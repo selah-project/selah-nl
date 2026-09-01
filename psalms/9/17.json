@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Bekend is Jahweh ⟨door⟩ ⟨het⟩ gericht dat hij deed; in het werk van zijn handen is de goddeloze gevangen. Higaion. Sela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "is bekend"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "gericht"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dat hij deed"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "in het werk"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "van zijn handen"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "is gevangen (in de strik)"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higaion"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:00.723023823Z",
+  "model": "glm-5.3"
+}

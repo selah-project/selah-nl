@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En hij bekleedde ⟨את⟩ het huis met kostbare steen tot sierlijke pracht; en het goud was goud van Parvajim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "bekleedde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "steen"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "kostbare"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "tot pracht"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "en het goud"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parvajim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:04:56.893303337Z",
+  "model": "glm-5.3"
+}

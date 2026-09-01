@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Mijn heer, hoor mij: land van vier honderd sikelen zilver — tussen mij en u, wat is het? En begraf ⟨את⟩ uw dode.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "mijn heer"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "hoor mij"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sikelen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen mij"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "en tussen u"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is het"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uw dode"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "uw dode"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "begraf"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:58.818226722Z",
+  "model": "glm-5.3"
+}

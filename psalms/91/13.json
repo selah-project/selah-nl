@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Op sjachal en pethen zul jij ⟨trappen⟩; ⟨jij⟩ zult de jonge leeuw en de tannin vertrappen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "sjachal (leeuw)"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "en pethen (adder)"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "zul jij ⟨trappen⟩"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "zult vertrappen"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "de jonge leeuw"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "en de tannin (serpent\/draak)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:14.394586022Z",
+  "model": "glm-5.3"
+}

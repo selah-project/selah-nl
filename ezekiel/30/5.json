@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Koesj, en Poet, en Loed, en heel het gemengde ⟨volk⟩, en Choev, en de zonen van het land van het verbond — ⟨את⟩-hen: door het zwaard zullen zij vallen.",
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Koesj"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "en Poet"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "en Loed"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "het gemengde ⟨volk⟩"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "en Choev"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en de zonen van"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "van het verbond"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ met hen",
+      "marks": "hen (Koesj, Poet, Loed en de rest)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "door het zwaard"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "zullen zij vallen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:48:35.653854394Z",
+  "model": "glm-5.3"
+}

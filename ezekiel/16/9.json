@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En ik waste u met water, en ik spoelde uw bloed van u af, en ik zalfde u met olie.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "en ik waste u"
+    },
+    {
+      "surface": "במים",
+      "gloss": "met water"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "en ik spoelde weg"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "uw bloed"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "van u af"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "en ik zalfde u"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "met olie"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:13.460654304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "Mijn geloften aan Jahweh zal ik voltooien, in tegenwoordigheid van al zijn volk, toch.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "mijn geloften"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "zal ik voltooien"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "in tegenwoordigheid"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:05.203502961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 6:23",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En elk zondeoffer waarvan ⟨iets⟩ van zijn bloed in de tent der samenkomst gebracht wordt om in het heiligdom te verzoenen, mag niet gegeten worden; in het vuur zal het verbrand worden.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "En elk"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "zondeoffer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarvan"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "gebracht wordt"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "van zijn bloed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der samenkomst"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "om te verzoenen"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in het heiligdom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mag gegeten worden"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in het vuur"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "zal het verbrand worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:43.883980480Z",
+  "model": "glm-5.3"
+}

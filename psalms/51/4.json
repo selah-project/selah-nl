@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Was mij overvloedig van mijn ongerechtigheid, en reinig mij van mijn zonde.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "overvloedig"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "Was mij"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "van mijn ongerechtigheid"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "en van mijn zonde"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "reinig mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:30.487112566Z",
+  "model": "glm-5.3"
+}

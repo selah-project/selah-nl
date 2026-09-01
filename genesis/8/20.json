@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Noach bouwde een altaar voor Jahweh, en hij nam van al het vee dat rein is en van al het gevogelte dat rein is, en hij liet brandoffers opstijgen op het altaar.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "een altaar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "dat rein is"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "en van al"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "het gevogelte"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "dat rein is"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en hij liet opstijgen"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brandoffers"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "op het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:10.506447101Z",
+  "model": "glm-5.3"
+}

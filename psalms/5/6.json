@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "De brallenden zullen geen stand houden tegenover Uw ogen; U haat alle daders van ongerechtigheid.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "houden stand"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "de brallenden"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "Uw ogen"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "U haat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "daders van"
+    },
+    {
+      "surface": "און",
+      "gloss": "ongerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:24.223640665Z",
+  "model": "glm-5.3"
+}

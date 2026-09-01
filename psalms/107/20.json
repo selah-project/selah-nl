@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Hij zendt zijn woord en geneest hen, en Hij ontroe(?) — Hij redt hen uit hun verderfnissen.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Hij zendt"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "zijn woord"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "en geneest hen"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "en Hij redt"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "uit hun verderfnissen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:02.192449815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 21:22",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En hij verliet Jahweh, ⟨את⟩ de Elohim van zijn vaderen, en hij wandelde niet in de weg van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "en hij verliet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim van"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaderen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hij wandelde"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in de weg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:08.577122287Z",
+  "model": "glm-5.3"
+}

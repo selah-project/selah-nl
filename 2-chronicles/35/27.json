@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 35:27",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "zijn daden, de eerste en de laatste — ziet, zij zijn geschreven op ⟨het⟩ boek van de koningen van Israël en Jehoeda.",
+  "tokens": [
+    {
+      "surface": "ודבריו",
+      "gloss": "zijn daden"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "de eerste"
+    },
+    {
+      "surface": "והאחרנים",
+      "gloss": "en de laatste"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ziet"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "zij zijn geschreven"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "boek"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "van de koningen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T23:12:10.556524182Z",
+  "model": "glm-5.3"
+}

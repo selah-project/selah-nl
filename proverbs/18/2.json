@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Niet begeert ⟨de⟩ kesiel ⟨de⟩ tevuna, maar ⟨alleen⟩ in het ontbloten van zijn hart.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "begeert"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "de kesiel (dwaas)"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "de tevuna (inzicht)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "in het ontbloten"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "van zijn hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:41.061999556Z",
+  "model": "glm-5.3"
+}

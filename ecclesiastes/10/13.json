@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Het begin van de woorden van zijn mond is dwaasheid, en het einde van zijn mond ⟨is⟩ krankzinnige dwaasheid.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "het begin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "van de woorden"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "van zijn mond"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "dwaasheid"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "en het einde"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "van zijn mond"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "krankzinnige dwaasheid"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:19.917251254Z",
+  "model": "glm-5.3"
+}

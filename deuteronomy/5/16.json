@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 5:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Eer ⟨את⟩ je vader en ⟨את⟩ je moeder, zoals Jahweh jouw Elohim je geboden heeft, opdat je dagen lang worden en opdat het je goed gaat op ⟨de⟩ grond die Jahweh jouw Elohim je geeft.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Eer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je vader"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "je vader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "je moeder"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "je moeder"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "je geboden heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "יאריכן",
+      "gloss": "lang worden"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "je dagen"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "en opdat"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "het goed gaat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨de⟩ grond"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:22.796383295Z",
+  "model": "glm-5.3"
+}

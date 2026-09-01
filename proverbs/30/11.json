@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Een geslacht vervloekt zijn vader, en ⟨את⟩ zijn moeder zegent het niet.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "een geslacht"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "vervloekt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn moeder"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "zijn moeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "zegent"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:45.182159624Z",
+  "model": "glm-5.3"
+}

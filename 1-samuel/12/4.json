@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En zij zeiden: Je hebt ons niet benadeeld en ons niet verdrukt, en je hebt niets uit de hand van wie dan ook genomen.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "En zij zeiden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "je hebt ons benadeeld"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "ons verdrukt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "je hebt genomen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van een man"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "iets"
+    }
+  ],
+  "timestamp": "2026-08-31T20:44:15.928245167Z",
+  "model": "glm-5.3"
+}

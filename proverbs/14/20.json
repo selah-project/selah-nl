@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Zelfs door zijn naaste wordt de arme gehaat, maar de liefhebbers van de rijke zijn velen.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "zelfs"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "door zijn naaste"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "wordt gehaat"
+    },
+    {
+      "surface": "רש",
+      "gloss": "de arme"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "maar de liefhebbers van"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "de rijke"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "zijn velen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:50.384973689Z",
+  "model": "glm-5.3"
+}

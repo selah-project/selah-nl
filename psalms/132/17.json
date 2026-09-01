@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": " Daar zal ik een hoorn laten uitspruiten voor David, een lamp heb ik gereedgemaakt voor mijn Masjiach.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "zal ik laten uitspruiten"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "een hoorn"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "voor David"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "heb ik gereedgemaakt"
+    },
+    {
+      "surface": "נר",
+      "gloss": "een lamp"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "voor mijn Masjiach"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:19.890606900Z",
+  "model": "glm-5.3"
+}

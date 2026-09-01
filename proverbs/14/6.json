@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Een spotter zoekt wijsheid en er ⟨is⟩ niets, maar voor wie verstand heeft, is kennis licht ⟨te vinden⟩.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "zoekt"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "een spotter"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is niets"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "maar kennis"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "voor wie verstand heeft"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "is licht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:53.474653548Z",
+  "model": "glm-5.3"
+}

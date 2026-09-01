@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "De weiden van de woestijn druppen ⟨van vruchtbaarheid⟩, en met juichvreugde zijn de heuvels omgord.",
+  "tokens": [
+    {
+      "surface": "ירעפו",
+      "gloss": "druppen"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "weiden"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "woestijn"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "en met juichvreugde"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "de heuvels"
+    },
+    {
+      "surface": "תחגרנה",
+      "gloss": "zijn omgord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:19.312068871Z",
+  "model": "glm-5.3"
+}

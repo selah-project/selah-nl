@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "De verordeningen van Jahweh zijn recht, zij verblijden het hart; het gebod van Jahweh is zuiver, het verlicht de ogen.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "verordeningen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "recht"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "verblijden"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "gebod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "zuiver"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "verlicht"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "de ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:05.717793562Z",
+  "model": "glm-5.3"
+}

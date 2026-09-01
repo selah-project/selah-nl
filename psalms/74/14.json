@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "U hebt de koppen van Livjatan verpletterd, U hebt hem gegeven als spijs aan ⟨het⟩ volk, aan de bewoners van de dorre plaatsen.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "hebt U verpletterd"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "de koppen van"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livjatan"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "U hebt hem gegeven"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "als spijs"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "aan ⟨het⟩ volk"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "aan de bewoners van de dorre plaatsen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:40.730589525Z",
+  "model": "glm-5.3"
+}

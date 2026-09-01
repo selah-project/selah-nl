@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Door de stad razen zij, langs de muur rennen zij, in de huizen klimmen zij op, door de vensters komen zij binnen, als een dief.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "door de stad"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "razen zij"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "langs de muur"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "rennen zij"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "in de huizen"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "klimmen zij op"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "door"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "de vensters"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "komen zij binnen"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "als een dief"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:28.288208350Z",
+  "model": "glm-5.3"
+}

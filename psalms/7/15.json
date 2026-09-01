@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Zie, hij krijgt weeën van kwaad, en wordt zwanger van onheil, en baart leugen.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "krijgt weeën"
+    },
+    {
+      "surface": "און",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "en wordt zwanger"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "van onheil"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "en baart"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leugen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:29.079289210Z",
+  "model": "glm-5.3"
+}

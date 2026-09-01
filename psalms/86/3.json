@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 86,
+  "translation": "Wees mij genadig, Adonai, want tot u roep ik de hele dag.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "wees mij genadig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "roep ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:26.808565700Z",
+  "model": "glm-5.3"
+}

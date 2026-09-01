@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Jahweh zei tot Jehosjoea: Sta op! Waarom val jij zo op je aangezicht?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "קום",
+      "gloss": "sta op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jij"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "val"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "je aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:58.645106962Z",
+  "model": "glm-5.3"
+}

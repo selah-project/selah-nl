@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "⟨את⟩ de tentpinnen van de woning en ⟨את⟩ de tentpinnen van de voorhof, en ⟨את⟩ hun touwen;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tentpinnen van de woning"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "de tentpinnen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "van de woning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de tentpinnen van de voorhof"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "de tentpinnen"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van de voorhof"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hun touwen"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "hun touwen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:03.174522790Z",
+  "model": "glm-5.3"
+}

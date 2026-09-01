@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 138,
+  "translation": "Op de dag dat ik riep, antwoordde U mij; U maakte mij sterk in mijn ziel ⟨met⟩ kracht.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "dat ik riep"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "antwoordde U mij"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "U maakte mij sterk"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "in mijn ziel"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kracht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:33.839049249Z",
+  "model": "glm-5.3"
+}

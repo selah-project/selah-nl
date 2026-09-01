@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "En zij zeggen: hoe zou El ⟨het⟩ weten, en is er kennis bij de Allerhoogste?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "en zij zeggen"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zou weten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "en is er"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "bij de Allerhoogste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:13.115056633Z",
+  "model": "glm-5.3"
+}

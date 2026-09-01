@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 2:22",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de zaak werd bekend aan Mordechai, en Mordechai deed het weten aan Ester, de koningin; en Ester zei het aan de koning in de naam van Mordechai.",
+  "tokens": [
+    {
+      "surface": "ויודע",
+      "gloss": "En werd bekend"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "de zaak"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "aan Mordechai"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en hij deed het weten"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "aan Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "de koningin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan de koning"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in de naam van"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:29.778674553Z",
+  "model": "glm-5.3"
+}

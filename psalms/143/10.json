@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 143,
+  "translation": "Leer mij Uw welbehagen te doen, want U bent mijn Eloah; Uw goede roeach leidt mij in ⟨het⟩ land van gelijkheid.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "leer mij"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "te doen"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "Uw welbehagen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "mijn Eloah"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "Uw roeach"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "goede"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "leidt mij"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in land"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "van gelijkheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:33.071145611Z",
+  "model": "glm-5.3"
+}

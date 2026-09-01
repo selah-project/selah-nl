@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Zingt voor Hem een nieuw lied; maakt het spelend goed, met geschal.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Zingt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor Hem"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nieuw"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "maakt goed"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "spelend"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "met geschal"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:31.155031673Z",
+  "model": "glm-5.3"
+}

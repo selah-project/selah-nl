@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Hij bracht ⟨את⟩ mij naar de opening van de voorhof; en ik zag, en zie, één gat in de muur.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "En Hij bracht"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mij",
+      "marks": "mij (Jechezkel)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "de opening van"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "de voorhof"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "en ik zag"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "חר",
+      "gloss": "gat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "in de muur"
+    }
+  ],
+  "timestamp": "2026-08-31T21:42:10.766616299Z",
+  "model": "glm-5.3"
+}

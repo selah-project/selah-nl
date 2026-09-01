@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Terwijl de koning op zijn rustbank ⟨zat⟩, gaf mijn nardus zijn geur.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "terwijl"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "op zijn rustbank"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "mijn nardus"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "zijn geur"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:31.592199864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Het plan van Jahweh staat voor eeuwig ⟨vest⟩, de overleggingen van zijn hart van geslacht tot geslacht.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "het plan van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "staat"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "de overleggingen"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "van zijn hart"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "van geslacht"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "tot geslacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:01.010528448Z",
+  "model": "glm-5.3"
+}

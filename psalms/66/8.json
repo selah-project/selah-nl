@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "Zegent, volken, onze Elohim, en doet de stem van zijn lof horen.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Zegent"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "en doet horen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "van zijn lof"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:01.703819956Z",
+  "model": "glm-5.3"
+}

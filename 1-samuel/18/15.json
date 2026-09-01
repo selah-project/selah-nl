@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Sjaoel zag dat hij zeer wijs ⟨handelde⟩, en hij vreesde ⟨voor⟩ zijn aangezicht.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "wijs handelde"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "en vreesde"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "voor zijn aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:46:20.667199433Z",
+  "model": "glm-5.3"
+}

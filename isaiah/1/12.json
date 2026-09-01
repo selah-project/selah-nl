@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Wanneer gij komt om voor mijn aangezicht te verschijnen — wie heeft dit uit uw hand gevraagd, ⟨om⟩ mijn voorhoven te vertrappen?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "gij komt"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te verschijnen voor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mijn aangezicht"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "heeft gevraagd"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "uit uw hand"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "te vertrappen"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "mijn voorhoven"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:31.891291536Z",
+  "model": "glm-5.3"
+}

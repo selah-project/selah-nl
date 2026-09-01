@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En de zonen van Gad bouwden ⟨את⟩ Dibon en ⟨את⟩ Atarot en ⟨את⟩ Aroër.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "en bouwden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibon"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Atarot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Aroër"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroër"
+    }
+  ],
+  "timestamp": "2026-08-31T20:18:27.094002123Z",
+  "model": "glm-5.3"
+}

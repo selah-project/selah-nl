@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Hoe draag ik alleen jullie last ⟨en⟩ jullie burden en jullie geschillen?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Hoe"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "draag ik"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "jullie last"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "en jullie draaglast"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "en jullie geschillen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:19:46.772193646Z",
+  "model": "glm-5.3"
+}

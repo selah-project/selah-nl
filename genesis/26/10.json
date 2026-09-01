@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En Avimelech zei: Wat heb je ons gedaan? Bijna had één van het volk gelegen met ⟨את⟩ jouw vrouw, en je zou schuld over ons gebracht hebben.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "heb je gedaan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "bijna"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "gelegen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw vrouw"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "jouw vrouw"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "en je zou gebracht hebben"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over ons"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "schuld"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:10.475379914Z",
+  "model": "glm-5.3"
+}

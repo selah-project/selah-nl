@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En nu, verdeel dit land als erfdeel ⟨את⟩ — het land hier — aan de negen stammen en de halve stam van Menasjee.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nu"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "verdeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "als erfdeel"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "aan de negen"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "stammen"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en de halve"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "stam"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "van Menasjee"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:54.678467441Z",
+  "model": "glm-5.3"
+}

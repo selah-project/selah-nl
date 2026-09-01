@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En een man die een leven van een mens slaat ⟨zal⟩ zeker gedood worden.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "En een man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "die"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "slaat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "een ⟨elk⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "leven"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van een mens"
+    },
+    {
+      "surface": "מות",
+      "gloss": "zeker gedood"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:20.889276449Z",
+  "model": "glm-5.3"
+}

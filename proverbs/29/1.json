@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Een man ⟨van⟩ bestraffingen, die zijn nek verhardt, wordt plotseling gebroken, en er is geen genezing.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "bestraffingen"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "verhardt"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nek"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "plotseling"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "wordt gebroken"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is niet"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "genezing"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:47.426850189Z",
+  "model": "glm-5.3"
+}

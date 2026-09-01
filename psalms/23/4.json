@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Ook al ga ik door een dal van diepe duisternis, ik zal geen kwaad vrezen, want U bent met mij; Uw staf en Uw steunstok, zij vertroosten mij.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "כי",
+      "gloss": "al"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ga ik"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "door een dal"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "van diepe duisternis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "zal ik vrezen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bent met mij"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "Uw staf"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "en Uw steunstok"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "vertroosten mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:52.418258591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Van ⟨את⟩ Jahweh is dit geworden; het is wonderbaarlijk in onze ogen.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "is geworden"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "היא",
+      "gloss": "het is"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "wonderbaarlijk"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "in onze ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:02.595435039Z",
+  "model": "glm-5.3"
+}

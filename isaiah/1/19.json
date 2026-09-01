@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 1:19",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Als jullie willen en luisteren, zullen jullie het goede van het land eten.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "jullie willen"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "en luisteren"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "zullen jullie eten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:48.251241150Z",
+  "model": "glm-5.3"
+}

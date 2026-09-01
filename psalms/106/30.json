@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Toen stond Pinechas op en greep in ⟨met gebed⟩, en de plaag werd gestuit.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "stond op"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "en greep in ⟨met gebed⟩"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "en werd gestuit"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "de plaag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:51.800542675Z",
+  "model": "glm-5.3"
+}

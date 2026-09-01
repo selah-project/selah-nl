@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 123,
+  "translation": "Een lied van de opgangen. Naar U heb ik ⟨את⟩ mijn ogen opgeheven, U die troont in de hemelen.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Een lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van de opgangen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Naar U"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "heb ik opgeheven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn ogen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn ogen"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "U die troont"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:59.431867588Z",
+  "model": "glm-5.3"
+}

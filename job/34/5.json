@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Want Ijov heeft gezegd: ik ben ⟨in het⟩ ⟨gelijk⟩ — ⟨ik⟩ ben rechtvaardig, en El heeft mijn rechtsvordering weggenomen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "ik ben rechtvaardig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "heeft weggenomen"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mijn rechtsvordering"
+    }
+  ],
+  "timestamp": "2026-08-31T23:46:16.884952966Z",
+  "model": "glm-5.3"
+}

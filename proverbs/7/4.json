@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Zeg tegen de wijsheid: mijn zuster ⟨את⟩ ben jij, en noem het inzicht je verwante.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Zeg"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "tegen de wijsheid"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mijn zuster"
+    },
+    {
+      "surface": "את",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "en het inzicht"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "⟨voor⟩ inzicht"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "noem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:53.887440834Z",
+  "model": "glm-5.3"
+}

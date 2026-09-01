@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Eén tora en één rechtsregel zal er voor jullie zijn en voor de vreemdeling die bij ⟨את⟩ jullie bijwoont.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "één"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en één rechtsregel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal er zijn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "en voor de vreemdeling"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "die bijwoont"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "bij ⟨את⟩ jullie",
+      "marks": "jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:13:46.987101098Z",
+  "model": "glm-5.3"
+}

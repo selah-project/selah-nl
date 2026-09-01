@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Hoor, mijn volk, en ik zal spreken; Israël, en ik zal ⟨tegen⟩ jou getuigen: Elohim, jouw Elohim, ben ik.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "en ik zal spreken"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "en ik zal getuigen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨tegen⟩ jou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:48.730798061Z",
+  "model": "glm-5.3"
+}

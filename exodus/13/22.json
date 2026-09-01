@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Hij nam de wolkkolom overdag niet weg, en de vuurkolom 's nachts, ⟨van⟩ voor het volk.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "nam Hij weg"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "de kolom"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "wolk"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "overdag"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "en de kolom"
+    },
+    {
+      "surface": "האש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "'s nachts"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:49.876807056Z",
+  "model": "glm-5.3"
+}

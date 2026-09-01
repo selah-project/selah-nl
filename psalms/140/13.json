@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 140,
+  "translation": "Ik weet dat Jahweh ⟨het⟩ recht ⟨van⟩ de verdrukte zal doen, ⟨het⟩ recht ⟨van⟩ de behoeftigen.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ik weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zal doen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דין",
+      "gloss": "recht"
+    },
+    {
+      "surface": "עני",
+      "gloss": "van de verdrukte"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "recht"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "van de behoeftigen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:06.684320647Z",
+  "model": "glm-5.3"
+}

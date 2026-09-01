@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En Nevuzaradan, de overste van de beulen, nam ⟨את⟩ hen en leidde ⟨את⟩ hen naar de koning van Bavel, naar Rivla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en nam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen (de gegrepenen)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "de overste"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "van de beulen"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en leidde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    },
+    {
+      "surface": "על",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivla"
+    }
+  ],
+  "timestamp": "2026-08-31T21:13:09.057570778Z",
+  "model": "glm-5.3"
+}

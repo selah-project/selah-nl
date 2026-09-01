@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 64,
+  "translation": "Hoor, Elohim, mijn stem in mijn klacht; voor de schrik van de vijand bewaar je mijn leven.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mijn stem"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "in mijn klacht"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "voor de schrik"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "van de vijand"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "bewaar je"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mijn leven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:57.781570656Z",
+  "model": "glm-5.3"
+}

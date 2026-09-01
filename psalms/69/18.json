@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "En verberg uw aangezicht niet voor uw knecht, want benauwd ⟨is het⟩ voor mij; haast u, antwoord mij.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "verberg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "voor uw knecht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "צר",
+      "gloss": "benauwd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "haast u"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:49.786977376Z",
+  "model": "glm-5.3"
+}

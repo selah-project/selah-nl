@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Wij tasten naar de muur als blinden, en als zij zonder ogen tasten wij; wij struikelen in het middag ⟨als⟩ in de schemering, in dorre woestijnen als dode ⟨mensen⟩.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "tasten wij"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "als blinden"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "de muur"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "en als zonder"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ogen"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "tasten wij"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "struikelen wij"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "in het middag"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "als in de schemering"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "in dorre woestijnen"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "als dode ⟨mensen⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T21:25:34.057107052Z",
+  "model": "glm-5.3"
+}

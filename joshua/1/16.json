@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En zij antwoordden ⟨את⟩ Jehosjoea en zeiden: alles wat je ons geboden hebt, zullen wij doen, en naar elke ⟨plaats⟩ waarheen je ons zendt, zullen wij gaan.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "En zij antwoordden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehosjoea"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en zeiden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "je ons geboden hebt"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "zullen wij doen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en naar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke ⟨plaats⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "je ons zendt"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "zullen wij gaan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:29.835303564Z",
+  "model": "glm-5.3"
+}

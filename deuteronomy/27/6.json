@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Van hele stenen zul je ⟨את⟩ het altaar van Jahweh, je Elohim, bouwen, en je zult er brandoffers op laten opstijgen voor Jahweh, je Elohim.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "van stenen"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "hele"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "zul je bouwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het altaar van Jahweh, je Elohim"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "je Elohim"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "en zul je laten opstijgen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "erop"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "brandoffers"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "je Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:11.098095998Z",
+  "model": "glm-5.3"
+}

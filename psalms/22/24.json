@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Jahweh-vrezenden, loof hem; al het zaad van Jaäkov, verheerlijk hem; en vreest ⟨voor⟩ hem, al het zaad van Jisraël.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "vrezenden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "loof hem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "het zaad van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "verheerlijk hem"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "en vreest"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨voor⟩ hem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "het zaad van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:32.710602781Z",
+  "model": "glm-5.3"
+}

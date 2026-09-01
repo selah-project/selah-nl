@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "Zij hebben mij omringd als wateren, de hele dag; zij hebben zich tezamen tegen mij gesloten.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "zij hebben mij omringd"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "als wateren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "zij hebben zich gesloten"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tezamen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:57.935090536Z",
+  "model": "glm-5.3"
+}

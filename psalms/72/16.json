@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "Moge er overvloed van koren zijn in het land, op de toppen van de bergen moge het golven; als ⟨de⟩ Libanon zijn vrucht, en moge ⟨de stad⟩ doen bloeien uit de stad, als gras van het land.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "moge er zijn"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "overvloed"
+    },
+    {
+      "surface": "בר",
+      "gloss": "van koren"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "op de toppen"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "van de bergen"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "moge het golven"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "als de Libanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "zijn vrucht"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "en moge bloeien"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "uit de stad"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "als gras"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:56.385692944Z",
+  "model": "glm-5.3"
+}

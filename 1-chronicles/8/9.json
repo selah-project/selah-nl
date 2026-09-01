@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij verwekte bij Chodesj, zijn vrouw, ⟨את⟩ Jovav en ⟨את⟩ Tshivja en ⟨את⟩ Mesja en ⟨את⟩ Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "en hij verwekte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bij"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Chodesj"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Tshivja"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tshivja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Mesja"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mesja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:46.463053456Z",
+  "model": "glm-5.3"
+}

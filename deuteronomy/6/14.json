@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Jullie mogen niet gaan achter andere elohim, van de elohim van de volken die rondom jullie ⟨zijn⟩,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "mogen jullie gaan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andere"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "van de elohim"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "rondom jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:06.898171226Z",
+  "model": "glm-5.3"
+}

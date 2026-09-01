@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Mitsrajim liet de zonen van Jisraël slavenarbeid verrichten, ⟨את⟩ de zonen van Jisraël, met wreedheid.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "lieten slavenarbeid verrichten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zonen van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "met wreedheid"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:33.700992238Z",
+  "model": "glm-5.3"
+}

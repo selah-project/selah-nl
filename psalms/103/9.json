@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Niet voor eeuwig zal Hij twisten, en niet voor altijd zal Hij ⟨toorn⟩ bewaren.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "zal Hij twisten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor altijd"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "zal Hij bewaren"
+    }
+  ],
+  "timestamp": "2026-08-31T23:45:39.910459086Z",
+  "model": "glm-5.3"
+}

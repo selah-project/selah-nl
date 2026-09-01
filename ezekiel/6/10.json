@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En zij zullen weten dat Ik Jahweh ben; niet voor niets heb Ik gesproken om hun dit kwaad te doen.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "en zij zullen weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "voor niets",
+      "marks": "לא אל חנם vormt samen de ontkenning 'niet om niet'"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "voor niets"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "heb Ik gesproken"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "dit kwaad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-08-31T21:41:48.302708396Z",
+  "model": "glm-5.3"
+}

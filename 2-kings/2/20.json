@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En hij zei: Breng mij een nieuwe kruik en leg daar zout in. En zij brachten ⟨die⟩ naar hem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Breng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "een kruik"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "een nieuwe"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "en leg"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "zout"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "En zij brachten"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naar hem"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:36.088796819Z",
+  "model": "glm-5.3"
+}

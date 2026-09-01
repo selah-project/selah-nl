@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 28:27",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Wie aan de arme geeft, ⟨kent⟩ geen gebrek, maar wie zijn ogen verbergt, ⟨krijgt⟩ vele vloeken.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "aan de arme"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "gebrek"
+    },
+    {
+      "surface": "ומעלים",
+      "gloss": "maar verbergt"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "zijn ogen"
+    },
+    {
+      "surface": "רב",
+      "gloss": "vele"
+    },
+    {
+      "surface": "מארות",
+      "gloss": "vloeken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:54.240695258Z",
+  "model": "glm-5.3"
+}

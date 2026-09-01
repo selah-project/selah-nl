@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 96,
+  "translation": "Zeg onder de volken: Jahweh ⟨is⟩ koning geworden. Ja, ⟨de⟩ wereld ⟨is⟩ gefundeerd, zij zal niet wankelen; hij zal de volken rechtspreken in rechtheid.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Zeg"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder de volken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨is⟩ koning geworden"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨is⟩ gefundeerd"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨de⟩ wereld"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "zal wankelen"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "zal rechtspreken"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "in rechtheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.129815909Z",
+  "model": "glm-5.3"
+}

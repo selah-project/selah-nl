@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Maak voor jezelf geen gehouwen beeld, noch enige gestalte van iets dat in de hemelen hierboven is, of dat op de aarde hieronder is, of dat in de wateren onder de aarde is.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "maak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jezelf"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "gehouwen beeld"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "noch enige"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "gestalte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemelen"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "hierboven"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "of dat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "hieronder"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "of dat"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in de wateren"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:42.971060040Z",
+  "model": "glm-5.3"
+}

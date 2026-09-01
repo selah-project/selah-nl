@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "Maar als u ⟨hem⟩ niet zendt, gaan wij niet neer, want de man heeft tot ons gezegd: Jullie zullen mijn aangezicht niet zien, tenzij jullie broer ⟨את⟩ met jullie ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Maar als"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "u niet"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "zendt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "gaan wij neer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "tot ons"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "zullen jullie zien"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mijn aangezicht"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "tenzij"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jullie broer"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ met jullie",
+      "marks": "met jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T23:14:30.058512014Z",
+  "model": "glm-5.3"
+}

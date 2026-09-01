@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 148,
+  "translation": "Looft Jah! Looft ⟨את⟩ Jahweh vanuit de hemelen, looft Hem in de hoogten.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Looft"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Looft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "vanuit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "looft Hem"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "in de hoogten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:20.173973808Z",
+  "model": "glm-5.3"
+}

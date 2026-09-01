@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Jahweh zei tot Kajin: waarom is het je heet geworden, en waarom is je aangezicht betrokken?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en Hij zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "is het heet geworden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "en waarom"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "is betrokken"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "je aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:45.363847870Z",
+  "model": "glm-5.3"
+}

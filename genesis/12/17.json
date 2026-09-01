@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Jahweh trof Par'o ⟨את⟩ met grote plagen, en ⟨את⟩ zijn huis, om de zaak van Sarai, de vrouw van Abram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "trof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Par'o"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "plagen"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn huis"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "de zaak"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "van Abram"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:37.433631421Z",
+  "model": "glm-5.3"
+}

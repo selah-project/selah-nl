@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "om het recht te doen van ⟨את⟩ de wees en ⟨את⟩ de verdrukte, opdat de sterveling ⟨van⟩ de aarde niet meer zal verschrikken.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "om het recht te doen"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "de wees",
+      "marks": "de wees"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "en de verdrukte",
+      "marks": "de verdrukte"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "zal (er) toe doen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "niet meer"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "te verschrikken"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "de sterveling"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:35.052348905Z",
+  "model": "glm-5.3"
+}

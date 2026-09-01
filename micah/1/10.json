@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "In Gat — vertel ⟨het⟩ niet, ween niet; in Beit-le-Afra rol u in het stof.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "in Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "vertelt"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "weent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "weent"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in ⟨het⟩ huis"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "van Afra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stof"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "rol ik mij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:59:11.057137046Z",
+  "model": "glm-5.3"
+}

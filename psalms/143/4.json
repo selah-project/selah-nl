@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 143,
+  "translation": "En mijn roeach is bedekt ⟨over⟩ mij geworden, binnenin mij is mijn hart verstomd.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "is bedekt geworden"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mijn roeach"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "binnenin mij"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "is verstomd"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:39.658715682Z",
+  "model": "glm-5.3"
+}

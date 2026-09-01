@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "U hebt hun die U vrezen een banier gegeven, om zich te ontvouwen omwille van de waarheid. Sela.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "U hebt gegeven"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "hun die U vrezen"
+    },
+    {
+      "surface": "נס",
+      "gloss": "een banier"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "om zich te ontvouwen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "omwille van"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "de waarheid"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:35.022343849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Toen zonden zij ⟨een boodschap⟩ naar Izevel, zeggend: Navot is gestenigd en hij is gestorven.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "toen zonden zij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "is gestenigd"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hij is gestorven"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:11.424603502Z",
+  "model": "glm-5.3"
+}

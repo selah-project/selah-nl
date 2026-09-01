@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "Die aan ons dacht in onze diepe vernedering — want tot in eeuwigheid ⟨is⟩ zijn chesed.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "in onze vernedering"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "die gedacht heeft"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:09.463431755Z",
+  "model": "glm-5.3"
+}

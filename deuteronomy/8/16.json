@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "die je man liet eten in de woestijn, dat je vaderen niet gekend hebben — om je te verootmoedigen en om je op de proef te stellen, om je goed te doen in je toekomst",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "die je liet eten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "gekend hebben"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "je vaderen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "je te verootmoedigen"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "en om"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "je op de proef te stellen"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "je goed te doen"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "in je toekomst"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:16.895463380Z",
+  "model": "glm-5.3"
+}

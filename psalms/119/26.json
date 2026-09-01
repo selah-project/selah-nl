@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Mijn wegen heb ik verteld, en U hebt mij geantwoord; leer mij Uw verordeningen.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "mijn wegen"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "heb ik verteld"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "en U hebt mij geantwoord"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "leer mij"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "Uw verordeningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:23.761929186Z",
+  "model": "glm-5.3"
+}

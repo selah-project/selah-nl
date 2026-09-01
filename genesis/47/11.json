@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "En Joesef deed ⟨את⟩ zijn vader en ⟨את⟩ zijn broers wonen, en gaf hun een bezitting in het land Mitsrajim, in het beste van het land, in het land Ra'mses, zoals Par'o geboden had.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "en hij deed wonen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn broers"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij gaf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "een bezitting"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "in het beste van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Ra'mses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboden had"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:01.384808284Z",
+  "model": "glm-5.3"
+}

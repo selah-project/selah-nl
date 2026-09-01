@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 124,
+  "translation": "Onze nefesj ⟨is⟩ ontsnapt als een vogel uit de strik van de vangers; de strik is gebroken en wij zijn ontsnapt.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "onze nefesj"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "als een vogel"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "⟨is⟩ ontsnapt"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "uit de strik"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "van de vangers"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "de strik"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "is gebroken"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "en wij"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "zijn ontsnapt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:47.471962112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En tegen de edelen van de zonen van Jisraël strekte hij ⟨niet⟩ zijn hand uit — en zij aanschouwden ⟨את⟩ ha-Elohim, en zij aten en dronken.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en tegen"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "de edelen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "strekte uit"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "en zij aanschouwden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "en zij aten"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "en zij dronken"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:03.959496756Z",
+  "model": "glm-5.3"
+}

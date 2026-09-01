@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En Mosjee verzamelde ⟨את⟩ heel de vergadering van de zonen van Jisraël en hij zei tot hen: dit zijn de woorden die Jahweh geboden heeft te doen, ⟨את⟩-hen.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "en hij verzamelde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel de vergadering van de zonen van Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zijn de woorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebood"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "de woorden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:28.877392461Z",
+  "model": "glm-5.3"
+}

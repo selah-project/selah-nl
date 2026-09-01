@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En zij bleven zitten drie jaren, geen oorlog tussen Aram en tussen Israël.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "en zij bleven zitten"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaren"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "oorlog"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:33.965560236Z",
+  "model": "glm-5.3"
+}

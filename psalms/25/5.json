@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Leid mij in uw waarheid en onderwijs mij, want u bent Elohei ⟨van⟩ mijn heil; op ⟨את⟩ u wacht ik de hele dag.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Leid mij"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "in uw waarheid"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "en onderwijs mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u bent"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohei"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "⟨van⟩ mijn heil"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "op u"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "wacht ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:10.942458234Z",
+  "model": "glm-5.3"
+}

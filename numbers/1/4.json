@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ⟨את⟩ met u zal er zijn, man na man, per stam, een man, een hoofd van het huis van zijn vaderen — hij ⟨is het⟩.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "en ⟨את⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zal er zijn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "na man"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "per stam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "een hoofd"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "van zijn vaderen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij ⟨is het⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:13.081584819Z",
+  "model": "glm-5.3"
+}

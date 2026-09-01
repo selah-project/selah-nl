@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Er is er een die zich rijk maakt en ⟨heeft⟩ niets; er is er een die zich arm maakt, en ⟨doch⟩ bezit overvloed.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "er is"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "die zich rijk maakt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en ⟨heeft⟩ niets"
+    },
+    {
+      "surface": "כל",
+      "gloss": "helemaal niets"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "die zich arm maakt"
+    },
+    {
+      "surface": "והון",
+      "gloss": "en bezit"
+    },
+    {
+      "surface": "רב",
+      "gloss": "overvloed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:23.358761953Z",
+  "model": "glm-5.3"
+}

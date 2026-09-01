@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Jehonatan trok de mantel uit die op hem was, en gaf die aan David — ook zijn klederen, en tot zijn zwaard, en tot zijn boog, en tot zijn gordel.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "En hij trok uit"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mantel"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "de mantel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hem was"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "en gaf die"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ook zijn klederen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "zijn zwaard"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "zijn boog"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "zijn gordel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:46:42.967590709Z",
+  "model": "glm-5.3"
+}

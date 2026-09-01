@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 111,
+  "translation": "De macht van zijn daden heeft Hij bekendgemaakt aan zijn volk, om hun de erfenis van ⟨de⟩ volken te geven.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "de macht"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "van zijn daden"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "heeft Hij bekendgemaakt"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "aan zijn volk"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te geven"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "de erfenis"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "van volken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:31.086343769Z",
+  "model": "glm-5.3"
+}

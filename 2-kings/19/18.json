@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "en hebben ⟨את⟩ hun goden in het vuur geworpen, want ⟨ze⟩ zijn geen goden, maar het maaksel van mensenhanden, hout en steen, en zij hebben ze verdelgd.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "en hebben geworpen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun goden"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hun goden"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in het vuur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "goden"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨(deel van 'maar alleen')⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "het maaksel"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "van mensenhanden"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hout"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "en steen"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "en zij hebben ze verdelgd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:20.082849399Z",
+  "model": "glm-5.3"
+}

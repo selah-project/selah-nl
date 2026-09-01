@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 85,
+  "translation": "Doe ons terugkeren, Elohim van ons heil, en maak uw gramschap jegens ons te niet.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Doe ons terugkeren"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "van ons heil"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "en maak te niet"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "uw gramschap"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "jegens ons"
+    }
+  ],
+  "timestamp": "2026-09-01T00:04:37.918095383Z",
+  "model": "glm-5.3"
+}

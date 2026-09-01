@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En wij zeiden: laten wij ⟨את⟩ nu voor onszelf doen: ⟨את⟩ het altaar bouwen, niet voor brandoffer en niet voor slachtoffoffer.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "en wij zeiden"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "laten wij doen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor onszelf"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "bouwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het altaar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "voor brandoffer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "voor slachtoffoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:34:08.991349636Z",
+  "model": "glm-5.3"
+}

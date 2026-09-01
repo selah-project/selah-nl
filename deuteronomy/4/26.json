@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 4:26",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Ik roep heden ⟨את⟩ de hemel en ⟨את⟩ de aarde als getuigen tegen u: gij zult haastig te gronde gaan, van het land waarover gij de Jordaan oversteekt daarnaartoe om het in bezit te nemen; gij zult uw dagen daarop niet verlengen, maar volkomen verdelgd worden.",
+  "tokens": [
+    {
+      "surface": "העידתי",
+      "gloss": "Ik roep als getuigen"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "tegen u"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hemel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨dat⟩"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "te gronde"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "gaan zult gij"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "haastig"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarover"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "gij"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "oversteekt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Jordaan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jordaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarnaartoe"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "om het in bezit te nemen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאריכן",
+      "gloss": "zult verlengen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "darop"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "השמד",
+      "gloss": "volkomen verdelgd"
+    },
+    {
+      "surface": "תשמדון",
+      "gloss": "zult gij worden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:49.480096595Z",
+  "model": "glm-5.3"
+}

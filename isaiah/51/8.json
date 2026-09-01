@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Want als een kleed zal de mot hen opeten, en als wol zal ⟨de worm⟩ hen opeten; maar mijn recht zal voor eeuwig zijn en mijn heil voor geslachten van geslachten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "als een kleed"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "zal hen opeten"
+    },
+    {
+      "surface": "עש",
+      "gloss": "mot"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "en als wol"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "zal hen opeten"
+    },
+    {
+      "surface": "סס",
+      "gloss": "worm"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "en mijn recht"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "en mijn heil"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "voor geslacht"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "van geslachten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:42.785602798Z",
+  "model": "glm-5.3"
+}

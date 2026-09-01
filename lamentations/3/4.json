@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Hij heeft mijn vlees doen verdorren en mijn huid, hij heeft mijn beenderen gebroken.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "heeft doen verdorren"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mijn vlees"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "en mijn huid"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "heeft gebroken"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mijn beenderen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:41:18.375819129Z",
+  "model": "glm-5.3"
+}

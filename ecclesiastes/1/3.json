@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Wat ⟨is⟩ de winst voor de mens bij al zijn gezwoeg, waarmee hij zwoegt onder de zon?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "de winst"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "voor de mens"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bij al"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "zijn gezwoeg"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "waarmee hij zwoegt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:39.808725852Z",
+  "model": "glm-5.3"
+}

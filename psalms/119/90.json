@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Generatie op generatie ⟨is⟩ uw trouw; u heeft de aarde gegrondvest, en zij staat.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "generatie op"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "generatie"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "uw trouw"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "u heeft gegrondvest"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "en zij staat"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:52.692744505Z",
+  "model": "glm-5.3"
+}

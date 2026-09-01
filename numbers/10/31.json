@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En hij zei: Verlaat ons toch niet, want jij kent immers onze kampplaatsen in de woestijn, en jij zult ons tot ogen zijn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "verlaat"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "immers"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "jij kent"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "onze kampplaatsen"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "en jij zult zijn"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "tot ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:08.587878570Z",
+  "model": "glm-5.3"
+}

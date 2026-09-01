@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En bij enige nefesj van een dode zal hij niet komen; voor zijn vader en voor zijn moeder zal hij zich niet verontreinigen.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "En bij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nefesj"
+    },
+    {
+      "surface": "מת",
+      "gloss": "van een dode"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "zal hij komen"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "voor zijn vader"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "en voor zijn moeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "zal hij zich verontreinigen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:50.008298607Z",
+  "model": "glm-5.3"
+}

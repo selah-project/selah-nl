@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Mijn nefesj is voortdurend in mijn handpalm, maar uw Tora heb ik niet vergeten.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "in mijn handpalm"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "maar uw Tora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "heb ik vergeten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:56.858579183Z",
+  "model": "glm-5.3"
+}

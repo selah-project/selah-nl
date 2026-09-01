@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En zijn mannen die met hem waren, bracht David omhoog, ieder met zijn huisgezin, en zij gingen wonen in de steden van Chevron.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "En zijn mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bracht omhoog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "met zijn huisgezin"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "en zij gingen wonen"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "in de steden"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "van Chevron"
+    }
+  ],
+  "timestamp": "2026-08-31T20:50:26.348705627Z",
+  "model": "glm-5.3"
+}

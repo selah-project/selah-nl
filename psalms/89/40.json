@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Je hebt het verbond van je dienaar verzaakt, zijn kroon heb je ontwijd ⟨door hem⟩ naar de aarde ⟨te werpen⟩.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "je hebt verzaakt"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "verbond"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "van je dienaar"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "heb je ontwijd"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "naar de aarde"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "zijn kroon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:10.518267891Z",
+  "model": "glm-5.3"
+}

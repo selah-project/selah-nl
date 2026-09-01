@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Moge Reuben leven en niet sterven, en mogen zijn mannen ⟨slechts⟩ geteld ⟨zijn⟩, ⟨weinig⟩ in getal.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "moge leven"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "sterven"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en moge zijn"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "zijn mannen"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "in getal"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:32.316294490Z",
+  "model": "glm-5.3"
+}

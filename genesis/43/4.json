@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "Als jij erop staat ⟨את⟩ onze broer met ons ⟨את⟩ te zenden, zullen wij afdalen en voor jou voedsel kopen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "jij erop staat"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "te zenden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onze broer"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "onze broer"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ met ons"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "zullen wij afdalen"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "en… kopen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "voedsel"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:17.619759189Z",
+  "model": "glm-5.3"
+}

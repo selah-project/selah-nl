@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En zij begeren velden en roven ⟨ze⟩, en huizen, en nemen ⟨ze⟩ weg; zij onderdrukken een man en zijn huis, een ieder en zijn erfdeel.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "en zij begeren"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "velden"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "en roven"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "en huizen"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "en nemen weg"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "en zij onderdrukken"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "een man"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "en zijn huis"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "een ieder"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "en zijn erfdeel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:03.127209043Z",
+  "model": "glm-5.3"
+}

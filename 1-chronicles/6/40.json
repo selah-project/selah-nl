@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En zij gaven hun ⟨את⟩ Chevron in het land van Jehoeda, en ⟨את⟩ zijn weidegronden eromheen.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "En zij gaven"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn weidegronden"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "zijn weidegronden"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "eromheen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:59:02.693744203Z",
+  "model": "glm-5.3"
+}

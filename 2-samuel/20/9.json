@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 20:9",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Joab zei tot Amasa: Is het sjaloom, mijn broeder? En de rechterhand van Joab greep de baard van Amasa om hem te kussen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "לעמשא",
+      "gloss": "tot Amasa"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "is het sjaloom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mijn broeder"
+    },
+    {
+      "surface": "ותחז",
+      "gloss": "en zij greep"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "rechter-"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "van Joab"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "de baard"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "van Amasa"
+    },
+    {
+      "surface": "לנשק",
+      "gloss": "om te kussen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:00.545416079Z",
+  "model": "glm-5.3"
+}

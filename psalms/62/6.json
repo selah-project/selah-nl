@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 62,
+  "translation": "Alleen bij Elohim, zwijg stil, mijn ziel; want van Hem is mijn verwachting.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bij Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "zwijg stil"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn ziel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van Hem"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "mijn verwachting"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:47.305744491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "een volk hard van aangezicht, dat geen aangezicht opheft voor een oude ⟨man⟩, en voor een jonge ⟨man⟩ geen genade betoont.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "een volk"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hard"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "van aangezicht"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "opheft"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "aangezicht"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "voor een oude man"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "en voor een jonge man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "genade betoont"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:24.427028042Z",
+  "model": "glm-5.3"
+}

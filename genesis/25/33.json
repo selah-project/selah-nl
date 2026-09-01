@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En Jaakob zei: Zweer mij ⟨het⟩ heden; en hij zwoer hem ⟨het⟩, en hij verkocht ⟨את⟩ zijn eerstgeboorterecht aan Jaakob.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "Zweer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "en hij zwoer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "en hij verkocht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn eerstgeboorterecht"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "zijn eerstgeboorterecht"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "aan Jaakob"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:31.581790631Z",
+  "model": "glm-5.3"
+}

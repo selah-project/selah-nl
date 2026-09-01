@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 18:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Jahweh verscheen aan hem bij de terebinten van Mamre, terwijl hij zat aan de ingang van de tent in de hitte van de dag.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "verscheen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aan hem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "bij de terebinten van"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamre"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "terwijl hij"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "zat"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aan de ingang van"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "in de hitte van"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de dag"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:20.505301761Z",
+  "model": "glm-5.3"
+}

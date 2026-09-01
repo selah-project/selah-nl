@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En Dawid nam ⟨את⟩ het hoofd van de Filistijner en bracht het naar Jeroesjalajim, en ⟨את⟩ zijn wapens legde hij in zijn tent.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en nam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hoofd van de Filistijner"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "het hoofd"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "van de Filistijner"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "en bracht het"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "naar Jeroesjalajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn wapens"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zijn wapens"
+    },
+    {
+      "surface": "שם",
+      "gloss": "legde"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "in zijn tent"
+    }
+  ],
+  "timestamp": "2026-08-31T23:19:40.057792111Z",
+  "model": "glm-5.3"
+}

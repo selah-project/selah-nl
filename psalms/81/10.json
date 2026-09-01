@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 81,
+  "translation": "Er zij in uw midden geen vreemde El, en u zult zich niet buigen voor een El van buitenlandse ⟨afkomst⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Er zij... niet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in uw midden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vreemde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "u zult zich buigen"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "voor een El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "van buitenlandse ⟨afkomst⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:23.174922339Z",
+  "model": "glm-5.3"
+}

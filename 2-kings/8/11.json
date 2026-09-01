@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij zette ⟨את⟩ zijn aangezicht gestadig ⟨op hem⟩, tot ⟨hij⟩ zich schaamde; en de man van de Elohim weende.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "en hij zette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn aangezicht"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zijn aangezicht"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en hield het"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בש",
+      "gloss": "zich schaamde"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "en hij weende"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van de Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:43.518978074Z",
+  "model": "glm-5.3"
+}

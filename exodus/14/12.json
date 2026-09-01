@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Is dit niet het woord dat wij tot u gesproken hebben in Mitsrajim, zeggende: Laat ons los, dan dienen wij ⟨את⟩ Mitsrajim? Want het is beter voor ons ⟨את⟩ Mitsrajim te dienen dan in de woestijn te sterven.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "is ... niet"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "wij gesproken hebben"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "laat los"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van ons"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "dan dienen wij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het is beter"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "te dienen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "dan te sterven"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:33.588762990Z",
+  "model": "glm-5.3"
+}

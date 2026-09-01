@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "Elohim is opgegaan ⟨met⟩ gejuich, Jahweh ⟨bij⟩ het geluid van de sjofar.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "is opgegaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "⟨met⟩ gejuich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "⟨bij⟩ het geluid"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "van de sjofar"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:32.552416447Z",
+  "model": "glm-5.3"
+}

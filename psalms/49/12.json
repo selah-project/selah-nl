@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Hun binnenste ⟨denkt⟩: hun huizen ⟨zijn⟩ voor eeuwig, hun woningen voor geslacht en geslacht; zij riepen hun namen uit over gronden.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "hun binnenste"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "hun huizen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "hun woningen"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "voor geslacht"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en geslacht"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "zij riepen uit"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "hun namen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "gronden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:56.839573957Z",
+  "model": "glm-5.3"
+}

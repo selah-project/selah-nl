@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En Tsidkia, zoon van Kenaäna, maakte voor zich hoorns van ijzer en zei: Zo zegt Jahweh: Met deze zul je Aram stoten ⟨את⟩ tot je hen verdelgd hebt.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor zich"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Tsidkia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "van Kenaäna"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "hoorns"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "van ijzer"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "met deze"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "zul je stoten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "je hen verdelgd hebt"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:12.088915280Z",
+  "model": "glm-5.3"
+}

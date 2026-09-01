@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 2:23",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de zaak werd onderzocht en gevonden, en zij werden beiden gehangen aan een hout; en het werd geschreven in het boek van de kronieken vóór het aangezicht van de koning.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "En werd onderzocht"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "de zaak"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "en gevonden"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "en zij werden gehangen"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "zij beiden"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "een hout"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "en het werd geschreven"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in het boek"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "van de kronieken"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "van de dagen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vóór het aangezicht van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:29.778917481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "en neem ⟨את⟩ jullie vader en ⟨את⟩ jullie huishoudens en kom naar mij; dan geef ik jullie ⟨את⟩ het beste van het land Mitsrajim, en jullie zullen eten ⟨את⟩ het vet van ⟨de⟩ land.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "en neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie vader"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "jullie vader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jullie huishoudens"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "jullie huishoudens"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "en kom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naar mij"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "dan geef ik"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het beste"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het beste"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "en jullie zullen eten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het vet"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "het vet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:10.009794695Z",
+  "model": "glm-5.3"
+}

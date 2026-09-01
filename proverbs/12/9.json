@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Beter ⟨is⟩ wie gering geacht wordt en toch een dienaar heeft, dan wie zichzelf eert en brood mist.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "beter"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "gering geacht wordt"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "en een dienaar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "heeft"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "dan wie zichzelf eert"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "en mist"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:17.650969390Z",
+  "model": "glm-5.3"
+}

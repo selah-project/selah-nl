@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Wie heeft gewrocht en gedaan, de geslachten roepend vanaf het begin? Ik, Jahweh, de Eerste, en ⟨met⟩ ⟨את⟩ de laatsten — ik ben het.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "heeft gewrocht"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en gedaan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "roepend"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "de geslachten"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "vanaf het begin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "de Eerste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de laatsten"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "de laatsten"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ben het"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:32.162850360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Want de droom komt bij veel gezwoeg, en de stem van een dwaas bij veel woorden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "de droom"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bij veel"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "gezwoeg"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "en de stem"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "van een dwaas"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bij veel"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "woorden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:11.031832750Z",
+  "model": "glm-5.3"
+}

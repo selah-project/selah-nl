@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Hoelang, luiaard, zul je blijven liggen? Hoelang zul je opstaan uit je slaap?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hoelang"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hoelang"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "luiaard"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "zul je blijven liggen"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hoelang"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "zul je opstaan"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "uit je slaap"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:37.010949580Z",
+  "model": "glm-5.3"
+}

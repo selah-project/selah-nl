@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "In hongersnood zal Hij je lossen uit ⟨de⟩ dood, en in oorlog uit de handen van het zwaard.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "in hongersnood"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "zal Hij je lossen"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "uit de dood"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "en in oorlog"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "uit de handen van"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "het zwaard"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:39.088434788Z",
+  "model": "glm-5.3"
+}

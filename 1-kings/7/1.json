@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En ⟨את⟩ zijn huis bouwde Shelomoh, dertien jaar, en hij voltooide ⟨את⟩ zijn gehele huis.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn huis"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bouwde"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "dertien"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(tien)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "en hij voltooide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn gehele huis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gehele"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "huis"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:22.107014572Z",
+  "model": "glm-5.3"
+}

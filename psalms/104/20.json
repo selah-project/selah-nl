@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "U stelt duisternis en het wordt nacht; daarin kruipt al het gedierte van het woud ⟨rond⟩.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "U stelt"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het wordt"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nacht"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "kruipt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "het gedierte"
+    },
+    {
+      "surface": "יער",
+      "gloss": "van het woud"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:04.054472204Z",
+  "model": "glm-5.3"
+}

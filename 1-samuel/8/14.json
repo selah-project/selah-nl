@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En ⟨את⟩ jullie velden, en ⟨את⟩ jullie wijngaarden, en jullie olijfbomen — de beste — zal hij nemen, en geven aan zijn dienaren.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jullie velden"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "jullie velden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jullie wijngaarden"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "jullie wijngaarden"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "en jullie olijfbomen"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "de beste"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "zal hij nemen"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en geven"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "aan zijn dienaren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:21.475836862Z",
+  "model": "glm-5.3"
+}

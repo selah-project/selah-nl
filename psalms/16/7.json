@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Ik zegen ⟨את⟩ Jahweh, die mij raad geeft; ook in de nachten onderwijzen mijn nieren mij.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Ik zegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "mij raad geeft"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "in de nachten"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "onderwijzen mij"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "mijn nieren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:02.172473697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En zij stelden over hen opzichters van dwangarbeid, om hen te onderdrukken met hun lasten; en men bouwde voorsteden voor Par'o: ⟨את⟩ Pitom en ⟨את⟩ Raämses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "en zij stelden"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over hen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "opzichters"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "van dwangarbeid"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "hen te onderdrukken"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "met hun lasten"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "en men bouwde"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "steden"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "voorsteden"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "voor Par'o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Raämses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raämses"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:29.010750746Z",
+  "model": "glm-5.3"
+}

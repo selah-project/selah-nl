@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "En Hij gaf hun landen van ⟨de⟩ volken, en de moeite van natiën erfden zij.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "landen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "van volken"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "en de moeite"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "van natiën"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "erfden zij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:26.464240820Z",
+  "model": "glm-5.3"
+}

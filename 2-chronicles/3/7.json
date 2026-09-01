@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En hij overtrok ⟨את⟩ het huis — de balken, de drempels en zijn wanden, en zijn deuren — met goud, en hij graveerde keruvim op de wanden.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "overtrok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "de balken"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "de drempels"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "zijn wanden"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "zijn deuren"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "graveerde"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "de wanden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:04:56.893450575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Een metgezel ben ik van allen die U vrezen, en van wie uw bepalingen bewaren.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "metgezel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben ik"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "van allen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "U vrezen"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "en van wie bewaren"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "uw bepalingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:35.850543013Z",
+  "model": "glm-5.3"
+}

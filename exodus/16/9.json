@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 16:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Mosjee zei tot Aharon: Zeg tot de hele vergadering van de kinderen van Jisraël: Nader voor het aangezicht van Jahweh, want Hij heeft ⟨את⟩ jullie gemor gehoord.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "nader"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Hij heeft gehoord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie gemor"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "jullie gemor"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:05.530019590Z",
+  "model": "glm-5.3"
+}

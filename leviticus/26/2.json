@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "⟨את⟩ mijn sabbatsdagen zult gij onderhouden, en mijn heiligdom zult gij vrezen; ík ⟨ben⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn sabbatsdagen"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mijn sabbatsdagen"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "zult gij onderhouden"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "en mijn heiligdom"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "zult gij vrezen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ík"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:11.402843468Z",
+  "model": "glm-5.3"
+}

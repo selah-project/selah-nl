@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 30:17",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "In de nacht worden mijn beenderen doorboord en vallen van mij los, en mijn pezen vinden geen rust.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "In de nacht"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mijn beenderen"
+    },
+    {
+      "surface": "נקר",
+      "gloss": "worden doorboord"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van mij los"
+    },
+    {
+      "surface": "וערקי",
+      "gloss": "en mijn pezen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "vinden rust"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:24.765415016Z",
+  "model": "glm-5.3"
+}

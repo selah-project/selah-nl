@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 86,
+  "translation": "Er is niemand als u onder ⟨ de ⟩ Elohim, Adonai, en er is niets als uw werken.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "er is niet"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "als u"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "onder Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is niet"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "als uw werken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:23.662779693Z",
+  "model": "glm-5.3"
+}

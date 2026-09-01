@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Hij zendt zijn woord uit en doet ⟨ze⟩ smelten; hij doet zijn wind waaien, en de wateren vloeien.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Hij zendt uit"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "zijn woord"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "en doet ⟨ze⟩ smelten"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "hij doet waaien"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "zijn wind"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "vloeien"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de wateren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:19.905685523Z",
+  "model": "glm-5.3"
+}

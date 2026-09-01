@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En de mannen deden zo: ze namen twee koeien die melk gaven en bonden ze aan de wagen, en ⟨את⟩ hun kalveren sloten ze op in het huis.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "en deden"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ze namen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "koeien"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "die melk gaven"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "en bonden ze"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "aan de wagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun kalveren"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "hun kalveren"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "sloten op"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:46.383704395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "Voor zijn aangezicht zullen zij zich bukken, de bewoners van de dorre streken, en zijn vijanden zullen het stof likken.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "voor zijn aangezicht"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "zullen zij zich bukken"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "de bewoners van de dorre streken"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "en zijn vijanden"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "het stof"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "zullen likken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:26.073771408Z",
+  "model": "glm-5.3"
+}

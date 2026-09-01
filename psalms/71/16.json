@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Ik zal komen met de machtsdaden van Adonai Jahweh, ik zal uw gerechtigheid gedenkzaam maken, van u alleen.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ik zal komen"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "met de machtsdaden"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ik zal gedenkzaam maken"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "uw gerechtigheid"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "van u alleen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:39.803450289Z",
+  "model": "glm-5.3"
+}

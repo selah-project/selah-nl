@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Want zij spreken geen vrede, en tegen de stilen des lands bedenken zij woorden van bedrog.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "spreken zij"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en tegen"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "de stilen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "des lands"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "van bedrog"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "bedenken zij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:23.782263133Z",
+  "model": "glm-5.3"
+}

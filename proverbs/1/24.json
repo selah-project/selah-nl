@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 1:24",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Omdat ik geroepen heb en jullie geweigerd hebben, omdat ik mijn hand uitgestrekt heb en er niemand ⟨is⟩ die luistert.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Omdat"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ik geroepen heb"
+    },
+    {
+      "surface": "ותמאנו",
+      "gloss": "en jullie geweigerd hebben"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "ik uitgestrekt heb"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mijn hand"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er ⟨is⟩ niemand"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "die luistert"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:31.606125310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En de koning stkte ⟨את⟩ de gouden scepter uit naar Ester, en Ester stond op en ging staan voor het aangezicht van de koning.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "stak uit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "naar Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gouden scepter"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "de scepter"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gouden"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "en stond op"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "en ging staan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:01.484966834Z",
+  "model": "glm-5.3"
+}

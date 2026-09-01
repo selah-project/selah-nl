@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ⟨את⟩ hen die terugwijken van achter Jahweh ⟨aan⟩, en die Jahweh niet gezocht hebben ⟨את⟩ en Hem niet onderzocht",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hen die terugwijken"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "hen die terugwijken"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "van achter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "gezocht hebben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "onderzocht (Hem)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:02:00.090972779Z",
+  "model": "glm-5.3"
+}

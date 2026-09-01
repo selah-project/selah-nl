@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Toen kwam zij en vertelde ⟨het⟩ aan de man van Elohim, en hij zei: Ga, verkoop ⟨את⟩ de olie en betaal ⟨את⟩ je schulden; en jij en je zonen zullen leven van ⟨wat⟩ overblijft.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "en zij kwam"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "en vertelde"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan de man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "verkoop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de olie"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "de olie"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "en betaal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je schulden"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "je schulden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en jij"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "je zonen"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "zullen leven"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "van wat overblijft"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:57.387141918Z",
+  "model": "glm-5.3"
+}

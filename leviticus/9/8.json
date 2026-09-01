@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Aharón naderde tot het altaar, en hij slachtte ⟨את⟩ de stierkalveren van het zonde-offer, die voor hem was.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "en hij naderde"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharón"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "en hij slachtte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het kalf van het zonde-offer"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "het kalf"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van het zonde-offer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem was"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:31.695634360Z",
+  "model": "glm-5.3"
+}

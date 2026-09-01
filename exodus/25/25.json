@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En u zult voor het ⟨een⟩ rand maken, een handbreed ⟨breed⟩, rondom, en u zult een krans van goud maken voor zijn rand, rondom.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en u zult maken"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor het"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "rand"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "een handbreed"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en u zult maken"
+    },
+    {
+      "surface": "זר",
+      "gloss": "een krans"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "voor zijn rand"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:25.677916387Z",
+  "model": "glm-5.3"
+}

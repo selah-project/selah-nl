@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jahweh hoorde ⟨את⟩ de klank van jullie woorden, en hij werd toornig en zwoer, zeggende:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hij hoorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de klank van jullie woorden"
+    },
+    {
+      "surface": "קול",
+      "gloss": "de klank"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "van jullie woorden"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "en hij werd toornig"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "en hij zwoer"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:11.002046180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En Mosjee bracht ⟨את⟩ hun rechtszaak voor het aangezicht van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "en bracht"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun rechtszaak"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "hun rechtszaak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:17:18.905469841Z",
+  "model": "glm-5.3"
+}

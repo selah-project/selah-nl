@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "opdat Ik ⟨את⟩ het huis van Israël grijp in hun hart, ⟨zij⟩ die zich van Mij afgekeerd hebben door hun drekgoden, hen allemaal.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "grijp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Israël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "in hun hart"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "zich afgekeerd hebben"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van Mij"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "door hun drekgoden"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hen allemaal"
+    }
+  ],
+  "timestamp": "2026-08-31T21:45:10.218595058Z",
+  "model": "glm-5.3"
+}

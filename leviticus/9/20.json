@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En zij legden ⟨את⟩ de vetdelen op de borsten, en hij liet ⟨את⟩ de vetdelen in rook opgaan op het altaar.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "en zij legden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vetdelen"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "de vetdelen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "de borsten"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "en hij liet in rook opgaan"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "de vetdelen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:11.269377051Z",
+  "model": "glm-5.3"
+}

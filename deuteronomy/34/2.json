@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "en ⟨את⟩ heel Naftali, en ⟨את⟩ het land van Efrajim en Menasje, en ⟨את⟩ heel het land van Jehoeda, tot aan de achterste zee;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "heel Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het land van Efrajim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land van"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "en Menasje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "heel het land van Jehoeda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "de achterste"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:39.609453924Z",
+  "model": "glm-5.3"
+}

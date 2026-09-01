@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "en wat hij ⟨jullie⟩ gedaan heeft in de woestijn, tot jullie komst tot deze plaats toe,",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedaan heeft"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "jullie komst"
+    },
+    {
+      "surface": "עד",
+      "gloss": "toe"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "deze plaats"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:48.770061323Z",
+  "model": "glm-5.3"
+}

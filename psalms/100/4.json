@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 100,
+  "translation": "Kom zijn poorten binnen met todah, zijn voorhoven met lof; beloon ⟨hem⟩ dank, zegen zijn naam.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Kom binnen"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "zijn poorten"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "met todah (dank)"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "zijn voorhoven"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "met lof"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "beloon dank"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨hem⟩"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "zegen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:07.460308708Z",
+  "model": "glm-5.3"
+}

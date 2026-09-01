@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 81,
+  "translation": "En ik liet hen gaan in de hardnekkigheid van hun hart, zij zouden wandelen in hun eigen raadsbesluiten.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "en ik liet hen gaan"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "in de hardnekkigheid"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "van hun hart"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "zij zouden wandelen"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "in hun eigen raadsbesluiten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:23.449510119Z",
+  "model": "glm-5.3"
+}

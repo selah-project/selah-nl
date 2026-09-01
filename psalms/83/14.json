@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "Mijn Elohim, maak hen als een wentelende ⟨galgal⟩, als kaf voor de wind.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "maak hen"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "als een wentelende ⟨galgal⟩"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "als kaf"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de wind"
+    }
+  ],
+  "timestamp": "2026-08-31T23:45:40.653452721Z",
+  "model": "glm-5.3"
+}

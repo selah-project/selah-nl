@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Hij stak zijn handen uit tegen wie in vrede met hem waren; hij ontheiligde zijn verbond.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "stak uit"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "zijn handen"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "tegen wie in vrede met hem waren"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ontheiligde"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "zijn verbond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:55.343780417Z",
+  "model": "glm-5.3"
+}

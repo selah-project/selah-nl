@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Want wat heeft de wijze meer dan de dwaas? Wat heeft de arme die weet te wandelen voor het aangezicht van de levenden?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "meer"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "heeft de wijze"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "de dwaas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "heeft de arme"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "die weet"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "te wandelen"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "van de levenden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:51.209019258Z",
+  "model": "glm-5.3"
+}

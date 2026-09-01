@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En wie zijn vader of zijn moeder slaat, moet gedood worden — hij zal zeker gedood worden.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "En wie slaat"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "of zijn moeder"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moet gedood worden"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hij zal zeker gedood worden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:35.962666110Z",
+  "model": "glm-5.3"
+}

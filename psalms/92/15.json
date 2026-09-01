@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "Nog in de grijsheid zullen zij vrucht dragen, vet en groen zullen zij zijn.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "zullen zij vrucht dragen"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "in de grijsheid"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "vet"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "en groen"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zullen zij zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.140677948Z",
+  "model": "glm-5.3"
+}

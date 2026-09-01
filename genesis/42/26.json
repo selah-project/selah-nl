@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En zij laadden ⟨את⟩ hun koren op hun ezels en gingen van daar weg.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "en zij laadden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun koren"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "hun koren"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "hun ezels"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en gingen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:47.854055049Z",
+  "model": "glm-5.3"
+}

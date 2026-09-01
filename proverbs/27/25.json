@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Het hooi wordt ontbloot, en het jonge gras verschijnt, en de kruiden van de bergen worden verzameld.",
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "wordt ontbloot"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "het hooi"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "en verschijnt"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "het jonge gras"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "en worden verzameld"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "de kruiden"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "van de bergen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:22.752643107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "want deze ⟨is⟩ Elohim, onze Elohim, voor eeuwig en immer; híj zal ons leiden ⟨tot⟩ ⟨over⟩ de dood.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en immer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "híj"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "zal ons leiden"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨tot⟩ ⟨over⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de dood"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:46.362127730Z",
+  "model": "glm-5.3"
+}

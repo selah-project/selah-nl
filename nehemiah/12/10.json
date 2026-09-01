@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Jesjoea verwekte ⟨את⟩ Jojakim, en Jojakim verwekte ⟨את⟩ Eljasjib, en Eljasjib ⟨verwekte⟩ ⟨את⟩ Jojada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "En Jesjoea"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "en Jojakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljasjib"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljasjib"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "en Eljasjib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Jojada"
+    }
+  ],
+  "timestamp": "2026-08-31T22:56:24.217511689Z",
+  "model": "glm-5.3"
+}

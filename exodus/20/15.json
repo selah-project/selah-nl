@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Gij zult niet stelen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "zult stelen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:06.268639688Z",
+  "model": "glm-5.3"
+}

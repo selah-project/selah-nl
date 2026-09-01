@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 4:10",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Laten wij toch een klein bovenvertrek ⟨met⟩ muur maken, en voor hem daar neerzetten een bed, en een tafel, en een stoel, en een kandelaar; en het zal gebeuren, wanneer hij bij ons komt, dat hij daarheen afwijkt.",
+  "tokens": [
+    {
+      "surface": "נעשה",
+      "gloss": "laten wij maken"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "een bovenvertrek"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "muur"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "klein"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "en laten wij neerzetten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "een bed"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "en een tafel"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "en een stoel"
+    },
+    {
+      "surface": "ומנורה",
+      "gloss": "en een kandelaar"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en het zal gebeuren"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "wanneer hij komt"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bij ons"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "hij wijkte af"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:12.444025412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 17:8",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En Choessjai zei: Jij kent ⟨את⟩ je vader en ⟨את⟩ zijn mannen, dat helden zij zijn en verbitterd van nefesj zijn zij, als een berin bij wie de jongen zijn beroofd, op het veld; en je vader is een oorlogsman, en hij zal niet overnachten bij het volk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Choessjai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ken jij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je vader"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "je vader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn mannen"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "zijn mannen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "helden"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "verbitterd"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "van nefesj"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "als"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "bij wie beroofd"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "ואביך",
+      "gloss": "en je vader"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "van oorlog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "zal overnachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bij"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:54:01.543448917Z",
+  "model": "glm-5.3"
+}

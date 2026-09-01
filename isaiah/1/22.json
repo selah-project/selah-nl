@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Jouw zilver is slakken geworden, jouw wijn is aangelengd met water.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "jouw zilver"
+    },
+    {
+      "surface": "היה",
+      "gloss": "is geworden"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "slakken"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "jouw wijn"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "aangelengd"
+    },
+    {
+      "surface": "במים",
+      "gloss": "met water"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:38.934569535Z",
+  "model": "glm-5.3"
+}

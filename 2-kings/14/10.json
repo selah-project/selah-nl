@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Je hebt Edom geslagen — ⟨את⟩ Edom — en het heeft je hart opgeheven; wees daarin zwaar ⟨van eer⟩ en blijf in jouw huis; en waarom zou je jezelf in het kwaad stoten, zodat je valt, jij en Jehoeda met jou?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "je hebt geslagen"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "geslagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "en het heeft je opgeheven"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "jouw hart"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "wees zwaar"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "en blijf"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in jouw huis"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "en waarom"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "zou je je stoten"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "in het kwaad"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "zodat je valt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met jou"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:49.372487270Z",
+  "model": "glm-5.3"
+}

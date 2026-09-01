@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Zie, u bent mooi, mijn vriendin; zie, u bent mooi; uw ogen ⟨zijn⟩ duiven.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "zie"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "u bent mooi"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mijn vriendin"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "zie"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "u bent mooi"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "uw ogen"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "duiven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:34.606918777Z",
+  "model": "glm-5.3"
+}

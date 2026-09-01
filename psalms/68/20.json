@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Gezegend ⟨zij⟩ Adonai — dag aan dag draagt hij ⟨voor⟩ ons ⟨de⟩ last — ⟨de⟩ El, onze redding. Sela.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "gezegend"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aan dag"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "draagt hij"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "האל",
+      "gloss": "de El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "onze redding"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:42.025430842Z",
+  "model": "glm-5.3"
+}

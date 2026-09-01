@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En neem ⟨את⟩ de ark van Jahweh en leg die op de wagen, en ⟨את⟩ de gouden voorwerpen die jullie Hem als schuldoffer teruggeven, leg ⟨die⟩ in de kist aan de zijkant ervan, en stuur ⟨את⟩ hem weg, zodat hij gaat.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "en neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "en leg"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ die"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "de wagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de gouden voorwerpen"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "voorwerpen"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "jullie teruggeven"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Hem"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "als schuldoffer"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "leg"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "in de kist"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "aan de zijkant ervan"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "en stuur weg"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "zodat hij gaat"
+    }
+  ],
+  "timestamp": "2026-08-31T23:18:34.831397816Z",
+  "model": "glm-5.3"
+}

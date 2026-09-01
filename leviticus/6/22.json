@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Elke mannelijke onder de priesten mag ⟨את⟩⟨haar⟩ eten; het is heiligheid der heiligheden.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Elke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mannelijke"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "onder de priesten"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mag eten"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩⟨haar⟩",
+      "marks": "haar — het spijsoffer (v. 13-18 context)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heiligheid"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "der heiligheden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:43.883291160Z",
+  "model": "glm-5.3"
+}

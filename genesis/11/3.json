@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 11:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En zij zeiden, ieder tot zijn naaste: Kom, laten wij bakstenen bakken en ze grondig branden. En de baksteen was hun tot steen, en het bitumen was hun tot mortel.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "En zij zeiden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zijn naaste"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "נלבנה",
+      "gloss": "laten wij bakstenen bakken"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "bakstenen"
+    },
+    {
+      "surface": "ונשרפה",
+      "gloss": "en ze grondig branden"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "grondig branden"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "En ⟨de⟩ was"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "de baksteen"
+    },
+    {
+      "surface": "לאבן",
+      "gloss": "tot steen"
+    },
+    {
+      "surface": "והחמר",
+      "gloss": "en het bitumen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "tot mortel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:55:28.053799952Z",
+  "model": "glm-5.3"
+}

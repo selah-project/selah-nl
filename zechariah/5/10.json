@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En ik zei tot de engel die in mij sprak: waarheen dragen zij ⟨את⟩ de efa?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "En ik zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "de engel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die sprak"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in mij"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "dragen (doen gaan)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de efa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "de efa"
+    }
+  ],
+  "timestamp": "2026-08-31T22:02:54.377089992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Want zie, Jahweh trekt uit van zijn plaats, en hij daalt neer en treedt op de hoogten van ⟨de⟩ aarde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "trekt uit"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "van zijn plaats"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "en hij daalt neer"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "en treedt"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "de hoogten van"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨de⟩ aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T21:59:27.741123157Z",
+  "model": "glm-5.3"
+}

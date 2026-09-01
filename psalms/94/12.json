@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Gelukkig de man die Gij tuchtigt, Jah, en die Gij uit Uw Tora onderricht,",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "de man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "Gij tuchtigt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "en uit Uw Tora"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "onderricht Gij hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:02.292056499Z",
+  "model": "glm-5.3"
+}

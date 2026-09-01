@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Ik zal zeggen tot Eloa: veroordeel mij niet; doe mij weten waarom U met mij twist.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ik zal zeggen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "veroordeel mij"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "doe mij weten"
+    },
+    {
+      "surface": "על",
+      "gloss": "waarom ⟨over⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "U met mij twist"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:50.431520281Z",
+  "model": "glm-5.3"
+}

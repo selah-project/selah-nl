@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Sjemoeël richtte ⟨את⟩ Jisraël alle dagen van zijn leven.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "en richtte"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "van zijn leven"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:40.634343529Z",
+  "model": "glm-5.3"
+}

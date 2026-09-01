@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Eli antwoordde en zei: Ga in vrede, en moge de Elohim van Israël ⟨את⟩ jouw verzoek geven dat je van Hem gevraagd hebt.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en antwoordde"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "in vrede"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "en de Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw verzoek"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "jouw verzoek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "je gevraagd hebt"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "van Hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:41:51.879055604Z",
+  "model": "glm-5.3"
+}

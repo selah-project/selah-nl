@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "O het geluk van de mens aan wie Jahweh geen ongerechtigheid toerekent, en in wiens roeach geen bedrog is.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "O het geluk van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "toerekent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hem"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ongerechtigheid"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en niet is"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "in zijn roeach"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bedrog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:19.635464273Z",
+  "model": "glm-5.3"
+}

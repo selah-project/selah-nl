@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 15:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "In zijn straten omgorden zij zich met een zak; op zijn daken en in zijn pleinen — alles jaamt, het daalt af in geween.",
+  "tokens": [
+    {
+      "surface": "בחוצתיו",
+      "gloss": "in zijn straten"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "omgorden zij zich"
+    },
+    {
+      "surface": "שק",
+      "gloss": "met een zak"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "גגותיה",
+      "gloss": "zijn daken"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "en in zijn pleinen"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "alles"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "jaamt"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "het daalt af"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "in geween"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:09.023289470Z",
+  "model": "glm-5.3"
+}

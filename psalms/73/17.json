@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Totdat ik kwam in de heiligdommen van El, begreep ik hun einde.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Totdat"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ik kwam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "de heiligdommen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "begreep ik"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "hun einde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:16.771601575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En hij zei tot hen: nog drie dagen, en keert terug tot mij. En het volk ging weg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "en keert terug"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en ging"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T23:06:56.552473462Z",
+  "model": "glm-5.3"
+}

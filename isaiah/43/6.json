@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "Ik zeg tegen het noorden: Geef ⟨op⟩; en tegen het zuiden: houd niet tegen; breng mijn zonen van veraf, en mijn dochters van het einde van de aarde.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ik zeg"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "gegen het noorden"
+    },
+    {
+      "surface": "תני",
+      "gloss": "geef"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "en tegen het zuiden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "houd tegen"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "breng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zonen"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "van veraf"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "en mijn dochters"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "van het einde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:05.952077622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Wees mij tot een rots van woning, om ⟨daarin⟩ te komen, voortdurend; u hebt geboden mij te verlossen, want mijn rots en mijn vesting bent u.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "wees"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "tot een rots"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "van woning"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "om te komen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "u hebt geboden"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "mij te verlossen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mijn rots"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "en mijn vesting"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bent u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:43.930570158Z",
+  "model": "glm-5.3"
+}

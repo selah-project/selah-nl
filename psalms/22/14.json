@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "⟨Zij⟩ sperren hun mond tegen mij open, ⟨als⟩ een leeuw, verscheurend en brullend.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "sperren ⟨zij⟩ open"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "hun mond"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "een leeuw"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "verscheurend"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "en brullend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:32.932568531Z",
+  "model": "glm-5.3"
+}

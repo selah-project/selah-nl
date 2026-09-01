@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Niet heeft hij zo gehandeld met enig ander volk; en de rechtsregels — zij hebben ze niet gekend. Looft Jah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Niet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "heeft hij gehandeld"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "met enig"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ander volk"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "en de rechtsregels"
+    },
+    {
+      "surface": "בל",
+      "gloss": "— ⟨niets⟩"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "zij hebben ze niet gekend"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Looft"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:19.905945494Z",
+  "model": "glm-5.3"
+}

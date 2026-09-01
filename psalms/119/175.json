@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Moge mijn nefesj leven en u loven, en moge uw rechtsregelen mij helpen.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "moge leven"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "en u loven"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "en uw rechtsregelen"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "mij helpen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:50.512141467Z",
+  "model": "glm-5.3"
+}

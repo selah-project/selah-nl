@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Waar zijn uw chesed van vroeger, Adonai? ⟨Degene die⟩ U heeft gezworen aan David in uw trouw?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Waar"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "zijn uw chesed"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "van vroeger"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "U heeft gezworen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "in uw trouw"
+    }
+  ],
+  "timestamp": "2026-08-31T23:45:57.899607394Z",
+  "model": "glm-5.3"
+}

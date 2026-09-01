@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Al slaat een legerkamp op tegen mij, mijn hart zal niet vrezen; al staat er oorlog tegen mij op — hierin ben ik vertrouwend.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "al"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "sla op (legerkamp)"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "een legerkamp"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "zal vrezen"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "אם",
+      "gloss": "al"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "staat op"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "oorlog"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "hierin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "ben vertrouwend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:48.379107673Z",
+  "model": "glm-5.3"
+}

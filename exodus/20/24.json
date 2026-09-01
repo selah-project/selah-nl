@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Een altaar van aardgrond moet je voor mij maken, en daarop moet je ⟨את⟩ je brandoffers offeren en ⟨את⟩ je chesed-dankoffers — ⟨את⟩ je kleinvee en ⟨את⟩ je rundvee. Op elke plaats waar ik ⟨את⟩ mijn naam doe gedenken, zal ik tot je komen en je zegenen.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "een altaar"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "van aardgrond"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "moet je maken"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "en moet je offeren"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je brandoffers"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "je brandoffers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "je dankoffers"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "je dankoffers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je kleinvee"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "je kleinvee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "je rundvee"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "je rundvee"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "op elke"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "plaats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ik doe gedenken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn naam"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mijn naam"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "zal ik komen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot je"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "en je zegenen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:41.807871096Z",
+  "model": "glm-5.3"
+}

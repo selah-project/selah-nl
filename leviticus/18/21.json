@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En van je nazaat zul je geen ⟨één⟩ geven om ⟨hem⟩ door te laten gaan aan Moloch, en je zult de naam van je Elohim niet ontheiligen; ik ⟨ben⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "en van je nazaat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zul je geven"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "om door te laten gaan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan Moloch"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "zul je ontheiligen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de naam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "van je Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:18.491279730Z",
+  "model": "glm-5.3"
+}

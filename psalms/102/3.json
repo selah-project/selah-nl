@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Verberg uw aangezicht niet voor mij op de dag van mijn benauwdheid; neig uw oor naar mij; op de dag dat ik roep, haast u, antwoord mij.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "verberg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "צר",
+      "gloss": "van benauwdheid"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mijn"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "neig"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "uw oor"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "dat ik roep"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "haast u"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:07.437789365Z",
+  "model": "glm-5.3"
+}

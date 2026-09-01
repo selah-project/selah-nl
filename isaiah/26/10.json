@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Wordt de rasha chanieloofd, hij leert geen tsedek; in het land van nechotot handelt hij verkeerd, en hij ziet de ge'ut van Jahweh niet.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "wordt chanieloofd"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de rasha"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "למד",
+      "gloss": "leert"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "van nechotot"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "handelt hij verkeerd"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ziet"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "de ge'ut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:10.547480345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 62,
+  "translation": "Hoelang zult gij een man overvallen? Gij wilt hem doden, gij allen, als een leunende muur, een omheining die weggestoten is.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hoelang"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "(hoe lang?)"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "zult gij overvallen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "gij wilt doden"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "gij allen"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "als een muur"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "leunende"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "een omheining"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "die weggestoten is"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:04.309785488Z",
+  "model": "glm-5.3"
+}

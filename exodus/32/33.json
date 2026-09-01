@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En Jahweh zei tegen Mosjee: wie tegen Mij gezondigd heeft, dien zal Ik uitwissen uit Mijn boek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "gezondigd heeft"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tegen Mij"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "dien zal Ik uitwissen"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "uit Mijn boek"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:33.232388738Z",
+  "model": "glm-5.3"
+}

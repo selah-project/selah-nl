@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Door het woord van Jahweh werden ⟨de⟩ hemelen gemaakt, en door de roeach van zijn mond al hun legermacht.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "door het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hemelen"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "werden gemaakt"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "en door de roeach"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "van zijn mond"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "hun legermacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:02.240524370Z",
+  "model": "glm-5.3"
+}

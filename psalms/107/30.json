@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "En zij verblijden zich omdat ⟨het⟩ gestild is, en Hij leidt hen naar de haven van hun verlangen.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "en zij verblijden zich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "gestild is"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "en Hij leidt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "haven"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "hun verlangen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:07.999055463Z",
+  "model": "glm-5.3"
+}

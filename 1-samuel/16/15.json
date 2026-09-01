@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En de dienaren van Sjaoel zeiden tegen hem: zie toch, een boze geest van Elohim verontrust u.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "En zeiden"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "de dienaren van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tegen hem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "geest"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "boze"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "verontrust u"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:29.744335702Z",
+  "model": "glm-5.3"
+}

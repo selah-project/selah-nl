@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Hij reed op een cherub en vloog, Hij werd gezien op de vleugels van de wind.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "Hij reed"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "een cherub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "en vloog"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "Hij werd gezien"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "de vleugels van"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    }
+  ],
+  "timestamp": "2026-08-31T20:54:50.737034798Z",
+  "model": "glm-5.3"
+}

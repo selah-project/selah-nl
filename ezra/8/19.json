@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En ⟨את⟩ Chesjavja, en met hem Jesaja, van de zonen van Merari, zijn broeders en hun zonen, twintig.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chesjavja"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Chesjavja"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ met hem",
+      "marks": "Jesaja"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Jesaja"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "van de zonen van"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broeders"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "en hun zonen"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:53:47.732599954Z",
+  "model": "glm-5.3"
+}

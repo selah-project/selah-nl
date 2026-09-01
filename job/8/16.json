@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Sappig staat hij voor de zon, en over zijn tuin gaan zijn scheuten uit.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "sappig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en over"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "zijn tuin"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "zijn scheuten"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "gaan uit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:26.214408411Z",
+  "model": "glm-5.3"
+}

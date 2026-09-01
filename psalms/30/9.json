@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Tot U, Jahweh, roep ik, en tot Adonai smeek ik om genade.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "roep ik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "smeek ik om genade"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:06.896455954Z",
+  "model": "glm-5.3"
+}

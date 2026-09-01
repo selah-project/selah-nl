@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En ⟨sommige⟩ Hebreeën trokken over ⟨את⟩ de Jarden, naar het land van Gad en Gilead; maar Sjaoel was nog in Gilgal, en heel het volk beefde ⟨en volgde⟩ hem na.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "En ⟨sommige⟩ Hebreeën"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "trokken over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "naar het land"
+    },
+    {
+      "surface": "גד",
+      "gloss": "van Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "en Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "maar Sjaoel"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "was nog"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "in Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "beefde"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hem na"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:37.101701963Z",
+  "model": "glm-5.3"
+}

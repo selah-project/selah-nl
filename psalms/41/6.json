@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Mijn vijanden spreken kwaad over mij: «Wanneer zal hij sterven en zal zijn naam vergaan?»",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Mijn vijanden"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "spreken"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Wanneer"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zal hij sterven"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "en zal vergaan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:10.747029460Z",
+  "model": "glm-5.3"
+}

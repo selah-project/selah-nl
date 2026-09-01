@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "Voor de koorleider, voor de zonen van Korach, op Alamot, een lied.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "voor de zonen"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:01.201125596Z",
+  "model": "glm-5.3"
+}

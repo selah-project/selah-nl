@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Van jou ⟨is⟩ de hemel, ja van jou ⟨is⟩ de aarde; de wereld en haar volheid — jij hebt ze gegrondvest.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "van jou"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "van jou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "de wereld"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "en haar volheid"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "hebt ze gegrondvest"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:13.919411205Z",
+  "model": "glm-5.3"
+}

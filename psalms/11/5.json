@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Jahweh ⟨probeert⟩ de rechtvaardige; ⟨maar⟩ de goddeloze en wie geweld liefheeft, zijn nefesj haat ⟨die⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de rechtvaardige"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "⟨probeert⟩"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "en de goddeloze"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "en die liefheeft"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "haat"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:48.370427668Z",
+  "model": "glm-5.3"
+}

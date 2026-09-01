@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 85,
+  "translation": "Voorwaar, nabij is voor wie Hem vrezen zijn jèsja, om te laten wonen kavod in ons land.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nabij"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "voor wie Hem vrezen"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "zijn jèsja (heil)"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "om te laten wonen"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod (heerlijkheid)"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "in ons land"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:01.464708918Z",
+  "model": "glm-5.3"
+}

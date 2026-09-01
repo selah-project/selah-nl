@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Gezegend zij Jahweh, want hij heeft de stem van mijn smekingen gehoord.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "gezegend zij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hij heeft gehoord"
+    },
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "van mijn smekingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:20.643446929Z",
+  "model": "glm-5.3"
+}

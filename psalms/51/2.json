@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "toen Natan de profeet tot hem kwam, nadat hij was binnengegaan tot Bat-Sjeva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "toen… kwam"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "de profeet"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "was binnengegaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sjeva"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:30.486778903Z",
+  "model": "glm-5.3"
+}

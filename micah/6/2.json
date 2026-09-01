@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Hoor, bergen, ⟨את⟩ de rechtszaak van Jahweh, en ⟨gij⟩ eeuwige fundamenten van de aarde; want Jahweh heeft een rechtszaak met zijn volk, en met Israël zal hij ⟨zich⟩ verantwoorden.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de rechtszaak van Jahweh"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "rechtszaak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "en eeuwige fundamenten"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "fundamenten"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "een rechtszaak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "heeft Jahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "zal hij zich verantwoorden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:45.511133143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Grijp klein schild en groot schild, en sta op tot mijn hulp.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Grijp"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "klein schild"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "en groot schild"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "en sta op"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "tot mijn hulp"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:33.967623574Z",
+  "model": "glm-5.3"
+}

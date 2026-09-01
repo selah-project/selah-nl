@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Dawid zocht ⟨את⟩ Elohim ⟨ter wille⟩ van de jongen; en Dawid vastte een vasten, en hij ging naar binnen en sliep ⟨de nacht⟩ en ging op de aarde liggen.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "en hij zocht"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "de jongen"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "en hij vastte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "צום",
+      "gloss": "een vasten"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "en hij ging naar binnen"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "en sliep de nacht"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "en ging liggen"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:55.426814726Z",
+  "model": "glm-5.3"
+}

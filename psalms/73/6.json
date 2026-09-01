@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Daarom dient hoogmoed hun als halsketting, gewaad van geweld omhult hen.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "dient als halsketting"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "hoogmoed"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "omhult"
+    },
+    {
+      "surface": "שית",
+      "gloss": "gewaad"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "van geweld"
+    },
+    {
+      "surface": "למו",
+      "gloss": "hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:12.496687724Z",
+  "model": "glm-5.3"
+}

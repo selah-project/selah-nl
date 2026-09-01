@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En zij zullen antwoorden en zeggen: Onze handen hebben dit bloed niet vergoten, en onze ogen hebben ⟨het⟩ niet gezien.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "en zij zullen antwoorden"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "en zeggen"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "onze handen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "hebben vergoten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "en onze ogen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hebben gezien"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:42.921184552Z",
+  "model": "glm-5.3"
+}

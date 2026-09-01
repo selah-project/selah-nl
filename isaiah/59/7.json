@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Hun voeten lopen naar het kwaad, en zij haasten zich om onschuldig bloed te vergieten; hun plannen zijn plannen van ongerechtigheid, verwoesting en verbreking ⟨zijn⟩ op hun wegen.",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "hun voeten"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "naar het kwaad"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "lopen zij"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "en zij haasten zich"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "om te vergieten"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "onschuldig"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "hun plannen"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "plannen"
+    },
+    {
+      "surface": "און",
+      "gloss": "van ongerechtigheid"
+    },
+    {
+      "surface": "שד",
+      "gloss": "verwoesting"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "en verbreking"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "op hun wegen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:26:20.883398914Z",
+  "model": "glm-5.3"
+}

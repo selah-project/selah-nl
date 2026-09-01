@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En zij zei: één klein verzoek vraag ik ⟨את⟩ ⟨van⟩ jou; wend ⟨את⟩ mijn aangezicht niet af. En de koning zei tot haar: vraag, mijn moeder, want ik zal ⟨את⟩ jouw aangezicht niet afwenden.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "verzoek"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "één"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "klein"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "vraag"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ ⟨van⟩ jou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "wend af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn aangezicht"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mijn aangezicht"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tot haar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "vraag"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mijn moeder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "zal ik afwenden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw aangezicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "jouw aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:20.586030582Z",
+  "model": "glm-5.3"
+}

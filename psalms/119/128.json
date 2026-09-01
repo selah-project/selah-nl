@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Daarom houd ik al uw voorschriften ⟨voor⟩ recht ⟨in⟩ alles; elk pad van leugen heb ik gehaat.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "uw voorschriften"
+    },
+    {
+      "surface": "כל",
+      "gloss": "in alles"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "houd ik ⟨voor⟩ recht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elk"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "pad"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leugen"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "heb ik gehaat"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:46.600392321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 26:8",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Hij bindt het water samen in zijn wolken, en de wolk barst niet ⟨ open ⟩ onder hen.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "bindt samen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "het water"
+    },
+    {
+      "surface": "בעביו",
+      "gloss": "in zijn wolken"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "נבקע",
+      "gloss": "barst"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "de wolk"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "onder hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:21.208313731Z",
+  "model": "glm-5.3"
+}

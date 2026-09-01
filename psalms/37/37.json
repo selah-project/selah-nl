@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Let op de oprechte en zie de rechte, want ⟨er is⟩ een toekomst voor de man van sjalom.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "let op"
+    },
+    {
+      "surface": "תם",
+      "gloss": "de oprechte"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "de rechte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "een toekomst"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "voor de man"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "van sjalom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:45.246519428Z",
+  "model": "glm-5.3"
+}

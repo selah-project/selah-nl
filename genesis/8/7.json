@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij zond ⟨את⟩ de raaf uit; die ging uit, uitgaand en terugkerend, tot het droogvallen van de wateren van ⟨de⟩ aarde.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "En hij zond uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de raaf"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "de raaf"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "die ging uit"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "uitgaand"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "en terugkerend"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "het droogvallen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "van de wateren"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:49.581779643Z",
+  "model": "glm-5.3"
+}

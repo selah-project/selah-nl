@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Want bij een veelheid van dromen ⟨komen⟩ ijdelheden en woorden in overvloed — maar ⟨את⟩ Elohim, vrees ⟨hem⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bij een veelheid van"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "dromen"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ijdelheden"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "en woorden"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "in overvloed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vrees"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:07.953091010Z",
+  "model": "glm-5.3"
+}

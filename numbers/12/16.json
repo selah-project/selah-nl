@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En daarna brak het volk op van Chatsérot, en zij sloegen het kamp op in de woestijn van Paran.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "braken op"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "van Chatsérot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "en zij sloegen het kamp op"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "van Paran"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:36.083347261Z",
+  "model": "glm-5.3"
+}

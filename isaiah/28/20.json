@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 28:20",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Want het bed is te kort om zich uit te strekken, en de deken te smal om zich erin te wikkelen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "is te kort"
+    },
+    {
+      "surface": "המצע",
+      "gloss": "het bed"
+    },
+    {
+      "surface": "מהשתרע",
+      "gloss": "om zich uit te strekken"
+    },
+    {
+      "surface": "והמסכה",
+      "gloss": "en de deken"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "te smal"
+    },
+    {
+      "surface": "כהתכנס",
+      "gloss": "om zich erin te wikkelen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:52.775364473Z",
+  "model": "glm-5.3"
+}

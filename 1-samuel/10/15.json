@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En de oom van Sjaoel zei: Vertel mij toch, wat heeft Sjemoeël jullie gezegd?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de oom"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sjaoel"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Vertel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:52.876783035Z",
+  "model": "glm-5.3"
+}

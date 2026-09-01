@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim maakte ⟨את⟩ het uitspansel, en scheide tussen de wateren die onder het uitspansel ⟨waren⟩ en tussen de wateren die boven het uitspansel ⟨waren⟩; en het was zo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "En maakte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het uitspansel"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "het uitspansel"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "en scheide"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "het uitspansel"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "boven"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "het uitspansel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het was"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:35.587725431Z",
+  "model": "glm-5.3"
+}

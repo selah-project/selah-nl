@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Hij laat op de goddelozen regenen vallen strikken, vuur en zwavel; en een wind van verzengende gloed ⟨is⟩ het deel van hun beker.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "Hij laat regenen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "strikken"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "en zwavel"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en een wind"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "van verzengende gloed"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "het deel"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "van hun beker"
+    }
+  ],
+  "timestamp": "2026-09-01T00:07:33.718736593Z",
+  "model": "glm-5.3"
+}

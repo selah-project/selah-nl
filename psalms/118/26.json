@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Gezegend ⟨is⟩ hij die komt in de naam van Jahweh; wij hebben u gezegend uit het huis van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gezegend"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "die komt"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in de naam van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "wij hebben u gezegend"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit het huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:11.770905283Z",
+  "model": "glm-5.3"
+}

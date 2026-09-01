@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En hij maakte daarmee ⟨את⟩ de voetstukken van de ingang van de tent van samenkomst, en ⟨את⟩ het koperen altaar, en ⟨את⟩ het koperen rooster dat erbij hoorde, en ⟨את⟩ alle gerei van het altaar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "En hij maakte"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de voetstukken"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "de voetstukken"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "van de ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "van de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het koperen altaar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "koperen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het koperen rooster"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "het rooster"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "koperen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "erbij hoorde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle gerei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "gerei"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:15.026040974Z",
+  "model": "glm-5.3"
+}

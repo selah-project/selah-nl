@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Niet over je slachtoffers zal ik je berispen, en je brandoffers zijn ⟨voortdurend⟩ voor mij.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Niet"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "je slachtoffers"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "zal ik je berispen"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "en je brandoffers"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "⟨voortdurend⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:48.730960038Z",
+  "model": "glm-5.3"
+}

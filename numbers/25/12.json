@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Daarom zeg: ziedaar, ik geef hem ⟨את⟩ mijn verbond van sjalom.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zeg"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ziedaar, ik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verbond van sjalom"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "van sjalom"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:44.305726875Z",
+  "model": "glm-5.3"
+}

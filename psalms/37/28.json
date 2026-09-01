@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Want Jahweh houdt van het recht, en Hij zal ⟨את⟩ zijn chasidim niet verlaten; voor eeuwig worden zij bewaard, maar het nazaat van de goddelozen wordt afgekapt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "houdt van"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "het recht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "zal verlaten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn chasidim"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "zijn chasidim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "worden zij bewaard"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "maar het nazaat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "wordt afgekapt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:43.638697892Z",
+  "model": "glm-5.3"
+}

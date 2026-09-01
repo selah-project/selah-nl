@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "De kruik meel raakte niet op en de kruik olie schoot niet tekort, naar het woord van Jahweh dat hij gesproken had door de hand van Eliyahu.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "de kruik"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "meel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "raakte op"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "en de kruik"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "schoot tekort"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "naar het woord van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hij gesproken had"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand van"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:56.362343507Z",
+  "model": "glm-5.3"
+}

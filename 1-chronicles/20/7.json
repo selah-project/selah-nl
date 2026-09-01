@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En hij smaadde ⟨את⟩ Israël, en Jehonatan, zoon van Sjim ea, de broer van David, sloeg hem.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "en hij smaadde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "en sloeg hem"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "van Sjimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "de broer"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "van David"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:52.220043338Z",
+  "model": "glm-5.3"
+}

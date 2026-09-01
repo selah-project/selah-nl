@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Dezen zullen staan om ⟨את⟩ het volk te zegenen op de berg Gerizim, wanneer jullie de Jordaan zijn overgetrokken: Sjim'on en Levi en Jehoeda en Jissasjar en Jozef en Binjamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dezen"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "zullen staan"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "om te zegenen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "wanneer jullie zijn overgetrokken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Jordaan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jordaan"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Sjim'on"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "en Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "en Jissasjar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "en Jozef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "en Binjamin"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:55.285253106Z",
+  "model": "glm-5.3"
+}

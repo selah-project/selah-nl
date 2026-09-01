@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En nu, als U hun zonde draagt — en zo niet, wis mij dan toch uit Uw boek dat U geschreven hebt.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "U draagt"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "hun zonde"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en zo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "wis mij"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "uit Uw boek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "U geschreven hebt"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:20.958626948Z",
+  "model": "glm-5.3"
+}

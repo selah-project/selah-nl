@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Want dag en nacht was uw hand zwaar op mij, mijn sappen veranderden in zomerdorheid. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en nacht"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "was zwaar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op mij"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uw hand"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "veranderden"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "mijn sappen"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "in de dorheid van"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "zomer"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:19.635729486Z",
+  "model": "glm-5.3"
+}

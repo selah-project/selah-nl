@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Azuva stierf, en Kalev nam voor zich ⟨את⟩ Efrat, en zij baarde hem ⟨את⟩ Chur.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "En ... stierf"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azuva"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en nam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor zich"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrat"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "Efrat"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en zij baarde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chur"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:32.438686223Z",
+  "model": "glm-5.3"
+}

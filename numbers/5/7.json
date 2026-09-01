@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "dan belijden zij ⟨את⟩ hun zonde die zij gedaan hebben, en hij vergeldt ⟨את⟩ zijn schuld in haar geheel, en hij voegt er zijn vijfde deel aan toe, en geeft het aan degene aan wie hij schuldig is.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "dan belijden zij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun zonde"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "hun zonde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zij gedaan hebben"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "en hij vergeldt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn schuld"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "zijn schuld"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "in haar geheel"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "en zijn vijfde deel"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "voegt hij toe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "eraan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en geeft"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "aan degene aan wie"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "hij schuldig is"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:51.390814106Z",
+  "model": "glm-5.3"
+}

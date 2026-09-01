@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Zo heeft Elohim ⟨את⟩ het vee van jullie vader weggenomen en ⟨het⟩ aan mij gegeven.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "weggenomen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het vee van jullie vader"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "van jullie vader"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en gegeven"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan mij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:03.529705668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Vervloekt ⟨is⟩ hij die het recht van de vreemdeling, de wees en de weduwe buigt ⟨weg⟩; en heel het volk zal zeggen: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Vervloekt"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "buigt"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "het recht"
+    },
+    {
+      "surface": "גר",
+      "gloss": "van de vreemdeling"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "de wees"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "en de weduwe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en zal zeggen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:39.402979986Z",
+  "model": "glm-5.3"
+}

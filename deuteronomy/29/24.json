@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "en zij zullen zeggen: omdat zij ⟨את⟩ het verbond van Jahweh, de Elohim van hun vaderen, verlaten hebben, dat hij met hen sneed toen hij ⟨את⟩ hen deed uittrekken uit het land Mitsrajim;",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "en zij zullen zeggen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "zij verlaten hebben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het verbond"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "het verbond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "van hun vaderen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "hij sneed"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "met hen"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "toen hij deed uittrekken"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:26.138274621Z",
+  "model": "glm-5.3"
+}

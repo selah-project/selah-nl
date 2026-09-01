@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En ⟨er was⟩ brood voor Sjelomo voor één ⟨dag⟩: dertig kor meelbloem en zestig kor bloem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het was"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "van Sjelomo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "voor een dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "meelbloem"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "en zestig"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "bloem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:41.606078497Z",
+  "model": "glm-5.3"
+}

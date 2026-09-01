@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En zijn vader had hem niet verdrietig gemaakt al zijn dagen, door te zeggen: Waarom heb jij zo gehandeld? En ook hij was zeer goed van gestalte; en ⟨את⟩-hem baarde zijn moeder na Avsjalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "had verdrietig gemaakt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "al zijn dagen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "door te zeggen"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "heb jij gehandeld"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "van gestalte"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "baarde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsjalom"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:11.994845670Z",
+  "model": "glm-5.3"
+}

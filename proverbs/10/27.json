@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Vrees voor Jahweh voegt dagen toe, maar de jaren van slechten worden kortgemaakt.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "voegt toe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "maar de jaren"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van slechten"
+    },
+    {
+      "surface": "תקצרנה",
+      "gloss": "worden kortgemaakt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:16.363240682Z",
+  "model": "glm-5.3"
+}

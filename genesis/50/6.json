@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "En Par'o zeide: Ga op en begraaf ⟨את⟩ uw vader, zoals hij u heeft doen zweren.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ga op"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "en begraaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw vader"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uw vader"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "hij u heeft doen zweren"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:08.099374168Z",
+  "model": "glm-5.3"
+}

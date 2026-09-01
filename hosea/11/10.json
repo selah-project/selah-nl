@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Achter Jahweh zullen zij wandelen; als een leeuw zal hij brullen — ja, hij zal brullen, en de kinderen zullen beven van de zee ⟨af⟩.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "achter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "zullen zij wandelen"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "als een leeuw"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "zal hij brullen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja\/toen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "zal brullen"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "en zullen beven"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van de zee ⟨af⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:59.515806403Z",
+  "model": "glm-5.3"
+}

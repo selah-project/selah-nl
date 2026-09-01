@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "En ⟨Hij⟩ zal op hen hun ⟨את⟩ verderf terugbrengen, en in hun kwaadzal Hij hen uitroeien; Jahweh, onze Elohim, zal hen uitroeien.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en zal terugbrengen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun verderf"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "hun verderf"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "en in hun kwaad"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "zal Hij hen uitroeien"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "zal Hij hen uitroeien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.811434028Z",
+  "model": "glm-5.3"
+}

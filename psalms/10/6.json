@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Hij heeft gezegd in zijn hart: ik word niet bewogen, van geslacht tot geslacht ⟨zal ik⟩ niet in kwaad ⟨verkeren⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Hij heeft gezegd"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in zijn hart"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "word ik bewogen"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "van geslacht"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "tot geslacht"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨dat⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "in kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:15.267506880Z",
+  "model": "glm-5.3"
+}

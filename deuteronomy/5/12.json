@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Onderhoud ⟨את⟩ de dag van de sabbat, om hem te heiligen, zoals Jahweh, uw Elohim, u geboden heeft.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "onderhoud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dag van de sabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "van de sabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "om hem te heiligen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "u geboden heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:52.605278977Z",
+  "model": "glm-5.3"
+}

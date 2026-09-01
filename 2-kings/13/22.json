@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Chazaël, de koning van Aram, onderdrukte ⟨את⟩ Israël gedurende alle dagen van Jehoachaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "en Chazaël"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "van Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "onderdrukte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "van Jehoachaz"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:46.297873038Z",
+  "model": "glm-5.3"
+}

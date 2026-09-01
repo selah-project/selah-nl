@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En nu, Jahweh mijn Elohim, u hebt ⟨את⟩ uw dienaar koning gemaakt in plaats van Dawid, mijn vader; maar ik ben een jonge jongen, ik weet niet uit te gaan of in te gaan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "hebt koning gemaakt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw dienaar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "נער",
+      "gloss": "een jonge"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "jongen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "weet ik"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "uit te gaan"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "of in te gaan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:13.330080312Z",
+  "model": "glm-5.3"
+}

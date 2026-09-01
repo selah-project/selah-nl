@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Hoort ⟨את⟩ het woord dat Jahweh tot u gesproken heeft, huis van Jisraël:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hoort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:22:29.982816417Z",
+  "model": "glm-5.3"
+}

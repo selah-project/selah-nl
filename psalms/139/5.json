@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "Achter en voor omsluit u mij, en u legt uw palm op mij.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "achter"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "en voor"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "omsluit u mij"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "en u legt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op mij"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "uw palm"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:24.430871130Z",
+  "model": "glm-5.3"
+}

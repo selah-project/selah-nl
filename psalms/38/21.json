@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En wie kwaad vergelden in plaats van goed, zij beschuldigen mij, omdat ik het goede najaag.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "En wie vergelden"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "beschuldigen zij mij"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "ik najaag"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het goede"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:51.230299596Z",
+  "model": "glm-5.3"
+}

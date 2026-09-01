@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "In de nacht heb ik uw naam gedacht, Jahweh, en uw tora bewaard.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "heb ik gedacht"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in de nacht"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "en bewaard"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "uw tora"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:25.264817911Z",
+  "model": "glm-5.3"
+}

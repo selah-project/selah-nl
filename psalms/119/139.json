@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Mijn ijver heeft mij verteerd, want je woorden zijn door mijn tegenstanders vergeten.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "heeft mij verteerd"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "mijn ijver"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "zijn vergeten"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "je woorden"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "door mijn tegenstanders"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:06.880043677Z",
+  "model": "glm-5.3"
+}

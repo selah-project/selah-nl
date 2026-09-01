@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En zij zullen zeggen: ⟨omdat⟩ zij ⟨את⟩ het verbond van Jahweh, hun Elohim, hebben verlaten, en zich voor andere elohim hebben neergebogen en hen hebben gediend.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "En zij zullen zeggen"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨dat⟩"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "hebben verlaten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het verbond"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "het verbond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hun Elohim"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "en zich neergebogen"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "voor ⟨andere⟩ elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andere"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "en hen hebben gediend"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:18.458460977Z",
+  "model": "glm-5.3"
+}

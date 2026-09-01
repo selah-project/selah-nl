@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Want als zij vallen, de één richt ⟨את⟩ zijn metgezel op; en wat de één betreft — als die valt, is er geen tweede om hem op te richten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "zij vallen"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de één"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "richt op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn metgezel"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "zijn metgezel"
+    },
+    {
+      "surface": "ו אילו",
+      "gloss": "en wat betreft"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de één"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "als die valt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "is er niet"
+    },
+    {
+      "surface": "שני",
+      "gloss": "een tweede"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "om hem op te richten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:28.981990596Z",
+  "model": "glm-5.3"
+}

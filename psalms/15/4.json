@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "In wiens ogen een verachte veracht is, maar die ⟨את⟩ de vrezen van Jahweh eert; die zweert tot zijn eigen nadeel en het niet verandert.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "een verachte"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "In wiens ogen"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "veracht is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de vrezen van Jahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "de vrezen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "eert"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "die zweert"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "tot zijn eigen nadeel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en het niet"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "verandert"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:18.299105043Z",
+  "model": "glm-5.3"
+}

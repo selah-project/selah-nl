@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En hij plaatste ⟨את⟩ het ene in Beet-El, en ⟨את⟩ het andere gaf hij in Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en hij plaatste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het ene"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "het ene"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beet-El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het andere"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "het andere"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf hij"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "in Dan"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:06.270569326Z",
+  "model": "glm-5.3"
+}

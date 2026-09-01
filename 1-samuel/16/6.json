@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En het gebeurde, bij hun komst, dat hij Eliav zag en zei: Voor het aangezicht van Jahweh ⟨staat⟩ zijn Masjiach.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "bij hun komst"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dat hij zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zekerlijk"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "zijn Masjiach"
+    }
+  ],
+  "timestamp": "2026-08-31T20:44:48.728363598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Die de eerstgeborenen van Mitsrajim sloeg, van de mens tot het vee.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "die sloeg"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "de eerstgeborenen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "het vee"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:55.544580200Z",
+  "model": "glm-5.3"
+}

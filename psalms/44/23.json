@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Ja, om uwentwil worden wij gedood de hele dag, worden wij geteld als schapen ⟨voor⟩ de slachting.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "om uwentwil"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "worden wij gedood"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "worden wij geteld"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "als schapen"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "⟨voor⟩ de slachting"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:29.559835070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "⟨את⟩ mijn misjpatim moeten jullie doen, en ⟨את⟩ mijn choekiem moeten jullie bewaren, om daarin te wandelen; ik ben Jahweh, ⟨jullie⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn misjpatim"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mijn misjpatim"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "moeten jullie doen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "mijn choekiem"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mijn choekiem"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "moeten jullie bewaren"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te wandelen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "⟨jullie⟩ Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:44.623875674Z",
+  "model": "glm-5.3"
+}

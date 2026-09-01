@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 24:21",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En hij zag ⟨את⟩ de Keniet, en hij hief zijn mashal en zei: vast is uw woonplaats, en ⟨gezet⟩ in de rots uw nest.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hij zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Keniet"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "de Keniet"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "en hij hief"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "zijn mashal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "vast"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "uw woonplaats"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "en ⟨gezet⟩"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "in de rots"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "uw nest"
+    }
+  ],
+  "timestamp": "2026-08-31T20:16:04.996232713Z",
+  "model": "glm-5.3"
+}

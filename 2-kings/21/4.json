@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En hij bouwde altaren in het huis van Jahweh, waarvan Jahweh had gezegd: in Jeroesjalajim zal ik ⟨את⟩ mijn naam stellen.",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "altaren"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarvan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "had gezegd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeroesjalajim"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "zal ik stellen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn naam"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mijn naam"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:20.374553500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "olie voor de lamp, specerijen voor de zalfolie en voor de reukwerkenspecerijen.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "voor de lamp"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "specerijen"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "voor de olie van"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "de zalving"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "en voor het reukwerk van"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "de specerijen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:16.205633445Z",
+  "model": "glm-5.3"
+}

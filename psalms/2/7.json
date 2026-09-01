@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Ik wil het verordineerde verhalen: Jahweh heeft tot mij gezegd: mijn zoon bent jij, ik heb heden jou gebaard.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Ik wil verhalen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over"
+    },
+    {
+      "surface": "חק",
+      "gloss": "het verordineerde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "heb ik jou gebaard"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:38.089569432Z",
+  "model": "glm-5.3"
+}

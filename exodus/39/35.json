@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "⟨את⟩ de ark van de getuigenis en ⟨את⟩ zijn draagstokken en ⟨את⟩ het verzoeningsdek",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van de getuigenis"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "van de getuigenis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn draagstokken"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "zijn draagstokken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het verzoeningsdek"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "het verzoeningsdek"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:15.733740705Z",
+  "model": "glm-5.3"
+}

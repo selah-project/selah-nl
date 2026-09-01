@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En Avraham boog zich neer voor het aangezicht van het volk van het land.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "en hij boog zich neer"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "עם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:49.549238751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 144,
+  "translation": "Red mij en bevrijd mij uit de hand van vreemde kinderen, wier mond ijdelheid spreekt en wier rechterhand een rechterhand van leugen is.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "en bevrijd mij"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vreemde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wier"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "hun mond"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spreekt"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ijdelheid"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "en hun rechterhand"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "een rechterhand"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leugen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:11.619267683Z",
+  "model": "glm-5.3"
+}

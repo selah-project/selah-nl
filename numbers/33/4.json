@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Terwijl de Mitsrieten begroeven ⟨את⟩ wie Jahweh onder hen geslagen had, alle eerstgeborenen; en aan hun goden voltrok Jahweh vonnissen.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Terwijl de Mitsrieten"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "begroeven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wie Jahweh onder hen geslagen had"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "geslagen had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onder hen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "eerstgeborenen"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "en aan hun goden"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "voltrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "vonnissen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:19:22.658745683Z",
+  "model": "glm-5.3"
+}

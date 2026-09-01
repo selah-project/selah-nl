@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": "Mogen je priesters zich kleden met tsedek, en je chasidim jubelen van vreugde.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "je priesters"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "mogen zij zich kleden"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "en je chasidim"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "jubelen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:29.580487287Z",
+  "model": "glm-5.3"
+}

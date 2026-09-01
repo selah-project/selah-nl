@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En het was kwaad in de ogen van Jahweh wat hij deed, en Hij doodde ook ⟨את⟩ hem.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "en het was kwaad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in de ogen van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hij deed"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en Hij doodde"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:47.638725503Z",
+  "model": "glm-5.3"
+}

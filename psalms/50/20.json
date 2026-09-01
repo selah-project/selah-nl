@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Je zit ⟨in hinderlaag⟩ tegen je broer, je spreekt kwaad van de zoon van je moeder, je brengt ⟨hem⟩ ten val.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "je zit"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "tegen je broer"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "je spreekt"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "van de zoon"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "van je moeder"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "je brengt"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "ten val"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:08.008528721Z",
+  "model": "glm-5.3"
+}

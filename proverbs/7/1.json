@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Mijn zoon, bewaar mijn woorden, en mijn mitswot ⟨את⟩ verberg bij je.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mijn zoon"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mijn woorden"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "en mijn mitswot"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "verberg"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bij je",
+      "marks": "mitswot (opdrachten)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:53.886728183Z",
+  "model": "glm-5.3"
+}

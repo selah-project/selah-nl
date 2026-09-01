@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En zij wierpen ieder zijn staf neer, en zij werden tot draken; maar de staf van Aharon verslond ⟨את⟩ hun staven.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "en zij wierpen neer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "zijn staf"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en zij werden"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "tot draken"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "en hij verslond"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "de staf"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun staven"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "hun staven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:03.777475544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Hij verwijderde ⟨את⟩ de altaren van de vreemde ⟨goden⟩ en ⟨את⟩ de bamot, en hij verbrijzelde ⟨את⟩ de massébot, en hij hakte ⟨את⟩ de asjerim om.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "en hij verwijderde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de altaren"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "de altaren"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "van de vreemde"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "en de bamot"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "en hij verbrijzelde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de massébot"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "de massébot"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "en hij hakte om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de asjerim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "de asjerim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:07:36.409531961Z",
+  "model": "glm-5.3"
+}

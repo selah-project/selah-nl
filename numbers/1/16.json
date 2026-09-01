@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Dit ⟨zijn⟩ de geroepenenen van de gemeente, vorsten van de stammen van hun vaders; zij ⟨zijn⟩ hoofden van de duizenden van Jisraël.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "de geroepenenen"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "van de gemeente"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "vorsten"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "van de stammen"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "van hun vaders"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoofden"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "van de duizenden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zij"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:42.419559111Z",
+  "model": "glm-5.3"
+}

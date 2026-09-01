@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Loof Jahweh, al zijn legers, zijn dienaren, die zijn welbehagen doen.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "zijn legers"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "die doen"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "zijn welbehagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:38.154021292Z",
+  "model": "glm-5.3"
+}

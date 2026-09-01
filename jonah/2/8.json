@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Toen mijn nefesj binnen mij omhulde ⟨in flauwte verviel⟩, gedachteng ik ⟨את⟩ Jahweh; en mijn gebed kwam tot U, tot uw heiligdom ⟨tempel⟩.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "toen... omhulde ⟨in flauwte verviel⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "gedachteng ik"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "en kwam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mijn gebed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "uw heiligdom ⟨tempel⟩"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "(uw heilige)"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:56.742303331Z",
+  "model": "glm-5.3"
+}

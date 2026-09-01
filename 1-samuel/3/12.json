@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Op die dag zal Ik tegen Eli doen gelden ⟨את⟩ alles wat Ik gesproken heb over zijn huis — beginnen en voleinden.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Op de dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "zal Ik doen gelden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Ik gesproken heb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "החל",
+      "gloss": "beginnen"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "en voleinden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:24.839860270Z",
+  "model": "glm-5.3"
+}

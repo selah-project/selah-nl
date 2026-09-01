@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En uit ⟨de⟩ helft van de stam van Menashsheh: ⟨את⟩ Taänach met zijn weidegronden, en ⟨את⟩ Gat-Rimmon met zijn weidegronden; twee steden.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "en uit de helft"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stam"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taänach"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taänach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn weidegronden"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zijn weidegronden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Gat-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn weidegronden"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zijn weidegronden"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "steden"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:33:48.876683304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Neem ook jullie kleinvee en jullie rundvee, zoals jullie gezegd hebben, en ga heen, en zegen ook ⟨את⟩ mij.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "jullie kleinvee"
+    },
+    {
+      "surface": "גם",
+      "gloss": "en"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "jullie rundvee"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Neem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "jullie gezegd hebben"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "en ga heen"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "en zegen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:32.588378349Z",
+  "model": "glm-5.3"
+}

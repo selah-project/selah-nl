@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Mordechai kwam te weten ⟨את⟩ alles wat gedaan was, en Mordechai scheurde ⟨את⟩ zijn klederen en trok een rouwkleed aan, en as, en hij ging uit midden in de stad en schreeuwde een grote en bittere schreeuw.",
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "En Mordechai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kwam te weten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "gedaan was"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "en scheurde"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn klederen"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zijn klederen"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "en trok aan"
+    },
+    {
+      "surface": "שק",
+      "gloss": "rouwkleed"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "en as"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en hij ging uit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midden in"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "en schreeuwde"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "schreeuw"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "grote"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "en bittere"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:04.436556392Z",
+  "model": "glm-5.3"
+}

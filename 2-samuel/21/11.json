@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En aan David werd bericht ⟨את⟩ wat Ritspa, dochter van Aja, de bijvrouw van Sjaoel, gedaan had.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "en werd bericht"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Ritspa gedaan had"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "gedaan had"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "איה",
+      "gloss": "van Aja"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "de bijvrouw"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sjaoel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:25.934649874Z",
+  "model": "glm-5.3"
+}

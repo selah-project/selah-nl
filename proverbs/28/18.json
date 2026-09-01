@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Wie onberispelijk wandelt wordt gered, maar wie krom is in zijn wegen valt in één ⟨keer⟩.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "wandelt"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "onberispelijk"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "wordt gered"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "maar wie krom is"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "in zijn wegen"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "valt"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "in één (keer)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:52.586065070Z",
+  "model": "glm-5.3"
+}

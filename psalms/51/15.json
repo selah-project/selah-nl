@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "⟨Dan⟩ zal ik overtreders uw wegen leren, en zondaars zullen tot u terugkeren.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "zal ik leren"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "overtreders"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "uw wegen"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "en zondaars"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "zullen terugkeren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:31.914336788Z",
+  "model": "glm-5.3"
+}

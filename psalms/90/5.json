@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 90,
+  "translation": "Gij hebt hen weggevaagd als een stortvloed; zij zijn als een slaap; in de morgen zijn zij als gras dat opschiet.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Gij hebt hen weggevaagd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "een slaap"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zijn zij"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "als gras"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "dat opschiet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:04.980946305Z",
+  "model": "glm-5.3"
+}

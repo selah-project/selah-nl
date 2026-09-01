@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Gij gaat heden ⟨את⟩ de grens van Moab over, ⟨את⟩ Ar:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "gij"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gaat over"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de grens van Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "de grens"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:11.232088813Z",
+  "model": "glm-5.3"
+}

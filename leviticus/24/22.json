@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Eén rechtsregel zal voor u zijn: zoals voor de ger, zo voor de inlandsgeborene zal ⟨hij⟩ zijn; want ik ben Jahweh, uw Elohim.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "rechtsregel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "zoals voor de ger"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "zo voor de inlandsgeborene"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uw Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:09.008653739Z",
+  "model": "glm-5.3"
+}

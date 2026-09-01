@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En zij heeldden ⟨את⟩ de breuk van de dochter van mijn volk lichtvaardig, zeggende: Sjaloom, sjaloom! — maar er ⟨is⟩ geen sjaloom.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "en zij heeldden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de breuk"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "de breuk"
+    },
+    {
+      "surface": "בת",
+      "gloss": "de dochter"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "van mijn volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "lichtvaardig \/ over"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "onachtzaam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjaloom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjaloom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maar er is geen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjaloom"
+    }
+  ],
+  "timestamp": "2026-08-31T21:29:08.437489473Z",
+  "model": "glm-5.3"
+}

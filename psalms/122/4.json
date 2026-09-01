@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 122,
+  "translation": "Want daarheen stammen op, de stammen van Jah, een getuigenis voor Israël, om te danken de Naam van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "want daarheen"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "stammen op"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "stammen"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "de stammen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "een getuigenis"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "voor Israël"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "om te danken"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "de Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:41.247289342Z",
+  "model": "glm-5.3"
+}

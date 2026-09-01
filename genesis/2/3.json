@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Elohim zegende ⟨את⟩ de dag van de zevende, en hij heiligde ⟨את⟩ hem, want daarin rustte hij van al zijn werk dat Elohim schiep ⟨om te maken⟩.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "en zegende"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "van de zevende"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "en hij heiligde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "rustte"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "zijn werk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "schiep"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨om te maken⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:24.412466910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Omdat Avraham naar mijn stem luisterde en mijn wachtdienst hield, mijn mitswot, mijn choekot en mijn torot.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "omdat (eind\/frukt van)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "luisterde"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "naar mijn stem"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "en hij hield"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "mijn wachtdienst"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mijn mitswot"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "mijn choekot"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "en mijn torot"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:46.206500360Z",
+  "model": "glm-5.3"
+}

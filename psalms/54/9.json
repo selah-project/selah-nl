@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 54,
+  "translation": "Want hij heeft mij uit alle benauwdheid gered, en mijn oog heeft op mijn vijanden gezien.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit alle"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "benauwdheid"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "heeft mij gered"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "en op mijn vijanden"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "heeft gezien"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn oog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:22.746985071Z",
+  "model": "glm-5.3"
+}

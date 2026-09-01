@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Want door jou loop ik ⟨op⟩ een bende aan; en met mijn Elohim spring ik over een muur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "בך",
+      "gloss": "door jou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "loop ik"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "een bende ⟨aan⟩"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "en met mijn Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "spring ik"
+    },
+    {
+      "surface": "שור",
+      "gloss": "over een muur"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:18.712706821Z",
+  "model": "glm-5.3"
+}

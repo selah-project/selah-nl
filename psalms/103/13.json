@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Zoals een vader zich ontfermt over de kinderen, ontfermt Jahweh zich over wie hem vrezen.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "Zoals zich ontfermt"
+    },
+    {
+      "surface": "אב",
+      "gloss": "een vader"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ontfermt zich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wie hem vrezen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:52.572377914Z",
+  "model": "glm-5.3"
+}

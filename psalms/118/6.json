@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Jahweh ⟨is⟩ voor mij — ik zal niet vrezen; wat zal een mens mij doen?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "zal ik vrezen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zal doen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "een mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:03.970571552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Hoort ⟨את⟩ dit woord, dat ik als klaagzang over u draag, huis van Jisraël.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hoort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dit woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "draag"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "over u"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "klaagzang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:08.141641664Z",
+  "model": "glm-5.3"
+}

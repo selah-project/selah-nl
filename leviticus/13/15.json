@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En de priester zal ⟨את⟩ het levende vlees zien en hem onrein verklaren; het levende vlees is onrein, het is tsara'at.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "en zal zien"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het levende vlees"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "החי",
+      "gloss": "het levende"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "en hem onrein verklaren"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "החי",
+      "gloss": "het levende"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsara'at"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:56.645855574Z",
+  "model": "glm-5.3"
+}

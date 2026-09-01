@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 149,
+  "translation": "Laten zij zijn naam loven in de reidans, met trommel en harp laten zij hem psalmen zingen.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "laten zij loven"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "in de reidans"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "met trommel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "en harp"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "laten zij psalmen zingen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:01.772738776Z",
+  "model": "glm-5.3"
+}

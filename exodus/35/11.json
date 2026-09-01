@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "⟨את⟩ de misjkan, ⟨את⟩ zijn tent en ⟨את⟩ zijn overdekking, ⟨את⟩ zijn haken en ⟨את⟩ zijn planken, ⟨את⟩ zijn grendels, ⟨את⟩ zijn zuilen en ⟨את⟩ zijn voetstukken.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de misjkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "de misjkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn tent"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "zijn tent"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn overdekking"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "zijn overdekking"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn haken"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "zijn haken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn planken"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "zijn planken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn grendels"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "zijn grendels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zuilen"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "zijn zuilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn voetstukken"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "zijn voetstukken"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:33.332182444Z",
+  "model": "glm-5.3"
+}

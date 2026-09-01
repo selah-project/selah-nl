@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Ik zeg: mijn El, voer mij niet weg in de helft van mijn dagen; ⟨in⟩ geslacht ⟨en⟩ geslachten ⟨zijn⟩ uw jaren.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ik zeg"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mijn El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "voer mij weg"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "in de helft"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "van mijn dagen"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "⟨in⟩ geslacht"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "geslachten"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "uw jaren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:19.735673678Z",
+  "model": "glm-5.3"
+}

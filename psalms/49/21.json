@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Een mens in aanzien, en hij verstaat ⟨het⟩ niet — ⟨hij⟩ is gelijkgesteld aan ⟨את⟩ de beesten: ⟨ze⟩ zijn vergaan.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "een mens"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "in aanzien"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "verstaat"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "is gelijkgesteld"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "aan de beesten"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "zijn vergaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:30.108956926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Alles wat Eloa heeft gesproken is gelouterd; ⟨het⟩ is een schild voor wie bij ⟨Hem⟩ schuilen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wat … heeft gesproken"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "is gelouterd"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "een schild"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨het⟩"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "voor wie schuilen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bij ⟨Hem⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:39.234749364Z",
+  "model": "glm-5.3"
+}

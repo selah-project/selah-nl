@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "Ik ben Jahweh, en er is geen ander; buiten mij is er geen Elohim. Ik omgord je, ⟨hoewel⟩ je mij niet kent.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is geen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ander"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "buiten mij"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is er geen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ik omgord je"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "je kent mij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:23:30.612871505Z",
+  "model": "glm-5.3"
+}

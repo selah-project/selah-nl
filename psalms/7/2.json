@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Jahweh, mijn Elohim, bij U heb ik schuil gezocht; red mij van al mijn achtervolgers en bevrijd mij.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bij U"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "heb ik schuil gezocht"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "mijn achtervolgers"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "en bevrijd mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:54.371905055Z",
+  "model": "glm-5.3"
+}

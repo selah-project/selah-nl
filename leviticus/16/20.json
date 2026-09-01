@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En wanneer hij klaar is met verzoening te doen voor ⟨את⟩ het heiligdom en ⟨את⟩ de tent van samenkomst en ⟨את⟩ het altaar, dan zal hij de lebende bok naar voren brengen.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "en wanneer hij klaar is"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "met verzoening te doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het heiligdom"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "het heiligdom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de tent van samenkomst"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het altaar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dan zal hij naar voren brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de lebende bok"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "de lebende bok"
+    },
+    {
+      "surface": "החי",
+      "gloss": "lebende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:36.165711533Z",
+  "model": "glm-5.3"
+}

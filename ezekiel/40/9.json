@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En hij mat ⟨את⟩ de portiek van de poort: acht el, en zijn posten twee el; en de portiek van de poort ⟨lag⟩ richting ⟨de⟩ tempel.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "en hij mat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de portiek van de poort"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "portiek"
+    },
+    {
+      "surface": "השער",
+      "gloss": "van de poort"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "acht"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "en zijn posten"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "en de portiek"
+    },
+    {
+      "surface": "השער",
+      "gloss": "van de poort"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "richting de tempel"
+    }
+  ],
+  "timestamp": "2026-08-31T21:51:24.451612617Z",
+  "model": "glm-5.3"
+}

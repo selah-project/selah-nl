@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Ik zal mij verblijden en mij verheugen in u; ik zal uw naam, El Eljon, bezingen.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "ik zal mij verblijden"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "en mij verheugen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in u"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ik zal bezingen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Eljon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:12.054093112Z",
+  "model": "glm-5.3"
+}

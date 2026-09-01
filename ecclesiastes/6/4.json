@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Want in ijdelheid kwam hij en in duisternis gaat hij, en in duisternis wordt zijn naam bedekt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "in ijdelheid"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwam hij"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "en in duisternis"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gaat hij"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "en in duisternis"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "wordt bedekt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:12.698343229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 87,
+  "translation": "En van Tsiyon zal gezegd worden: ⟨de⟩ een en ⟨de⟩ ander is in haar geboren; en Hij, Eljon zelf, zal haar vestigen.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "en van Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zal gezegd worden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨de⟩ een"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en ⟨de⟩ ander"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "is geboren"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in haar"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en Hij"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "zal haar vestigen"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:13.720621748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Zoet is de slaap van de arbeider, of hij weinig of veel eet; maar de verzadiging van de rijke laat hem niet ⟨toe⟩ te slapen.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "zoet"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "de slaap"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "van de arbeider"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "weinig"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "of"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "veel"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hij eet"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "maar de verzadiging"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "van de rijke"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "laat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "te slapen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:38.877621197Z",
+  "model": "glm-5.3"
+}

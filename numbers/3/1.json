@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En dit zijn de nakomelingen van Aharon en Mosjee, op de dag dat Jahweh met Mosjee sprak op de berg Sinaï.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nakomelingen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "en van Mosjee"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosjee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "met Mosjee"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op de berg"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaï"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:59.272267931Z",
+  "model": "glm-5.3"
+}

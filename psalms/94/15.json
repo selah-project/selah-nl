@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Want ⟨het⟩ recht zal terugkeren tot gerechtigheid, en erachteraan ⟨gaan⟩ alle oprechten van hart.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "gerechtigheid"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "zal terugkeren"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨het⟩ recht"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "en erachteraan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "oprechten"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:21.779155246Z",
+  "model": "glm-5.3"
+}

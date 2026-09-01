@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Kotz verwekte ⟨את⟩ Anub en ⟨את⟩ Hatsobeba, en de families van Acharachel, de zoon van Haroem.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "En Kotz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsobeba"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Hatsobeba"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "en de families van"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Acharachel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon van"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Haroem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:05.678300548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "De chesed van Jahweh zal ik eeuwig bezingen; van geslacht tot geslacht maak ik ⟨met⟩ mijn mond uw trouw bekend.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "de chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwig"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "zal ik bezingen"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "van geslacht"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "tot geslacht"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "maak ik bekend"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "uw trouw"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "⟨met⟩ mijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:26.500511844Z",
+  "model": "glm-5.3"
+}

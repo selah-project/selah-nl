@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Hele ⟨de⟩ vergadering van Israël moet ⟨את⟩ het doen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "moet doen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (pesach)"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:04.414171166Z",
+  "model": "glm-5.3"
+}

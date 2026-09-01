@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim noemde het licht dag, en de duisternis noemde Hij nacht; en ⟨het⟩ werd avond en ⟨het⟩ werd morgen, dag één.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en noemde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "het licht"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "en de duisternis"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "noemde Hij"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nacht"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en ⟨het⟩ werd"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "avond"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en ⟨het⟩ werd"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:29.289089789Z",
+  "model": "glm-5.3"
+}

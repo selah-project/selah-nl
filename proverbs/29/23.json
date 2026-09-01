@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "De hoogmoed van een mens zal hem vernederen, maar wie laag van geest is, diens houdt ⟨de⟩ eer overeind.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "hoogmoed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van een mens"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "zal hem vernederen"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "maar wie laag"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van geest"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "houdt overeind"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "eer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:40.813614683Z",
+  "model": "glm-5.3"
+}

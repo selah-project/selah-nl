@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En David kwam in Nov, bij Achimelech de priester; en Achimelech beefde hem tegemoet toen hij David ontmoette, en hij zei tot hem: waarom ben jij alleen, en is er geen man bij je?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en kwam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "in Nov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelech"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "en hij beefde"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelech"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "tegemoet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en een man"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is er niet"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bij je"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:27.184461056Z",
+  "model": "glm-5.3"
+}

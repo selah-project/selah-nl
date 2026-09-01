@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 150,
+  "translation": "Loof Hem om zijn machtige daden; loof Hem naar de overvloed van zijn grootheid.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Loof Hem"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "om zijn machtige daden"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "loof Hem"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "naar de overvloed"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "van zijn grootheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:01.266085122Z",
+  "model": "glm-5.3"
+}

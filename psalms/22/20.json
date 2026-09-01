@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En U, Jahweh, verwijder U niet; mijn kracht, tot mijn hulp haast U.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "verwijder U"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "mijn kracht"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "tot mijn hulp"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "haast U"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:30.233616114Z",
+  "model": "glm-5.3"
+}

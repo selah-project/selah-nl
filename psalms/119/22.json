@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Wentel van mij af smaad en verachting, want Uw getuigenissen heb ik bewaard.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "wentel af"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "smaad"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "en verachting"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "Uw getuigenissen"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "heb ik bewaard"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:31.192611603Z",
+  "model": "glm-5.3"
+}

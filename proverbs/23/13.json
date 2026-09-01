@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Onthoud ⟨את⟩ tucht niet van de jongen, want als je hem slaat met de staf, zal hij niet sterven.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "onthoud"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "van de jongen"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tucht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "je slaat hem"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "met de staf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zal hij sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:34.251626342Z",
+  "model": "glm-5.3"
+}

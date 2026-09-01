@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Red mij toch uit de hand van mijn broeder, uit de hand van Esav, want ik vrees ⟨את⟩ hem, anders komt hij en slaat mij, moeder ⟨samen met⟩ kinderen.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "van mijn broeder"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "van Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ik vrees"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "komt hij"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "en slaat mij"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moeder"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kinderen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:40.929971621Z",
+  "model": "glm-5.3"
+}

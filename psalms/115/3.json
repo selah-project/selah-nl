@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 115,
+  "translation": "Maar onze Elohim ⟨is⟩ in de hemelen: alles wat hij wil, heeft hij gedaan.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "maar onze Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemelen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hij wil"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "heeft hij gedaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:43.002441160Z",
+  "model": "glm-5.3"
+}

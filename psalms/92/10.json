@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "Want zie, uw vijanden, Jahweh, want zie, uw vijanden zullen vergaan; alle daders van onrecht zullen uiteengejaagd worden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "uw vijanden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "uw vijanden"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "zullen vergaan"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "zullen uiteengejaagd worden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "daders van"
+    },
+    {
+      "surface": "און",
+      "gloss": "onrecht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:49.934914854Z",
+  "model": "glm-5.3"
+}

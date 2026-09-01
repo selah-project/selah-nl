@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 52,
+  "translation": "Ik loof u tot in eeuwigheid, want u hebt ⟨dit⟩ gedaan; en ik hoop op uw naam, want hij is goed, voor het aanschijn van uw chasidim.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ik loof u"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "u hebt gedaan"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "en ik hoop"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "op uw naam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hij is goed"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "voor het aanschijn"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "van uw chasidim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:32.198633037Z",
+  "model": "glm-5.3"
+}

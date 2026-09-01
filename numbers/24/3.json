@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 24:3",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En hij hief zijn spreuk op en zei: het oracle van Bilam, zoon van Beor, en het oracle van de man wiens oog geopend is —",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "en hij hief op"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "zijn spreuk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "het oracle"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "בער",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "en het oracle"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "van de man"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "geopend is"
+    },
+    {
+      "surface": "העין",
+      "gloss": "wiens oog"
+    }
+  ],
+  "timestamp": "2026-08-31T20:16:30.254677336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Antwoord een dwaas niet naar zijn dwaasheid, opdat jij hem niet gelijk wordt, ook jij.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תען",
+      "gloss": "antwoord"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "een dwaas"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "naar zijn dwaasheid"
+    },
+    {
+      "surface": "פן",
+      "gloss": "opdat ... niet"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "gelijk wordt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:19.158622384Z",
+  "model": "glm-5.3"
+}

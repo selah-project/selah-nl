@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Verwervelijk wijsheid, verwervelijk inzicht; vergeet ⟨het⟩ niet en wijk niet af van de woorden van mijn mond.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "verwervelijk"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "verwervelijk"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "inzicht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "vergeet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תט",
+      "gloss": "wijk af"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "van de woorden"
+    },
+    {
+      "surface": "פי",
+      "gloss": "van mijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:38.679286281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En zij voerden ⟨את⟩ de vrouwen die daarin waren weg, van klein tot groot; zij doodden niemand, maar voerden hen af en gingen hun weg.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "En zij voerden weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vrouwen"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "de vrouwen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "van klein"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "doodden zij"
+    },
+    {
+      "surface": "איש",
+      "gloss": "iemand"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "maar voerden hen af"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en gingen"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "hun weg"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:17.816451475Z",
+  "model": "glm-5.3"
+}

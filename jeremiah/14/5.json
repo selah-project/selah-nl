@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Want zelfs een hinde op het veld heeft geworpen en ⟨het⟩ verlaten, want er was geen gras.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zelfs"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "een hinde"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "heeft geworpen"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "en verlaten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "היה",
+      "gloss": "er was"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "gras"
+    }
+  ],
+  "timestamp": "2026-08-31T23:22:38.117071473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Wie een kuil graaft, zal erin vallen; en wie een steen rolt, die keert naar hém terug.",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "graaft"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "een kuil"
+    },
+    {
+      "surface": "בה",
+      "gloss": "erin"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "zal vallen"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "en rolt"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "een steen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naar hém"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "keert terug"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:14.569849800Z",
+  "model": "glm-5.3"
+}

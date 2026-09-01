@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En de priester zal gebieden, en men zal ⟨את⟩ de ene vogel slachten, in een aarden vat, over levend water.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "en zal gebieden"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "en men zal slachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ene vogel"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "de vogel"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "een vat"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "aarden"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levend"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:39.101018121Z",
+  "model": "glm-5.3"
+}

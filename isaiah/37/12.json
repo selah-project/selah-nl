@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Hebben de elohim van de volken ⟨את⟩ hen gered, die mijn vaders vernietigd hebben — ⟨את⟩ Gozan en ⟨את⟩ Charan, en Retsef, en de zonen van Eden, die in Telassar ⟨zijn⟩?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Hebben … gered"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "de elohim van de volken (onderwerp); wijst naar 'hen' als lijdend voorwerp"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "van de volken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "vernietigd hebben"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "mijn vaders"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "en Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en de zonen"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "van Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "in Telassar"
+    }
+  ],
+  "timestamp": "2026-08-31T21:20:49.055456269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Jehoachaz verzachtte ⟨את⟩ het aangezicht van Jahweh, en Jahweh luisterde naar hem, want hij zag ⟨את⟩ de verdrukking van Israël, want de koning van Aram had ⟨את⟩ hen verdrukt.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "en verzachtte"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het aangezicht van Jahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "en luisterde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naar hem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hij zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de verdrukking van Israël"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "de verdrukking"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "had verdrukt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:35.637601540Z",
+  "model": "glm-5.3"
+}

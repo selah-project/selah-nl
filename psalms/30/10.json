@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Wat voor gewin ⟨is er⟩ in mijn bloed, wanneer ik afdaal naar de kuil? Zal het stof U loven? Zal het Uw trouw verkondigen?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat voor"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "gewin"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "in mijn bloed"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "wanneer ik afdaal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "de kuil"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "zal loven"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "het stof"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "zal verkondigen"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "Uw trouw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:06.896724729Z",
+  "model": "glm-5.3"
+}

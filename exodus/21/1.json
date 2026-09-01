@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En dit zijn de verordeningen die je voor hen neer zult leggen.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit zijn"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "de verordeningen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "je neer zult leggen"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:53.272801888Z",
+  "model": "glm-5.3"
+}

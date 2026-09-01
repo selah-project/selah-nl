@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 120,
+  "translation": "Wee mij, dat ik als vreemdeling woon in Mesjek, dat ik verblijf bij de tenten van Kedar!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ik als vreemdeling woon"
+    },
+    {
+      "surface": "משך",
+      "gloss": "in Mesjek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ik verblijf"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "de tenten"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "van Kedar"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:10.082091559Z",
+  "model": "glm-5.3"
+}

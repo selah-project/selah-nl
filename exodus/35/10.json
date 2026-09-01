@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En iedereen die wijs van hart onder jullie is, kome en make ⟨את⟩ alles wat Jahweh geboden heeft.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en iedereen"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wijs"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "onder jullie"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kome"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "en make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboden heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:33.331969341Z",
+  "model": "glm-5.3"
+}

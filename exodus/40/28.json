@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En hij plaatste ⟨את⟩ het voorhangsel van de opening ⟨voor⟩ de mishkan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en hij plaatste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het voorhangsel"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "voorhangsel"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "van de opening"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "voor de mishkan (woning)"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:43.497312438Z",
+  "model": "glm-5.3"
+}

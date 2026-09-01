@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En Elohim steeg op van hem, op de plaats waar Hij met hem gesproken had ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "en steeg op"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "van hem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "op de plaats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "met hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:41.282347681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "opdat Jahweh, uw Elohim, ons ⟨את⟩ de weg wijst waarlangs wij zullen gaan, en ⟨את⟩ het woord dat wij zullen doen.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "opdat ... wijst"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de weg"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarlangs"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "wij zullen gaan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarlangs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "wij zullen doen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:37:52.690293986Z",
+  "model": "glm-5.3"
+}

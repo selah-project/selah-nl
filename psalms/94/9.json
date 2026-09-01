@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Die het oor heeft ingeplant, zou ⟨Hij⟩ niet horen? Die het oog vormt, zou ⟨Hij⟩ niet zien?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "die heeft ingeplant"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "het oor"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "zou niet"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "horen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "die"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "vormt"
+    },
+    {
+      "surface": "עין",
+      "gloss": "het oog"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "zou niet"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "zien"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:02.291362077Z",
+  "model": "glm-5.3"
+}

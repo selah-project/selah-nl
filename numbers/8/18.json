@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En ik nam de Levieten ⟨את⟩ in plaats van alle eerstgeborenen onder de kinderen van Israël.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "en ik nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Levieten"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "de Levieten"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "eerstgeborenen"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "onder de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:12.478435995Z",
+  "model": "glm-5.3"
+}

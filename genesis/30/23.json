@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En zij werd zwanger en baarde een zoon, en zij zei: Elohim heeft ⟨את⟩ mijn smaad weggenomen.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "en zij werd zwanger"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en baarde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "heeft weggenomen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn smaad"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "mijn smaad"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:57.080574322Z",
+  "model": "glm-5.3"
+}

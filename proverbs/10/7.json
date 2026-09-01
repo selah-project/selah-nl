@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "De gedachtenis van de rechtvaardige ⟨is⟩ tot zegen, maar de naam van de goddelozen zal rotten.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "gedachtenis"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van de rechtvaardige"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "tot zegen"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "maar de naam"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "zal rotten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:04.878383151Z",
+  "model": "glm-5.3"
+}

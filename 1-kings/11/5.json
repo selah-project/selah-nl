@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Shelomoh ging achter Asjtoret aan, ⟨de⟩ godin van de Tsidonieten, en achter Milkem, ⟨het⟩ gruwelijke afgodsbeeld van de Ammonieten.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en ging"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter ... aan"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Asjtoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "godin"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "van de Tsidonieten"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "en achter ... aan"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkem"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "gruwelijk afgodsbeeld"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "van de Ammonieten"
+    }
+  ],
+  "timestamp": "2026-08-31T23:44:14.712918427Z",
+  "model": "glm-5.3"
+}

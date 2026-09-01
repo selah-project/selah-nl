@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Mijn knieën wankelden door het vasten, en mijn vlees ontbrak het van vet.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "mijn knieën"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "wankelden"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "door het vasten"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "en mijn vlees"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "ontbrak"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "van vet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:21.323317961Z",
+  "model": "glm-5.3"
+}

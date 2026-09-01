@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Want ik ⟨ben⟩ gereed om te hinken, en mijn pijn is voortdurend vóór mij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "om te hinken"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "gereed"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "en mijn pijn"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "vóór mij"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:22.143769842Z",
+  "model": "glm-5.3"
+}

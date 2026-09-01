@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Als je de aardbodem bewerkt, zal hij zijn kracht ⟨aan⟩ jou niet meer geven; zwervend en dolend zul je zijn op aarde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "als"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "je bewerkt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de aardbodem"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de aardbodem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "niet meer"
+    },
+    {
+      "surface": "תת",
+      "gloss": "zal geven"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "zijn kracht"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "נע",
+      "gloss": "zwervend"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "en dolend"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zul je zijn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:34.678768690Z",
+  "model": "glm-5.3"
+}

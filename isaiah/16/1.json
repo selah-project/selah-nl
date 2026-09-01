@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Zendt ⟨een⟩ lam ⟨als⟩ geschenk aan de heerser van het land, van Selá ⟨in⟩ de woestijn, naar de berg van de dochter van Tsiyon.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "zendt"
+    },
+    {
+      "surface": "כר",
+      "gloss": "lam"
+    },
+    {
+      "surface": "משל",
+      "gloss": "van de heerser"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "van Selá"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "naar de woestijn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "בת",
+      "gloss": "van de dochter"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:22.084816898Z",
+  "model": "glm-5.3"
+}

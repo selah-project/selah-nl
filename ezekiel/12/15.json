@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En zij zullen weten dat Ik Jahweh ⟨ben⟩, wanneer Ik ⟨את⟩ hen uiteenjaag onder de naties en ⟨את⟩ hen verstrooi in de landen.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "en zij zullen weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "wanneer Ik uiteenjaag"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder de naties"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "en verstrooi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "in de landen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:43:37.920275836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Alleen wie gevonden wordt, wordt doorstoken; en alleen wie erbij gegrepen wordt, valt door het zwaard.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alleen wie"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "gevonden wordt"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "wordt doorstoken"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alleen wie"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "erbij gegrepen wordt"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "valt"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "door het zwaard"
+    }
+  ],
+  "timestamp": "2026-08-31T21:16:01.908302471Z",
+  "model": "glm-5.3"
+}

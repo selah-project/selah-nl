@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Ik heb ⟨את⟩ gehoord wat de profeten gezegd hebben, die in mijn naam leugens profeteren, zeggende: Ik heb gedroomd, ik heb gedroomd.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ik heb gehoord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat de profeten gezegd hebben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "gezegd hebben"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "de profeten"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "profeteren"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "in mijn naam"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leugens"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ik heb gedroomd"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ik heb gedroomd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:33:31.320829269Z",
+  "model": "glm-5.3"
+}

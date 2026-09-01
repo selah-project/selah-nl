@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 19:14",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Mijn naasten houden ⟨op⟩, en mijn vertrouwden vergeten mij.",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "houden ⟨op⟩"
+    },
+    {
+      "surface": "קרובי",
+      "gloss": "mijn naasten"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "en mijn vertrouwden"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "vergeten mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:33:41.415908584Z",
+  "model": "glm-5.3"
+}

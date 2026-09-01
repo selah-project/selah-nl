@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Gaand naar het zuiden en kered rond naar het noorden, rondgaand, rondgaand gaat de wind, en op zijn banen keert de wind terug.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "gaand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "het zuiden"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "en kerend rond"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "het noorden"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "rondgaand"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "rondgaand"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gaat"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "de wind"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "zijn banen"
+    },
+    {
+      "surface": "שב",
+      "gloss": "keert terug"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "de wind"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:55.735241749Z",
+  "model": "glm-5.3"
+}

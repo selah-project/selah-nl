@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Wat is de sterveling, dat U hem gedenkt, en de zoon van adam, dat U hem bezoekt?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "de sterveling"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "U hem gedenkt"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "en de zoon van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "U hem bezoekt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:39.721870646Z",
+  "model": "glm-5.3"
+}

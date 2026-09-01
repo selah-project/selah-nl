@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Van al mijn leermeesters ben ik verstandiger geworden, want uw getuigenissen ⟨zijn⟩ mijn overdenking.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "mijn leermeesters"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "ben ik verstandiger geworden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "uw getuigenissen"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "overdenking"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨zijn⟩ mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:52.668133612Z",
+  "model": "glm-5.3"
+}

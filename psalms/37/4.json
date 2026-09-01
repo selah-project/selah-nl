@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En vind je vreugde in Jahweh, dan geeft Hij jou de wensen van je hart.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "en vind vreugde"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan geeft Hij"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "de wensen"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "van je hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:35.784152417Z",
+  "model": "glm-5.3"
+}

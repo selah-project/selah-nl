@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En Dawid hoorde het, en hij zond ⟨את⟩ Joav en ⟨את⟩ het hele leger van de helden.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hij hoorde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het hele leger van de helden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "het hele"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "leger"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "van de helden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:02:12.902068955Z",
+  "model": "glm-5.3"
+}

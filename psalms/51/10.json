@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Laat mij jubel en vreugde horen; laat ⟨de⟩ beenderen die U verbrijzeld hebt, juichen.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "laat mij horen"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "en vreugde"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "laten juichen"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "beenderen"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "die U verbrijzeld hebt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:31.066494248Z",
+  "model": "glm-5.3"
+}

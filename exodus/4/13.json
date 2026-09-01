@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij zeide: ach, Adonai, zend toch ⟨door⟩ de hand ⟨van hem⟩ die u zult zenden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zend"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨door⟩ de hand"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "die u zult zenden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:19.381610364Z",
+  "model": "glm-5.3"
+}

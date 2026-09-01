@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 127,
+  "translation": "Zie, een erfdeel van Jahweh ⟨zijn⟩ zonen; een loon ⟨is⟩ de vrucht van de schoot.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "een erfdeel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "een loon"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "de vrucht"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "van de schoot"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:29.399996433Z",
+  "model": "glm-5.3"
+}

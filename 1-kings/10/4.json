@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En de koningin van Sjeva zag ⟨את⟩ al de wijsheid van Sjelomo, en het huis dat hij gebouwd had.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "de koningin"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "van Sjeva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al de wijsheid van Sjelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "de wijsheid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "van Sjelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "en het huis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "gebroken had"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:19.546036913Z",
+  "model": "glm-5.3"
+}

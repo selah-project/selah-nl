@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "dat de zonen van Elohim de dochters van de mens zagen, ⟨את⟩ de dochters van de mens, dat zij goed waren, en zij namen zich vrouwen van allen die zij verkozen.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "dat zij zagen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dochters van de mens"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "de dochters van"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "goed"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "en zij namen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zich"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vrouwen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van allen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "zij verkozen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:11.397501360Z",
+  "model": "glm-5.3"
+}

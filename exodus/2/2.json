@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de vrouw werd zwanger en baarde een zoon; en zij zag hem ⟨את⟩, dat hij goed was, en zij verborg hem drie maanden.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "en zij werd zwanger"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en zij baarde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "en zij zag"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "en zij verborg hem"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "maanden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:14:03.268386440Z",
+  "model": "glm-5.3"
+}

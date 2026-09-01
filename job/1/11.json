@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Maar strek toch uw hand uit en raak alles aan wat hij heeft — ⟨als⟩ hij niet ⟨in⟩ uw aangezicht ⟨u⟩ zal zegenen!",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "maar"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "strek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uw hand"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "en raak aan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hij heeft"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨als⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨in⟩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "zal hij ⟨u⟩ zegenen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:46.901494385Z",
+  "model": "glm-5.3"
+}

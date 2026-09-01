@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En hij zond ⟨את⟩ de jongemannen van de kinderen van Jisraël, en zij brachten brandoffers omhoog en slachtten slachtoffers van vredeoffers voor Jahweh — jonge stieren.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de jongemannen"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "de jongemannen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "en zij brachten omhoog"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brandoffers"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "en zij slachtten"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "slachtoffers"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "van vredeoffers"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "jonge stieren"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:08.337827580Z",
+  "model": "glm-5.3"
+}

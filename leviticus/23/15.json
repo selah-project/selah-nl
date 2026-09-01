@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En gij zult voor jullieself tellen vanaf de morgen na de sjabbat, vanaf de dag dat gij ⟨את⟩ de omer van het wuifoffer gebracht hebt: zeven sjabbatten, volkomen zullen ze zijn.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "en gij zult tellen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullieself"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "vanaf de morgen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "na de sjabbat"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "vanaf de dag"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "dat gij gebracht hebt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de omer van het wuifoffer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "de omer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "van het wuifoffer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "sjabbatten"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "volkomen"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "zullen ze zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:25.654687050Z",
+  "model": "glm-5.3"
+}

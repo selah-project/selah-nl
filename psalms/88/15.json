@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "Waarom, Jahweh, verstoot Gij mijn nefesj, waarom verbergt Gij uw aangezicht voor mij?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "verstoot Gij"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "verbergt Gij"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "voor mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:12.443007275Z",
+  "model": "glm-5.3"
+}

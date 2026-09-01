@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Wees niet als het paard, ⟨als⟩ de muilezel, zonder verstand: met bit en breidel, zijn tooi, om ⟨hen⟩ in te tomen, anders komen zij niet naar jou toe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "wees"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "als het paard"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "als de muilezel"
+    },
+    {
+      "surface": "אין",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "verstand"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "met bit"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "en breidel"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "zijn tooi"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "om in te tomen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "anders niet"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "komen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "naar jou toe"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:59.716449367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "En wat mij betreft, in mijn onschuld houdt Gij mij staande, en Gij stelt mij voor Uw aangezicht voor altijd.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En wat mij betreft"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "in mijn onschuld"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "houdt Gij staande"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "en Gij stelt mij"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor Uw aangezicht"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor altijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:42.722617635Z",
+  "model": "glm-5.3"
+}

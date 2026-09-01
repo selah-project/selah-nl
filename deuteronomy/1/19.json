@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 1:19",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En wij braken op van Chorev en wij trokken door ⟨את⟩ heel die grote en ontzagwekkende woestijn die jullie gezien hebben, de weg ⟨naar⟩ de berg van de Emoriet, zoals Jahweh onze Elohim ⟨את⟩ ons geboden had; en wij kwamen tot Kadès-Barnea.",
+  "tokens": [
+    {
+      "surface": "ונסע",
+      "gloss": "en wij braken op"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "van Chorev"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "en wij trokken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel die grote en ontzagwekkende woestijn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "die woestijn"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "grote"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "en ontzagwekkende"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "jullie gezien hebben"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de berg van"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de Emoriet"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboden had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ons"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "en wij kwamen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadès"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:25.830270332Z",
+  "model": "glm-5.3"
+}

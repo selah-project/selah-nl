@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 15:21",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En ieder die haar bed aanraakt, moet zijn kleding wassen en zich in water baden en is onrein tot de avond.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "En ieder"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "die aanraakt"
+    },
+    {
+      "surface": "במשכבה",
+      "gloss": "haar bed"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "moet wassen"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zijn kleding"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "en zich baden"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in water"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "en is onrein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "de avond"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:05.042003877Z",
+  "model": "glm-5.3"
+}

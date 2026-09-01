@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "In heel de aarde ging hun meetsnoer uit, en tot het uiteinde van de bewoonde wereld ⟨gingen⟩ hun woorden; voor de zon zette ⟨Hij⟩ een tent in hen.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "in heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ging uit"
+    },
+    {
+      "surface": "קום",
+      "gloss": "hun meetsnoer"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "en tot het uiteinde"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "van de bewoonde wereld"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "hun woorden"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "voor de zon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zette"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "een tent"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:48.121465261Z",
+  "model": "glm-5.3"
+}

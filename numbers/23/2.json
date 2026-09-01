@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Balak deed zoals Bilam gesproken had, en Balak en Bilam lieten ⟨elk⟩ een stier en een ram opgaan ⟨op het altaar⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en deed"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en lieten opgaan"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "en Bilam"
+    },
+    {
+      "surface": "פר",
+      "gloss": "een stier"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "en een ram"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "op het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:16:14.227264798Z",
+  "model": "glm-5.3"
+}

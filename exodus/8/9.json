@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Jahweh deed naar het woord van Mosjee, en de kikvorsen stierven, uit de huizen, uit de voorhoven en uit de velden.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "En hij deed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "naar het woord van"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "en zij stierven"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "de kikvorsen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "de huizen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "de voorhoven"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en uit"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "de velden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:06.429444070Z",
+  "model": "glm-5.3"
+}

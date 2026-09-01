@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Aharon en zijn zonen deden ⟨את⟩ alle de woorden die Jahweh geboden had door de hand van Mosjee.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en deden"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en zijn zonen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle de woorden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geborgen had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:52.084004953Z",
+  "model": "glm-5.3"
+}

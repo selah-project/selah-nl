@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Ik zal Mij u verloven in trouw, en u zult Jahweh kennen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "En Ik zal Mij u verloven"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan Mij"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "in trouw"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "en u zult kennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:06.799116303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Jaäkov vluchtte naar het veld van Aram, en Israël diende voor een vrouw, en voor een vrouw hoedde hij ⟨schapen⟩.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "en hij vluchtte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "veld"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "en hij diende"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "voor een vrouw"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "en voor een vrouw"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hoedde hij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:54.398574963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En hij maakte het verzoendeksel van zuiver goud: twee el en een half ⟨was⟩ zijn lengte, en één el en een half zijn breedte.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "het verzoendeksel"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "zuiver"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "twee el"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en een half"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "zijn lengte"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en één el"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en een half"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "zijn breedte"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:47.633482235Z",
+  "model": "glm-5.3"
+}

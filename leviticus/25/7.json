@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "en voor je vee, en voor het dier dat in je land is: al zijn opbrengst zal tot voedsel zijn.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "en voor je vee"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "en voor het dier"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "in je land"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "zijn opbrengst"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "tot voedsel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:23.938011650Z",
+  "model": "glm-5.3"
+}

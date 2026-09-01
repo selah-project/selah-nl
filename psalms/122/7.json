@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 122,
+  "translation": "Moge er sjalom zijn in je vestingwerken, rust in je burchten.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "moge er zijn"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "in je vestingwerken"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "rust"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "in je burchten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:31.888429456Z",
+  "model": "glm-5.3"
+}

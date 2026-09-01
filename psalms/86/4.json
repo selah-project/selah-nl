@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 86,
+  "translation": "Verblijd de nefesj ⟨ziel⟩ van uw dienaar, want tot u, Adonai, hef ik mijn nefesj ⟨ziel⟩ op.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "verblijd"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "van uw dienaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "hef ik op"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:26.808662858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Als ⟨voor⟩ een vriend, als ⟨voor⟩ een broer ⟨aan⟩ mij, ging ik gebukt; als ⟨iemand in⟩ rouw om ⟨een⟩ moeder, donker van rouw boog ik mij ⟨neer⟩.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "als een vriend"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "als een broer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan mij"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ging ik gebukt"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "als ⟨iemand in⟩ rouw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om ⟨een⟩ moeder"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "donker van rouw"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "boog ik mij ⟨neer⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:19.533516987Z",
+  "model": "glm-5.3"
+}

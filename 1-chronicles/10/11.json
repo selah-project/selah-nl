@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En heel Javesj-Gil'ad hoorde ⟨את⟩ alles wat de Filistijmen aan Sjaoel hadden gedaan.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "en zij hoorden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Javesj"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hadden gedaan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Filistijmen"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "aan Sjaoel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:59:57.130597997Z",
+  "model": "glm-5.3"
+}

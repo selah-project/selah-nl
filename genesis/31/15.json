@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Zijn wij niet als vreemden door hem gerekend? Want hij heeft ons verkocht en heeft zelfs ⟨את⟩ ons zilver geheel opgegeten.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "is het niet"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "als vreemden"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "zijn wij gerekend"
+    },
+    {
+      "surface": "לו",
+      "gloss": "door hem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "hij heeft ons verkocht"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "en hij heeft opgegeten"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zelfs"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "geheel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons zilver"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "ons zilver"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:04.685608301Z",
+  "model": "glm-5.3"
+}

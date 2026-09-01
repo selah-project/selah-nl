@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Doe goed naar uw welbehagen ⟨aan⟩ Tsijon; bouw de muren van Jeroesjalajim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "doe goed"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "naar uw welbehagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsijon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bouw"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "de muren"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:29.731567611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 20:12",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En ook ⟨את⟩ mijn sabbatten gaf ik hun, om een teken te zijn tussen mij en tussen hen, om te weten dat ik Jahweh ben, die hen heiligt.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn sabbatten"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "mijn sabbatten"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gaf ik"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "om te zijn"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "een teken"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen mij"
+    },
+    {
+      "surface": "וביניהם",
+      "gloss": "en tussen hen"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "om te weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "die hen heiligt"
+    }
+  ],
+  "timestamp": "2026-08-31T21:45:58.138171748Z",
+  "model": "glm-5.3"
+}

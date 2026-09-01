@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En hij liet de runderen achter en rende achter Elia aan en zei: Laat mij toch mijn vader en mijn moeder kussen, dan ga ik achter u aan. En hij zei tot hem: Ga, keer terug, want wat heb ik u gedaan?",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "en hij liet achter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de runderen"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "de runderen"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "en rende"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "laat mij kussen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "en mijn moeder"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dan ga ik"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "achter u aan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "heb ik gedaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:38.075381012Z",
+  "model": "glm-5.3"
+}

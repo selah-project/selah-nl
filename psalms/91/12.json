@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Op hun handpalmen zullen zij je dragen, zodat je je voet niet stoot aan een steen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Op"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "handpalmen"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "zullen zij je dragen"
+    },
+    {
+      "surface": "פן",
+      "gloss": "zodat... niet"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "je stoot"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "aan een steen"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "je voet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:53.382639612Z",
+  "model": "glm-5.3"
+}

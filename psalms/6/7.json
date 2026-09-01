@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Ik ben uitgeput door mijn zuchten; de hele nacht laat ik mijn bed ⟨in tranen⟩ zwemmen, ik doordrenk mijn leger met mijn tranen.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ik ben uitgeput"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "door mijn zuchten"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "laat ik zwemmen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nacht"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "mijn bed"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "met mijn tranen"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "mijn leger"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "doordrenk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:25.173023982Z",
+  "model": "glm-5.3"
+}

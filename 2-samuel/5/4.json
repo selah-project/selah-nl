@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Dertig jaar oud was Dawid bij zijn koningschap; veertig jaar heeft hij geregeerd.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "zoon van (d.w.z. oud)"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "bij zijn koningschap"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "heeft geregeerd"
+    }
+  ],
+  "timestamp": "2026-08-31T20:51:56.485410709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En Jozef kwam 's morgens bij hen, en hij zag ⟨את⟩ hen — en zie, zij waren mistroostig.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "bij hen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "'s morgens"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en hij zag"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "mistroostig"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:01.793206085Z",
+  "model": "glm-5.3"
+}

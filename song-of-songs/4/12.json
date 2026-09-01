@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Een gesloten tuin ⟨is⟩ mijn zuster, ⟨mijn⟩ bruid; een gesloten bron, een verzegelde fontein.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "een tuin"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "gesloten"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mijn zuster"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bruid"
+    },
+    {
+      "surface": "גל",
+      "gloss": "een bron"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "gesloten"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "een fontein"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "verzegeld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:42.376662772Z",
+  "model": "glm-5.3"
+}

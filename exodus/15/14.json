@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Volken hebben gehoord, zij beven; weeën hebben gegrepen ⟨de⟩ bewoners van Plesjet.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hebben gehoord"
+    },
+    {
+      "egloss": "",
+      "surface": "עמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "zij beven"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "weeën"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "hebben gegrepen"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bewoners"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "van Plesjet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:42.058942078Z",
+  "model": "glm-5.3"
+}

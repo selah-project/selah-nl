@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En hij verkoos ⟨את⟩ de stam van Jehoeda, ⟨את⟩ de berg Tsjion die hij liefhad.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "en hij verkoos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stam van Jehoeda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "de stam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de berg Tsjion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsjion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hij liefhad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:59.439144240Z",
+  "model": "glm-5.3"
+}

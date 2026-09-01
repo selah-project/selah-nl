@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Want Jahweh kent de weg van de rechtvaardigen, maar de weg van de reflaatsen zal vergaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg van"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rechtvaardigen"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "maar de weg van"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de reflaatsen"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "zal vergaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:11.490806974Z",
+  "model": "glm-5.3"
+}

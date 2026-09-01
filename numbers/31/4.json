@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Duizend voor elke stam, duizend voor elke stam, voor alle stammen van Jisraël, zult gij naar de oorlog sturen.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "voor elke stam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "voor elke stam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "voor alle"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "stammen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "zult gij sturen"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "naar de oorlog"
+    }
+  ],
+  "timestamp": "2026-08-31T20:18:20.063035068Z",
+  "model": "glm-5.3"
+}

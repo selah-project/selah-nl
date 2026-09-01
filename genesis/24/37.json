@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 24:37",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Mijn meester liet mij zweren ⟨en zei⟩: jij zult geen vrouw nemen voor mijn zoon, uit ⟨de⟩ dochters van de Knaäniet bij wie ik woon in zijn land.",
+  "tokens": [
+    {
+      "surface": "וישבעני",
+      "gloss": "liet mij zweren"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn meester"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨en zei⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "jij zult nemen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vrouw"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "voor mijn zoon"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "uit de dochters"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "van de Knaäniet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bij wie"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "woon"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "in zijn land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:49.954835987Z",
+  "model": "glm-5.3"
+}

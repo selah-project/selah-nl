@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 90,
+  "translation": "Verzadig ons in de morgen met Uw chesed (goedertierenheid), dan juichen wij en zijn wij verblijd al onze dagen.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Verzadig ons"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "met Uw chesed"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "dan juichen wij"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "en zijn wij verblijd"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "onze dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:03.341881699Z",
+  "model": "glm-5.3"
+}

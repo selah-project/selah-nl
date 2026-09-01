@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Ben ik ⟨de⟩ zee, of een zeemonster, dat U over mij een wacht stelt?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "een zeemonster"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "U stelt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "een wacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:14.481150149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En hij mat ⟨את⟩ de voorhal van de poort, vanaf het huis ⟨gemeten⟩, éénriet.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "en hij mat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de voorhal"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "de voorhal"
+    },
+    {
+      "surface": "השער",
+      "gloss": "van de poort"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "vanaf het huis"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "één riet"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T21:52:01.392678486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En hij zei: vervloekt zij Kenaan, een dienaar van dienaren zij hij ⟨voor⟩ zijn broeders.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "vervloekt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "een dienaar"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "van dienaren"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zij hij"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "voor zijn broeders"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:34.147369921Z",
+  "model": "glm-5.3"
+}

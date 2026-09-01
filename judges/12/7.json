@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Jiftach richtte ⟨את⟩ Israël zes jaar; toen stierf Jiftach de Giladiet, en hij werd begraven in de steden van Gil'ad.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "En ... richtte"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zes"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "toen stierf"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "de Giladiet"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en hij werd begraven"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "in de steden"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "van Gil'ad"
+    }
+  ],
+  "timestamp": "2026-08-31T20:38:50.150589142Z",
+  "model": "glm-5.3"
+}

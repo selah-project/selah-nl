@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 95,
+  "translation": "Laten wij zijn aangezicht tegemoet gaan met dankzegging, met liedjes laten wij ⟨jubelen⟩ voor hem.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "laten wij tegemoet gaan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zijn aangezicht"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "met dankzegging"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "met liedjes"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "⟨jubelen⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:16.010038475Z",
+  "model": "glm-5.3"
+}

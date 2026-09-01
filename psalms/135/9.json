@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Die tekens en wonderen zond in jouw midden, o Mitsrajim, aan Par'o en aan al zijn dienaren.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "zond"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "tekens"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "en wonderen"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "in jouw midden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "aan Par'o"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en aan al"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:44.587167040Z",
+  "model": "glm-5.3"
+}

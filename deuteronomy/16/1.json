@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Houd gade ⟨את⟩ de maand van de aviv, en maak pesach voor Jahweh, jouw Elohim, want in de maand van de aviv heeft Jahweh, jouw Elohim, je uit Mitsrajim doen uitgaan, in de nacht.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Houd gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de maand van de aviv"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "de maand"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "van de aviv"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en maak"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "in de maand"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "van de aviv"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "heeft je doen uitgaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in de nacht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:50.698502560Z",
+  "model": "glm-5.3"
+}

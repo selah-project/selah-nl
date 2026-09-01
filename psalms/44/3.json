@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "U — Uw hand heeft volken verjaagd en hen ⟨Israel⟩ geplant; U heeft natiën verbrijzeld en hen ⟨Israel⟩ uitgestrooid.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Uw hand"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "heeft verjaagd"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "en hen geplant"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "heeft verbrijzeld"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "natiën"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "en hen uitgestrooid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:28.795690201Z",
+  "model": "glm-5.3"
+}

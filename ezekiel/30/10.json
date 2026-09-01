@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Zo zegt Adonai Jahweh: Ik zal ⟨את⟩ de menigte van Mitsrajim doen ophouden door de hand van Nevuchadretsar, koning van Bavel.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "Ik zal doen ophouden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de menigte van Mitsrajim"
+    },
+    {
+      "surface": "המון",
+      "gloss": "de menigte"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "van Nevuchadretsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Bavel"
+    }
+  ],
+  "timestamp": "2026-08-31T21:48:33.338443436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 140,
+  "translation": "Ik heb gezegd tot Jahweh: mijn El bent gij; neig ⟨uw⟩ oor, Jahweh, naar de stem van mijn smekingen.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ik heb gezegd"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tot Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mijn El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bent gij"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "neig ⟨uw⟩ oor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "naar de stem van"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mijn smekingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:39.031716470Z",
+  "model": "glm-5.3"
+}

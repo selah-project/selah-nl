@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Zij zond haar jonge meiden uit; zij roept op de hoogten van de stad,",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "zij zond uit"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "haar jonge meiden"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "zij roept"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "de toppen"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "van de hoogten"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "van de stad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:06.314445031Z",
+  "model": "glm-5.3"
+}

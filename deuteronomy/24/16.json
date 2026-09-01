@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Vaders zullen niet gedood worden voor ⟨de⟩ kinderen, en kinderen zullen niet gedood worden voor ⟨de⟩ vaders; ieder zal voor zijn eigen zonde gedood worden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "zullen gedood worden"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "vaders"
+    },
+    {
+      "surface": "על",
+      "gloss": "voor"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "en kinderen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "zullen gedood worden"
+    },
+    {
+      "surface": "על",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "vaders"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "voor zijn eigen zonde"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "zal gedood worden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:45.570734955Z",
+  "model": "glm-5.3"
+}

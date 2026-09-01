@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En het geschiedde in het derde jaar, dat Jehosjafat, koning van Jehoeda, neerdaalde naar de koning van Israël.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het geschiedde"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "in het jaar"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "het derde"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dat hij neerdaalde"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:33.965799462Z",
+  "model": "glm-5.3"
+}

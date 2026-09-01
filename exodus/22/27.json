@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Elohim zult gij niet smaden, en een vorst onder uw volk zult gij niet vervloeken.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "zult gij smaden"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "en een vorst"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "onder uw volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "zult gij vervloeken"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:22.058529323Z",
+  "model": "glm-5.3"
+}

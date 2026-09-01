@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Ik leef, luidt het oracle van Adonai Jahweh — dit spreekwoord zal niet meer door jullie als spreuk gebezigd worden in Israël.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "leef"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "luidt het oracle van"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨zal niet⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zijn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "door jullie"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "niet meer"
+    },
+    {
+      "surface": "משל",
+      "gloss": "als spreuk"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "dit spreekwoord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:07.092177992Z",
+  "model": "glm-5.3"
+}

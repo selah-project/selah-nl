@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "En Jisraël zag ⟨את⟩ de zonen van Jozef, en hij zei: wie zijn deze?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "En hij zag"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zonen van Jozef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "van Jozef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "zijn deze"
+    }
+  ],
+  "timestamp": "2026-08-31T23:14:12.442277911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En Jaäkov ging op zijn weg, en boden van Elohim ontmoetten hem.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "en Jaäkov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ging"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "op zijn weg"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "en ontmoetten"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "boden van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:13.745584253Z",
+  "model": "glm-5.3"
+}

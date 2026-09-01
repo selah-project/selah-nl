@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Nauwelijks was ik van hen ⟨verder⟩ gegaan, of ik vond ⟨את⟩ hem die mijn nefesj liefheeft; ik greep hem en liet hem niet los, tot ik hem gebracht had naar het huis van mijn moeder en naar de kamer van haar die mij ontvangen heeft.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "nauwelijks"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "was ik gegaan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "van hen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "ik vond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hem die mijn nefesj liefheeft"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "die liefheeft"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "ik greep hem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "liet ik hem los"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "ik hem gebracht had"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "van mijn moeder"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en naar"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "de kamer"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "van haar die mij ontvangen heeft"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:05.010283464Z",
+  "model": "glm-5.3"
+}

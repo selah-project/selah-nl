@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Goed is Jahweh voor allen, en zijn rachamiem ⟨zijn⟩ over al zijn werken.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Goed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "voor allen"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "en zijn rachamiem"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "zijn werken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:13.160328359Z",
+  "model": "glm-5.3"
+}

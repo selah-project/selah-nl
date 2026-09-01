@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Vermenigvuldigd worden hun smarten ⟨goden⟩; ⟨wie⟩ snelle(n) achter een ⟨andere⟩; voorwaar, hun drankoffers van bloed zal ik niet uitgieten, en hun namen zal ik niet ⟨את⟩ op mijn lippen nemen.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "vermenigvuldigd worden"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "hun smarten ⟨afgoden⟩"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "achter ⟨een andere⟩"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "snelle(n)"
+    },
+    {
+      "surface": "בל",
+      "gloss": "voorwaar niet"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "zal ik uitgieten"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "hun drankoffers"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "van bloed"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "zal ik nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun namen"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "hun namen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mijn lippen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:04.146298020Z",
+  "model": "glm-5.3"
+}

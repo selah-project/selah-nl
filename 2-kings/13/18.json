@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En hij zei: neem de pijlen. En hij nam ⟨ze⟩, en hij zei tot de koning van Jisraël: sla op de aarde. En hij sloeg drie keer en hield op.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "de pijlen"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tot de koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "הך",
+      "gloss": "sla"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en hij sloeg"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "keer"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "en hield op"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:34.365091902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 77,
+  "translation": "U bent ⟨de⟩ El die wonderen doet; u hebt uw macht bekendgemaakt onder de volken.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doet"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "wonderen"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "hebt bekendgemaakt"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "onder de volken"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "uw macht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:28.587448288Z",
+  "model": "glm-5.3"
+}

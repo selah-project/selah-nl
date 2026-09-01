@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Elohim vernederde op die dag ⟨את⟩ Jawin, de koning van Kenaän, voor het aangezicht van de kinderen van Israël.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "En vernederde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jawin"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Jawin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaän"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:36:41.047714895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Allen zullen antwoorden en tot u zeggen: ook jij bent zwak geworden als wij, aan ons ben jij gelijk geworden.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "allen"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "zullen antwoorden"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zeggen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ben zwak geworden"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "als wij"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "ben gelijk geworden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:51.272935669Z",
+  "model": "glm-5.3"
+}

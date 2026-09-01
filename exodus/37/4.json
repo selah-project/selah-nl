@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En hij maakte draagstokken van acacia-hout en overtrok ⟨את⟩ ze met goud.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "draagstokken"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia's"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "en overtrok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ze (de draagstokken)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "met goud"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:56.694130550Z",
+  "model": "glm-5.3"
+}

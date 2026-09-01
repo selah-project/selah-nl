@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Nabij is Jahweh voor allen die hem aanroepen, voor allen die hem in waarheid aanroepen.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nabij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "voor allen"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "die hem aanroepen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "voor allen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "hem aanroepen"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in waarheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:17.633860723Z",
+  "model": "glm-5.3"
+}

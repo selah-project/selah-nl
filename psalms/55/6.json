@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Angst en beven komen over mij, en ontzetting bedekt mij.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "angst"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "en beven"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "בי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "en bedekt mij"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ontzetting"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:33.083051523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Verduisterd van verdriet ⟨is⟩ mijn oog; verouderd ⟨is het⟩ door al mijn tegenstanders.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "Verduisterd"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "van verdriet"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn oog"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "verouderd"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "door al"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mijn tegenstanders"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:25.173177017Z",
+  "model": "glm-5.3"
+}

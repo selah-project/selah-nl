@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 111,
+  "translation": "Pracht en majesteit ⟨is⟩ zijn werk, en zijn rechtvaardigheid staat voor eeuwig.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "pracht"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "en majesteit"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "zijn werk"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "en zijn rechtvaardigheid"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "staat"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:43.482665339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Wie het graan inhoudt, ⟨hem⟩ vervloekt het volk, maar zegen ⟨rust⟩ op het hoofd van wie het verkoopt.",
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "wie inhoudt"
+    },
+    {
+      "surface": "בר",
+      "gloss": "het graan"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "vervloekt ⟨hem⟩"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "maar zegen"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "op het hoofd"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "van wie verkoopt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:44.413561519Z",
+  "model": "glm-5.3"
+}

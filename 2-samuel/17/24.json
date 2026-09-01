@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En Dawid kwam ⟨aan⟩ in Machanajim, en Avsjalom stak ⟨את⟩ de Jarden over, hij en alle mannen van Jisraël met hem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "En Dawid"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "in Machanajim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "en Avsjalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "stak over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:10.964431083Z",
+  "model": "glm-5.3"
+}

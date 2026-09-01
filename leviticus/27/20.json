@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En als hij het veld niet lossen wil, of als hij het veld aan een ander man verkocht heeft, dan zal het niet meer gelost worden.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "lossen wil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het veld"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "het veld"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "of als"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "verkocht heeft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het veld"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "het veld"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan een man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "een ander"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "gelost zal worden"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:11.272497683Z",
+  "model": "glm-5.3"
+}

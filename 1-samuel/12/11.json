@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Toen zond Jahweh ⟨את⟩ Jerubbaäl en ⟨את⟩ Bedan en ⟨את⟩ Jiftach en ⟨את⟩ Sjemoeël, en Hij redde ⟨את⟩ u uit de hand van uw vijanden rondom, en u bewoonde het land in veiligheid.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "toen zond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerubbaäl"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaäl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jiftach"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sjemoeël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "en Hij redde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "u"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand van"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "uw vijanden"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "en u bewoonde"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "in veiligheid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:50.147377746Z",
+  "model": "glm-5.3"
+}

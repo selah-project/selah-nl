@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Op U heb ik gesteund vanuit de moederschoot; uit de ingewanden van mijn moeder bent U ⟨degene⟩ die mij uithaalde; in U ⟨is⟩ mijn lof, gedurig.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "heb ik gesteund"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "vanuit de moederschoot"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "uit de ingewanden"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "van mijn moeder"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bent U"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "die mij uithaalde"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in U"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "mijn lof"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:28.595856985Z",
+  "model": "glm-5.3"
+}

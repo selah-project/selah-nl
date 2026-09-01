@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Goed is voor mij de tora van uw mond, boven duizenden goud en zilver.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "de tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "van uw mond"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "boven duizenden"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "en zilver"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:48.058266776Z",
+  "model": "glm-5.3"
+}

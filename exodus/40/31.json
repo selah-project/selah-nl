@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En Mosjee en Aharons zonen wasten daaruit hun handen en hun voeten",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "en zij wasten"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daaruit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en zijn zonen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun handen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hun handen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun voeten"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "hun voeten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:07.892560981Z",
+  "model": "glm-5.3"
+}

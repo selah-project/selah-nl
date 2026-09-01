@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "En Jahweh daalde neer in de wolk, en stelde zich ⟨met hem⟩ daar op, en riep uit in de naam van Jahweh.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "en hij daalde neer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "in de wolk"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "en stelde zich op"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en riep uit"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in de naam van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:51.664184143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Van een talent zuiver goud maakte hij ⟨את⟩ haar, en ⟨את⟩ al haar gereedschap.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "een talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "zuiver"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maakte hij"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al haar gereedschap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "haar gereedschap"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:46.238097657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Eénmaal heb ik gesproken, maar ik zal niet antwoorden; ja, tweemaal, maar ik zal ⟨het⟩ niet toevoegen.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "éénmaal"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "heb ik gesproken"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar ik zal niet"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "antwoorden"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ja, tweemaal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar ik zal niet"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "toevoegen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:37:29.345149148Z",
+  "model": "glm-5.3"
+}

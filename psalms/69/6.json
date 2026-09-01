@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Elohim, u hebt mijn dwaasheid gekend, en mijn schulden zijn voor u niet verborgen.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "hebt gekend"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "mijn dwaasheid"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "en mijn schulden"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "verborgen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:33.735523101Z",
+  "model": "glm-5.3"
+}

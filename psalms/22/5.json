@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Op U hebben onze vaderen vertrouwd; zij vertrouwden, en U hebt hen gered.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "hebben vertrouwd"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "onze vaderen"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "vertrouwden"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "en U hebt hen gered"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:01.725029031Z",
+  "model": "glm-5.3"
+}

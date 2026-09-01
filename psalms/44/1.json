@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Voor de koorleider, voor de zonen van Korach, een Maskil ⟨gedicht van lering⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "voor de zonen van"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "een Maskil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:28.795230952Z",
+  "model": "glm-5.3"
+}

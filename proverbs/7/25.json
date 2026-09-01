@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Laat je hart niet afwijken naar haar wegen, dwaal niet af op haar paden.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "afwijken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "haar wegen"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "je hart"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "dwaal af"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "op haar paden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:42.676316470Z",
+  "model": "glm-5.3"
+}

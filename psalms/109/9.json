@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Mogen zijn zonen wezen worden, en zijn vrouw een weduwe.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mogen zij worden"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "wezen"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "en zijn vrouw"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "een weduwe"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:18.571049653Z",
+  "model": "glm-5.3"
+}

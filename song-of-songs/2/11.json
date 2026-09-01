@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Want zie, de winter is voorbijgegaan, de regen is over, hij is heengegaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "de winter"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "is voorbijgegaan"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "de regen"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "is over"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "is heengegaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨zijn weg⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:41.545713578Z",
+  "model": "glm-5.3"
+}

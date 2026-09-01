@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "Laat uw hand zijn over de man van uw rechterhand, over de zoon van de mens die Gij ⟨voor⟩ uzelf hebt versterkt.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "laat zijn"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uw hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "van uw rechterhand"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "hebt versterkt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨voor⟩ uzelf"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:37.488010063Z",
+  "model": "glm-5.3"
+}

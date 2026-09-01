@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Nader tot mijn nefesj, verlos haar; om mijn vijanden wil, koop mij vrij.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Nader"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "verlos haar"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om ... wil"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "koop mij vrij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:49.787117351Z",
+  "model": "glm-5.3"
+}

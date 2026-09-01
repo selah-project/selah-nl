@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En ⟨את⟩ de zuilengalerij maakte hij: vijftig el zijn lengte en dertig el zijn breedte, en een galerij voor hun aangezicht, en zuilen en een zware balk voor hun aangezicht.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de zuilengalerij"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "zuilengalerij"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "van zuilen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maakte hij"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vijftig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "zijn lengte"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "zijn breedte"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "en een galerij"
+    },
+    {
+      "surface": "על",
+      "gloss": "voor"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "hun aangezicht"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "en zuilen"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "en een zware balk"
+    },
+    {
+      "surface": "על",
+      "gloss": "voor"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "hun aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:25.488770146Z",
+  "model": "glm-5.3"
+}

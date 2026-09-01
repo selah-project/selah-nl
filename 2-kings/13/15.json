@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Elisa zeide tot hem: Neem een boog en pijlen. En hij nam voor zich ⟨een⟩ boog en pijlen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zeide"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "een boog"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "en pijlen"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "voor zich"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "boog"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "en pijlen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:20.891199872Z",
+  "model": "glm-5.3"
+}

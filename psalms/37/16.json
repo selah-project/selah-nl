@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Beter is weinig voor de rechtvaardige dan de overvloed van vele goddelozen.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "beter"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "weinig"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "voor de rechtvaardige"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "dan de overvloed"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddelozen"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:29.923537061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En het volk van het land sloeg ⟨את⟩ allen die de samenzwering tegen koning Amon gesmeed hadden, en het volk van het land deed Josjiahoe, zijn zoon, als koning regeren in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "en het sloeg"
+    },
+    {
+      "surface": "עם",
+      "gloss": "het volk van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allen die de samenzwering gesmeed hadden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "die de samenzwering gesmeed hadden"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "en het deed regeren als koning"
+    },
+    {
+      "surface": "עם",
+      "gloss": "het volk van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josjiahoe"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josjiahoe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:08.577380861Z",
+  "model": "glm-5.3"
+}

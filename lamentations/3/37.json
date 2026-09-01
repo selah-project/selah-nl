@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Wie is hij die ⟨het⟩ zegt, zodat het gebeurt, als Adonai ⟨het⟩ niet geboden heeft?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hij"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "zodat het gebeurt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboden heeft"
+    }
+  ],
+  "timestamp": "2026-08-31T22:41:11.508509850Z",
+  "model": "glm-5.3"
+}

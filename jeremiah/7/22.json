@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 7:22",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Want ik heb niet gesproken met ⟨את⟩ jullie vaders, noch hun geboden op de dag dat ik ⟨את⟩ hen deed uittrekken uit het land Mitsrajim, over zaken van brandoffer en slachtoffer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "heb ik gesproken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie vaders"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "jullie vaders"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "noch"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "hun geboden"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "dat ik deed uittrekken"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "zaken van"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "וזבח",
+      "gloss": "en slachtoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T21:29:41.841989565Z",
+  "model": "glm-5.3"
+}

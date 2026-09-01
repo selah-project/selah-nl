@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En een man die een vrouw neemt, ⟨את⟩ een vrouw, én ⟨את⟩ haar moeder — het is een schandelijke daad; in het vuur zullen zij hem verbranden en hen, zodat er geen schandelijke daad zal zijn in jullie midden.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "En een man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "neemt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "een vrouw"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "een vrouw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haar moeder"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "haar moeder"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "een schandelijke daad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in het vuur"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "zullen zij verbranden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hen"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "⟨את⟩ en hen",
+      "marks": "zodat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "zodat niet"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "schandelijke daad"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "in jullie midden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:59.736431745Z",
+  "model": "glm-5.3"
+}

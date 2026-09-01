@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Weten zij het dan niet, alle daders van onrecht — eters van mijn volk, zij eten het als brood — Jahweh roepen zij niet aan?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Weten zij het dan niet"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "weten zij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "daders"
+    },
+    {
+      "surface": "און",
+      "gloss": "van onrecht"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "eters"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "van mijn volk"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "zij eten"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "roepen zij aan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:15.342021763Z",
+  "model": "glm-5.3"
+}

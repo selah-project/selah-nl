@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Ik wil opstaan, toch, en rondgaan in de stad, op de pleinen en door de brede straten; ik zal zoeken ⟨את⟩ hem die mijn nefesj liefheeft — ik zocht hem en vond hem niet.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "ik wil opstaan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "en rondgaan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "op de pleinen"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "en door de brede straten"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ik zal zoeken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hem die mijn nefesj liefheeft"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "die liefheeft"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "zocht ik hem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "vond ik hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:05.009986544Z",
+  "model": "glm-5.3"
+}

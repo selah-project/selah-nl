@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 112,
+  "translation": "Licht is opgegaan in het duister voor de oprechten — genadig, en barmhartig, en rechtvaardig.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "is opgegaan"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "in het duister"
+    },
+    {
+      "surface": "אור",
+      "gloss": "licht"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "voor de oprechten"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "genadig"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "en barmhartig"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "en rechtvaardig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:18.098130087Z",
+  "model": "glm-5.3"
+}

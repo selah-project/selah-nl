@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Want chesed (logetrouwheid) begeer ik, en geen slachtoffers, en kennis van Elohim meer dan brandoffers.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "begeer ik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slachtoffers"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "en kennis van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "meer dan brandoffers"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:02.049226049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En Amalek kwam en streed met Israël bij Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en kwam"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "en streed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "bij Refidim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:42.633961113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En ik ging en verborg het bij ⟨de⟩ Perath, zoals Jahweh ⟨את⟩ mij geboden had.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "En ik ging"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "verborg het"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "bij ⟨de⟩ Perath"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebooten had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:30:28.490694173Z",
+  "model": "glm-5.3"
+}

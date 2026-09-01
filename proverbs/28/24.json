@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Wie zijn vader en zijn moeder berooft en zegt: ⟨'Het is⟩ geen overtreding — die is een metgezel van een man die vernietigt.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "berooft"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "en zijn moeder"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en zegt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "overtreding"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "een metgezel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "van een man"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "die vernietigt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:41.015220243Z",
+  "model": "glm-5.3"
+}

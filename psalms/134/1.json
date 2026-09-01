@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 134,
+  "translation": "Een lied van de opgangen. Zie, zegen Jahweh, alle dienaren van Jahweh, die 's nachts staan in ⟨het⟩ huis van Jahweh!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van de opgangen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "zegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dienaren van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "die staan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in ⟨het⟩ huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "'s nachts"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:20.188799130Z",
+  "model": "glm-5.3"
+}

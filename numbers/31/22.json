@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "alleen ⟨את⟩ het goud en ⟨את⟩ het zilver, ⟨את⟩ het koper, ⟨את⟩ het ijzer, ⟨את⟩ het tin en ⟨את⟩ het lood —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het goud"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "het goud"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "en ⟨את⟩"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "het zilver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het koper"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "het koper"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het ijzer"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "het ijzer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het tin"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "het tin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het lood"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "het lood"
+    }
+  ],
+  "timestamp": "2026-08-31T20:18:02.130183417Z",
+  "model": "glm-5.3"
+}

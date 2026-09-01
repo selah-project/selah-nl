@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Want jij — Jahweh ⟨is⟩ mijn toevlucht; ⟨de⟩ Eljon heb jij tot je woning gesteld.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mijn toevlucht"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "⟨de⟩ Eljon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "heb jij gesteld"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "tot je woning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:53.382154522Z",
+  "model": "glm-5.3"
+}

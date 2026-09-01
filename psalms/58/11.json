@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 58,
+  "translation": "De rechtvaardige zal zich verheugen wanneer hij wraak aanschouwt; zijn voeten zal hij wassen in het bloed van de goddeloze.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "zal zich verheugen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de rechtvaardige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer\/omdat"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "aanschouwt"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "wraak"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "zijn voeten\/stappen"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "zal hij wassen"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "in het bloed"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "van de goddeloze"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:43.768457186Z",
+  "model": "glm-5.3"
+}

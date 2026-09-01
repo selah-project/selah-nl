@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Zij zeiden in hun hart: laten wij hen samen vertrappen; zij hebben alle vergaderplaatsen van El in het land verbrand.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "zij zeiden"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "in hun hart"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "laten wij hen vertrappen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "samen"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "zij hebben verbrand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "vergaderplaatsen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:28.354297565Z",
+  "model": "glm-5.3"
+}

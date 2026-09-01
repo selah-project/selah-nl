@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Zie, ik zend tot u ⟨את⟩ Elia, de profeet, vóór de komst van de dag van Jahweh, de grote en de ontzagwekkende.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zend"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elia"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "de profeet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vóór"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "de komst van"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "de grote"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "en de ontzagwekkende"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:26.844051126Z",
+  "model": "glm-5.3"
+}

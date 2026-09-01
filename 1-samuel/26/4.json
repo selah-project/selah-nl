@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En David zond verkenners uit, en hij wist dat Sjaoel zeker gekomen was.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "En zond uit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "verkenners"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "en hij wist"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekomen was"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "zeker \/ inderdaad"
+    }
+  ],
+  "timestamp": "2026-08-31T20:48:59.394054729Z",
+  "model": "glm-5.3"
+}

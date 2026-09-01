@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Verhoogd is Jahweh, want Hij woont in de hoogte; Hij heeft Tsiyon gevuld met recht en gerechtigheid.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "Verhoogd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "woont"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "in de hoogte"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "heeft gevuld"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "met recht"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "en gerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:14.295521696Z",
+  "model": "glm-5.3"
+}

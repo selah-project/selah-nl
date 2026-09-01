@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 52,
+  "translation": "En de rechtvaardigen zullen ⟨het⟩ zien en vrezen, en over hem lachen.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "en zullen zien"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rechtvaardigen"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "en vrezen"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "en over hem"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "zullen lachen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:01.362769564Z",
+  "model": "glm-5.3"
+}

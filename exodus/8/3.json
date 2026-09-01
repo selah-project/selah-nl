@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En de tovenaars deden evenzo met hun geheime kunsten, en zij lieten ⟨את⟩ de kikkers opkomen over ⟨de⟩ aarde van Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "En zij deden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "evenzo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "de tovenaars"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "met hun geheime kunsten"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "en zij lieten opkomen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kikkers"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "de kikkers"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:26.283148683Z",
+  "model": "glm-5.3"
+}

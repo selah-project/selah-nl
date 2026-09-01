@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 108,
+  "translation": "Ontwaak, harp en lier; ik zal de dageraad wekken.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ontwaak"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "harp"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "en lier"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ik zal wekken"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "de dageraad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:23.291352198Z",
+  "model": "glm-5.3"
+}

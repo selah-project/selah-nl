@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Want Jah heeft Jaaḱov voor zichzelf uitverkoren, Jisraël als zijn eigen bezit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaaḱov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "heeft uitverkoren"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor zichzelf"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "als zijn eigen bezit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:50.409216324Z",
+  "model": "glm-5.3"
+}

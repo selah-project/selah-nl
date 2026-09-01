@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Dit ⟨zijn⟩ de zonen van Gilad: van Iezer de familie van de Iezerieten; van Chelek de familie van de Chekieten;",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "van Iezer"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "de familie van"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "de Iezerieten"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "van Chelek"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "de familie van"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "de Chekieten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:16:54.477036567Z",
+  "model": "glm-5.3"
+}

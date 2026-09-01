@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Hij maakt je grens tot sjalom, met het vet van tarwe verzadigt hij je.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "hij maakt"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "je grens"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "het vet"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "van tarwe"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "verzadigt hij je"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:22.754871901Z",
+  "model": "glm-5.3"
+}

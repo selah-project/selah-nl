@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Zie, Ik heb met name geroepen: Betsalel, zoon van Uri, zoon van Chur, van de stam van Jehoeda —",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "heb Ik geroepen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "met name"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "van de stam van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:35.580466180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "Omdat Hij Zijn oor tot mij neigde, en in mijn dagen roep ik ⟨Him⟩ aan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "neigde"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "Zijn oor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "en in mijn dagen"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "roep ik aan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:20.957327493Z",
+  "model": "glm-5.3"
+}

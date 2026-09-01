@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En aan Machir gaf ik ⟨את⟩ Gil'ad.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "En aan Machir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gaf ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gil'ad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gil'ad"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:40.857070456Z",
+  "model": "glm-5.3"
+}

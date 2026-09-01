@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En jullie zullen zaaien ⟨את⟩ het achtste jaar en eten van de opbrengst, de oude ⟨oogst⟩, tot het negende jaar; tot de komst van haar opbrengst zullen jullie eten ⟨van⟩ de oude ⟨oogst⟩.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "en jullie zullen zaaien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het achtste jaar"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "het jaar"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "het achtste"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "en jullie zullen eten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "de opbrengst"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "de oude ⟨oogst⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "het jaar"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "het negende"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "de komst"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "van haar opbrengst"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "zullen jullie eten"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "de oude ⟨oogst⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:23.954927106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Als je jouw wijngaard oogst, zul je niet nalezen achter je ⟨zelf⟩: voor de vreemdeling, voor de wees en voor de weduwe zal het zijn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "als"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "je oogst"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "jouw wijngaard"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "zul je nalezen"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "achter je"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "voor de vreemdeling"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "voor de wees"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "en voor de weduwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal het zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:24.558116609Z",
+  "model": "glm-5.3"
+}

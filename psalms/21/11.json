@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Hun vrucht zult U van de aarde verdelgen, en hun nageslacht van ⟨onder⟩ de mensenkinderen.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "hun vrucht"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "zult U verdelgen"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "en hun nageslacht"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "van de mensenkinderen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:16.253199942Z",
+  "model": "glm-5.3"
+}

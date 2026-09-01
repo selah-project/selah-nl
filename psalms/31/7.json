@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Ik heb gehaat wie lege ijdelheden bewaken, maar ik — op Jahweh vertrouw ik.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ik heb gehaat"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "wie bewaken"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "lege ijdelheden"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "bedrieglijke"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "maar ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "vertrouw ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:34.842915199Z",
+  "model": "glm-5.3"
+}

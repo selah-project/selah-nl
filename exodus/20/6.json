@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "en die chesed doet aan duizenden ⟨geslachten⟩, aan hen die mij liefhebben en mijn mitswot bewaren.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "en doet"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "aan duizenden"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "aan hen die mij liefhebben"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "en aan hen die bewaren"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mijn mitswot"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:10.840085111Z",
+  "model": "glm-5.3"
+}

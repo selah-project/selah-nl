@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En hij trekt ⟨את⟩ zijn klederen uit en trekt andere klederen aan, en hij brengt ⟨את⟩ de as naar buiten, buiten het kamp, naar een reine plaats.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "en hij trekt uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn klederen"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zijn klederen"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "en trekt aan"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "klederen"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andere"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "en hij brengt uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de as"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "de as"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "het kamp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "een plaats"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rein"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:32.886453256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En jullie zullen weten dat ik Jahweh ben, wanneer ik ⟨את⟩ u breng naar de bodem van Israël, naar het land waarnaar ik mijn hand ophief ⟨את⟩ om het te geven aan jullie vaderen.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "en jullie zullen weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "wanneer ik breng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "u"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "de bodem van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ik ophief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mijn hand"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te geven"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "het (het land)"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "aan jullie vaderen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:46:27.760200325Z",
+  "model": "glm-5.3"
+}

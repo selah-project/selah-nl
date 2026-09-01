@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "En volken zullen de naam van Jahweh vrezen ⟨את⟩, en alle koningen van de aarde uw heerlijkheid ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "En ... zullen vrezen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de naam van Jahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "koningen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw heerlijkheid"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "uw heerlijkheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:49.214020050Z",
+  "model": "glm-5.3"
+}

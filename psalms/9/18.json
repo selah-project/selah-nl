@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Moge de goddelozen terugkeren naar Sjeool, alle volken die Elohim vergeten.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "mogen terugkeren"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "naar Sjeool"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "die vergeten"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:00.723226239Z",
+  "model": "glm-5.3"
+}

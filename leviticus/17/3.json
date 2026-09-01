@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Elk persoon uit het huis van Jisraël die een rund slacht, of een lam, of een geit, in het kamp, of die slacht buiten het kamp,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "persoon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit het huis van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "slacht"
+    },
+    {
+      "surface": "שור",
+      "gloss": "een rund"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "een lam"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "עז",
+      "gloss": "een geit"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "in het kamp"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "slacht"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "het kamp"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:05.085751444Z",
+  "model": "glm-5.3"
+}

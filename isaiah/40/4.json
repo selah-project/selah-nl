@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Elk dal wordt verhoogd, en elke berg en heuvel wordt neergehaald, en het kromme wordt ⟨tot⟩ een vlakte, en de bergkammen ⟨tot⟩ een dal.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Elk"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "dal"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "wordt verhoogd"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en elke"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "en heuvel"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "wordt neergehaald"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en het wordt"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "het kromme"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "tot een vlakte"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "en de bergkammen"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "tot een dal"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:18.091438998Z",
+  "model": "glm-5.3"
+}

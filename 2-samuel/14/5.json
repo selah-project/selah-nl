@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En de koning zeide tot haar: Wat ⟨scheelt⟩ u? En zij zeide: Voorwaar, een weduwe ben ik, en mijn man is gestorven.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en de koning zeide"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tot haar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zeide"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "een vrouw"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "weduwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben ik"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "is gestorven"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mijn man"
+    }
+  ],
+  "timestamp": "2026-08-31T20:53:25.215013093Z",
+  "model": "glm-5.3"
+}

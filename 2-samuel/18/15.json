@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En tien jongemannen, wapendragers van Joav, omringden ⟨את⟩ Avsjalom, en zij sloegen hem en doodden hem.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "en zij omringden"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "jongemannen"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "dragers van"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "wapenrusting"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "van Joav"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en zij sloegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avsjalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsjalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "en doodden hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:04.403948186Z",
+  "model": "glm-5.3"
+}

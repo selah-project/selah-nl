@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Alleen — omdat je ⟨את⟩ de vijanden van Jahweh smadelijk hebt gemaakt door deze daad, zal ook de zoon die je geboren is sterven ⟨zal hij⟩ sterven.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Alleen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "smadelijk gemaakt"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "je hebt gesmaad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vijanden van Jahweh"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "de vijanden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "door deze daad"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "die geboren is"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sterven"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zal hij sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T23:44:27.002069657Z",
+  "model": "glm-5.3"
+}

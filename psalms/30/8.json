@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Jahweh, in uw welbehagen deedt u mijn berg staan ⟨als⟩ macht; u verborg uw aangezicht — ik werd ontsteld.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "in uw welbehagen"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "deedt u staan"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "mijn berg"
+    },
+    {
+      "surface": "עז",
+      "gloss": "macht"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "u verborg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ik werd"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "ontsteld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:30.616036217Z",
+  "model": "glm-5.3"
+}

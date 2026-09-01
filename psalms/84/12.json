@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 84,
+  "translation": "Want een zon en een schild is Jahweh Elohim; genade en eer geeft Jahweh; Hij onthoudt het goede niet aan wie in volmaaktheid wandelen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "een zon"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "en een schild"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "is Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "genade"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "en eer"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "Hij onthoudt"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "aan wie wandelen"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "in volmaaktheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:59.593374650Z",
+  "model": "glm-5.3"
+}

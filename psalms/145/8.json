@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Genadig en barmhartig ⟨is⟩ Jahweh, langzaam tot toorn en groot ⟨in⟩ chesed (goedertierenheid).",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "genadig"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "en barmhartig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "langzaam"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "tot toorn"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "en groot"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:10.196570565Z",
+  "model": "glm-5.3"
+}

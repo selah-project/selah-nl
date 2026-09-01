@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij opende de rots en wateren vloeiden uit; zij stroomden in de dorre plaatsen ⟨als⟩ een rivier.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "opende"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rots"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "en vloeiden uit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wateren"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "stroomden"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "in de dorre plaatsen"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "een rivier"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:26.463669958Z",
+  "model": "glm-5.3"
+}

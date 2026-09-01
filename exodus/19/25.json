@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En Mosjee daalde af naar het volk en sprak ⟨את⟩ ⟨tot⟩ hen.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "en daalde af"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en sprak"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨tot⟩ hen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:42:53.058673109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "En u, Jahweh Adonai, doe ⟨את⟩ met mij om uw naams wil, want goed is uw chesed (goedertierenheid) — red mij.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "met mij"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uws naams wil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "red mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:21.322847540Z",
+  "model": "glm-5.3"
+}

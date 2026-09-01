@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Terwijl jij tucht haat, en mijn woorden achter je weggooit —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "terwijl jij"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "haat"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tucht"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "en weggooit"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mijn woorden"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "achter je"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:08.007995852Z",
+  "model": "glm-5.3"
+}

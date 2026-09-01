@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En handen van een mens ⟨waren⟩ onder hun vleugels, aan hun vier zijden; en hun aangezichten en hun vleugels waren aan hun vieren.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "en handen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van een mens"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "hun vleugels"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "vier"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "hun zijden"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "en hun aangezichten"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "en hun vleugels"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "aan hun vieren"
+    }
+  ],
+  "timestamp": "2026-08-31T21:41:01.063167844Z",
+  "model": "glm-5.3"
+}

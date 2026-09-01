@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Zij bewaarden het verbond van Elohim niet en weigerden in zijn wet te wandelen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "Zij bewaarden"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "het verbond"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "en in zijn wet"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "weigerden"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "te wandelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:48.090828138Z",
+  "model": "glm-5.3"
+}

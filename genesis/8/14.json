@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En in de tweede maand, op de zevenentwintigste dag van de maand, was de aarde droog.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "En in de maand"
+    },
+    {
+      "surface": "השני",
+      "gloss": "de tweede"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "op zeven"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van de maand"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "was droog"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:39.789636596Z",
+  "model": "glm-5.3"
+}

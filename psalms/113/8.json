@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 113,
+  "translation": "om hem ⟨te⟩ laten zitten bij edelen, bij de edelen van zijn volk.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "om te laten zitten"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "edelen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "de edelen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "van zijn volk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:30.178450876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "⟨את⟩ de Keniet, en ⟨את⟩ de Kenizziet, en ⟨את⟩ de Kadmoniet",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Keniet"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "de Keniet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Kenizziet"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "de Kenizziet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Kadmoniet"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "de Kadmoniet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:27.325878068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Omdat hij niet gedacht heeft chesed (goedertierenheid) te doen, maar de arme en de behoeftige, de verslagene van hart, vervolgde om te doden.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hij gedacht heeft"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "te doen"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "maar vervolgde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arme"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en de behoeftige"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "en de verslagene"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "om te doden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:52.628744097Z",
+  "model": "glm-5.3"
+}

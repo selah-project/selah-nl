@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Wie geeft ⟨het⟩ mij — dat ik ⟨hem⟩ kende en hem vond, dat ik kwam tot zijn troon?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "dat ik kende"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "en hem vond"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "dat ik kwam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "zijn troon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:34:40.601160266Z",
+  "model": "glm-5.3"
+}

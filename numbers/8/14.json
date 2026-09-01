@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En u zondert de Levieten af uit het midden van de zonen van Jisraël, en de Levieten zijn ⟨aan⟩ mij.",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "en u zondert af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Levieten"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "de Levieten"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit het midden van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "en zij zullen zijn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨aan⟩ mij"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "de Levieten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:11:59.060793672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de koning zwoer en zei: Zo waar Jahweh leeft, die mijn nefesj heeft losgekocht uit alle benauwdheid —",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "en de koning zwoer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "heeft losgekocht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn nefesj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit alle"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "benauwdheid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:47.169777192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Hoe lief heb ik uw tora! De hele dag is zij mijn overdenking.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "heb ik lief"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "uw tora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "היא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "mijn overdenking"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:52.667581540Z",
+  "model": "glm-5.3"
+}

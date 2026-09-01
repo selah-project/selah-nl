@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Wanneer u uw olijfboom slaat, ga hem daarna niet na; voor de vreemdeling, de wees en de weduwe zal hij zijn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "u slaat"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "uw olijfboom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "nagaan"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "na u"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "voor de vreemdeling"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "de wees"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "en de weduwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:23.114300842Z",
+  "model": "glm-5.3"
+}

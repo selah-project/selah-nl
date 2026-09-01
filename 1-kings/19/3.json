@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En hij zag ⟨het⟩, en hij stond op en ging voor zijn nefesj, en hij kwam in Beër-Sjeva, dat aan Jehoeda behoort, en hij liet daar zijn jongen achter.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hij zag"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "en hij stond op"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en ging"
+    },
+    {
+      "surface": "אל",
+      "gloss": "voor"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn nefesj"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beër-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sjeva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "aan Jehoeda behoort"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "en hij liet achter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn jongen"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "zijn jongen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:39.649862067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Jahweh ⟨zat⟩ ⟨tronend⟩ boven de watervloed, en Jahweh zit ⟨als⟩ koning voor eeuwig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "boven de watervloed"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨zat⟩ ⟨tronend⟩"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en zit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:07.042833287Z",
+  "model": "glm-5.3"
+}

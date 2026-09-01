@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 5:4",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Zijn zonen zijn ver van redding, en zij worden vermorzeld in de poort, en er is geen redder.",
+  "tokens": [
+    {
+      "surface": "ירחקו",
+      "gloss": "zijn ver"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "van redding"
+    },
+    {
+      "surface": "ודכאו",
+      "gloss": "en vermorzeld worden"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in de poort"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is niet"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "een redder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:51.852371314Z",
+  "model": "glm-5.3"
+}

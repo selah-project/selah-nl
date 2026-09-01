@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Aldus maakte hij ⟨את⟩ de tien onderstellen: één gietsel, één maat, één vorm voor ze alle.",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "aldus"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maakte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tien onderstellen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "onderstellen"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "gietsel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "maat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "één"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "vorm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "voor ze alle"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:25.613371560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Maar jij, Jahweh, lach om hen; jij spot met alle natiën.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Maar jij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "lach"
+    },
+    {
+      "surface": "למו",
+      "gloss": "om hen"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "spotten"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "met alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "natiën"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:16.333073992Z",
+  "model": "glm-5.3"
+}

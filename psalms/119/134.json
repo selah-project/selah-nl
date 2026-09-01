@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Verlos mij van de verdrukking van de mens, en ik zal uw bevelen bewaren.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "verlos mij"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "van de verdrukking"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "en ik zal bewaren"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "uw bevelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:03.227624109Z",
+  "model": "glm-5.3"
+}

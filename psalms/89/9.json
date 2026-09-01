@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Jahweh, Elohim van de legerscharen, wie ⟨is⟩ als U, machtige Jah? En uw trouw ⟨is⟩ rondom U.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "de legerscharen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "als U"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "machtige"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "en uw trouw"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "rondom U"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:12.124399862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "De dwaas omklemt ⟨את⟩ zijn handen en eet ⟨את⟩ zijn vlees.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "de dwaas"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "omklemt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn handen"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "zijn handen"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "en eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vlees"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "zijn vlees"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:57.466724076Z",
+  "model": "glm-5.3"
+}

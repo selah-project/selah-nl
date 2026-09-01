@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En als hij een arm man is, mag jij niet met zijn onderpand gaan liggen ⟨slapen⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "gaan liggen"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "met zijn onderpand"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:39.013604053Z",
+  "model": "glm-5.3"
+}

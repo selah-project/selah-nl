@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Snel wordt de gebogen gevangene losgemaakt; hij zal niet sterven ⟨in⟩ de kuil en zijn brood zal hem niet ontbreken.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "snel"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "de gebogen gevangene"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "wordt losgemaakt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zal sterven"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "⟨in⟩ de kuil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "zal ontbreken"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "zijn brood"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:39.648442468Z",
+  "model": "glm-5.3"
+}

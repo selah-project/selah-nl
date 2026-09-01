@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Raak mijn gezalfden niet aan, en doe mijn profeten geen kwaad.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet (bevel)"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "raak aan"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "mijn gezalfden (Masjiach-mijn)"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "en mijn profeten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet (bevel)"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "doe kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:33.579061795Z",
+  "model": "glm-5.3"
+}

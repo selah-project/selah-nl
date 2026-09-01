@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Wijze vrouwen ⟨hebben⟩ haar huis gebouwd, maar dwaasheid breekt het met haar handen af.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "wijze"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vrouwen"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "hebben gebouwd"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "haar huis"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "maar dwaasheid"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "met haar handen"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "breekt het af"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:55.315853225Z",
+  "model": "glm-5.3"
+}

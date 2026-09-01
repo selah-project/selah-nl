@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En een holle man krijgt een hart, en het veulen van een wilde ezel wordt ⟨als⟩ mens geboren.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "En een man"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "holle"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "krijgt een hart"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "en het veulen"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "van een wilde ezel"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "wordt geboren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:27.927591863Z",
+  "model": "glm-5.3"
+}

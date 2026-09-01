@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En dit zijn de tolDOT van Esav, vader van Edom, in het gebergte Seïr.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit zijn"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "tolDOT"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "vader van"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "in het gebergte van"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seïr"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:57.909557449Z",
+  "model": "glm-5.3"
+}

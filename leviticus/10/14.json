@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 10:14",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En ⟨את⟩ de borst van het swungoffer en ⟨את⟩ de bout van het hefoffer zullen jullie eten op een reine plaats, jij en je zonen en je dochters ⟨את⟩ met je, want jouw verordening en de verordening van je zonen ⟨is⟩ gegeven uit de offers van de vredeoffers van de zonen van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de borst van het swungoffer"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "borst"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "van het swungoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de bout van het hefoffer"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "bout"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "van het hefoffer"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "zullen jullie eten"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "op een plaats"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "reine"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "en je zonen"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "en je dochters"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met je"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "jouw verordening"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "en de verordening"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "van je zonen"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "is gegeven"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "uit de offers"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "van de vredeoffers"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:46.713815083Z",
+  "model": "glm-5.3"
+}

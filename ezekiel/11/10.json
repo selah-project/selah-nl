@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Door het zwaard zult jullie vallen; op de grens van Jisraël zal Ik jullie ⟨את⟩ oordelen, en jullie zullen weten dat Ik Jahweh ⟨ben⟩.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "door het zwaard"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "zullen jullie vallen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "grens"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "zal Ik oordelen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "en jullie zullen weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:42:50.111604902Z",
+  "model": "glm-5.3"
+}

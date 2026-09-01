@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Jahweh verlost de nefesj van zijn dienaren, en geen van wie bij ⟨Hem⟩ schuilen zal schuldig gestraft worden.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "verlost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "zal schuldig gestraft worden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "wie schuilen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bij ⟨Hem⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:59.060322561Z",
+  "model": "glm-5.3"
+}

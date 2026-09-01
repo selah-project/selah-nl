@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Want jij redt een verdrukt volk, en ogen die verheven zijn buig jij neer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "עם",
+      "gloss": "een volk"
+    },
+    {
+      "surface": "עני",
+      "gloss": "verdrukt"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "redt"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "en ogen"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "die verheven zijn"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "buig jij neer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:30.838405308Z",
+  "model": "glm-5.3"
+}

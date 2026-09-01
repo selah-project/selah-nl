@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En de bewoners van Giv'on hoorden ⟨את⟩ wat Jehosjoea gedaan had aan Jericho en aan Ai.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "en de bewoners"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "van Giv'on"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hoorden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Jehosjoea gedaan had"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedaan had"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "aan Jericho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "en aan Ai"
+    }
+  ],
+  "timestamp": "2026-08-31T20:31:05.210843543Z",
+  "model": "glm-5.3"
+}

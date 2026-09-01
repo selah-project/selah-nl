@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Bijna hadden zij mij op aarde vernietigd, maar ik — ik heb uw choekiem niet verlaten.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "bijna"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "hadden zij mij vernietigd"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op aarde"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "maar ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "heb ik verlaten"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "uw choekiem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:04.312801551Z",
+  "model": "glm-5.3"
+}

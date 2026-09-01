@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Stuur uw brood uit over ⟨het⟩ oppervlak van het water, want in ⟨de⟩ veelheid der dagen zult u het terugvinden.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Stuur uit"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "uw brood"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het oppervlak"
+    },
+    {
+      "surface": "המים",
+      "gloss": "van het water"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "in de veelheid"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "der dagen"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "zult u het terugvinden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:47.514437959Z",
+  "model": "glm-5.3"
+}

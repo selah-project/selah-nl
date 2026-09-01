@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "Hij doet volken neer onder ons, en stammen onder onze voeten.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Hij doet neer"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "onder ons"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "en stammen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "onze voeten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:14.399236243Z",
+  "model": "glm-5.3"
+}

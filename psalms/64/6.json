@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 64,
+  "translation": "Zij versterken voor zichzelf een boze zaak; zij bespreken het verbergen van strikken; zij zeggen: Wie zal ⟨het⟩ zien?",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "zij versterken"
+    },
+    {
+      "surface": "למו",
+      "gloss": "voor zichzelf"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "zaak"
+    },
+    {
+      "surface": "רע",
+      "gloss": "boze"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "zij bespreken"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "het verbergen"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "van strikken"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "zij zeggen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "zal zien"
+    },
+    {
+      "surface": "למו",
+      "gloss": "het (hen)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.832498173Z",
+  "model": "glm-5.3"
+}

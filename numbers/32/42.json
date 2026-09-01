@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En Novach ging en veroverde ⟨את⟩ Kenat en ⟨את⟩ zijn dochternederzettingen, en hij noemde het Novach, naar zijn naam.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "En Novach"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ging"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "en veroverde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn dochternederzettingen"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "zijn dochternederzettingen"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij noemde"
+    },
+    {
+      "surface": "לה",
+      "gloss": "het"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novach"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "naar zijn naam"
+    }
+  ],
+  "timestamp": "2026-08-31T20:17:48.264631110Z",
+  "model": "glm-5.3"
+}

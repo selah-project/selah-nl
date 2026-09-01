@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En hij kwam tussen het kamp van Mitsrajim en het kamp van Jisraël, en er was de wolk en de duisternis, en hij verlichtte ⟨את⟩ de nacht; en de ene kwam de hele nacht niet nabij de andere.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "het kamp"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "het kamp"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en er was"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "de wolk"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "en de duisternis"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "en hij verlichtte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de nacht"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "de nacht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "kwam nabij"
+    },
+    {
+      "surface": "זה",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "זה",
+      "gloss": "de andere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nacht"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:21.791975941Z",
+  "model": "glm-5.3"
+}

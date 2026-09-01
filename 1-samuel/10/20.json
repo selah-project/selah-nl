@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Sjemoeël liet ⟨את⟩ alle stammen van Jisraël naderbij komen, en de stam van Binjamin werd uitgekozen.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "en liet naderbij komen"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle stammen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "stammen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "en werd uitgekozen"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "de stam"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "van Binjamin"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:37.857870039Z",
+  "model": "glm-5.3"
+}

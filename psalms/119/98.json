@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Uw mitswot maken mij wijzer dan mijn vijanden, want zij ⟨is⟩ mij tot in eeuwigheid ⟨gegeven⟩.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "dan mijn vijanden"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "maken mij wijzer"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "uw mitswot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "היא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:52.667982184Z",
+  "model": "glm-5.3"
+}

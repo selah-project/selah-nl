@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Zie, ík wek hen op uit de plaats waar jullie ⟨את⟩ hen verkocht hebben, dáárheen; en ik keer jullie vergelding terug op jullie ⟨eigen⟩ hoofd.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "zie, ík"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "wek hen op"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "de plaats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "jullie verkocht hebben"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dáárheen"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "en ik keer terug"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "jullie vergelding"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "op jullie hoofd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:26.108314127Z",
+  "model": "glm-5.3"
+}

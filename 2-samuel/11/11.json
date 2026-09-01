@@ -1,0 +1,150 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 11:11",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Oería zei tot David: De ark, en Israël, en Jehoeda, zitten in hutten; en mijn heer Joav en de dienaren van mijn heer kamperen op de oppervlakte van het veld — en ik zou mijn huis binnengaan om te eten en te drinken en te slapen met mijn vrouw? ⟨Zo waar als⟩ jij leeft, en ⟨zo waar als⟩ jouw nefesj leeft: ik zal ⟨את⟩ deze daad zeker niet doen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Oería"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "en Israël"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "zitten"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "in hutten"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "en mijn heer"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "en de dienaren"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "van mijn heer"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פני",
+      "gloss": "de oppervlakte"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van het veld"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "kamperen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "zal binnengaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mijn huis"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te eten"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "en te drinken"
+    },
+    {
+      "surface": "ולשכב",
+      "gloss": "en te slapen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mijn vrouw"
+    },
+    {
+      "surface": "חיך",
+      "gloss": "⟨zo waar als⟩ jij leeft"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "en ⟨het leven⟩"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "van jouw nefesj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ik zal doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze daad"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "de daad"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:36.603339882Z",
+  "model": "glm-5.3"
+}

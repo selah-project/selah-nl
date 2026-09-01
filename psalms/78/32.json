@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Ondanks dit alles zondigden zij voort, en zij geloofden niet in zijn wonderen.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ondanks ⟨in⟩ alles"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "zondigden"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "voort"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "geloofden zij"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "in zijn wonderen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:08.523169529Z",
+  "model": "glm-5.3"
+}

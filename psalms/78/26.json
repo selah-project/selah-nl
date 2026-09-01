@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Hij deed een oostenwind op reis gaan in ⟨de⟩ hemel, en door zijn kracht leidde Hij ⟨de⟩ zuidenwind.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "deed op reis gaan"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "oostenwind"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemel"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "en leidde Hij"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "door zijn kracht"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "zuidenwind"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:52.368230590Z",
+  "model": "glm-5.3"
+}

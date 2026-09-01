@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Wees niet haastig in je roeach om tevragen te worden, want toorn rust in de schoot van dwazen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "wees haastig"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "in je roeach"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "om tevragen te worden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "toorn"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "in de schoot"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "van dwazen"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "rust"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:17.560018791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Hij effende een pad voor zijn toorn, Hij spaarde hun nefesj niet ⟨van⟩ de dood, en hun leven gaf Hij over aan de pest.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Hij effende"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "een pad"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "voor zijn toorn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "Hij spaarde"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "⟨van⟩ de dood"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hun nefesj"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "en hun leven"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "aan de pest"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "gaf Hij over"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:58.451586619Z",
+  "model": "glm-5.3"
+}

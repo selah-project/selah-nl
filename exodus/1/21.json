@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En het gebeurde, omdat de vroedvrouwen Elohim vreesden, dat Hij ⟨את⟩ voor hen huizen maakte.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vreesden"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "de vroedvrouwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dat Hij maakte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huizen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:06.458842474Z",
+  "model": "glm-5.3"
+}

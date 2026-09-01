@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Ja, mijn trouw en mijn chesed ⟨zullen⟩ met hem ⟨zijn⟩, en in mijn naam zal zijn hoorn verhoogd worden.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "ja, mijn trouw"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "en mijn chesed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "en in mijn naam"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "zal verhoogd worden"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "zijn hoorn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:09.891032119Z",
+  "model": "glm-5.3"
+}

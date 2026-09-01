@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En zij grepen ⟨את⟩ de koning en brachten hem op naar de koning van Bavel, naar Rivla; en zij spraken ⟨met⟩ hem ⟨een⟩ vonnis.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "en zij grepen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "en brachten op"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "naar de koning van Bavel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "naar Rivla"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "en zij spraken"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hem",
+      "marks": "vonnis"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "vonnis"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:31.086864590Z",
+  "model": "glm-5.3"
+}

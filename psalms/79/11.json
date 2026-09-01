@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 79,
+  "translation": "Moge het gekreun van de gevangene voor uw aangezicht komen; naar de grootheid van uw arm ⟨behoud⟩ de kinderen van de dood.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "moge komen"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor uw aangezicht"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "het gekreun"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "van de gevangene"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "naar de grootheid"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "van uw arm"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "⟨behoud⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "van de dood"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:32.370736973Z",
+  "model": "glm-5.3"
+}

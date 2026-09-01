@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 58,
+  "translation": "Ja, in het hart plegen jullie onrecht; in het land wegen jullie het geweld van jullie handen ⟨af⟩.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "in het hart"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "onrecht"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "plegen jullie"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "het geweld"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "van jullie handen"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "wegen jullie ⟨af⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:55.793572050Z",
+  "model": "glm-5.3"
+}

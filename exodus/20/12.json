@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Eer ⟨את⟩ uw vader en ⟨את⟩ uw moeder, opdat uw dagen verlengd worden op de aardbodem die Jahweh uw Elohim u geeft.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "eer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw vader"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uw vader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uw moeder"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "uw moeder"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "verlengd worden"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "uw dagen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de aardbodem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:00.547976420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Wateren wijken ⟨weg⟩ uit de zee, en een rivier droogt uit en verdort.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "wijken"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wateren"
+    },
+    {
+      "surface": "מני",
+      "gloss": "uit"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "en een rivier"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "droogt uit"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "en verdort"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:41.537002331Z",
+  "model": "glm-5.3"
+}

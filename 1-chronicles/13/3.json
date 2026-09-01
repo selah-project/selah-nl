@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "en laten wij ⟨את⟩ de ark van onze Elohim naar ons toe brengen, want wij hebben ⟨hem⟩ niet gezocht in de dagen van Sjaoel.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "en laten wij brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van onze Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark van"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "naar ons toe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "wij hebben gezocht"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in de dagen van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:18.160048761Z",
+  "model": "glm-5.3"
+}

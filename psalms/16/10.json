@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Want u zult mijn nefesj niet verlaten in ⟨de⟩ Sjeool, u zult uw chasid niet geven om ⟨de⟩ kuil te zien.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "zult u verlaten"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "in Sjeool"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zult u geven"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "uw chasid"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "de kuil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:38.831738020Z",
+  "model": "glm-5.3"
+}

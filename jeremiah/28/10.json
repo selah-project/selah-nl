@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En Chananja, de profeet, nam ⟨את⟩ de stang van de nek van Jirmeja, de profeet, en brak die.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Chananja"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "de profeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stang"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "de stang"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van\/af"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "de nek"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "van Jirmeja"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "de profeet"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "en brak die"
+    }
+  ],
+  "timestamp": "2026-08-31T21:34:13.405845457Z",
+  "model": "glm-5.3"
+}

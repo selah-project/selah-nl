@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Op je verhemelte ⟨zet⟩ ⟨een⟩ sjofar; als een arend ⟨komt hij⟩ over het huis van Jahweh — omdat zij mijn verbond zijn overgegaan en tegen mijn wet hebben zij overtreden.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "je verhemelte"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "een sjofar"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "als een arend"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "zij zijn overgegaan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en tegen"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "mijn wet"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "hebben zij overtreden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:26.697202005Z",
+  "model": "glm-5.3"
+}

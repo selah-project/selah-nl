@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 13:11",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En hij deed het kwaad in de ogen van Jahweh; hij week niet van al de zonden van Jarov'am, zoon van Nevat, waarmee hij Jisraël ⟨את⟩ had doen zondigen — daarin wandelde hij.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "en hij deed"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "het kwaad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in de ogen van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "סר",
+      "gloss": "week"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "de zonden"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarov'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "van Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "hij had doen zondigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wandelde hij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:10.719136566Z",
+  "model": "glm-5.3"
+}

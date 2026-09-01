@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Als zij zeggen: kom ⟨את⟩ met ons, laten wij een hinderlaag leggen voor bloed, laten wij heimelijk wachten op de onschuldige, zonder reden —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "zij zeggen"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ met ons",
+      "marks": "met ons"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "laten wij een hinderlaag leggen"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "voor bloed"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "laten wij heimelijk wachten"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "op de onschuldige"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zonder reden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:29.792401772Z",
+  "model": "glm-5.3"
+}

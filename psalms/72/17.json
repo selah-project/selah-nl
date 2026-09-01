@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "Zij zijn naam voor eeuwig; voor het aangezicht van de zon spruit zijn naam voort, en in hem zullen zich zegenen alle natiën; zij zullen hem gelukzalig prijzen.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "zij"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "spruit voort"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "en zullen zich zegenen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in hem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "natiën"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "zullen hem gelukzalig prijzen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:54.844414919Z",
+  "model": "glm-5.3"
+}

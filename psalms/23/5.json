@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "U richt ⟨את⟩ tafel aan voor mijn aangezicht, tegenover mijn tegenstanders; U maakt mijn hoofd vet met olie; mijn beker ⟨is⟩ overvloedig.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "U richt aan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor mijn aangezicht"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tafel"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mijn tegenstanders"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "U maakt vet"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "met olie"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mijn hoofd"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "mijn beker"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "overvloedig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:58.320002294Z",
+  "model": "glm-5.3"
+}

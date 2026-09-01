@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Toen nam Chanun ⟨את⟩ de dienaren van Dawid, en hij schoor ⟨את⟩ de helft van hun baard af, en hij knipte ⟨את⟩ hun klederen af, in het midden, tot aan hun schaamdelen, en zond hen weg.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Toen nam"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dienaren van Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "de dienaren"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "en hij schoor af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de helft van hun baard"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "de helft"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "van hun baard"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "en hij knipte af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun klederen"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "hun klederen"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "in het midden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "hun schaamdelen"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "en zond hen weg"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:05.118333741Z",
+  "model": "glm-5.3"
+}

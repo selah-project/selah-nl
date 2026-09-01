@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Zes dagen zul je arbeiden en al je werk doen,",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "zes"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "zul je arbeiden"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "je werk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:22.795679098Z",
+  "model": "glm-5.3"
+}

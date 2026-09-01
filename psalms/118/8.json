@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Goed ⟨is⟩ het schuilen bij Jahweh, meer dan vertrouwen op een mens.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "schuilen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bij Jahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "dan vertrouwen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "op een mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:03.970825307Z",
+  "model": "glm-5.3"
+}

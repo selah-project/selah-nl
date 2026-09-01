@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Ik zou u leiden, ik zou u brengen in het huis van mijn moeder — gij zult mij onderwijzen — ik zou u laten drinken van wijn ⟨⟩ gemengd met kruiden, van de moutsap van mijn granaatappel.",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "ik zou u leiden"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "ik zou u brengen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "van mijn moeder"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "gij zult mij onderwijzen"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "ik zou u laten drinken"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "van wijn"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "gemengd met kruiden"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "van de moutsap"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "van mijn granaatappel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:29.549555143Z",
+  "model": "glm-5.3"
+}

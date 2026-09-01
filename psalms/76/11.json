@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 76,
+  "translation": "Want de gramschap van de mens zal U loven; het overblijfsel van gramschap zult U omgorden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "de gramschap"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "zal U loven"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "het overblijfsel"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "van gramschap"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "zult U omgorden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:28.350035679Z",
+  "model": "glm-5.3"
+}

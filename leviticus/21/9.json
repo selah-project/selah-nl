@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En een dochter van een priester, wanneer zij zich ontheiligt door hoererij — ⟨את⟩ haar vader ontheiligt zij; in het vuur zal zij verbrand worden.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "En een dochter"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van een man"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priester"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "zij zich ontheiligt"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "door hoererij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar vader"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "haar vader"
+    },
+    {
+      "surface": "היא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "ontheiligt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in het vuur"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "zal verbrand worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:50.007869817Z",
+  "model": "glm-5.3"
+}

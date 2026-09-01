@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 57,
+  "translation": "Ontwaak, mijn kavod; ontwaak, nevel en kinor; ik zal de dageraad wekken.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ontwaak"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "mijn kavod"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ontwaak"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "en kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ik zal wekken"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "de dageraad"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:21.902850041Z",
+  "model": "glm-5.3"
+}

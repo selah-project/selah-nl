@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Ik vrees niet voor tienduizenden van ⟨het⟩ volk, die zich rondom tegen mij opgesteld hebben.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ik vrees"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "voor tienduizenden"
+    },
+    {
+      "surface": "עם",
+      "gloss": "van ⟨het⟩ volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "opgesteld hebben"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:43.830022494Z",
+  "model": "glm-5.3"
+}

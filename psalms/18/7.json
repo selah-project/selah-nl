@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "In mijn benauwdheid riep ik Jahweh aan, en tot mijn Elohim schreeuwde ik om hulp; Hij hoorde uit zijn tempel mijn stem, en mijn hulpgeschreeuw kwam voor zijn aangezicht, in zijn oren.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "in mijn benauwdheid"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mijn"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "riep ik aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "schreeuwde ik om hulp"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "Hij hoorde"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "uit zijn tempel"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mijn stem"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "en mijn hulpgeschreeuw"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor zijn aangezicht"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "in zijn oren"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:22.681278958Z",
+  "model": "glm-5.3"
+}

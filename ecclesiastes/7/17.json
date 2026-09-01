@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Wees niet overmatig slecht, en wees niet dwaas — waarom zou je sterven, niet op je tijd?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "wees slecht"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "overmatig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "wees"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "dwaas"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "zou je sterven"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "op je tijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:41.943326842Z",
+  "model": "glm-5.3"
+}

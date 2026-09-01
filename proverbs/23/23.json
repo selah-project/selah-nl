@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Koop de waarheid en verkoop haar niet — ⟨ook⟩ wijsheid, tucht en inzicht.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "waarheid"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "koop"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "verkoop"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "en tucht"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "en inzicht"
+    }
+  ],
+  "timestamp": "2026-08-31T23:46:15.974617383Z",
+  "model": "glm-5.3"
+}

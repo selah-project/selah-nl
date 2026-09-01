@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "U zult hen stellen als een oven van vuur, ten tijde van uw aangezicht; Jahweh zal hen in zijn toorn verzwelgen, en vuur zal hen verteren.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "U zult hen stellen"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "als een oven"
+    },
+    {
+      "surface": "אש",
+      "gloss": "van vuur"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ten tijde van"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "in zijn toorn"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "zal hen verzwelgen"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "en zal hen verteren"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:16.253010866Z",
+  "model": "glm-5.3"
+}

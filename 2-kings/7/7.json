@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Daarom stonden zij op en vluchtten in het schemerduister, en zij lieten hun tenten ⟨את⟩ en hun paarden ⟨את⟩ en hun ezels ⟨את⟩ achter — het kamp zoals het was — en zij vluchtten ⟨om⟩ hun leven ⟨te redden⟩.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "daarom stonden zij op"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "en vluchtten"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "in het schemerduister"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "en zij lieten achter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun tenten"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "hun tenten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hun paarden"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "hun paarden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hun ezels"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "hun ezels"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "het kamp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "היא",
+      "gloss": "het was"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "en zij vluchtten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "voor"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hun leven"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:13.468278076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij legt ⟨את⟩ zijn hand op het hoofd van het zondoffer, en hij slacht ⟨את⟩ het als zondoffer, op de plaats waar men ⟨את⟩ het brandoffer slacht.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "en hij legt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "het hoofd"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van het zondoffer"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "en hij slacht"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "het"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "als zondoffer"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "op de plaats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "men slacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het brandoffer"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "het brandoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:46.422368391Z",
+  "model": "glm-5.3"
+}

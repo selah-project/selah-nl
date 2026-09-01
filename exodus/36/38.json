@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En ⟨את⟩ zijn vijf pilaren en ⟨את⟩ hun haken; en hij overtrok hun kapitelen en hun staven met goud; en hun vijf voetstenen ⟨waren⟩ van koper.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vijf pilaren"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "zijn vijf pilaren"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun haken"
+    },
+    {
+      "surface": "וגויהם",
+      "gloss": "en hun haken"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "en hij overtrok"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "hun kapitelen"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "en hun staven"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "met goud"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "en hun vijf voetstenen"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "van koper"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:41.471619874Z",
+  "model": "glm-5.3"
+}

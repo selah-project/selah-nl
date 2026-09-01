@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En ik zal mijn hand uitstrekken ⟨את⟩ en Mitsrajim slaan met al mijn wonderen die ik in zijn midden zal doen; en daarna zal hij jullie ⟨את⟩ wegzenden.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "En ik zal uitstrekken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mijn hand"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "en slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met al"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "mijn wonderen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ik zal doen"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in zijn midden"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "zal hij wegzenden"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:16.399881832Z",
+  "model": "glm-5.3"
+}

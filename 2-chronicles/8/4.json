@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij bouwde ⟨את⟩ Tadmor in de woestijn, en ⟨את⟩ alle voorraadsteden die hij in Chamat had gebouwd.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alle voorraadsteden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "steden"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "voorraad-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hij had gebouwd"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "in Chamat"
+    }
+  ],
+  "timestamp": "2026-08-31T23:06:31.908707811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 122,
+  "translation": "Onze voeten stonden stil in jouw poorten, Jeroesjalajim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "stonden stil"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨zijn⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "onze voeten"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "in jouw poorten"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:41.246874170Z",
+  "model": "glm-5.3"
+}

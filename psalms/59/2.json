@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Ruk mij weg bij mijn vijanden, mijn Elohim; stel mij hoog ⟨in veiligheid⟩ boven hen die tegen mij opstaan.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ruk mij weg"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "bij mijn vijanden"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "boven hen die tegen mij opstaan"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "stel mij hoog ⟨in veiligheid⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:19.265882670Z",
+  "model": "glm-5.3"
+}

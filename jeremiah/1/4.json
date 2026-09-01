@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En het woord van Jahweh kwam tot mij, zeggende:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het kwam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T21:27:26.129281577Z",
+  "model": "glm-5.3"
+}

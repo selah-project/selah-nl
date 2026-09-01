@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Wie de arme bespot, smaadt ⟨Degen die⟩ hem gemaakt heeft; wie zich verheugt over ⟨iemand⟩ in het ongeluk, zal niet onschuldig uitkomen.",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "bespot"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "de arme"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "smaadt"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "zijn Maker"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "zich verheugt"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "over het ongeluk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "onschuldig uitkomen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:15.061820941Z",
+  "model": "glm-5.3"
+}

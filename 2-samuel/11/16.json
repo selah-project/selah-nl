@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En het gebeurde, toen Joav over de stad waakte, dat hij ⟨את⟩ Urja aanwees naar de plaats waarvan hij wist dat daar sterke mannen waren.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "toen hij waakte over"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dat hij aanwees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urja"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "de plaats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hij wist"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mannen van"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kracht"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:49.886990829Z",
+  "model": "glm-5.3"
+}

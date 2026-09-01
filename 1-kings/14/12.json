@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En jij, sta op, ga naar je huis; zodra je voeten de stad binnenkomen, zal het kind sterven.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en jij"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "sta op"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "naar je huis"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "bij het binnenkomen"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "je voeten"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "zal sterven"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "het kind"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:27.249998535Z",
+  "model": "glm-5.3"
+}

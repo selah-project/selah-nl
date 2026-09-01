@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En hij zeide: ik zal al mijn goed voor uw aangezicht laten voorbijgaan, en ik zal de naam Jahweh voor u uitroepen; en ik zal ⟨את⟩ wie ik gun, gunnen, en ⟨את⟩ wie ik barmhartig ben, barmhartig zijn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "zal ik laten voorbijgaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "mijn goed"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "en ik zal uitroepen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "en ik zal gunnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wie ik gun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "ik gun"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "en ik zal barmhartig zijn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wie ik barmhartig ben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ik barmhartig ben"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:11.829273253Z",
+  "model": "glm-5.3"
+}

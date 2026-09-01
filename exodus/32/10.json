@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En nu, laat Mij ⟨begaan⟩, dat Mijn toorn tegen hen ontbrandt en hen vertere, en Ik zal jou ⟨את⟩ tot een groot volk maken.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nu"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "laat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mij"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ontbrandt"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "Mijn toorn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tegen hen"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "hen vertere"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "en Ik zal maken"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "jou"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tot een volk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:09.398620576Z",
+  "model": "glm-5.3"
+}

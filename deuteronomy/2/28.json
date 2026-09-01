@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Spijs voor geld zult gij mij verkopen, en ik zal eten; en water voor geld zult gij mij geven, en ik zal drinken; alleen laat mij doortrekken te voet —",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "spijs"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "voor geld"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "zult gij mij verkopen"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "en ik zal eten"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "en water"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "voor geld"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zult gij geven"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "en ik zal drinken"
+    },
+    {
+      "surface": "רק",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "laat mij doortrekken"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "te voet"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:08.079696617Z",
+  "model": "glm-5.3"
+}

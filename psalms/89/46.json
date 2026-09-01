@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "De dagen van zijn jeugd hebt u verkort, u hebt hem bedekt met schaamte. Sela.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "hebt u verkort"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de dagen van"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "zijn jeugd"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "u hebt bedekt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "met schaamte"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:18.530490664Z",
+  "model": "glm-5.3"
+}

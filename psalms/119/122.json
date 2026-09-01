@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Sta borg voor uw dienaar ⟨tot⟩ het goede; laat de overmoedigen mij niet onderdrukken.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "sta borg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "voor uw dienaar"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "⟨tot⟩ het goede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "mij onderdrukken"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "de overmoedigen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:05.543145122Z",
+  "model": "glm-5.3"
+}

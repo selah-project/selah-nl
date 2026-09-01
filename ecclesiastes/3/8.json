@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Een tijd om lief te hebben en een tijd om te haten; een tijd van oorlog en een tijd van sjaloom.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "om lief te hebben"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "om te haten"
+    },
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "van oorlog"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "van sjaloom"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:35.954368734Z",
+  "model": "glm-5.3"
+}

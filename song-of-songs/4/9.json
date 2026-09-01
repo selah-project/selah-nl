@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 4:9",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Je hebt mijn hart beroerd, mijn zuster, ⟨mijn⟩ bruid; je hebt mijn hart beroerd met één ⟨van⟩ je ogen, met één snoer van je hals.",
+  "tokens": [
+    {
+      "surface": "לבבתני",
+      "gloss": "je hebt mijn hart beroerd"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mijn zuster"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bruid"
+    },
+    {
+      "surface": "לבבתיני",
+      "gloss": "je hebt mijn hart beroerd"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "met één"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "van je ogen"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "met één"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "snoer"
+    },
+    {
+      "surface": "מצורניך",
+      "gloss": "van je hals"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:42.376096102Z",
+  "model": "glm-5.3"
+}

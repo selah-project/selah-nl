@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En Gij hebt gezegd: Ik zal zeker goed met u doen, en ik zal uw zaad stellen als het zand van de zee, dat niet geteld kan worden ⟨vanwege⟩ de menigte.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "En Gij"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "hebt gezegd"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "zeker goed"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "zal ik doen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met u"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "en ik zal stellen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw zaad"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "uw zaad"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "als het zand"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van de zee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "geteld kan worden"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "vanwege de menigte"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:20.903360213Z",
+  "model": "glm-5.3"
+}

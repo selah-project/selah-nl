@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "De priester die haar ten zonde offerde, zal ⟨את⟩ haar eten; op een heilige plaats zal zij gegeten worden, in de voorhof van de tent van samenkomst.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "die ten zonde offerde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (de zondeoffer-gave)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "zal haar eten"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "op een plaats"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "zal zij gegeten worden"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "in de voorhof van"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:44.865537128Z",
+  "model": "glm-5.3"
+}

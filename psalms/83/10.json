@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "Doe hun zoals Midjan, zoals Sisera, zoals Jabin, bij de beek Kisjon:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Doe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "zoals Midjan"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "zoals Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "zoals Jabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "bij de beek"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kisjon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:18.264940930Z",
+  "model": "glm-5.3"
+}

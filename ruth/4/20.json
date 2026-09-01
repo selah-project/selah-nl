@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Amminadav verwekte ⟨את⟩ Nachsjon, en Nachsjon verwekte ⟨את⟩ Salma.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "En Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachsjon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachsjon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "en Nachsjon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salma"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:10.735714493Z",
+  "model": "glm-5.3"
+}

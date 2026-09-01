@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En Mosjee klom op naar de berg, en de wolk bedekte ⟨את⟩ de berg.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "en klom op"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "en bedekte"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "de wolk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de berg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "de berg"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:50.032742357Z",
+  "model": "glm-5.3"
+}

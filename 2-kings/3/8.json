@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En hij zei: langs welke weg zullen wij optrekken? En hij zei: de weg door de woestijn van Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "אי",
+      "gloss": "welke"
+    },
+    {
+      "surface": "זה",
+      "gloss": "—"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "weg"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "zullen wij optrekken"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "door de woestijn"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "van Edom"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:58.144414637Z",
+  "model": "glm-5.3"
+}

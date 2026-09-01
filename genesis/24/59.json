@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En zij zonden weg ⟨את⟩ Rivka, hun zuster, en ⟨את⟩ haar voedster, en ⟨את⟩ de dienaar van Avraham en ⟨את⟩ zijn mannen.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "En zij zonden weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "hun zuster"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haar voedster"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "haar voedster"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de dienaar"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "de dienaar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "van Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn mannen"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "zijn mannen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:45.877345986Z",
+  "model": "glm-5.3"
+}

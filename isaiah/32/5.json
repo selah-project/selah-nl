@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Niet langer zal de dwaas edelmoedig genoemd worden, en aan de vrek zal niet gezegd worden ⟨dat hij⟩ vrijgevig is.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "zal genoemd worden"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "langer"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "de dwaas"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "edelmoedig"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "en aan de vrek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zal gezegd worden"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "vrijgevig"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:47.067808729Z",
+  "model": "glm-5.3"
+}

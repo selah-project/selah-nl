@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En Ik zal onder hen zenden ⟨את⟩ het zwaard, ⟨את⟩ de honger en ⟨את⟩ de pest, tot zij verteerd zijn van de grond af die Ik hun en hun vaderen gegeven heb.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "En Ik zal zenden"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onder hen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het zwaard"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "het zwaard"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de honger"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "de honger"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de pest"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "de pest"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "zij verteerd zijn"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van af"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de grond"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ik gegeven heb"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "en hun vaderen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:50.536704171Z",
+  "model": "glm-5.3"
+}

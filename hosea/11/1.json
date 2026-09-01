@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Toen Israël een jongen was, heb ik hem liefgehad, en uit Mitsrajim heb ik mijn zoon geroepen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "toen"
+    },
+    {
+      "surface": "נער",
+      "gloss": "een jongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "heb ik hem liefgehad"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "en uit Mitsrajim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "heb ik geroepen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mijn zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:16.884808989Z",
+  "model": "glm-5.3"
+}

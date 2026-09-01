@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Een weduwe, een verstotene, een ontheiligde ⟨of⟩ hoer — ⟨את⟩ deze zal hij niet nemen; dan alleen een jongedochter uit zijn eigen volk zal hij tot vrouw nemen.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "een weduwe"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "een verstotene"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "een ontheiligde"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "hoer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "zal hij nemen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "een jongedochter"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "uit zijn eigen volk"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "zal hij nemen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tot vrouw"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:27.105021110Z",
+  "model": "glm-5.3"
+}

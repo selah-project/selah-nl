@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Want jullie hebben gezegd: Jahweh heeft voor ons profeten doen opstaan in Bavel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "jullie hebben gezegd"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "heeft doen opstaan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "profeten"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "in Bavel"
+    }
+  ],
+  "timestamp": "2026-08-31T21:35:13.886254239Z",
+  "model": "glm-5.3"
+}

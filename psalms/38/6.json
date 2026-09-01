@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Mijn striemen stinken ⟨en⟩ smelten weg vanwege mijn dwaasheid.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "stinken"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "smelten weg"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "mijn striemen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "mijn dwaasheid"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:37.534521674Z",
+  "model": "glm-5.3"
+}

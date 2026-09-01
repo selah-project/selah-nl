@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "⟨Aan hem⟩ die de aarde uitspreidde boven de wateren, want tot in eeuwigheid ⟨duurt⟩ zijn chesed",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "die uitspreidde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:08.355779421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Oren hebben zij, maar zij horen niet; ook is er geen adem in hun mond.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "oren"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hebben zij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "zij horen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is er geen"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨er is⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "adem"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "in hun mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:52.754184498Z",
+  "model": "glm-5.3"
+}

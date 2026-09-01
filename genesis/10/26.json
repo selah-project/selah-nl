@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Joktan verwekte ⟨את⟩ Almodad en ⟨את⟩ Sjelef en ⟨את⟩ Chatsarmavet en ⟨את⟩ Jérach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "En Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sjelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Sjelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Chatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Jérach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jérach"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:23.787279430Z",
+  "model": "glm-5.3"
+}

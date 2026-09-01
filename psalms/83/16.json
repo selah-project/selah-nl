@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "zo jaag ze na met Uw stormwind, en verschrik ze met Uw onweer.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "jaag ze na"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "met Uw stormwind"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "en met Uw onweer"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "verschrik ze"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:08.826870846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En de overste der beulen stelde ⟨את⟩ Joesef aan over hen, en hij diende ⟨את⟩ hen; en zij waren dagen in bewaring.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "En stelde aan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "de overste"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "der beulen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joesef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bij hen"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "en hij diende"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en zij waren"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "in bewaring"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:13.787709572Z",
+  "model": "glm-5.3"
+}

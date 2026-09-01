@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 85,
+  "translation": "U heeft de schuld van uw volk gedragen ⟨is weggenomen⟩, heel hun zonde heeft u bedekt. Sela.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "u heeft gedragen"
+    },
+    {
+      "surface": "עון",
+      "gloss": "de schuld"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "van uw volk"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "heeft u bedekt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "hun zonde"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:00.733654369Z",
+  "model": "glm-5.3"
+}

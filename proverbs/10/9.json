@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Wie in oprechtheid wandelt, wandelt veilig; maar wie zijn wegen kromt, zal bekend worden.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "wie wandelt"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "in oprechtheid"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "wandelt"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "veilig"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "en wie kromt"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "zijn wegen"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zal bekend worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:04.612458125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En jij slachtte ⟨את⟩ je zonen, en gaf ⟨את⟩ hen over door hen voor hen te laten doorgaan.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "en jij slachtte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je zonen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "je zonen"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "en gaf hen over"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "door te laten doorgaan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor hen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:44:35.459413750Z",
+  "model": "glm-5.3"
+}

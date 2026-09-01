@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "die ⟨את⟩ jullie deed uittrekken uit het land Mitsrajim, om voor jullie tot Elohim te zijn — ik ben Jahweh.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "die deed uittrekken"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie — objectwijzer met suffix, doelwit: jullie (uit het land Mitsrajim)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "om te zijn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:03.307382662Z",
+  "model": "glm-5.3"
+}

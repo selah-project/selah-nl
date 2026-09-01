@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Er is een ding waarvan men zeggen zal: zie dit, het is nieuw — ⟨het⟩ was al voor eeuwen, vóór ons.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "er is"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "een ding"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "waarvan men zeggen zal"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nieuw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "al"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "voor eeuwen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "vóór ons"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:21.714905556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij nam de oudsten van de stad, en distels van de woestijn en brandnetels, en hij liet ⟨hen⟩ daarmee ⟨את⟩ de mannen van Sukkot het voelen ⟨hen straffen⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de oudsten van de stad"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de oudsten van"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "distels van de woestijn"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "distels van"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "de woestijn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de brandnetels"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "de brandnetels"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "en hij liet het voelen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mannen van Sukkot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "de mannen van"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-31T20:37:45.415131950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 124,
+  "translation": "dan hadden de wateren ons weggespoeld, ⟨dan⟩ was een winterbeek overgegaan over onze nefesj,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "dan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "hadden ons weggespoeld"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "een winterbeek"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "was overgegaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "onze nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:43.346198172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Nu, wijsheid en kennis geef mij, zodat ik uitga en binnenga voor dit volk, want wie zal ⟨את⟩ uw volk, dit grote, rechtspreken?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "en kennis"
+    },
+    {
+      "surface": "תן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "zodat ik uitga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dit volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "en binnenga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "zal rechtspreken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw volk, dit grote"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uw volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "grote"
+    }
+  ],
+  "timestamp": "2026-08-31T23:04:16.018903358Z",
+  "model": "glm-5.3"
+}

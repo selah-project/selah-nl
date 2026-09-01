@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Ik achtervolg mijn vijanden en haal ⟨hen⟩ in, en ik keer niet terug tot ik hen heb verdelgd.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "ik achtervolg"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "en haal hen in"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ik keer terug"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ik hen verdelg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:10.544838574Z",
+  "model": "glm-5.3"
+}

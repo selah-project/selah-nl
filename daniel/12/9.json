@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En hij zei: Ga heen, Daniël, want gesloten en verzegeld zijn de woorden tot de tijd van het einde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ga heen"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "gesloten"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "en verzegeld"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עת",
+      "gloss": "de tijd"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "van het einde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:50:20.723072784Z",
+  "model": "glm-5.3"
+}

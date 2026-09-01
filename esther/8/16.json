@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Voor de Joden was er licht, en vreugde, en jubel, en eer.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "voor de Joden"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was er"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "licht"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "en vreugde"
+    },
+    {
+      "surface": "וששון",
+      "gloss": "en jubel"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "en eer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:50.757767732Z",
+  "model": "glm-5.3"
+}

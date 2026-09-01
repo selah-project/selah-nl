@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Ik heb ⟨את⟩ het gemor van de kinderen van Jisraël gehoord; spreek tot hen, zeggende: Tussen de avonden zult gij vlees eten, en in de morgen zult gij met brood verzadigd worden; en gij zult weten dat Ik Jahweh, jullie Elohim, ben.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ik heb gehoord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het gemor van de kinderen van Jisraël"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "gemor"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "de avonden"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "zult gij eten"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "en in de morgen"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "zult gij verzadigd worden"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "en gij zult weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:05.530514036Z",
+  "model": "glm-5.3"
+}

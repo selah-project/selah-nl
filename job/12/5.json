@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Een fakkel van smaad ⟨is het⟩ voor de zorgeloze, gereed voor wie met de voet ⟨wankelt⟩.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "een fakkel"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "van smaad"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "voor de zorgeloze"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "gerust zittende"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "gereed"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "voor wie wankelt"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "voet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:16.360812727Z",
+  "model": "glm-5.3"
+}

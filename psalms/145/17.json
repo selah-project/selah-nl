@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Rechtvaardig ⟨is⟩ Jahweh in al zijn wegen, en chesed-vol in al zijn werken.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in al"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "zijn wegen"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "en chesed-vol"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in al"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "zijn werken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:17.633565270Z",
+  "model": "glm-5.3"
+}

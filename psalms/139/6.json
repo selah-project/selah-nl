@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "Te wonderbaar is ⟨deze⟩ kennis voor mij, verheven — ik kan ⟨haar⟩ niet dragen.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "te wonderbaar"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "verheven"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ik kan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨haar⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:24.431106235Z",
+  "model": "glm-5.3"
+}

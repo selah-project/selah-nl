@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "Haar voren drenkt gij, haar bedden doet gij neerdalen; met regenbuien maakt gij haar week; haar spruit zegent gij.",
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "haar voren"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "drenkt gij"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "doet gij neerdalen"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "haar bedden"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "met regenbuien"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "maakt gij haar week"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "haar spruit"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "zegent gij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:42.796201909Z",
+  "model": "glm-5.3"
+}

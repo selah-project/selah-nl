@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En Hij redde hen uit de hand van hun hater, en Hij kocht hen vrij uit de hand van de vijand.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "en Hij redde hen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand van"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "hater"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "en Hij kocht hen vrij"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand van"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vijand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:40.686793266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "De Tora van zijn Elohim ⟨is⟩ in zijn hart; zijn stappen zullen niet wankelen.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "de Tora"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "van zijn Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in zijn hart"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "zullen wankelen"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "zijn stappen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:41.504956521Z",
+  "model": "glm-5.3"
+}

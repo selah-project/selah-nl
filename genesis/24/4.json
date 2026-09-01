@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "maar naar mijn land en naar mijn geboortegrond zul je gaan, en een vrouw nemen voor mijn zoon, voor Jitschak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "mijn land"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en naar"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "mijn geboortegrond"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "zul je gaan"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "en zult nemen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "een vrouw"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "voor mijn zoon"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "voor Jitschak"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:19.450075814Z",
+  "model": "glm-5.3"
+}

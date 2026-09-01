@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Velen ⟨zijn⟩ de kwaden van ⟨de⟩ rechtvaardige, maar uit ze allen zal Jahweh hem redden.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "velen"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "de kwaden"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van de rechtvaardige"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "maar uit ze allen"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "zal hij redden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:06.353626880Z",
+  "model": "glm-5.3"
+}

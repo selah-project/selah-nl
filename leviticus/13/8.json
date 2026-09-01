@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En de priester ziet ⟨het⟩, en zie, de uitslag heeft zich uitgebreid op de huid, dan verklaart de priester hem onrein: het is tsara'at.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "en ziet"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "heeft zich uitgebreid"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "de uitslag"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "op de huid"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "verklaart hem onrein"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsara'at"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:26.770587117Z",
+  "model": "glm-5.3"
+}

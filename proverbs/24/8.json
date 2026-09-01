@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Wie kwaad beraamt, hem noemt men een meester van listen.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "beraamt"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "meester"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "van listen"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "noemt men"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:41.916242312Z",
+  "model": "glm-5.3"
+}

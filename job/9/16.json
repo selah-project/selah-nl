@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Als ik riep en hij mij antwoordde, zou ik niet geloven dat hij ⟨werkelijk⟩ naar mijn stem luisterde.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ik riep"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "en hij mij antwoordde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "zou ik geloven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "hij luisterde"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "naar mijn stem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:25.852525600Z",
+  "model": "glm-5.3"
+}

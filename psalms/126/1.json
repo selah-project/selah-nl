@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 126,
+  "translation": "Een lied van de opgangen. Toen Jahweh ⟨את⟩ de terugkeer van Tsiyon deed keren, waren wij als dromenden.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Een lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van de opgangen"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "toen ... deed keren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de terugkeer van Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "de terugkeer"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "waren wij"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "als dromenden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:44.564352905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Hij stelt ⟨de⟩ storm tot stilte, en hun golven worden gesust.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "stelt"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "storm"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "tot stilte"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "en zij worden gesust"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "hun golven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:07.998846969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Hij ligt op de loer in ⟨de⟩ schuilplaats, als een leeuw in zijn struikhut; hij ligt op de loer om de ellendige te grijpen; hij grijpt de ellendige ⟨door⟩ hem mee te slepen in zijn net.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "ligt op de loer"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "in ⟨de⟩ schuilplaats"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "als een leeuw"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "in zijn struikhut"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "ligt op de loer"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "om te grijpen"
+    },
+    {
+      "surface": "עני",
+      "gloss": "de ellendige"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "grijpt"
+    },
+    {
+      "surface": "עני",
+      "gloss": "de ellendige"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "⟨door⟩ hem mee te slepen"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "in zijn net"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:24.278057184Z",
+  "model": "glm-5.3"
+}

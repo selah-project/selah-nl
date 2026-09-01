@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Zes dagen zult gij werken en doen al uw werk,",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "zes"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "zult gij werken"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "uw werk"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:00.547188267Z",
+  "model": "glm-5.3"
+}

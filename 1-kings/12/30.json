@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En dit woord werd tot zonde, en het volk ging voor het ene uit, tot aan Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het werd"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dit woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "tot zonde"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en zij gingen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor... uit"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "het ene"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:06.270792139Z",
+  "model": "glm-5.3"
+}

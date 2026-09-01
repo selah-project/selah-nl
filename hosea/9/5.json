@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Wat zullen jullie doen op de dag van de vaste tijd, en op de dag van het feest van Jahweh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Wat"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "zullen jullie doen"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van de vaste tijd"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "en op de dag"
+    },
+    {
+      "surface": "חג",
+      "gloss": "het feest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:55.766582650Z",
+  "model": "glm-5.3"
+}

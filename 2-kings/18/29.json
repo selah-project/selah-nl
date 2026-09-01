@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Zo zegt de koning: Laat Chizkijahoe jullie niet misleiden, want hij zal jullie niet kunnen redden ⟨את⟩-jullie uit zijn hand.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "laat ... misleiden"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahoe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "zal kunnen"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "redden"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-jullie",
+      "marks": "redden jullie"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "uit zijn hand"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:03.789511835Z",
+  "model": "glm-5.3"
+}

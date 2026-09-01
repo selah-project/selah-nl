@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Van voor uw aangezicht kome mijn vonnis uit; uw ogen aanschouwen het rechte.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "van voor uw aangezicht"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mijn vonnis"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kome uit"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "uw ogen"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "aanschouwen"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "het rechte"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:25.474591682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En de gezalfde priester brengt van het bloed van de stier naar de tent van ontmoeting.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "en hij brengt"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "de gezalfde"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "van het bloed"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "van de stier"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:02.641991904Z",
+  "model": "glm-5.3"
+}

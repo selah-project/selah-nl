@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En ik zal ⟨את⟩ de horzel voor je uitsturen, en ⟨hij⟩ zal ⟨את⟩ de Chiwwiet, ⟨את⟩ de Kanaäniet en ⟨את⟩ de Chittiet voor je vandaan verdrijven.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "en ik zal uitsturen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de horzel"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "de horzel"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor je"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "en ⟨hij⟩ zal verdrijven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Chiwwiet"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "de Chiwwiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Kanaäniet"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "de Kanaäniet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Chittiet"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "de Chittiet"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "voor je vandaan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:43.887686682Z",
+  "model": "glm-5.3"
+}

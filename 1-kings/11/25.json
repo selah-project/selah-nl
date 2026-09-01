@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En hij was een tegenstander voor Israël alle dagen van Sjelomo, en ⟨את⟩ het kwaad dat Hadad deed — en hij voelde afkeer jegens Israël, en hij regeerde over Aram.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en hij was"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "een tegenstander"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "voor Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagen van"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het kwaad dat Hadad deed"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "het kwaad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "en hij voelde afkeer"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "jegens Israël"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en hij regeerde"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:58.135193481Z",
+  "model": "glm-5.3"
+}

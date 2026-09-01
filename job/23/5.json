@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 23:5",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Ik zou de woorden kennen waarmee hij mij antwoordt, en ik zou verstaan wat hij tot mij zegt.",
+  "tokens": [
+    {
+      "surface": "אדעה",
+      "gloss": "ik zou kennen"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "hij antwoordt mij"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "en ik zou verstaan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hij zegt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tot mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:34:42.417825508Z",
+  "model": "glm-5.3"
+}

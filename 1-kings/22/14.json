@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En Mikajahoe zei: Zo waar Jahweh leeft: wat Jahweh tot mij zeggen zal, ⟨את⟩ dát zal ik spreken.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikajahoe"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zo waar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Jahweh tot mij zeggen zal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zeggen zal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dat"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "zal ik spreken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:08.275713393Z",
+  "model": "glm-5.3"
+}

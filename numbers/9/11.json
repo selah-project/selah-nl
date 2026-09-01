@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "In de tweede maand, op de veertiende dag, tussen de avonden moeten zij het bereiden; met mazzot en bittere kruiden moeten zij het eten.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "in de maand"
+    },
+    {
+      "surface": "השני",
+      "gloss": "tweede"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "op veertien"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(veertiende)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "de avonden"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "moeten zij bereiden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (de pesach)"
+    },
+    {
+      "surface": "על",
+      "gloss": "met"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mazzot"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "en bittere kruiden"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "moeten zij het eten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:11:56.151497752Z",
+  "model": "glm-5.3"
+}

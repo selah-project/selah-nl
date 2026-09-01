@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En Jitschak zond ⟨את⟩ Jaakob weg, en hij ging naar Paddan-Aram, naar Lavan, zoon van Bethuel de Arameeër, broer van Ribka, moeder van Jaakob en Esav.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond weg"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Bethuel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "de Arameeër"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broer van"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moeder van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "en Esav"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:12.837110048Z",
+  "model": "glm-5.3"
+}

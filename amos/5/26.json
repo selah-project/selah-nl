@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En jullie droegen ⟨את⟩ Sikkut, jullie koning, en ⟨את⟩ Kijjoen, jullie beelden, de ster van jullie Elohim, die jullie voor jezelf gemaakt hebben.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "en jullie droegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkut"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "jullie koning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kijjoen"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kijjoen"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "jullie beelden"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "de ster"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "van jullie Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "jullie gemaakt hebben"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jezelf"
+    }
+  ],
+  "timestamp": "2026-08-31T21:57:33.246577518Z",
+  "model": "glm-5.3"
+}

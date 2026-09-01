@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Ada baarde ⟨את⟩ Jawal; hij werd de vader van hen die in tenten wonen en ⟨wie⟩ vee houden.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "en baarde"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jawal"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Jawal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "היה",
+      "gloss": "werd"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "de vader van"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "die wonen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "in tenten"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "en vee"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:09.941460031Z",
+  "model": "glm-5.3"
+}

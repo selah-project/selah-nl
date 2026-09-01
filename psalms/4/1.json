@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Voor de koorleider, op snarenspel, een mizmor van David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "op snarenspel"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:55.771602780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Jahweh kent de dagen van de oprechten, en hun erfdeel zal voor eeuwig zijn.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de dagen"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "van de oprechten"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "en hun erfdeel"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zal zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:43.784646275Z",
+  "model": "glm-5.3"
+}

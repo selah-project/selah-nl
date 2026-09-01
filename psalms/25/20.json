@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Bewaar mijn nefesj en red mij; laat mij niet beschamend staan, want ik schuil bij u.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "en red mij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "laat mij beschamend staan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ik schuil"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bij u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:04.575972883Z",
+  "model": "glm-5.3"
+}

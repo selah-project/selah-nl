@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Ook als twee samen liggen, is het hun warm; maar voor de één — hoe zal ⟨hij⟩ warm worden?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "liggen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "is het warm"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "maar voor de één"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "zal hij warm worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:28.982225771Z",
+  "model": "glm-5.3"
+}

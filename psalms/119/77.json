@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Mogen uw ontfermingen mij bereiken, en zal ik leven, want uw tora is mijn verrukking.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "mij bereiken"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "uw ontfermingen"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "en zal ik leven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "uw tora"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "mijn verrukking"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:08.853481630Z",
+  "model": "glm-5.3"
+}

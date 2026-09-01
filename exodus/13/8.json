@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En je zult op die dag aan je zoon vertellen en zeggen: Vanwege dit heeft Jahweh ⟨dit⟩ aan mij gedaan bij mijn uitgang uit Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "zul je vertellen"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "aan je zoon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en zeggen"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "Vanwege"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "heeft gedaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan mij"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "bij mijn uitgang"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:01.310508293Z",
+  "model": "glm-5.3"
+}

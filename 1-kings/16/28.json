@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 16:28",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Omri ging slapen met zijn vaders, en hij werd begraven in Sjomron; en Achav zijn zoon werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "en hij ging slapen"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en hij werd begraven"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Sjomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en hij werd koning"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:47.178171474Z",
+  "model": "glm-5.3"
+}

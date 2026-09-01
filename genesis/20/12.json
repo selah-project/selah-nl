@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En bovendien, voorwaar, zij is mijn zuster, dochter van mijn vader, alleen niet dochter van mijn moeder; en zij werd mij tot vrouw.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en bovendien"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mijn zuster"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "van mijn vader"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zij is"
+    },
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "van mijn moeder"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en zij werd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "tot vrouw"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:40.562110625Z",
+  "model": "glm-5.3"
+}

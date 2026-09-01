@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En u zult ⟨את⟩ de staven brengen in de ringen, aan de zijkanten van de ark, om ⟨את⟩ de ark te dragen daarmee.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "en u zult brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de staven"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "de staven"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "in de ringen"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "de zijkanten"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "van de ark"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "om te dragen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarmee"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:30.700675639Z",
+  "model": "glm-5.3"
+}

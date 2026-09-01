@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En hij zeide: toon mij toch ⟨את⟩ uw kavod.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "toon mij"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch (ik bid)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw kavod"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "uw kavod (heerlijkheid)"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:11.829087530Z",
+  "model": "glm-5.3"
+}

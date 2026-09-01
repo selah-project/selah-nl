@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En Jahweh verscheen in de tent, in de wolkkolom; en de wolkkolom stond boven de ingang van de tent.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en verscheen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in de tent"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "in de kolom"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "van wolk"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "en stond"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "de kolom"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "van de wolk"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "de ingang"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "van de tent"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:44.296418426Z",
+  "model": "glm-5.3"
+}

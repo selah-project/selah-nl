@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "Moge hij de armen van het volk richten, de zonen van de behoeftige verlossen, en de onderdrukker verpletteren.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "moge hij richten"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "de armen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "verlossen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "de behoeftige"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "en verpletteren"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "de onderdrukker"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:58.880574650Z",
+  "model": "glm-5.3"
+}

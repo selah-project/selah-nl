@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Chazaël, de koning van Aram, stierf, en Ben-Hadad zijn zoon werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "stierf"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaël"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "van Aram"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "werd koning"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:46.298372794Z",
+  "model": "glm-5.3"
+}

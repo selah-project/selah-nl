@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 30:26",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Want ik verwachtte ⟨het⟩ goede — en kwaad kwam; en ik hoop op licht — en duisternis kwam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goede"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "verwachtte ik"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en kwam"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "ואיחלה",
+      "gloss": "en ik hoop"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "op licht"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en kwam"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "duisternis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:11.593751444Z",
+  "model": "glm-5.3"
+}

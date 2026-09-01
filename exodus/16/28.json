@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Jahweh zei tot Mosjee: Hoelang weigeren jullie mijn mitswot te onderhouden en mijn Tora's?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hoelang"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "weigeren jullie"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "te onderhouden"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mijn mitswot"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "en mijn Tora's"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:05.789618340Z",
+  "model": "glm-5.3"
+}

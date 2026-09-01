@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Wie tucht liefheeft, liefheeft kennis, maar wie terechtwijzing haat, is stuurs.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "liefheeft"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tucht"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liefheeft"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "maar haat"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "terechtwijzing"
+    },
+    {
+      "surface": "בער",
+      "gloss": "is stuurs"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:41.950544804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "en om te onderscheiden tussen het heilige en het gewone, en tussen het onreine en het reine.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "en om te onderscheiden"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "het heilige"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "החל",
+      "gloss": "het gewone"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "het onreine"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "het reine"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:57.697663854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En het volk verspreidde zich door heel het land Mitsrajim om stoppels te rapen in plaats van stro.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "en verspreidde zich"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "door heel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "om te rapen"
+    },
+    {
+      "surface": "קש",
+      "gloss": "stoppels"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "in plaats van stro"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:49.896793496Z",
+  "model": "glm-5.3"
+}

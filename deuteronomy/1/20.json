@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ik zei tot jullie: jullie ⟨zijn⟩ gekomen tot de berg van de Emoriet, die Jahweh onze Elohim ons geeft.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ik zei"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "tot jullie"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "jullie gekomen zijn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de berg van"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de Emoriet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:25.830413798Z",
+  "model": "glm-5.3"
+}

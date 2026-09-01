@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 22:31",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En de koning van Aram gebood ⟨את⟩ de aanvoerders van de strijdwagens die hij had — dertig en twee — zeggende: Vecht niet ⟨tegen⟩ ⟨את⟩ de kleine en ⟨את⟩ de grote, maar alleen ⟨tegen⟩ ⟨את⟩ de koning van Israël.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "En de koning"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "van Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de aanvoerders"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "de aanvoerders"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "van de strijdwagens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hij had"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "en twee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "vecht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kleine"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "de kleine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de grote"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "de grote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning van Israël"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:21:02.505719623Z",
+  "model": "glm-5.3"
+}

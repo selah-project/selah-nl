@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En hij keek hierheen en daarheen, en hij zag dat er geen man was, en hij sloeg ⟨את⟩ de Mitsri en verborg hem in het zand.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "en hij keek"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hierheen"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "en daarheen"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en hij zag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er niet was"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en hij sloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Mitsri"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "de Mitsri"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "en verborg hem"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "in het zand"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:22.956323208Z",
+  "model": "glm-5.3"
+}

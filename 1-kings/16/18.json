@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En het gebeurde, toen Zimri zag dat de stad ingenomen was, dat hij het binnenvertrek van het huis van de koning binnenging, en hij verbrandde ⟨את⟩ het huis van de koning over zich met vuur, en stierf.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "toen zag"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "ingenomen was"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ging binnen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "het binnenvertrek"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "en verbrandde"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over zich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van de koning"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en stierf"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:09.322853033Z",
+  "model": "glm-5.3"
+}

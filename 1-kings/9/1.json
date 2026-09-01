@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Het gebeurde toen Sjelomo klaar was met het bouwen van ⟨את⟩ het huis van Jahweh en ⟨את⟩ het huis van de koning, en ⟨את⟩ alles wat Sjelomo begeerde en wenst te doen —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Het gebeurde"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "toen klaar was"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "met het bouwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het huis van de koning"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles wat Sjelomo begeerde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "wat begeerde"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wenst"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "te doen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:19.613955886Z",
+  "model": "glm-5.3"
+}

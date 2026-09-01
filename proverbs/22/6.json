@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Onderricht de jongen overeenkomstig zijn weg; ook als hij oud wordt, wijkt hij daar niet van af.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "onderricht"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "de jongen"
+    },
+    {
+      "surface": "על",
+      "gloss": "overeenkomstig"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de mond van"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "zijn weg"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "כי",
+      "gloss": "als"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "hij oud wordt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "wijkt"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daarvan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:22.908725915Z",
+  "model": "glm-5.3"
+}

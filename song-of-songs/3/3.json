@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "De wachters die in de stad rondgaan vonden mij — ⟨את⟩ hem die mijn nefesj liefheeft, hebben jullie ⟨hem⟩ gezien?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "vonden mij"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "de wachters"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "die rondgaan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hem die mijn nefesj liefheeft"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "die liefheeft"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "hebben jullie gezien"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:05.010116599Z",
+  "model": "glm-5.3"
+}

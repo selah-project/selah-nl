@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "⟨את⟩ de tafel en ⟨את⟩ zijn stangen en ⟨את⟩ al zijn gerei en ⟨את⟩ de toonbroden",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "de tafel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn stangen"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "zijn stangen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al zijn gerei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zijn gerei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de toonbroden"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "des aangezichts (toonbroden)"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:07.842772396Z",
+  "model": "glm-5.3"
+}

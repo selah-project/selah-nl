@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "U doet hem heersen over de werken van Uw handen; alles hebt U onder zijn voeten gesteld.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "U doet hem heersen"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "over de werken van"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "Uw handen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "hebt U gesteld"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "zijn voeten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:39.722226237Z",
+  "model": "glm-5.3"
+}

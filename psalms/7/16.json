@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Een put heeft hij gegraven en die uitgehold, en hij viel in de kuil die hij maakte.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "een put"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "heeft gegraven"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "en die uitgehold"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "en hij viel"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "in de kuil"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "die hij maakte"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:29.079400825Z",
+  "model": "glm-5.3"
+}

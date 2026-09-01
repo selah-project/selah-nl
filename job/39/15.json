@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 39:15",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "Zij vergeet dat een voet ze kan vertrappen, en dat het gedierte van het veld ze kan fijntrappen.",
+  "tokens": [
+    {
+      "surface": "ותשכח",
+      "gloss": "zij vergeet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "voet"
+    },
+    {
+      "surface": "תזורה",
+      "gloss": "kan vertrappen"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "en het gedierte"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van het veld"
+    },
+    {
+      "surface": "תדושה",
+      "gloss": "kan fijntrappen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:01.837913318Z",
+  "model": "glm-5.3"
+}

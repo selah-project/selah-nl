@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 87,
+  "translation": "En zangers als ⟨dansenden⟩: al mijn bronnen ⟨zijn⟩ in u.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "en zangers"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "als ⟨dansenden⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mijn bronnen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:13.721023371Z",
+  "model": "glm-5.3"
+}

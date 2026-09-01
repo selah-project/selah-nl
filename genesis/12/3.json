@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En ik zal zij zegenen die jou zegenen, en wie jou vervloekt, die zal ik vervloeken; en in jou zullen gezegend worden alle geslachten van de aardbodem.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "En ik zal zegenen"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "die jou zegenen"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "en wie jou vervloekt"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "zal ik vervloeken"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "en zij zullen gezegend worden"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in jou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "geslachten"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van de aardbodem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:47.782977047Z",
+  "model": "glm-5.3"
+}

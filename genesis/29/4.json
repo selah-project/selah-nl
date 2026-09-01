@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En Jaakob zei tot hen: Mijn broeders, van waar bent u? En zij zeiden: Uit Charan zijn wij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mijn broeders"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "van waar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bent u"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "uit Charan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:43.181645632Z",
+  "model": "glm-5.3"
+}

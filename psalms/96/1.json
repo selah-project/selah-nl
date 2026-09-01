@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 96,
+  "translation": "Zing voor Jahweh een nieuw lied, zing voor Jahweh, heel de aarde.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "zing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nieuw"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "zing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:04.980975850Z",
+  "model": "glm-5.3"
+}

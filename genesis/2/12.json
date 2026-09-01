@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En het goud van dat land is goed; daar is ⟨de⟩ bedolach en ⟨de⟩ steen van de sjoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "en het goud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van dat land"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "is goed"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "⟨de⟩ bedolach"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "en ⟨de⟩ steen"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "van de sjoham"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:19.159420927Z",
+  "model": "glm-5.3"
+}

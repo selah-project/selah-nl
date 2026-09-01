@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Van Jahweh ⟨is⟩ de redding; op uw volk ⟨zij⟩ uw zegen. Sela.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "de redding"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uw volk"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "uw zegen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:06.289083691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 13:21",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Jahweh ging voor hen uit, overdag in een wolkkolom om hen de weg te leiden, en 's nachts in een vuurkolom om hen licht te geven, om te gaan overdag en 's nachts.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "En Jahweh"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ging"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hen uit"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "overdag"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "in een kolom"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "wolk"
+    },
+    {
+      "surface": "לנחתם",
+      "gloss": "om hen te leiden"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en 's nachts"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "in een kolom"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "om licht te geven"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "overdag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en 's nachts"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:49.876496308Z",
+  "model": "glm-5.3"
+}

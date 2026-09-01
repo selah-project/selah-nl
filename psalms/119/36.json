@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Neig mijn hart naar uw getuigenissen, en niet naar oneerlijke winst.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "neig"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "uw getuigenissen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "oneerlijke winst"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:25.566526984Z",
+  "model": "glm-5.3"
+}

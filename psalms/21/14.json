@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Verhef U, Jahweh, in uw sterkte; wij zullen zingen en psalmen zingen over uw macht.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "verhef U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "in uw sterkte"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "wij zullen zingen"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "en psalmen zingen"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "over uw macht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:56.299724155Z",
+  "model": "glm-5.3"
+}

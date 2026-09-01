@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En zij namen ⟨את⟩ alle have van Sedom en Amora, en ⟨את⟩ al hun spijs, en gingen heen.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "en zij namen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle have"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "have"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "van Sedom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "en van Amora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al hun spijs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "hun spijs"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en gingen heen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:28.619677904Z",
+  "model": "glm-5.3"
+}

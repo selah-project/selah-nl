@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En als ⟨iemand⟩ ⟨את⟩ een veld van zijn aankoop, dat niet van de velden van zijn bezit is, heiligt voor Jahweh —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En als"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "een veld"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "een veld"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "van zijn aankoop"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "van de velden"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "van zijn bezit"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "hij heiligt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:49.791673498Z",
+  "model": "glm-5.3"
+}

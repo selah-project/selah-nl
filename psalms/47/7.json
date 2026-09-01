@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "Zingt Elohim, zingt; zingt onze Koning, zingt!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Zingt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zingt"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zingt"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "onze Koning"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zingt"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:27.026237166Z",
+  "model": "glm-5.3"
+}

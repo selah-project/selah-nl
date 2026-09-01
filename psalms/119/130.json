@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "De ontvouwing van ⟨uw⟩ woorden geeft licht, ⟨en⟩ geeft inzicht aan de eenvoudigen.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "De ontvouwing"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "van ⟨uw⟩ woorden"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "geeft licht"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "⟨en⟩ geeft inzicht"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "aan de eenvoudigen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:02.294769700Z",
+  "model": "glm-5.3"
+}

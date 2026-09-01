@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Die geneest de verbrokenen van hart, en verbindt hun smarten.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Die geneest"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "de verbrokenen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "en verbindt"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "hun smarten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:21.950357897Z",
+  "model": "glm-5.3"
+}

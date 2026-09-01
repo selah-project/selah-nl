@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En de koning zei: wat ⟨heb⟩ ik en wat ⟨heb⟩ jij, zonen van Tserujah? Laat hem vervloeken, want Jahweh heeft tot hem gezegd: vervloek David. Want wie zal zeggen: waarom heb jij zo gedaan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "en jullie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "laat hem vervloeken"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "vervloek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zal zeggen"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "heb jij gedaan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    }
+  ],
+  "timestamp": "2026-08-31T20:54:12.766752357Z",
+  "model": "glm-5.3"
+}

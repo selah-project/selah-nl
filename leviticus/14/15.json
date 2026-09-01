@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En de priester zal van de log olie nemen en gieten op de palm van zijn linkerhand, op de palm van de priester.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "en ... nemen zal"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "van de log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "de olie"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "en gieten zal"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כף",
+      "gloss": "de palm"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "van de priester"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "de linker"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:38.948226739Z",
+  "model": "glm-5.3"
+}

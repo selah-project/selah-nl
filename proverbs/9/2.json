@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Zij slachtte haar slacht⟨dieren⟩, zij mengde haar wijn, ook richtte zij haar tafel aan.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "zij slachtte"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "haar slachtdieren"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "zij mengde"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "haar wijn"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "richtte zij aan"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "haar tafel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:06.314313998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En een dochter van een priester, wanneer zij ⟨de vrouw⟩ van een vreemde man wordt, zij mag van de hefoffergeving van de heilige dingen niet eten.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "en een dochter"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "van een priester"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zij wordt"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "van een man"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vreemde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "van de hefoffergeving"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "van de heilige dingen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mag eten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:27.801859744Z",
+  "model": "glm-5.3"
+}

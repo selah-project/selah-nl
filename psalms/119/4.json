@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "U, ⟨את⟩ hebt Uw bevelen geboden ⟨om⟩ nauwgezet te bewaren.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "hebt geboden"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "Uw bevelen"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te bewaren"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nauwgezet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:20.675462649Z",
+  "model": "glm-5.3"
+}

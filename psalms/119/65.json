@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Goed hebt U gehandeld met uw dienaar, Jahweh, overeenkomstig uw woord.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Goed"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hebt U gehandeld"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "overeenkomstig uw woord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:38.179391496Z",
+  "model": "glm-5.3"
+}

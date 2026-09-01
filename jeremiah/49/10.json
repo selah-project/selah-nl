@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Maar ik heb Esav ontkleed, ik heb ⟨את⟩ zijn schuilplaatsen onthuld, en verbergen kan hij niet; verwoest is zijn nageslacht, en zijn broeders en zijn buren, en hij is er niet meer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "heb ontkleed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "heb onthuld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn schuilplaatsen"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "zijn schuilplaatsen"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "en verbergen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "verwoest is"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zijn nageslacht"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "en zijn broeders"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "en zijn buren"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "en hij is er niet meer"
+    }
+  ],
+  "timestamp": "2026-08-31T23:23:05.943044554Z",
+  "model": "glm-5.3"
+}

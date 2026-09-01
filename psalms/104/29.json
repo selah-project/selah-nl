@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Verberg ⟨⟨Gij⟩⟩ uw aangezicht, zij worden verslagen; neemt Gij hun roeach weg, zij sterven ⟨uit⟩ en tot hun stof keren zij terug.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "verbergt Gij"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "worden verslagen"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "neemt weg"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "hun roeach"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "sterven zij uit"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "hun stof"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "keren zij terug"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:26.321800518Z",
+  "model": "glm-5.3"
+}

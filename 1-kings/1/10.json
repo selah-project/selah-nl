@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Maar ⟨את⟩ Natan de profeet, en Benjahoe, en ⟨את⟩ de helden, en ⟨את⟩ Shelomo zijn broeder riep hij niet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natan de profeet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "de profeet"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "en Benjahoe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de helden"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "de helden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo zijn broeder"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "riep hij"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:15.514346928Z",
+  "model": "glm-5.3"
+}

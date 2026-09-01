@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Want een gruwel voor Jahweh is wie afwijst, maar met de opresten is zijn sod — zijn vertrouwelijke raad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "een gruwel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "wie afwijst"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de oprechten"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de oprechten"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "zijn sod"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:16.339872367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "De Thora van Jahweh is volmaakt, de ziel doende terugkeren; de getuigenis van Jahweh is betrouwbaar, de eenvoudige wijs makend.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "de Thora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "is volmaakt"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "doende terugkeren"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "de ziel"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "de getuigenis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "is betrouwbaar"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "wijs makend"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "de eenvoudige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:48.122049471Z",
+  "model": "glm-5.3"
+}

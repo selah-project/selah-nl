@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Een rouwgewaad heb ik op mijn huid genaaid, en mijn hoorn heb ik in het stof gestrooid.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "rouwgewaad"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "heb ik genaaid"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "mijn huid"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "en heb ik gestrooid"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "in het stof"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "mijn hoorn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:33:22.926749217Z",
+  "model": "glm-5.3"
+}

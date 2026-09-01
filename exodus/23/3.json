@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En ⟨ook⟩ een arme zul je niet begunstigen in zijn rechtszaak.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "en een arme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "zul je begunstigen\/eren"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "in zijn rechtszaak"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:01.422902196Z",
+  "model": "glm-5.3"
+}

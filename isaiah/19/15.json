@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En voor Mitsrajim zal geen werk ⟨zijn⟩ dat hoofd of staart, palmblad of rietstengel zou kunnen doen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "voor Mitsrajim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "doen zou"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoofd"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "of staart"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "palmblad"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "of rietstengel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:21:57.015311760Z",
+  "model": "glm-5.3"
+}

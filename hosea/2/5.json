@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 2:5",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "opdat ik haar niet zou ontkleden, naakt, en haar tentoonstellen als op de dag van haar geboorte, en haar maken als de woestijn, en haar zetten als een dor land, en haar doen sterven van dorst.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "opdat ... niet"
+    },
+    {
+      "surface": "אפשיטנה",
+      "gloss": "ik haar zou ontkleden"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "naakt"
+    },
+    {
+      "surface": "והצגתיה",
+      "gloss": "en haar tentoonstellen"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "als op de dag"
+    },
+    {
+      "surface": "הולדה",
+      "gloss": "van haar geboorte"
+    },
+    {
+      "surface": "ושמתיה",
+      "gloss": "en haar maken"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "als de woestijn"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "en haar zetten"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "als een land"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "dor"
+    },
+    {
+      "surface": "והמתיה",
+      "gloss": "en haar doen sterven"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "van dorst"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:06.759834966Z",
+  "model": "glm-5.3"
+}

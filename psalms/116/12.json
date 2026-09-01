@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "Wat zal ik teruggeven aan Jahweh, voor al zijn weldaden aan mij?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "zal ik teruggeven"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "zijn weldaden"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "aan mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:04.468149007Z",
+  "model": "glm-5.3"
+}

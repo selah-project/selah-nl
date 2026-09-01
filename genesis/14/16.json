@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En hij bracht heel de have terug, en ook ⟨את⟩ Lot zijn broeder, en zijn have bracht hij terug, en ook ⟨את⟩ de vrouwen en ⟨את⟩ het volk.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en hij bracht terug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel de have"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "de have"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broeder"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "en zijn have"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "bracht hij terug"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vrouwen"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "de vrouwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:43.887391338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En Mosjee sprak ⟨את⟩ de vastgestelde tijden van Jahweh tot de zonen van Israël.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en hij sprak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vastgestelde tijden van Jahweh"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "de vastgestelde tijden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:20.397731440Z",
+  "model": "glm-5.3"
+}

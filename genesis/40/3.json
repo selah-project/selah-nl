@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En hij gaf ⟨את⟩ hen in bewaring, in het huis van de overste der beulen, in het huis van de gevangenis, de plaats waar Joesef daar geboeid was.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "En hij gaf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "in bewaring"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "שר",
+      "gloss": "van de overste"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "der beulen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "van de gevangenis"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "de plaats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "geboeid was"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:13.787490811Z",
+  "model": "glm-5.3"
+}

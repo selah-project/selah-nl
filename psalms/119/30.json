@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "De weg van trouw heb ik gekozen, uw misjpatim heb ik ⟨voor mij⟩ gesteld.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "van trouw"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "heb ik gekozen"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "uw misjpatim"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "heb ik ⟨voor mij⟩ gesteld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:31.992218768Z",
+  "model": "glm-5.3"
+}

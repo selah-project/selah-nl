@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En het voordeel van de aarde is bij alles ⟨dit⟩: een koning ⟨wordt⟩ gediend door ⟨het⟩ veld.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "En het voordeel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bij alles"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "een koning"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "door het veld"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "wordt gediend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:07.953642033Z",
+  "model": "glm-5.3"
+}

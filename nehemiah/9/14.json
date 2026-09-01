@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En ⟨את⟩ uw heilige sjabbat maakte u hun bekend, en geboden, verordeningen en wetting onderwies u hun door de hand van Mosjee, uw dienaar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "En ⟨את⟩",
+      "marks": "uw heilige sjabbat"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sjabbat"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "uw heilige"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "maakte u bekend"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "en geboden"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "verordeningen"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "en wet"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "onderwies u"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "van Mosjee"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    }
+  ],
+  "timestamp": "2026-08-31T22:55:43.980790784Z",
+  "model": "glm-5.3"
+}

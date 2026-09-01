@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "En Dina, de dochter van Lea, die zij aan Jaäkov gebaard had, ging eropuit om de dochters van het land te zien.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "ging eropuit"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "de dochter"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "van Lea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "zij gebaard had"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "aan Jaäkov"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "de dochters"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:48.098670066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 15:35",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En Jahweh zeide tot Mosjee: dodend zal de man gedood worden; alle vergadering zal hem stenigen met stenen, buiten het kamp.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En Jahweh zeide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dodend"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal gedood worden"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "zal stenigen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "met stenen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "het kamp"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:42.091769455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "In de oren van een dwaas spreek niet, want hij zal de zin van jouw woorden verachten.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "in de oren van"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "een dwaas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "zal hij verachten"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "de zin"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "van jouw woorden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:44.117306314Z",
+  "model": "glm-5.3"
+}

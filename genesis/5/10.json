@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Enosj leefde na het verwekken van ⟨את⟩ Keinan vijftien jaar en achthonderd jaar, en hij verwekte zonen en dochters.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "leefde"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosj"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "het verwekken van"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keinan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keinan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "en achthonderd"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "dochters"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:37.457590178Z",
+  "model": "glm-5.3"
+}

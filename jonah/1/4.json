@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jahweh wierp een grote wind op de zee, en er was een grote storm op de zee; en het schip dacht te breken.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "wierp"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "een wind"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en er was"
+    },
+    {
+      "surface": "סער",
+      "gloss": "een storm"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grote"
+    },
+    {
+      "surface": "בים",
+      "gloss": "op de zee"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "en het schip"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "dacht"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "te breken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:59:09.326047133Z",
+  "model": "glm-5.3"
+}

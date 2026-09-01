@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Het hart van de wijze ⟨neigt⟩ naar zijn rechter⟨hand⟩, en het hart van de dwaas naar zijn linker⟨hand⟩.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "van de wijze"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "naar zijn rechterhand"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "en het hart"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "van de dwaas"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "naar zijn linkerhand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:53.541260011Z",
+  "model": "glm-5.3"
+}

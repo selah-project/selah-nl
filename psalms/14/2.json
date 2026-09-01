@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Jahweh heeft vanuit de hemel neergekeken op de mensenkinderen, om te zien of er een verstandige is, die ⟨את⟩ Elohim zoekt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "vanuit de hemel"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "heeft neergekeken"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "היש",
+      "gloss": "of er is"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "een verstandige"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "zoekt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:15.341683145Z",
+  "model": "glm-5.3"
+}

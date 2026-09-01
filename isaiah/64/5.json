@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 64:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 64,
+  "translation": "Wij zijn allen als de onreine geworden, en als een kleed vol vlekken zijn al onze rechtvaardigheden; wij allen zijn verdord als een blad, en onze ongerechtigheden — als de wind hebben zij ons weggedragen.",
+  "tokens": [
+    {
+      "surface": "ונהי",
+      "gloss": "wij zijn geworden"
+    },
+    {
+      "surface": "כטמא",
+      "gloss": "als de onreine"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "wij allen"
+    },
+    {
+      "surface": "וכבגד",
+      "gloss": "en als een kleed"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "vol vlekken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "onze rechtvaardigheden"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "wij zijn verdord"
+    },
+    {
+      "surface": "כעלה",
+      "gloss": "als een blad"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "wij allen"
+    },
+    {
+      "surface": "ועוננו",
+      "gloss": "en onze ongerechtigheden"
+    },
+    {
+      "surface": "כרוח",
+      "gloss": "als de wind"
+    },
+    {
+      "surface": "ישאנו",
+      "gloss": "hebben zij ons weggedragen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:22:15.335232312Z",
+  "model": "glm-5.3"
+}

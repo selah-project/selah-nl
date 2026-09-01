@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 86,
+  "translation": "Neig uw oor, Jahweh, ⟨ tot ⟩ mijn gebed, en luister naar de stem van mijn smekingen.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "neig ⟨ uw oor ⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mijn gebed"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "en luister"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "van mijn smekingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:23.662540116Z",
+  "model": "glm-5.3"
+}

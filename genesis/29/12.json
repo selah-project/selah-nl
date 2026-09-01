@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En Jaäkov vertelde Rachjel dat hij de broer van haar vader ⟨was⟩, en dat hij de zoon van Ribka ⟨was⟩; en zij snelde weg en vertelde het aan haar vader.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "vertelde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "aan Rachjel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "de broer"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "van haar vader"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij ⟨was⟩"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "en dat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "van Ribka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij ⟨was⟩"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "snelde weg"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "vertelde"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "aan haar vader"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:44.049420138Z",
+  "model": "glm-5.3"
+}

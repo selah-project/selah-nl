@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "In het vierde jaar werd het huis van Jahweh gegrondvest, in de maand Ziv.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "in het jaar"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "het vierde"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "werd gegrondvest"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "in de maand"
+    },
+    {
+      "surface": "זו",
+      "gloss": "Ziv"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:38.304794426Z",
+  "model": "glm-5.3"
+}

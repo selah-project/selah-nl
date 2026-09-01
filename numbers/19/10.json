@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 19:10",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En hij die ⟨את⟩ de as van de koe verzamelt, zal ⟨את⟩ zijn klederen wassen en onrein zijn tot de avond; en ⟨het⟩ zal voor de zonen van Jisraël en voor de ger die bij hen woont, tot een eeuwige choq (verordening) zijn.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "en zal wassen"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "die verzamelt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de as van de koe"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "as"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "van de koe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn klederen"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zijn klederen"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "en onrein zijn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "de avond"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "en ⟨het⟩ zal zijn"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "voor de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "en voor de ger (bijwoner)"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "die woont"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "bij hen"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "tot een choq (verordening)"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T20:15:06.657802202Z",
+  "model": "glm-5.3"
+}

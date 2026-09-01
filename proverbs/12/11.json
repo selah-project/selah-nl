@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Wie zijn akker bewerkt, wordt verzadigd met brood, maar wie leegheden najagt, mist hart ⟨verstand⟩.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "bewerkt"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "zijn akker"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "wordt verzadigd"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "met brood"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "maar wie najagt"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "leegheden"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "mist"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:17.651476760Z",
+  "model": "glm-5.3"
+}

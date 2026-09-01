@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En ⟨het⟩ fundament ⟨was van⟩ stenen, kostbaar, grote stenen, stenen van tien el en stenen van acht el.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "En ⟨het⟩ fundament"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stenen"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "kostbaar"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stenen"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "grote"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "stenen van"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "en stenen van"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "acht"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:43.803815289Z",
+  "model": "glm-5.3"
+}

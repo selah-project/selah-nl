@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En hij kwam in Jeroesjalajim in de vijfde maand — dat ⟨was⟩ het zevende jaar van de koning.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "in Jeroesjalajim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "in de maand"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "de vijfde"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "het jaar"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "het zevende"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "van de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:51:37.225118261Z",
+  "model": "glm-5.3"
+}

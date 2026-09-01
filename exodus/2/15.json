@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Par'o hoorde ⟨את⟩ deze zaak, en hij zocht Mosjee te doden ⟨את⟩; maar Mosjee vluchtte voor het aangezicht van Par'o en hij woonde in het land Midjan, en hij zat neer bij de waterput.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hij hoorde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze zaak"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "de zaak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "en hij zocht"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "te doden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosjee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "en hij vluchtte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hij woonde"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hij zat neer"
+    },
+    {
+      "surface": "על",
+      "gloss": "bij"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "de waterput"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:35.273524980Z",
+  "model": "glm-5.3"
+}

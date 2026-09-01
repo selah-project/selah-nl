@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Een wijze man ⟨is⟩ sterk in kracht, en een man van kennis versterkt ⟨de⟩ macht.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "man"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wijze"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "in kracht"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en een man"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "van kennis"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "versterkt"
+    },
+    {
+      "surface": "כח",
+      "gloss": "macht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:41.915702463Z",
+  "model": "glm-5.3"
+}

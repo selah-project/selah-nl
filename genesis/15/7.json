@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 15:7",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En hij zei tot hem: Ik ben Jahweh, die je heb uitgeleid uit Ur ⟨van⟩ de Kasdiem, om ⟨את⟩ jou dit land te geven als erfbezit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ben Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "je heb uitgeleid"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "uit Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "de Kasdiem"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te geven"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "als erfbezit"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:08.743423244Z",
+  "model": "glm-5.3"
+}

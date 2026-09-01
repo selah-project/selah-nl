@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Jahweh zei tot Mosjee: Zo zult u zeggen tot de kinderen van Jisraël: Jullie zelf hebben gezien dat ik vanuit de hemel met jullie gesproken heb.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "zult u zeggen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie zelf"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "hebben gezien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "vanuit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "heb ik gesproken"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:41.807503771Z",
+  "model": "glm-5.3"
+}

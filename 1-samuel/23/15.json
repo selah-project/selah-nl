@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En Dawid zag dat Sja'oeł was uitgetrokken om ⟨את⟩ zijn leven te zoeken; en Dawid was in de woestijn van Zif, in Chorsja.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "was uitgetrokken"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sja'oeł"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "om te zoeken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn leven"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn leven"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "en Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "van Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "in Chorsja"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:26.124258460Z",
+  "model": "glm-5.3"
+}

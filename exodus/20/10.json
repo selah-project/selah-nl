@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "en de zevende dag is sabbat voor Jahweh uw Elohim; gij zult geen werk doen, gij, noch uw zoon, noch uw dochter, noch uw dienaar, noch uw dienares, noch uw vee, noch de vreemdeling die in uw poorten is.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "en de dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "de zevende"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zult gij doen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "geen — alle"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gij"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "noch uw zoon"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "noch uw dochter"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "noch uw dienares"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "noch uw vee"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "noch de vreemdeling"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "in uw poorten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:00.547516618Z",
+  "model": "glm-5.3"
+}

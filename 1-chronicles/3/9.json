@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Alle ⟨zijn⟩ zonen van Dawid, buiten de zonen van de bijvrouwen, en Tamar hun zuster.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "van de bijvrouwen"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "en Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "hun zuster"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:56.403799005Z",
+  "model": "glm-5.3"
+}

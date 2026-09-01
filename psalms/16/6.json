@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Meetlijnen zijn mij ten deel gevallen in liefelijke ⟨plaatsen⟩; ja, mijn erfenis is schoon voor mij.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "meetlijnen"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "zijn ten deel gevallen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "in liefelijke ⟨plaatsen⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mijn erfenis"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "is schoon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "voor mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:02.172306484Z",
+  "model": "glm-5.3"
+}

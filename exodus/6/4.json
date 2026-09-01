@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En ik heb ook mijn verbond met hen ⟨את⟩ opgericht, om hun het land Kenaan te geven, ⟨את⟩ het land van hun vreemdelingschap, waarin zij als vreemdelingen verbleven.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "heb ik opgericht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verbond"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ met hen"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te geven"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land van hun vreemdelingschap"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "van hun vreemdelingschap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarin"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "zij als vreemdelingen verbleven"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:41.257603961Z",
+  "model": "glm-5.3"
+}

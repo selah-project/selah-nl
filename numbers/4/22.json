@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Neem ook ⟨את⟩ het hoofdtelling van de zonen van Gersjon, ook zij, naar het huis van hun vaderen, naar hun familieverbanden:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Neem... op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hoofdtelling van de zonen van Gersjon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoofd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gersjon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zij"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "naar het huis van"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "hun vaderen"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "naar hun familieverbanden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:54.667542296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En David vreesde ⟨את⟩ Elohim op die dag, zeggende: Hoe zal ik ⟨את⟩ de ark van Elohim naar mij toe brengen?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "en hij vreesde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "היך",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "zal ik brengen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naar mij toe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:11.915564531Z",
+  "model": "glm-5.3"
+}

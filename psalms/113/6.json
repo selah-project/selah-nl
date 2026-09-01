@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 113,
+  "translation": "⟨die⟩ zich vernedert om te zien in de hemel en op de aarde?",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "zich vernedert"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemel"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "en op de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:30.178146341Z",
+  "model": "glm-5.3"
+}

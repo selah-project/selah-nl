@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "opdat een goddeloze mens niet regeert, opdat ⟨er geen⟩ strikken ⟨zijn⟩ voor een volk.",
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "opdat niet regeert"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "een mens"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "goddeloze"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "opdat ⟨geen⟩ strikken"
+    },
+    {
+      "surface": "עם",
+      "gloss": "voor een volk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:37:11.672471432Z",
+  "model": "glm-5.3"
+}

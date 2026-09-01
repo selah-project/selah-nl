@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En aan Obed-Edom ⟨waren⟩ zonen: Sjemaja de eerstgeborene, Jehozabad de tweede, Joach de derde, en Sachar de vierde, en Netanel de vijfde.",
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "en aan Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Sjemaja"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "de eerstgeborene"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Jehozabad"
+    },
+    {
+      "surface": "השני",
+      "gloss": "de tweede"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "Joach"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "de derde"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "en Sachar"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "de vierde"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "en Netanel"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "de vijfde"
+    }
+  ],
+  "timestamp": "2026-08-31T23:03:13.639364487Z",
+  "model": "glm-5.3"
+}

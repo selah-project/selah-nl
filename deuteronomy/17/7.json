@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "De hand van de getuigen zal eerst op hem zijn, om hem ter dood te brengen, en de hand van heel het volk daarna; zo ruim je het kwaad op uit je midden.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "de hand"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "van de getuigen"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "eerst"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "om hem ter dood te brengen"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "en de hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "zo ruim je op"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "het kwaad"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "uit je midden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:13.067324336Z",
+  "model": "glm-5.3"
+}

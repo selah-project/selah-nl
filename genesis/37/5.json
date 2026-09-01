@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En Joesef droomde een droom en vertelde ⟨את⟩ hem aan zijn broers, en zij voegden er ⟨toe⟩ nog meer ⟨toe⟩ hem te haten.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "en hij droomde"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "een droom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en hij vertelde"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "aan zijn broers"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "en zij voegden toe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog meer"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "te haten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:28.310779576Z",
+  "model": "glm-5.3"
+}

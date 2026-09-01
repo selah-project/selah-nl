@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "en gij neemt van zijn dochters voor uw zonen, en zijn dochters hoereren achter hun Elohim aan, en zij maken ⟨את⟩ uw zonen hoereren achter hun Elohim aan.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "en gij neemt"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "van zijn dochters"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "voor uw zonen"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "en zij hoereren"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "zijn dochters"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter ... aan"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "hun Elohim (hun goden)"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "en zij maken ... hoereren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw zonen"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "uw zonen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter ... aan"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "hun Elohim (hun goden)"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:56.267563074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Vrees niet wanneer een man rijk wordt, wanneer de heerlijkheid van zijn huis toeneemt.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "rijk wordt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "toeneemt"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "de heerlijkheid"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "van zijn huis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:59.988770237Z",
+  "model": "glm-5.3"
+}

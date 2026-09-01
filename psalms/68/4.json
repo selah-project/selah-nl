@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Maar de rechtvaardigen zullen zich verblijden, jubelen voor het aangezicht van Elohim, en zich verheugen met blijdschap.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "maar de rechtvaardigen"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "zullen zich verblijden"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "jubelen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "en zich verheugen"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "met blijdschap"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.201318483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 4:33",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij ging naar binnen en sloot de deur achter hen beiden, en hij bad tot Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij ging naar binnen"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "en sloot"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "de deur"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "achter"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "hen beiden"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "en hij bad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:14.402177399Z",
+  "model": "glm-5.3"
+}

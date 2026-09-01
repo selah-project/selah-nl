@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Toen formeerde Jahweh Elohim ⟨את⟩ de mens, stof uit de aardbodem, en Hij blies in zijn neusgaten de adem van leven; en de mens werd een levende nefesj.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "Toen formeerde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stof"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de aardbodem"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "en Hij blies"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "in zijn neusgaten"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "de adem"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "van leven"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en werd"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "een levende nefesj"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "levende"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:25.103281379Z",
+  "model": "glm-5.3"
+}

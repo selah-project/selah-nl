@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Op de derde dag sloeg Avraham ⟨את⟩ zijn ogen op en zag ⟨את⟩ de plaats van verre.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "de derde"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "en sloeg op"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn ogen"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "zijn ogen"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de plaats"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "de plaats"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "van verre"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:59.858073087Z",
+  "model": "glm-5.3"
+}

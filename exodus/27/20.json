@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En jíj zult ⟨את⟩ de kinderen van Jisraël gebieden, en zij zullen tot jou brengen olijfolie, zuiver, gestoten, voor de lamp, om ⟨een⟩ lamp ⟨te⟩ laten opgaan, voortdurend.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "En jíj"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "zult gebieden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "en zij zullen brengen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot jou"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olijf-"
+    },
+    {
+      "surface": "זך",
+      "gloss": "zuiver"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "gestoten"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "voor de lamp"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "om te laten opgaan"
+    },
+    {
+      "surface": "נר",
+      "gloss": "⟨een⟩ lamp"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:06.949741182Z",
+  "model": "glm-5.3"
+}

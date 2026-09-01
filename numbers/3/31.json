@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 3:31",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En hun bewaking: de ark, en de tafel, en de menora, en de altaren, en de heilige voorwerpen waarmee ⟨men⟩ dient, en het voorhangsel, en al zijn dienst.",
+  "tokens": [
+    {
+      "surface": "ומשמרתם",
+      "gloss": "en hun bewaking"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "en de tafel"
+    },
+    {
+      "surface": "והמנרה",
+      "gloss": "en de menora"
+    },
+    {
+      "surface": "והמזבחת",
+      "gloss": "en de altaren"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "en de voorwerpen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van het heilige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "⟨men⟩ dient"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "met hen"
+    },
+    {
+      "surface": "והמסך",
+      "gloss": "en het voorhangsel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "zijn dienst"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:40.580166383Z",
+  "model": "glm-5.3"
+}

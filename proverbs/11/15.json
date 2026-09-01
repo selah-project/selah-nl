@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Slecht zal het kwaad vergaan wie borg staat voor een vreemde, maar wie handslagen haat, ⟨is⟩ veilig.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "slecht"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "zal het kwaad vergaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨wie⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "borg staat"
+    },
+    {
+      "surface": "זר",
+      "gloss": "voor een vreemde"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "maar wie haat"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "handslagen"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "⟨is⟩ veilig"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:44.424076073Z",
+  "model": "glm-5.3"
+}

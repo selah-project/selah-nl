@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 98,
+  "translation": "Met trompetten en de klank van de sjofar — jubelt vóór de Koning, Jahweh!",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Met trompetten"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "en de klank"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "van de sjofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "jubelt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vóór"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de Koning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:52.024938914Z",
+  "model": "glm-5.3"
+}

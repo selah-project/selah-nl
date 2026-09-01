@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij spreidde een wolk uit tot bedekking, en vuur om de nacht te verlichten.",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "Hij spreidde uit"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "een wolk"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "tot bedekking"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "en vuur"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "om te verlichten"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "de nacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:27.442826030Z",
+  "model": "glm-5.3"
+}

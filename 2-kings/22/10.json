@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Toen deed Sjafan de schrijver de koning verslag en zei: Een boek heeft Chillkia de priester mij gegeven, en Sjafan las het voor het aangezicht van de koning.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "toen deed verslag"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Sjafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "de schrijver"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan de koning"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "een boek"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "heeft gegeven"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chillkia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "en las het"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Sjafan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:41.440532578Z",
+  "model": "glm-5.3"
+}

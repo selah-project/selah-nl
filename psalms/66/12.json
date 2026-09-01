@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "U deed stervelingen rijden over ons hoofd; wij gingen door vuur en door water, maar U leidde ons uit naar overvloed.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "U deed rijden"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "stervelingen"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "over ons hoofd"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "wij gingen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "door vuur"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "en door water"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "maar U leidde ons uit"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "naar overvloed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:28.781617664Z",
+  "model": "glm-5.3"
+}

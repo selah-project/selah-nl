@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En op de verzegelden: Nechemjah de Tirshatha, zoon van Chakaljah, en Tsidkijah.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "de verzegelden"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemjah"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "de Tirshatha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Chakaljah"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "en Tsidkijah"
+    }
+  ],
+  "timestamp": "2026-08-31T22:55:56.650046487Z",
+  "model": "glm-5.3"
+}

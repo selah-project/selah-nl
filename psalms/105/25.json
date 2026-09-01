@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij keerde hun hart om ⟨om⟩ zijn volk te haten, ⟨om⟩ listig te handelen tegen zijn dienaren.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Hij keerde om"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hun hart"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "⟨om⟩ te haten"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "⟨om⟩ listig te handelen"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "tegen zijn dienaren"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:14.118205744Z",
+  "model": "glm-5.3"
+}

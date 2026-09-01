@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En de nachasj zei tot de vrouw: Jullie zult zeker niet sterven —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "de nachasj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sterven"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "zult jullie sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:09.455097486Z",
+  "model": "glm-5.3"
+}

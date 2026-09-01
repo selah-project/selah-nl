@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Ik stel Jahweh voortdurend vóór mij; want ⟨hij is⟩ aan mijn rechterhand — ik zal niet wankelen.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Ik stel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "vóór mij"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "aan mijn rechterhand"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ik zal wankelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:02.172608781Z",
+  "model": "glm-5.3"
+}

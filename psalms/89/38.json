@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Als de maan wordt ⟨hij⟩ voor eeuwig bevestigd, en ⟨als⟩ een getrouwe getuige in ⟨de⟩ wolkenhemel. Sela.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "als de maan"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "wordt bevestigd"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en ⟨als⟩ een getuige"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "in ⟨de⟩ wolkenhemel"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "getrouwe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:10.517974042Z",
+  "model": "glm-5.3"
+}

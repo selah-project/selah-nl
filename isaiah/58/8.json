@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 58:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 58,
+  "translation": "Dan zal jouw licht breken als de dageraad, en jouw genezing zal snel opspruiten; jouw gerechtigheid zal vóór je gaan, de kavod van Jahweh zal je verzamelen.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יבקע",
+      "gloss": "zal breken"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "als de dageraad"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "jouw licht"
+    },
+    {
+      "surface": "וארכתך",
+      "gloss": "en jouw genezing"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "snel"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "zal opspruiten"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "en zal gaan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vóór je"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "jouw gerechtigheid"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "de kavod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "יאספך",
+      "gloss": "zal je verzamelen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:22:21.370994521Z",
+  "model": "glm-5.3"
+}

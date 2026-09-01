@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "en wijsheid heb ik niet geleerd, en de kennis van de heiligen ken ik niet ⟨noch⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "heb ik geleerd"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "en de kennis"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "van de heiligen"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ken ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:04.724070298Z",
+  "model": "glm-5.3"
+}

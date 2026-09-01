@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "De tong van de zuigeling kleefde aan zijn verhemelte van dorst; de kleine kinderen vragen brood, ⟨maar⟩ niemand breekt het voor hen.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "kleefde"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "de tong van"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "de zuigeling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "zijn verhemelte"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "van dorst"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "de kleine kinderen"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "vragen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "breekt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niemand"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:41:33.861724220Z",
+  "model": "glm-5.3"
+}

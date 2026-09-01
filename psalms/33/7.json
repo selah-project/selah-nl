@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Die de wateren van de zee samenvoegt als een hoop, die de diepten in zijn schatkamers legt.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "die samenvoegt"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "als een hoop"
+    },
+    {
+      "surface": "מי",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van de zee"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "legt"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "in zijn schatkamers"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "de diepten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:02.240679922Z",
+  "model": "glm-5.3"
+}

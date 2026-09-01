@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": "En haar priesters zal ik kleden met heil, en haar chassidim zullen luid jubelen.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "en haar priesters"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "zal ik kleden"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "met heil"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "en haar chassidim"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "luid"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "zullen jubelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:36.621332242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 37:30",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En dit zal voor jou ⟨tot⟩ teken zijn: dit jaar eet ⟨je⟩ wat zichzelf zaait, en in het tweede jaar wat naderhand opgroeit; en in het derde jaar: zaait en maait, plant wijngaarden en eet hun vrucht.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "האות",
+      "gloss": "teken"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "eet"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "dit jaar"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "wat zichzelf zaait"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "en in het jaar"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "tweede"
+    },
+    {
+      "surface": "שחיס",
+      "gloss": "wat naderhand opgroeit"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "en in het jaar"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "derde"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zaait"
+    },
+    {
+      "surface": "וקצרו",
+      "gloss": "en maait"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "plant"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "wijngaarden"
+    },
+    {
+      "surface": "ואכול",
+      "gloss": "en eet"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "hun vrucht"
+    }
+  ],
+  "timestamp": "2026-08-31T21:20:52.266759686Z",
+  "model": "glm-5.3"
+}

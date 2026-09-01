@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Die de hemel bedekt met wolken, Die voor ⟨de⟩ aarde regen bereidt, Die ⟨de⟩ bergen gras doet uitspruiten.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Die bedekt"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "met wolken"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "Die bereidt"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "voor de aarde"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "regen"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "doet uitspruiten"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gras"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:35.203508060Z",
+  "model": "glm-5.3"
+}

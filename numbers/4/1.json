@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Jahweh sprak tot Mosjee en tot Aharón, zeggende:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharón"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:57.974532712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Want zoals de regen en de sneeuw neerdalen uit de hemel en daarheen niet terugkeren, dan nadat zij de aarde hebben gedrenkt ⟨את⟩ en haar hebben doen baren en doen spruiten, en zaad hebben gegeven aan de zaaier en brood aan de eter —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "neerdaalt"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "de regen"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "en de sneeuw"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "en daarheen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "terugkeert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tenzij"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "heeft gedrenkt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "en haar heeft doen baren"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "en haar heeft doen spruiten"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en heeft gegeven"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zaad"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "aan de zaaier"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "en brood"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "aan de eter"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:57.844855567Z",
+  "model": "glm-5.3"
+}

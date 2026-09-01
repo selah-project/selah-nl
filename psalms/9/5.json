@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Want U hebt mijn recht en mijn rechtszaak gedaan; U bent gezeten op ⟨een⟩ troon, een rechter van gerechtigheid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "U hebt gedaan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mijn recht"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "en mijn rechtszaak"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "U bent gezeten"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "op ⟨een⟩ troon"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "een rechter"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "van gerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:55.929161012Z",
+  "model": "glm-5.3"
+}

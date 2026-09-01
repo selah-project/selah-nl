@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En de vrouw zei: ⟨את⟩ wie zal ik voor je laten opkomen? En hij zei: ⟨את⟩ Sjemoeël — laat ⟨hem⟩ voor mij opkomen.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "zal ik laten opkomen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor je"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjemoeël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "laat opkomen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    }
+  ],
+  "timestamp": "2026-08-31T20:48:41.735026031Z",
+  "model": "glm-5.3"
+}

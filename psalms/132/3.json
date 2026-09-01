@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": "Zeker, ik ga niet in ⟨de⟩ tent van mijn huis, ik klim niet op ⟨de⟩ legerstede van mijn rustbed —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "zeker niet (als)"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ik ga in"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in de tent"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "van mijn huis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zeker niet (als)"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ik klim op"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "de legerstede"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "van mijn rustbed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:34.642546272Z",
+  "model": "glm-5.3"
+}

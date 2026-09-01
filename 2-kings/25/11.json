@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En ⟨את⟩ de rest van het volk dat in de stad was overgebleven, en ⟨את⟩ de overlopers die overgelopen waren naar de koning van Bavel, en ⟨את⟩ de rest van de menigte voerde Nevoezaradan, de overste der slagers, in ballingschap weg.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de rest van het volk"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "de rest"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "dat overgebleven was"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de overlopers"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "de overlopers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "overgelopen waren"
+    },
+    {
+      "surface": "על",
+      "gloss": "naar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de rest van de menigte"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "de rest"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "van de menigte"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "voerde in ballingschap weg"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevoezaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "de overste"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "der slagers"
+    }
+  ],
+  "timestamp": "2026-08-31T23:21:13.800061191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Ever leefde vier en dertig jaar, en hij verwekte ⟨את⟩ Peleg.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "leefde"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:38.166337527Z",
+  "model": "glm-5.3"
+}

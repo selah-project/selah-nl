@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Want de ijver voor uw huis heeft mij verteerd, en de smaden van wie u smaden zijn op mij gevallen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "de ijver"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "voor uw huis"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "heeft mij verteerd"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "en de smaden"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "van wie u smaden"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "zijn gevallen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:19.328671488Z",
+  "model": "glm-5.3"
+}

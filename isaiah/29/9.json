@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Vertraagt u en verbaas u, verblindt u en word blind; ⟨u⟩ zijt dronken, maar niet van wijn; ⟨u⟩ wankelt, maar niet van sterke drank.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "Vertraagt u"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "en verbaas u"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "verblindt u"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "en word blind"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "zijt dronken"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "יין",
+      "gloss": "van wijn"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "wankelt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "van sterke drank"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:37.789188255Z",
+  "model": "glm-5.3"
+}

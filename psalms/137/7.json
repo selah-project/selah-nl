@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 137,
+  "translation": "Gedenk, Jahweh, de zonen van Edom ⟨את⟩ de dag van Jeroesjalajim — die zeiden: slecht het neer, slecht het neer, tot aan ⟨zijn⟩ grondvest toe!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Gedenk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "die zeiden"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "slecht het neer"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "slecht het neer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "de grondvest"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:50.972051311Z",
+  "model": "glm-5.3"
+}

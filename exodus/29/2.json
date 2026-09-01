@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En ongezuurd brood, en ongezuurde koeken gemengd met olie, en ongezuurde wafels bestreken met olie; van tarwemeel zul je ⟨את⟩ die maken.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "en brood"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ongezuurd"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "en koeken"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "ongezuurde"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "gemengd"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "met olie"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "en wafels"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ongezuurde"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "bestreken"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "met olie"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "meel"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "van tarwe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zul je maken"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "die"
+    }
+  ],
+  "timestamp": "2026-08-31T23:42:51.243965382Z",
+  "model": "glm-5.3"
+}

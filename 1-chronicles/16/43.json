@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En heel het volk ging weg, ieder naar zijn huis; en Dawid wendde zich om om ⟨את⟩ zijn huis te zegenen.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "en ging weg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "naar zijn huis"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "en wendde zich om"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "om te zegenen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn huis"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:31.267037667Z",
+  "model": "glm-5.3"
+}

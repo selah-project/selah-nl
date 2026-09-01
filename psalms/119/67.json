@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Voordat ik gekastijd werd, dwaalde ik als een afdwalende; maar nu heb ik uw woord bewaard.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ik gekastijd werd"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "dwaalde (als afdwalende)"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "maar nu"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "uw woord"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "heb ik bewaard"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:38.179778799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Ik wil Jahweh loven met heel mijn hart, ik wil al uw wonderen vertellen.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ik wil loven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met heel"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ik wil vertellen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "uw wonderen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:12.053862897Z",
+  "model": "glm-5.3"
+}

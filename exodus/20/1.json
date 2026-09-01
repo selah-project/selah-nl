@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Elohim sprak ⟨את⟩ al deze woorden, zeggende:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en sprak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al deze woorden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "deze woorden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:42.970522638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Aangezicht tot aangezicht sprak Jahweh met jullie op de berg, uit het midden van het vuur —",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "aangezicht"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "tot aangezicht"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met jullie"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op de berg"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit het midden van"
+    },
+    {
+      "surface": "האש",
+      "gloss": "het vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:08.211959725Z",
+  "model": "glm-5.3"
+}

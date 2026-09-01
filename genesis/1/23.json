@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En het werd avond en het werd morgen, dag vijf.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het werd"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "avond"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het werd"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "vijfde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:18.723334020Z",
+  "model": "glm-5.3"
+}

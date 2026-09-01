@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik heb gekleefd aan uw getuigenissen, Jahweh; maak mij niet beschaamd.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "ik heb gekleefd"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "aan uw getuigenissen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "maak mij beschaamd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:31.992354271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Laat mijn vijanden mij niet valselijk verblijden, mijn haters zonder reden — laten zij het oog niet knijpen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "verblijden"
+    },
+    {
+      "surface": "לי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valselijk"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "mijn haters"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zonder reden"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "laten zij knijpen"
+    },
+    {
+      "surface": "עין",
+      "gloss": "het oog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:23.782093751Z",
+  "model": "glm-5.3"
+}

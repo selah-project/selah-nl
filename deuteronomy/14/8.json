@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En ⟨את⟩ het varken, want het deelt de hoef maar herkauwt niet — onrein is het voor jullie; van hun vlees zult jullie niet eten, en aan hun kadaver zult jullie niet raken.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het varken"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "het varken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "het deelt"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "de hoef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨het⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "herkauwt"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is het"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "van hun vlees"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "zult jullie eten"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "en aan hun kadaver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "zult jullie raken"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:53.516094955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Maar u en uw dienaren — ik weet dat u nog niet vreest voor het aangezicht van Jahweh Elohim.”",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "maar u"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "en uw dienaren"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ik weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "nog niet"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "u vreest"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:01.471800977Z",
+  "model": "glm-5.3"
+}

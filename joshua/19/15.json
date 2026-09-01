@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 19:15",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En Kattat, en Nahalal, en Simron, en Jid'ala, en Beit-Lachem: twaalf steden en hun dorpen.",
+  "tokens": [
+    {
+      "surface": "וקטת",
+      "gloss": "en Kattat"
+    },
+    {
+      "surface": "ונהלל",
+      "gloss": "en Nahalal"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "en Simron"
+    },
+    {
+      "surface": "וידאלה",
+      "gloss": "en Jid'ala"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "en Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lachem"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "steden"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "en hun dorpen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:33:11.774481917Z",
+  "model": "glm-5.3"
+}

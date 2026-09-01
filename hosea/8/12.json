@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Ik schrijf hem menigten van mijn tora; als iets vreemds zijn ze gerekend.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "Ik schrijf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "menigten"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "van mijn tora"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "זר",
+      "gloss": "iets vreemds"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "zijn ze gerekend"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:55.335859524Z",
+  "model": "glm-5.3"
+}

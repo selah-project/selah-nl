@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En een rivier gaat uit van Eden om de tuin te bewateren, en van daar wordt zij verdeeld en wordt ⟨tot⟩ vier hoofden.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "en een rivier"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gaat uit"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "van Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "om te bewateren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tuin"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "de tuin"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "en van daar"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "wordt verdeeld"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en wordt"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "⟨tot⟩ vier"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "hoofden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:11.630594804Z",
+  "model": "glm-5.3"
+}

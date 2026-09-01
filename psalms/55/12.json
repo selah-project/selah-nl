@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Rampspoed is in haar binnenste, en van haar plein wijkt niet onderdrukking en bedrog.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "rampspoed"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "in haar binnenste"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "wijkt"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "van haar plein"
+    },
+    {
+      "surface": "תך",
+      "gloss": "onderdrukking"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "en bedrog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:43.773843980Z",
+  "model": "glm-5.3"
+}

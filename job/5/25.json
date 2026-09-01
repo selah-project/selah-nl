@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 5:25",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En gij zult weten dat uw zaad talrijk ⟨is⟩, en uw nakomelingen als het gras van de aarde.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "En gij zult weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "talrijk"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "uw zaad"
+    },
+    {
+      "surface": "וצאצאיך",
+      "gloss": "en uw nakomelingen"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "als het gras"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:32.954246856Z",
+  "model": "glm-5.3"
+}

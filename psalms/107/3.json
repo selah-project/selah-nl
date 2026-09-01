@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "en uit ⟨de⟩ landen verzamelde Hij hen, uit het oosten en uit het westen, uit het noorden en uit ⟨de⟩ zee.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "en uit landen"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "verzamelde Hij hen"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "uit het oosten"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "en uit het westen"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "uit het noorden"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "en uit de zee"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:08.378612677Z",
+  "model": "glm-5.3"
+}

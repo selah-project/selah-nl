@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Joav stak in de sjofar, en het volk keerde terug van het achtervolgen van Israël, want Joav weerhield ⟨את⟩ het volk.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "en hij stak"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "in de sjofar"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en keerde terug"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "van het achtervolgen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "weerhield"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:04.404083759Z",
+  "model": "glm-5.3"
+}

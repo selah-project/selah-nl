@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En wat overblijft van het vlees en van het brood, in het vuur zult gij het verbranden.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "en wat overblijft"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "van het vlees"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "en van het brood"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in het vuur"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "zult gij verbranden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:27.767503012Z",
+  "model": "glm-5.3"
+}

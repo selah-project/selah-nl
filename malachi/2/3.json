@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Zie, ik wees ⟨את⟩ uw nageslacht af, en ik strooi mest op uw gezichten — de mest van uw feesten — en men zal u daarmee wegdragen.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "zie, ik"
+    },
+    {
+      "surface": "גער",
+      "gloss": "wees af"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw nageslacht"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "uw nageslacht"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "en ik strooi"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "mest"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "uw gezichten"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "de mest"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "van uw feesten"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "en men zal dragen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u",
+      "marks": "u"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "daarmee weg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:00.701188065Z",
+  "model": "glm-5.3"
+}

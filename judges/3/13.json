@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En hij verzamelde bij zich ⟨את⟩ de kinderen van Ammon en Amalek, en hij ging en sloeg Israël, en zij namen ⟨את⟩ de stad van de palmbomen in bezit.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "en hij verzamelde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bij zich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "en Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en sloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "en zij namen in bezit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stad van de palmbomen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "de stad van"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "de palmbomen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:36:31.361550644Z",
+  "model": "glm-5.3"
+}

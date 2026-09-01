@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Zij schreeuwen, maar er is geen redder; tot Jahweh — maar hij antwoordde hen niet.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "zij schreeuwen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maar er is geen"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "redder"
+    },
+    {
+      "surface": "על",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "hij antwoordde hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:32.086725806Z",
+  "model": "glm-5.3"
+}

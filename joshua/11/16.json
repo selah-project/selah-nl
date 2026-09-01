@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Jehosjoea nam heel dit land in: het bergland en heel de Negév, heel het land Gosjen, de Sjefela en de Arava, ⟨את⟩ het gebergte van Israël en zijn laagland.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nam ... in"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel dit land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dit land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "het bergland"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "heel de Negév"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "de Negév"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "heel het land Gosjen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Gosjen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Sjefela"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "de Sjefela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Arava"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "de Arava"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het gebergte van Israël"
+    },
+    {
+      "surface": "הר",
+      "gloss": "het gebergte van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "zijn laagland"
+    }
+  ],
+  "timestamp": "2026-08-31T20:32:11.618616996Z",
+  "model": "glm-5.3"
+}

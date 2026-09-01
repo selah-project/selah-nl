@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Als zijn eigenaar bij hem ⟨is⟩, zal hij niet vergoeden; als het een gehuurd ⟨dier⟩ is, is het gekomen ⟨tegen⟩ zijn huurprijs.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "zijn eigenaar"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zal hij vergoeden"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "een gehuurd ⟨dier⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    },
+    {
+      "surface": "בא",
+      "gloss": "is gekomen"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "⟨tegen⟩ zijn huurprijs"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:36.365916770Z",
+  "model": "glm-5.3"
+}

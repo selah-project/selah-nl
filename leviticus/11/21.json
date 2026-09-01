@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 11:21",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Alleen díé mag je eten van alles wat krioelt ⟨את⟩ en vliegt en op vier ⟨voeten⟩ gaat: wat poten heeft boven zijn voeten om ermee te springen op de aarde.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "díé"
+    },
+    {
+      "surface": "זה",
+      "gloss": "díé"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag je eten"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van alles"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "wat krioelt"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "en vliegt"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "gaat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "poten"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "boven"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "zijn voeten"
+    },
+    {
+      "surface": "לנתר",
+      "gloss": "om te springen"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ermee"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:55.184176564Z",
+  "model": "glm-5.3"
+}

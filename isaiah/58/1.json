@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 58,
+  "translation": "Roep met ⟨de⟩ keel, houd niet in, als een sjofar verhef je stem, en maak bekend aan mijn volk hun opstand, en aan het huis van Ja'akov hun zonden.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Roep"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "met ⟨de⟩ keel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "houd in"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "als een sjofar"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "verhef"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "je stem"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "en maak bekend"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "aan mijn volk"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "hun opstand"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "en aan het huis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Ja'akov"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "hun zonden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:25:55.113080587Z",
+  "model": "glm-5.3"
+}

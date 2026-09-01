@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "als zij ⟨את⟩ het land zien dat ik hun vaders gezworen heb — dan zullen al mijn versmaders het niet zien.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "zij zien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ik gezworen heb"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "hun vaders"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "mijn versmadders"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "zien het"
+    }
+  ],
+  "timestamp": "2026-08-31T20:13:14.753182551Z",
+  "model": "glm-5.3"
+}

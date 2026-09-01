@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Eén keer heb Ik gezworen bij mijn heiligheid: zeker zal Ik tegenover Dawid niet liegen.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "één keer"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "heb Ik gezworen"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "bij mijn heiligheid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zeker (zij het niet)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tegenover Dawid"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "zal Ik liegen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:14.700527690Z",
+  "model": "glm-5.3"
+}

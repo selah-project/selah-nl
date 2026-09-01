@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Geloofd zij Jahweh, want wonderbaar heeft Hij Zijn chesed (trouw-liefde) aan mij bewezen, in een belegerde stad.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Geloofd zij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "heeft wonderbaar bewezen"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Zijn chesed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan mij"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in een stad"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "van belegering"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:06.378145042Z",
+  "model": "glm-5.3"
+}

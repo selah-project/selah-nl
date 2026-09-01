@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 141,
+  "translation": "Moge mijn gebed gesteld worden als reukwerk voor Uw aangezicht, het heffen van mijn handpalmen als het avondgraanoffer.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "moge gesteld worden"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mijn gebed"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "als reukwerk"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor Uw aangezicht"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "het heffen"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "van mijn handpalmen"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "als graanoffer"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "van de avond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:36.327414894Z",
+  "model": "glm-5.3"
+}

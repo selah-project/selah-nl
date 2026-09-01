@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ⟨את⟩ het huis van Jehoeda zal ik erbarmen, en ik zal hen verlossen door Jahweh hun Elohim; en ik zal hen niet verlossen door boog, en door zwaard, en door oorlog, door paarden en door ruiters.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Jehoeda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "zal ik erbarmen"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "en ik zal hen verlossen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "door Jahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hun Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "verlossen hen"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "door boog"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "en door zwaard"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "en door oorlog"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "door paarden"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "en door ruiters"
+    }
+  ],
+  "timestamp": "2026-08-31T23:23:49.579295341Z",
+  "model": "glm-5.3"
+}

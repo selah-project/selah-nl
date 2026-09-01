@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En dit is de terumah die gij van ⟨את⟩ hen zult nemen: goud, en zilver, en koper;",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "de terumah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "gij zult nemen"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ van hen"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "en zilver"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "en koper"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:44.850182612Z",
+  "model": "glm-5.3"
+}

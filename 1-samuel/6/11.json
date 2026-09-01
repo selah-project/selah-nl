@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En ze zetten ⟨את⟩ de ark van Jahweh op de wagen, en ⟨את⟩ de kist, en ⟨את⟩ de gouden muizen, en ⟨את⟩ de beelden van hun gezwellen.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "en ze zetten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "de wagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de kist"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "de kist"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de gouden muizen"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "de muizen"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gouden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de beelden van hun gezwellen"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "de beelden"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "van hun gezwellen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:46.383992096Z",
+  "model": "glm-5.3"
+}

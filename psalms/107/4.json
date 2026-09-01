@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Zij dwaalden rond in de woestijn, in de wildernis, ⟨op⟩ een weg zonder ⟨water⟩ — een stad om te wonen vonden zij niet.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "Zij dwaalden rond"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "in de wildernis"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "weg"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "om te wonen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "vonden zij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:08.378743152Z",
+  "model": "glm-5.3"
+}

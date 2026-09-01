@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En al zeggen ⟨zij⟩: Zo waar Jahweh leeft — toch zweren ⟨zij⟩ bij de leugen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En al"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "zeggen"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "toch"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "bij de leugen"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "zweren"
+    }
+  ],
+  "timestamp": "2026-08-31T21:28:43.622780119Z",
+  "model": "glm-5.3"
+}

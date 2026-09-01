@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Ontzondig mij met ezov, en ik zal rein zijn; was mij, en witter dan sneeuw zal ik worden.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "ontzondig mij"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "met ezov"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "en ik zal rein zijn"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "was mij"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "en dan sneeuw"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "zal ik wit worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:31.066269547Z",
+  "model": "glm-5.3"
+}

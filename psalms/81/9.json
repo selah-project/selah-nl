@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 81,
+  "translation": "Hoor, mijn volk, en ik zal ⟨u⟩ waarschuwen; Jisraël, o dat u naar Mij zou horen!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "en ik zal waarschuwen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨u⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o dat"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "u zou horen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naar Mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:23.174670469Z",
+  "model": "glm-5.3"
+}

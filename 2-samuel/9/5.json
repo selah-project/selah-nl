@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Toen zond koning David ⟨iemand⟩ en haalde hem uit het huis van Machir, zoon van Ammiël, uit Loo-Devar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "zond"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "en haalde hem"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit het huis van"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiël"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "uit Loo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:51:59.453574196Z",
+  "model": "glm-5.3"
+}

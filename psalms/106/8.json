@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Maar hij redde hen om zijn Naams wil, om ⟨את⟩ zijn macht bekend te maken.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Maar hij redde hen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn Naams wil"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "om bekend te maken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn macht"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "zijn macht"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:20.837608995Z",
+  "model": "glm-5.3"
+}

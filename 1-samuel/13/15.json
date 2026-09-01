@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Toen stond Sjemooël op en ging omhoog van Gilgal naar Giv'at Binjamin; en Sjaoel telde het volk ⟨את⟩ dat bij hem aanwezig was — ongeveer zeshonderd man.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "toen stond op"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemooël"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en ging omhoog"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giv'at"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "en hij telde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "dat aanwezig was"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "ongeveer zes"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-31T20:44:08.124535313Z",
+  "model": "glm-5.3"
+}

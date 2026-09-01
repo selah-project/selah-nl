@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "En in de Naam van Jahweh riep ik: och toch, Jahweh, red ⟨alsjeblieft⟩ mijn nefesj!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "en in de Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "riep ik"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "och toch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "red"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:20.957633005Z",
+  "model": "glm-5.3"
+}

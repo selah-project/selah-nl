@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Roemt in zijn heilige naam; ⟨het⟩ hart van wie Jahweh zoeken, verheuge zich.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Roemt"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in naam"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "zijn heilige"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "verheuge zich"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "van wie zoeken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:38.572354876Z",
+  "model": "glm-5.3"
+}

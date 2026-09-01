@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Jahweh zei tot de vis, en hij braakte Jona uit, ⟨את⟩, op het droge.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "tot de vis"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "en hij braakte uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "het droge"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:48.397391204Z",
+  "model": "glm-5.3"
+}

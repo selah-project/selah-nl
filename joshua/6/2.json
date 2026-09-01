@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Jahweh zei tot Jehosjoea: Zie, ik heb in jouw hand gegeven ⟨את⟩ Jericho en ⟨את⟩ haar koning, de machtige strijders.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ik heb gegeven"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jouw hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jericho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jericho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "haar koning"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "haar koning"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "de machtigen"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "van de strijdkracht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:30:03.811822609Z",
+  "model": "glm-5.3"
+}

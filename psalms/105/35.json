@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "En hij at al het groen in hun land op, en hij at de vrucht van hun akkergrond op.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "en hij at op"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "het groen"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "in hun land"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "en hij at op"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "de vrucht"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "van hun akkergrond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:31.552548432Z",
+  "model": "glm-5.3"
+}

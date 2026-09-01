@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 112,
+  "translation": "De rasja ziet het en is verbitterd; hij knarst met zijn tanden en smelt weg; het verlangen van de resja'im zal vergaan.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "de rasja"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ziet"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "en is verbitterd"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "zijn tanden"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "knarst"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "en smelt weg"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "het verlangen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de resja'im"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "zal vergaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:12.258546273Z",
+  "model": "glm-5.3"
+}

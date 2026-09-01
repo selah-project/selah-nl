@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 8:18",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Als ⟨iemand⟩ hem verslindt uit zijn plaats, dan ⟨verloochent⟩ die ⟨plaats⟩ hem: Ik heb jou niet gezien.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "verslindt hem"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "uit zijn plaats"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "dan ⟨verloochent⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ראיתיך",
+      "gloss": "ik heb jou gezien"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:21.513311698Z",
+  "model": "glm-5.3"
+}

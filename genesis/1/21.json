@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim schiep ⟨את⟩ de grote zeemonsters, en ⟨את⟩ alle levende nefesj die zich voortbeweegt, die de wateren hebben voortgebracht naar hun soort, en ⟨את⟩ alle gevleugeld gevogelte naar zijn soort; en Elohim zag dat het goed was.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "en schiep"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de grote zeemonsters"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "de zeemonsters"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "de grote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle levende nefesj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj (ziel\/leven)"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "levende"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "die zich voortbeweegt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "hebben voortgebracht (wemelend)"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "naar hun soort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle gevleugeld gevogelte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "gevogelte"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "gevleugeld (gevleugelde)"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "naar zijn soort"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:51.550508016Z",
+  "model": "glm-5.3"
+}

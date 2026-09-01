@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "een melaats man ⟨is⟩ hij, onrein ⟨is⟩ hij; onrein zal de priester hem verklaren — op zijn hoofd ⟨is⟩ zijn pleeg.",
+  "tokens": [
+    {
+      "surface": "אישׁ",
+      "gloss": "een man"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "melaats"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "zal hij hem verklaren"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "op zijn hoofd"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "zijn pleeg"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:01.389642289Z",
+  "model": "glm-5.3"
+}

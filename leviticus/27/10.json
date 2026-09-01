@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Hij mag het niet vervangen en het niet omruilen, een goed ⟨dier⟩ voor een slecht, of een slecht voor een goed; en als hij beslist een dier voor een dier omruilt, dan zal het zelf en zijn ruilwaarde heilig zijn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "hij mag het vervangen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "omruilen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (het dier)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "een goed"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "voor een slecht"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "רע",
+      "gloss": "een slecht"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "voor een goed"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "המר",
+      "gloss": "beslist omruilt"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "omruilt"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dier"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "voor een dier"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan zal zijn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het zelf"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "en zijn ruilwaarde"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:55.560139528Z",
+  "model": "glm-5.3"
+}

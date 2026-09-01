@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 81,
+  "translation": "Bij iets kleins zou ik hun vijanden onderwerpen, en tegen hun belagers zou ik mijn hand keren.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "bij iets kleins"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "hun vijanden"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "zou ik onderwerpen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en tegen"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "hun belagers"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "zou ik keren"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mijn hand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:23.449911253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 85,
+  "translation": "Rechtzaligheid zal voor zijn aangezicht uitgaan, en hij stelt zijn schreden ⟨tot⟩ een weg.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "rechtvaardigheid"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor zijn aangezicht"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "zal uitgaan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en stelt"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "tot een weg"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "zijn schreden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:54.595332092Z",
+  "model": "glm-5.3"
+}

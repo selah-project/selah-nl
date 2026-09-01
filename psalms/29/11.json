@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Jahweh geeft kracht aan zijn volk; Jahweh zegent ⟨את⟩ zijn volk met sjalom.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kracht"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "aan zijn volk"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "zegent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "met sjalom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:07.043004066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Spreek tot de kinderen van Jisraël en zeg tot hen: Ik ben Jahweh, ⟨jullie⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en zeg"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "⟨jullie⟩ Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:44.623415523Z",
+  "model": "glm-5.3"
+}

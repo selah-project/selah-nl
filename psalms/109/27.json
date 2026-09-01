@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "En zij zullen weten dat dit jouw hand ⟨is⟩ — jij, Jahweh, hebt het gedaan.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "En zij zullen weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jouw hand"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "hebt het gedaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:24.026759874Z",
+  "model": "glm-5.3"
+}

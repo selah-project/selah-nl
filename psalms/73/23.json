@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Maar ik ben voortdurend bij U; U hebt mijn rechterhand gegrepen.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maar ik"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bij U"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "U hebt gegrepen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "de hand"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "mijn rechter"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:15.060050248Z",
+  "model": "glm-5.3"
+}

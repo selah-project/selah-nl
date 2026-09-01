@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En ⟨את⟩ al deze koningen en ⟨את⟩ hun land nam Jehosjoea in één keer in, want Jahweh, de Elohim van Jisraël, streed voor Jisraël.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al deze koningen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "deze koningen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hun land"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "nam in"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "keer"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "één"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "streed"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "voor Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:31:18.959054650Z",
+  "model": "glm-5.3"
+}

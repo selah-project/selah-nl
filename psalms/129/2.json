@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 129,
+  "translation": "veelvuldig hebben zij mij benauwd vanaf mijn jeugd, maar zij hebben ⟨mij⟩ niet kunnen overheersen.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "veelvuldig"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "hebben zij mij benauwd"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "vanaf mijn jeugd"
+    },
+    {
+      "surface": "גם",
+      "gloss": "maar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "hebben kunnen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mij⟩ overheersen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:24.932432037Z",
+  "model": "glm-5.3"
+}

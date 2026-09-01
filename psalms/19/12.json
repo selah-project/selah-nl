@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Ook wordt uw dienaar door hen gewaarschuwd; in het bewaren van hen ⟨is⟩ grote lonende vergelding.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "wordt gewaarschuwd"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "door hen"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "in het bewaren van hen"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨lonende vergelding⟩"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grote"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:05.718409123Z",
+  "model": "glm-5.3"
+}

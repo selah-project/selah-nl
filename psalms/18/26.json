@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Met de chasid toon jij je chesed, met een volmaakt man ben jij volmaakt.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "de chasid"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "toon jij je chesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "een man"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "volmaakt"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "ben jij volmaakt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:30.838173975Z",
+  "model": "glm-5.3"
+}

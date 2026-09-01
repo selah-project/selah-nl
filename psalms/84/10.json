@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 84,
+  "translation": "Ons schild, zie, Elohim, en aanschouw het aangezicht van uw Masjiach.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "ons schild"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "en aanschouw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht van"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "uw Masjiach"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:59.593072700Z",
+  "model": "glm-5.3"
+}

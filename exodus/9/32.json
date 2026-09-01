@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Maar de tarwe en de spelt waren niet geslagen, want ⟨die zijn⟩ laat ⟨rijpend⟩.”",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "maar de tarwe"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "en de spelt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "waren geslagen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "laat rijpend"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "die zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:01.472092937Z",
+  "model": "glm-5.3"
+}

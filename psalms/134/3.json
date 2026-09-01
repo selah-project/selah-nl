@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 134,
+  "translation": "Jahweh zegene jou vanuit Tsiyon, maker van hemel en aarde!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "zegene jou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "vanuit Tsiyon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maker van"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hemel"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "en aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:20.189269202Z",
+  "model": "glm-5.3"
+}

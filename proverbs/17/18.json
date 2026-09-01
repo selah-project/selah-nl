@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Een mens, herb van hart, slaat ⟨de⟩ palm ⟨in de⟩ hand — hij wordt borg voor zijn naaste.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "een mens"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "herb"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "slaat"
+    },
+    {
+      "surface": "כף",
+      "gloss": "palm\/hand"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wordt borg"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "borg(stelling)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zijn naaste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:19.537040965Z",
+  "model": "glm-5.3"
+}

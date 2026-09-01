@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Uw hand zal al uw vijanden ⟨vinden⟩, uw rechterhand zal hen vinden die U haten.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "zal vinden"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uw hand"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "al"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "uw vijanden"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "uw rechterhand"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "zal vinden"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "die U haten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:16.252713249Z",
+  "model": "glm-5.3"
+}

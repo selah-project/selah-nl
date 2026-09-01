@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Uit dat land trok Asjsoer uit, en hij bouwde ⟨את⟩ Ninevé en ⟨את⟩ Rechovot-Ir en ⟨את⟩ Kelach,",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Uit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dat land"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "trok uit"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asjsoer"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninevé"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninevé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rechovot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rechovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir (van de stad)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kelach"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelach"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:29.098217086Z",
+  "model": "glm-5.3"
+}

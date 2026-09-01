@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Tegenover de omranding ⟨lagen⟩ de ringen, ⟨als⟩ houders voor de draagstangen, om ⟨את⟩ de tafel te dragen.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "de omranding"
+    },
+    {
+      "surface": "היו",
+      "gloss": "lagen"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "de ringen"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "⟨als⟩ houders"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "voor de draagstangen"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "om te dragen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "de tafel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:09.270308710Z",
+  "model": "glm-5.3"
+}

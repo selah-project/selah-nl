@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "van wijn en sterke drank zal hij zich onthouden; azijn van wijn en azijn van sterke drank zal hij niet drinken, en enig druivensap zal hij niet drinken; en druiven, vers of gedroogd, zal hij niet eten.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "van wijn"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "en sterke drank"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "zal hij zich onthouden"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "azijn"
+    },
+    {
+      "surface": "יין",
+      "gloss": "van wijn"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "en azijn"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "van sterke drank"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "zal hij drinken"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en enig"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "druivensap"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "druiven"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "zal hij drinken"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "en druiven"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "vers"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "of gedroogd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zal hij eten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:11:08.318196568Z",
+  "model": "glm-5.3"
+}

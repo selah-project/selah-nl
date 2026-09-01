@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 36:13",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En hij maakte vijftig gouden haken, en hij verbond ⟨את⟩ de voorhangen, de ene aan de andere, met de haken; en de mishkan werd één.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "En hij maakte"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vijftig"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "haken"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gouden"
+    },
+    {
+      "surface": "ויחבר",
+      "gloss": "en hij verbond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de voorhangen"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "de voorhangen"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "de andere"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "met de haken"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het werd"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "de mishkan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:00.088192141Z",
+  "model": "glm-5.3"
+}

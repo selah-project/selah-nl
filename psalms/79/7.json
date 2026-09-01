@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 79,
+  "translation": "Want ⟨zij⟩ hebben ⟨את⟩ Jaäkov verslonden en ⟨את⟩ zijn woonplaats verwoest.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hebben … verslonden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaäkov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn woonplaats"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "zijn woonplaats"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "verwoest"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:46.601153949Z",
+  "model": "glm-5.3"
+}

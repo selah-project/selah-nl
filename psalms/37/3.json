@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Vertrouw op Jahweh en doe goed; woon in het land en weid ⟨op⟩ trouw.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "vertrouw op"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en doe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "woon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "en weid"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "trouw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:35.784018938Z",
+  "model": "glm-5.3"
+}

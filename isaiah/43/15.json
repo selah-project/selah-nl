@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "Ik ben Jahweh, jullie Heilige, de Schepper van Israël, jullie Koning.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "jullie Heilige"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "de Schepper"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "jullie Koning"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:03.525164779Z",
+  "model": "glm-5.3"
+}

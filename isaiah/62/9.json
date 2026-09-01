@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 62,
+  "translation": "Want wie het heeft verzameld, zal het eten en Jahweh loven, en wie het heeft bijeengebracht, zal het drinken in de voorhoven van mijn heiligdom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "wie het heeft verzameld"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "zal het eten"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "en loven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "en wie het heeft bijeengebracht"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "zal het drinken"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "in de voorhoven"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "van mijn heiligdom"
+    }
+  ],
+  "timestamp": "2026-08-31T21:25:50.662067125Z",
+  "model": "glm-5.3"
+}

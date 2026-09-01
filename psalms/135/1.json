@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Looft Jah! Looft ⟨את⟩ de naam van Jahweh; looft, dienaren van Jahweh,",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Looft"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Looft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de naam van Jahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "looft"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dienaren van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:50.408742970Z",
+  "model": "glm-5.3"
+}

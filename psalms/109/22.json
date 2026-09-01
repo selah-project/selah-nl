@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Want arm en behoeftig ben ik, en mijn hart is gewond binnen in mij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en behoeftig"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "en mijn hart"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "gewond"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "binnen in mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:21.323077617Z",
+  "model": "glm-5.3"
+}

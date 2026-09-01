@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 1:2",
+  "book": "malachi",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Ik heb ⟨את⟩ u liefgehad, zegt Jahweh, en gij zegt: waarin hebt Gij ons liefgehad? Is Esav niet ⟨de⟩ broer van Jaakov, orakelt Jahweh, en ik heb ⟨את⟩ Jaakov liefgehad.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ik heb liefgehad"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "en gij zegt"
+    },
+    {
+      "surface": "במה",
+      "gloss": "waarin"
+    },
+    {
+      "surface": "אהבתנו",
+      "gloss": "hebt Gij ons liefgehad"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "is niet"
+    },
+    {
+      "surface": "אח",
+      "gloss": "broer"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "van Jaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "orakelt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "en ik heb liefgehad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:03.509691892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Moge er voor hem niemand zijn die chesed (liefdevolle trouw) trekt, en moge er niemand zijn die genade bewijst aan zijn wezen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moge niet"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "er zijn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "משך",
+      "gloss": "die trekt"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en moge niet"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "er zijn"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "die genade bewijst"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "aan zijn wezen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:18.571610107Z",
+  "model": "glm-5.3"
+}

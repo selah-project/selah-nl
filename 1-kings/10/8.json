@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Gelukkig uw mannen, gelukkig deze uw dienaren, die voortdurend voor uw aangezicht staan, die ⟨את⟩ uw wijsheid horen.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "uw mannen"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "uw dienaren"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "die staan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor uw aangezicht"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "die horen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw wijsheid"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "uw wijsheid"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:23.856822278Z",
+  "model": "glm-5.3"
+}

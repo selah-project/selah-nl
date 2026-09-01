@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Kusse mij met kussen van zijn mond, want uw liefdes zijn beter dan wijn.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "kusse mij"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "met kussen"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "van zijn mond"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "zijn beter"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "uw liefdes"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "dan wijn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:45.154340126Z",
+  "model": "glm-5.3"
+}

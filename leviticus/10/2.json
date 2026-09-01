@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En er ging vuur uit van voor het aangezicht van Jahweh, en het verteerde ⟨את⟩ hen, en zij stierven voor het aangezicht van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "en er ging uit"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "van voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "en het verteerde"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "en zij stierven"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:49.392516666Z",
+  "model": "glm-5.3"
+}

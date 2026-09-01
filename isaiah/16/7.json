@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 16:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Daarom zal Moav huilen — voor Moav, heel ⟨Moav⟩, zal ⟨men⟩ huilen; over de rozijnkoeken van Kir-Cheres ⟨van⟩ Kir-Chereset zult ⟨jullie⟩ kreunen — ja, verslagen ⟨zijn ze⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "zal huilen"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "voor Moav"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "zal huilen"
+    },
+    {
+      "surface": "לאשישי",
+      "gloss": "over de rozijnkoeken"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "חרשת",
+      "gloss": "Chereset"
+    },
+    {
+      "surface": "תהגו",
+      "gloss": "zult ⟨jullie⟩ kreunen"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ja, zeker"
+    },
+    {
+      "surface": "נכאים",
+      "gloss": "verslagen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:21.037797908Z",
+  "model": "glm-5.3"
+}

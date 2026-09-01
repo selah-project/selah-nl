@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "dan gaat de priester uit het huis naar de ingang van het huis, en sluit ⟨את⟩ het huis zeven dagen toe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "gaat uit"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "de ingang van"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "en sluit toe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:01.396461443Z",
+  "model": "glm-5.3"
+}

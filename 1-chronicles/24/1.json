@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En ⟨betreffende⟩ de zonen van Aharon ⟨waren⟩ hun afdelingen: de zonen van Aharon ⟨waren⟩ Nadav en Avichoe, Elazar en Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "En ⟨betreffende⟩ de zonen van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "hun afdelingen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "en Avichoe"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "en Itamar"
+    }
+  ],
+  "timestamp": "2026-08-31T23:02:59.026087027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Ik kan al mijn beenderen tellen; zij staren ⟨mij⟩ aan, zij zien naar mij.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "ik kan tellen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mijn beenderen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "staren aan"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "zien"
+    },
+    {
+      "surface": "בי",
+      "gloss": "naar mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:30.233375561Z",
+  "model": "glm-5.3"
+}

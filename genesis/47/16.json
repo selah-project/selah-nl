@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "En Jozef zei: Breng jullie vee, en ik zal ⟨jullie brood⟩ geven in ruil voor jullie vee, als het zilver op is.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Breng"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "jullie vee"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "en ik zal geven"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "in ruil voor jullie vee"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "op is"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "het zilver"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:25.482281373Z",
+  "model": "glm-5.3"
+}

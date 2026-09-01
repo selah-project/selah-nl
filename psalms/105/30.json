@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hun land wemelde van kikkers, in de vertrekken van hun koningen.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "wemelde van"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hun land"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "kikkers"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "in de vertrekken van"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "hun koningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:50.438001688Z",
+  "model": "glm-5.3"
+}

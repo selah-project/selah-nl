@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "Ik zei: ik zal mijn wegen bewaken, om niet te zondigen met mijn tong; ik zal mijn mond bewaken ⟨met⟩ een muilkorf, zolang de goddeloze vóór mij is.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ik zei"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ik zal bewaken"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mijn wegen"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "om niet te zondigen"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "met mijn tong"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ik zal bewaken"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mijn mond"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "een muilkorf"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "zolang"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "vóór mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:13.539617809Z",
+  "model": "glm-5.3"
+}

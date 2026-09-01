@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Opdat mijn kavod ⟨mogt⟩ U bespelen en niet verstomme — Jahweh, mijn Elohim, voor eeuwig zal ik U danken.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "U bespelen"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "verstomme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "zal ik U danken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:55.427635030Z",
+  "model": "glm-5.3"
+}

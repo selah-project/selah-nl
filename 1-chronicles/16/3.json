@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En hij verdeelde aan iedere man van Jisraël, van man tot vrouw, aan ieder ⟨een⟩ broodkoek, een portie ⟨vlees⟩ en een rozijnenkoek.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "en hij verdeelde"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan iedere"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "van man"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vrouw"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan ieder"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "een broodkoek"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "een portie"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "een rozijnenkoek"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:18.235350357Z",
+  "model": "glm-5.3"
+}

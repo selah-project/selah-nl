@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Want ik benijdde de roekelozen, ⟨bij⟩ het zien van de sjalom van de goddelozen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "benijdde ik"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "de roekelozen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom (voorspoed)"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "bij het zien"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:02.696053782Z",
+  "model": "glm-5.3"
+}

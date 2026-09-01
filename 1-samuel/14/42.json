@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Toen zei Sjaoel: werpt ⟨het lot⟩ tussen mij en tussen Jehonatan mijn zoon. En Jehonatan werd aangewezen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "toen zei"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "werpt"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen mij"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "werd aangewezen"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jehonatan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:44:50.745793688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "En wij zeiden tegen mijn heer: De jongen kan ⟨את⟩ zijn vader niet verlaten; want als hij ⟨את⟩ zijn vader verlaat, zal ⟨hij⟩ sterven.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "en wij zeiden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn heer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "de jongen"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "verlaten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "als hij verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "zal sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:33.383649359Z",
+  "model": "glm-5.3"
+}

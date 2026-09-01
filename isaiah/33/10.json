@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Nu sta ik op, zegt Jahweh; nu word ik verhoogd, nu hef ik ⟨mij⟩ op.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "sta ik op"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "word ik verhoogd"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "hef ik op"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:06.381496056Z",
+  "model": "glm-5.3"
+}

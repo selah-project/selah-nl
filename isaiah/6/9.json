@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En hij zei: Ga, en zeg tot dit volk: Hoort aldoor ⟨en verstaat niet⟩; ziet aldoor ⟨en weet niet⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en zeg"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tot dit volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hoort"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "aldoor horen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "verstaat"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "en ziet"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "aldoor zien"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "weet"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:09.332002131Z",
+  "model": "glm-5.3"
+}

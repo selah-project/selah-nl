@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "dan gebiedt de priester, en zij halen de stenen uit waarin de plaag ⟨is⟩, en werpen ⟨את⟩ ze naar buiten de stad, naar een onreine plaats.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "en gebiedt"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "en zij halen uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stenen"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "de stenen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarin"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "in hen"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "de plaag"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "en zij werpen"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ ze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "een plaats"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:01.398494338Z",
+  "model": "glm-5.3"
+}

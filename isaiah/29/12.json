@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En het boek wordt gegeven aan iemand die geen ⟨schrift⟩ kent, zeggend: Lees toch dit; en hij zegt: Ik ken geen ⟨schrift⟩.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "En wordt gegeven"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "het boek"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "schrift"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Lees"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en hij zegt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Ik ken"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "schrift"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:37.789744099Z",
+  "model": "glm-5.3"
+}

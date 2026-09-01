@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Van ⟨את⟩ u komt mijn lof in ⟨de⟩ grote vergadering; mijn geloften zal ik nakomen voor het oog van wie hem vrezen.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "van ⟨את⟩ u",
+      "marks": "u"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "mijn lof"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in vergadering"
+    },
+    {
+      "surface": "רב",
+      "gloss": "groot"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "mijn geloften"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "zal ik nakomen"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "voor het oog van"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "die hem vrezen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:32.794632326Z",
+  "model": "glm-5.3"
+}

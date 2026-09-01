@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En het gebeurde: heel de aarde had ⟨één⟩ lip ⟨dat wil zeggen⟩ taal, en woorden die één waren.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lip (taal)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "één"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "en woorden"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "die één waren"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:54.315616373Z",
+  "model": "glm-5.3"
+}

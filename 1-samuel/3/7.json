@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Sjemoeël had Jahweh nog niet leren kennen ⟨את⟩, en het woord van Jahweh was hem nog niet geopenbaard.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "en Sjemoeël"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "nog niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "had leren kennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "en nog niet"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "was geopenbaard"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aan hem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:30.380660944Z",
+  "model": "glm-5.3"
+}

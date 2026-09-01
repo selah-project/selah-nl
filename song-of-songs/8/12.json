@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Mijn wijngaard, die van mij ⟨is⟩, ⟨staat⟩ voor mij; de duizend is voor u, Sjelomo, en tweehonderd voor wie ⟨את⟩ zijn vrucht bewaken.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "mijn wijngaard"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "die van mij"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "de duizend"
+    },
+    {
+      "surface": "לך",
+      "gloss": "is voor u"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "en tweehonderd"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "voor de bewakers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vrucht"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "zijn vrucht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:49.376095249Z",
+  "model": "glm-5.3"
+}

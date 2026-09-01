@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "En ik overdacht dit te kennen — het is moeite in mijn ogen.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "en ik overdacht"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "te kennen"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "moeite"
+    },
+    {
+      "surface": "היא",
+      "gloss": "het is"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in mijn ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:18.854048453Z",
+  "model": "glm-5.3"
+}

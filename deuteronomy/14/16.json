@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "⟨את⟩ de kleine uil, en ⟨את⟩ de grote uil, en de oehoe,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kleine uil"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "de kleine uil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de grote uil"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "de grote uil"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "en de oehoe"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:07.936195338Z",
+  "model": "glm-5.3"
+}

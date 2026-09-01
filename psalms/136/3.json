@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "Loof ⟨de⟩ Adonai van ⟨de⟩ adonim, want tot in eeuwigheid ⟨duurt⟩ zijn chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai van"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "de adonim (heren)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:09.556182800Z",
+  "model": "glm-5.3"
+}

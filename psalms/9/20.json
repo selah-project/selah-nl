@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Sta op, Jahweh, laat de sterveling niet zegevieren; laat de volken geoordeeld worden voor uw aangezicht.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "sta op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "zegevieren (sterk zijn)"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "de sterveling"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "laat geoordeeld worden"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "על",
+      "gloss": "voor"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:00.723522600Z",
+  "model": "glm-5.3"
+}

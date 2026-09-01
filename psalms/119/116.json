@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ondersteun mij naar uw woord, dat ik leve, en maak mij niet beschaamd in mijn verwachting.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "Ondersteun mij"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "naar uw woord"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "dat ik leve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "maak mij beschaamd"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "in mijn verwachting"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:08.449114503Z",
+  "model": "glm-5.3"
+}

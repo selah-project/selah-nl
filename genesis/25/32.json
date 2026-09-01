@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En Esav zei: Zie, ik ga toch sterven — en waarom ⟨zou⟩ dit, een eerstgeboorterecht, mij ⟨dienen⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sterven"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "en waarom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "een eerstgeboorterecht"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:04.816399029Z",
+  "model": "glm-5.3"
+}

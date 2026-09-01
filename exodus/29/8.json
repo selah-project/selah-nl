@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En ⟨את⟩ zijn zonen zult u naderen doen, en u zult hen kleden met kethonot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "u zult naderen doen"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "en u zult hen kleden"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kethonot"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:29.847599524Z",
+  "model": "glm-5.3"
+}

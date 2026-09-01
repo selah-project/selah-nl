@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "De koning vroeg de vrouw, en zij vertelde het hem. Toen gaf de koning haar een hoveling ⟨een gunsteling⟩ en zei: geef alles wat van haar is terug, ⟨את⟩ alles en ⟨את⟩ alle opbrengst van het veld, vanaf de dag dat zij ⟨את⟩ het land verliet tot nu toe.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "vroeg"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "en zij vertelde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij gaf"
+    },
+    {
+      "surface": "לה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "hoveling"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "geef terug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat van haar is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "van haar is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alle opbrengst van het veld"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "opbrengst"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van het veld"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "vanaf de dag"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "zij verliet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:10.140104937Z",
+  "model": "glm-5.3"
+}

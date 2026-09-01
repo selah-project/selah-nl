@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Brood hebt u niet gegeten, en wijn en sterke drank hebt u niet gedronken, opdat u zou weten dat ik Jahweh, uw Elohim, ben.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "hebt u gegeten"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "en wijn"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "en sterke drank"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "hebt u gedronken"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "u zou weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uw Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:03.798828100Z",
+  "model": "glm-5.3"
+}

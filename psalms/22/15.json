@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Als water ben ik uitgestort, en al mijn beenderen ⟨zijn⟩ uit elkaar geraakt; mijn hart is geworden als was, gesmolten in mijn binnenste.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "als water"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "ben ik uitgestort"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "en ⟨zijn⟩ uit elkaar geraakt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mijn beenderen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "is geworden"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "als was"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "gesmolten"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mijn binnenste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:32.932723242Z",
+  "model": "glm-5.3"
+}

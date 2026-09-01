@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 108,
+  "translation": "Moav is mijn waspot; op Edom werp ik mijn sandaal; over Pelesjet roep ik ⟨uit⟩ ⟨in⟩ ⟨triumf⟩.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "mijn waspot"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "mijn wassing"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "werp ik"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "mijn sandaal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesjet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "roep ik uit in triomf"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:18.214268907Z",
+  "model": "glm-5.3"
+}

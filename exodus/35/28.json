@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En ⟨את⟩ de specerij en ⟨את⟩ de olie, voor de lamp en voor de zalfolie, en voor de reukwerk-specerijen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de specerij"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "de specerij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de olie"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "de olie"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "voor de lamp"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "en voor de olie van"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "de zalving"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "en voor het reukwerk van"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "de specerijen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:26.933334266Z",
+  "model": "glm-5.3"
+}

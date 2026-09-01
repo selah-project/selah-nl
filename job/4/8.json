@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 4:8",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Zoals ik gezien heb: zij die onheig ploegen en moeite zaaien, maaien het binnen.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ik gezien heb"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "die ploegen"
+    },
+    {
+      "surface": "און",
+      "gloss": "onheig"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "en die zaaien"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "moeite"
+    },
+    {
+      "surface": "יקצרהו",
+      "gloss": "maaien het binnen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:16.339207239Z",
+  "model": "glm-5.3"
+}

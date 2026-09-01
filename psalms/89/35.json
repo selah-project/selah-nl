@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Mijn verbond zal Ik niet ontheiligen, en wat uit mijn lippen uitgaat zal Ik niet veranderen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "zal Ik ontheiligen"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "en wat uitgaat"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "uit mijn lippen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "zal Ik veranderen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:14.700378426Z",
+  "model": "glm-5.3"
+}

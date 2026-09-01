@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 143,
+  "translation": "Want een vijand heeft mijn nefesj achtervolgd, hij heeft mijn leven tot op de aarde vertrapt, hij heeft mij doen wonen in duisternissen, zoals de doden van eeuwigheid ⟨geleden⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "heeft achtervolgd"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "een vijand"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "heeft vertrapt"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "tot op de aarde"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "mijn leven"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "heeft mij doen wonen"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "in duisternissen"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "zoals de doden"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "van eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:39.658580319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "En Josef zei tot zijn broers: Kom toch naar mij toe! En zij kwamen naderbij. En hij zei: Ik ben Josef, jullie broer, die jullie ⟨את⟩ mij naar Mitsrajim verkocht hebben.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naar mij toe"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "en zij kwamen naderbij"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ben Josef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jullie broer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "jullie verkocht hebben"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mij"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "naar Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:19.092114282Z",
+  "model": "glm-5.3"
+}

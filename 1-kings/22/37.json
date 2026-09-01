@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En de koning stierf en ⟨men⟩ bracht ⟨hem⟩ naar Sjomeron, en zij begroeven ⟨את⟩ de koning in Sjomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "en de koning stierf"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "en ⟨men⟩ bracht ⟨hem⟩ naar"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Sjomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "en zij begroeven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Sjomeron"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:07.256449337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Laat af van gramschap en verlaat de toorn; ontsteek niet in toorn — het leidt slechts tot kwaad.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Laat af"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "van gramschap"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "en verlaat"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "de toorn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ontsteek in toorn"
+    },
+    {
+      "surface": "אך",
+      "gloss": "slechts"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "tot kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:37.858706658Z",
+  "model": "glm-5.3"
+}

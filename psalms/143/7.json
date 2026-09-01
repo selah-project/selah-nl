@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 143,
+  "translation": "Haast u, antwoord mij, Jahweh; mijn roeach ⟨is⟩ verteerd. Verberg uw aangezicht niet voor mij, anders word ik gelijk hen die afdaalen in de kuil.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "haast u"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "⟨is⟩ verteerd"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mijn roeach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "verberg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "anders word ik gelijk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "aan hen die"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "afdaalen"
+    },
+    {
+      "surface": "בור",
+      "gloss": "in de kuil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:45.943401108Z",
+  "model": "glm-5.3"
+}

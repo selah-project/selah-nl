@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 140,
+  "translation": "Geef niet, Jahweh, de begeerten van de goddeloze; zijn boos plan laat niet slagen — zij zouden zich verheffen. Sela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "de begeerten"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van de goddeloze"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "zijn boos plan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "laat slagen"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "zij zouden zich verheffen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:25.594206553Z",
+  "model": "glm-5.3"
+}

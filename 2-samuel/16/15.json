@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Avsjalom en heel het volk, de mannen van Jisraël, kwamen ⟨in⟩ Jeroesjalajim, en Achitofel ⟨was⟩ met ⟨את⟩ hem.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "en Avsjalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kwamen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "en Achitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hem",
+      "marks": "אתו is hier de prepositie 'met hem' (H854)"
+    }
+  ],
+  "timestamp": "2026-08-31T20:54:07.857816549Z",
+  "model": "glm-5.3"
+}

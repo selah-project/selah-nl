@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "Tegen uw volk smeden zij listig beraad, en zij beraadslagen tegen uw verborgenen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uw volk"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "smeden zij listig"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "beraad"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "en zij beraadslagen"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "uw verborgenen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:29.299958371Z",
+  "model": "glm-5.3"
+}

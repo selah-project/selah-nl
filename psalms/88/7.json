@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "U hebt mij neergezet in de onderste put, in duisternissen, in diepten.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "U hebt mij neergezet"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "in de put"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "de onderste"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "in duisternissen"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "in diepten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:28.951408677Z",
+  "model": "glm-5.3"
+}

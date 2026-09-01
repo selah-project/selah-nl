@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En hij verdreef ⟨את⟩ de mens, en hij deed wonen, ten oosten van de hof van Eden, ⟨את⟩ de cherubs en ⟨את⟩ de vlammende zwaardkling, zich omwendende, om ⟨את⟩ de weg van de boom des levens te bewaken.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "en hij verdreef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "en hij deed wonen"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ten oosten"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "van de hof"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "van Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de cherubs"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "de cherubs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de vlammende zwaardkling"
+    },
+    {
+      "surface": "להט",
+      "gloss": "de vlammende kling"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "het zwaard"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "zich omwendende"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te bewaken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de weg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "van de boom"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "des levens"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:07.537496654Z",
+  "model": "glm-5.3"
+}

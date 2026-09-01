@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En ⟨את⟩ jullie mannelijke slaven, en ⟨את⟩ jullie slavinnen, en ⟨את⟩ jullie jongemannen — de beste — en ⟨את⟩ jullie ezels zal hij nemen, en ⟨hij⟩ zal ze gebruiken voor zijn werk.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jullie mannelijke slaven"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "jullie mannelijke slaven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jullie slavinnen"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "jullie slavinnen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jullie jongemannen"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "jullie jongemannen"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "de beste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jullie ezels"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "jullie ezels"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "zal hij nemen"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en zal hij ze gebruiken"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "voor zijn werk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:21.476295829Z",
+  "model": "glm-5.3"
+}

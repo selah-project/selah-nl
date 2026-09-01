@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Dan roepen zij tot Jahweh in hun benauwdheid, en uit hun benoudheden brengt Hij hen uit.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Dan roepen zij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in hun benauwdheid"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "uit hun benoudheden"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "brengt Hij hen uit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:06.264694836Z",
+  "model": "glm-5.3"
+}

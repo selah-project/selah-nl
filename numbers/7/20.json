@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "één gouden kop van tien ⟨sjekel⟩, vol wierook.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "kop"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "één"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gouden"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "vol"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "wierook"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:25.725816263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En nu, zodra deze brief bij jullie komt — en bij jullie ⟨את⟩ zijn zonen van jullie heer, en bij jullie ⟨את⟩ zijn de wagens en de paarden, en een versterkte stad en de wapens —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nu"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "zodra... komt"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "deze brief"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "bij jullie"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "en bij jullie ⟨את⟩",
+      "marks": "zonen van jullie heer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "van jullie heer"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "en bij jullie ⟨את⟩",
+      "marks": "de wagens en de paarden"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "de wagens"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "en de paarden"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "en een stad"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "versterkte"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "en de wapens"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:48.121223222Z",
+  "model": "glm-5.3"
+}

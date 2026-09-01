@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 96,
+  "translation": "Buig u neer voor Jahweh in ⟨de⟩ praal van heiligheid; beve voor zijn aangezicht, heel de aarde.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "Buig u neer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "in ⟨de⟩ praal van"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heiligheid"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "beve"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "voor zijn aangezicht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.129539244Z",
+  "model": "glm-5.3"
+}

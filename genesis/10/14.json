@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "en ⟨את⟩ de Patrusiem en ⟨את⟩ de Kasluchiem — uit wie de Pelisjiem voortkwamen — en ⟨את⟩ de Kaftoriem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Patrusiem"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "de Patrusiem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Kasluchiem"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "de Kasluchiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uit wie"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "voortkwamen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Pelisjiem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Kaftoriem"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "de Kaftoriem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:21.789345368Z",
+  "model": "glm-5.3"
+}

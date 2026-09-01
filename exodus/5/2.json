@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Par'o zei: wie is Jahweh dat ik naar zijn stem zou luisteren ⟨om⟩ Israël weg te sturen? Ik ken Jahweh niet, en ⟨את⟩ Israël zal ik evenmin wegsturen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ik zou luisteren"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "naar zijn stem"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "om weg te sturen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ken ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en evenmin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "zal ik wegsturen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:41.365259488Z",
+  "model": "glm-5.3"
+}

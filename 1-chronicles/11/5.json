@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En de bewoners van Jebus zeiden tegen David: jij zult hier niet binnenkomen. Maar David veroverde ⟨את⟩ de bergvesting van Tsiyon — dat is de stad van David.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zeiden"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "de bewoners van"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Jebus"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "tegen David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "zul jij binnenkomen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "en veroverde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bergvesting"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "de bergvesting van"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dat is"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "de stad van"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:59:38.107289463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "In sjalom, tezamen, zal ik neerliggen en slapen; want jij, Jahweh, ⟨alleen⟩, doet mij ⟨in⟩ veiligheid wonen.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "in sjalom"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tezamen"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "zal ik neerliggen"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "en slapen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "in veiligheid"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "doet mij wonen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:08.738410835Z",
+  "model": "glm-5.3"
+}

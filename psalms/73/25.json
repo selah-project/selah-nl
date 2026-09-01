@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Wie heb ik ⟨in⟩ de hemel? En met U — op aarde verlang ik naar niemand ⟨behalve U⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "heb ik"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemel"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "en met U"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "verlang ik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:13.114617222Z",
+  "model": "glm-5.3"
+}

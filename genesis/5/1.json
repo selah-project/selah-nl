@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Dit is het boek van de geslachten van Adam. Op de dag dat Elohim Adam schiep, maakte Hij ⟨את⟩ hem naar de gelijkenis van Elohim.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "boek"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "geslachten"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "schiep"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "naar de gelijkenis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maakte Hij"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (Adam)"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:09.501811282Z",
+  "model": "glm-5.3"
+}

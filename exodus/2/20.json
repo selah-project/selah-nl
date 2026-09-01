@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En hij zeide tot zijn dochters: en waar ⟨is hij⟩? Waarom hebben jullie de man ⟨את⟩ achtergelaten? Roept hem, zodat hij brood eet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "zijn dochters"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "en waar"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "hebben jullie achtergelaten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "roept"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "zodat hij eet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:49.554539141Z",
+  "model": "glm-5.3"
+}

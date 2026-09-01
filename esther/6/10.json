@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 6:10",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En de koning zei tot Haman: haast je, neem ⟨את⟩ het kleed en ⟨את⟩ het paard, zoals je gesproken hebt, en doe zo met Mordechai, de Jood, die in de poort van de koning zit — laat geen woord vallen van alles wat je gesproken hebt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en de koning zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "tot Haman"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "haast je"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het kleed"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "het kleed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het paard"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "het paard"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "je gesproken hebt"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en doe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "met Mordechai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "de Jood"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "die zit"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in de poort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "laat vallen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "een woord"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "je gesproken hebt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:13.929420281Z",
+  "model": "glm-5.3"
+}

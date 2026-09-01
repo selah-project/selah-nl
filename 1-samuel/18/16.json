@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En heel Jisraël en Jehoeda hielden ⟨את⟩ David lief, want hij ging uit en kwam in voor hun aangezicht.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hielden lief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ging uit"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "en kwam in"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hun aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:46:20.667320059Z",
+  "model": "glm-5.3"
+}

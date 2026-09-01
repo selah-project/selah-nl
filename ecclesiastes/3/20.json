@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Het geheel gaat naar één plaats; het geheel is uit het stof ⟨gekomen⟩, en het geheel keert terug naar het stof.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Het geheel"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gaat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "één plaats"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "het geheel"
+    },
+    {
+      "surface": "היה",
+      "gloss": "is"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "het stof"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "en het geheel"
+    },
+    {
+      "surface": "שב",
+      "gloss": "keert terug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "het stof"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:02.575599185Z",
+  "model": "glm-5.3"
+}

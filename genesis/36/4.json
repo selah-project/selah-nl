@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En Adah baarde aan Esav ⟨את⟩ Elifaz, en Bosmath baarde ⟨את⟩ Reüel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "En baarde"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "aan Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifaz"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "en Bosmath"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "baarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reüel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reüel"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:10.657144025Z",
+  "model": "glm-5.3"
+}

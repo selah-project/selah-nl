@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Jahweh zei: Ik zal ⟨את⟩ de mens uitwissen die ik geschapen heb van de oppervlakte van de aardbodem, van de mens tot het vee, tot het kruipend gedierte en tot het gevogelte van de hemel, want ik heb berouw dat ik hen gemaakt heb.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "zal ik uitwissen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "ik geschapen heb"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "פני",
+      "gloss": "de oppervlakte"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van de aardbodem"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "het kruipend gedierte"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "het gevogelte"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van de hemel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ik heb berouw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ik hen gemaakt heb"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:38.249661270Z",
+  "model": "glm-5.3"
+}

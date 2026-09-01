@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Ik ben Jahweh — dat is Mijn Naam — en Mijn kavod geef Ik niet aan een ander, noch Mijn lof aan gesneden beelden.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dat is"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Mijn Naam"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "en Mijn kavod"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "aan een ander"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "geef Ik"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "noch Mijn lof"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "aan gesneden beelden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:49.981931848Z",
+  "model": "glm-5.3"
+}

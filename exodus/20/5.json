@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 20:5",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "U zult zich voor hen niet neerbuigen en hen niet dienen, want ik, Jahweh, uw Elohim, ben een El kenna (een jaloarse El), die de ongerechtigheid van de vaderen bezoekt aan de kinderen, aan het derde ⟨geslacht⟩ en aan het vierde, van hen die mij haten.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "u zult zich neerbuigen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "hen dienen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "jaloers"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "bezoek"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ongerechtigheid"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "van de vaderen"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "het derde ⟨geslacht⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en aan"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "het vierde"
+    },
+    {
+      "surface": "לשנאי",
+      "gloss": "van hen die mij haten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:10.839857689Z",
+  "model": "glm-5.3"
+}

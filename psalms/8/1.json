@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Voor de koorleider, op ⟨de⟩ Gittit; een mizmor van David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "⟨de⟩ Gittit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:08.345507287Z",
+  "model": "glm-5.3"
+}

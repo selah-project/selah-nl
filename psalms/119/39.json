@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Wend af mijn smaad die ik vrees, want uw verordeningen ⟨zijn⟩ goed.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Wend af"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "mijn smaad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ik vrees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "uw verordeningen"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:08.013462827Z",
+  "model": "glm-5.3"
+}

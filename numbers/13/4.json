@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En dit waren hun namen: voor de stam van Re'uven, Sjammoea, zoon van Zakoer.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "hun namen"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "voor de stam"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uven"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Sjammoea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Zakoer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:54.299673919Z",
+  "model": "glm-5.3"
+}

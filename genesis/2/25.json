@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de twee van hen waren naakt, de mens en zijn vrouw, en zij schaamden zich niet.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "en zij waren"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de twee van hen"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "naakt"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "en zijn vrouw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "schaamden zij zich"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:10.174798666Z",
+  "model": "glm-5.3"
+}

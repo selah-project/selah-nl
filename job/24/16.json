@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 24:16",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "In het duister breekt ⟨hij⟩ huizen door; overdag zegelen zij zich voor zichzelf af; zij kennen het licht niet.",
+  "tokens": [
+    {
+      "surface": "חתר",
+      "gloss": "breekt door"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "in het duister"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huizen"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "overdag"
+    },
+    {
+      "surface": "חתמו",
+      "gloss": "zegelen zij af"
+    },
+    {
+      "surface": "למו",
+      "gloss": "voor zichzelf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "zij kennen"
+    },
+    {
+      "surface": "אור",
+      "gloss": "het licht"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:26.720539508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En u zult ze ⟨את⟩ zetten: twee rijen, zes ⟨per⟩ rij, op de reine tafel, voor het aangezicht van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "en u zult zetten"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen (de twee rijen koeken)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "rijen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zes"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "de rij"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "de tafel"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "de reine"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:30.167350375Z",
+  "model": "glm-5.3"
+}

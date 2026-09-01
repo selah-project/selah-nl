@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Gij zult het huis van uw naaste niet begeren; gij zult de vrouw van uw naaste niet begeren, noch zijn dienaar noch zijn dienstmaagd, noch zijn os noch zijn ezel, noch alles wat van uw naaste is.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "zult begeren"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "van uw naaste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "zult begeren"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "de vrouw van"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "uw naaste"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "noch zijn dienaar"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "noch zijn dienstmaagd"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "noch zijn os"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "noch zijn ezel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "noch alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "van uw naaste is"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:06.302134935Z",
+  "model": "glm-5.3"
+}

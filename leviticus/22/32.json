@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En jullie zullen ⟨את⟩ mijn heilige naam niet ontheiligen, en ik zal geheiligd worden te midden van de zonen van Jisraël: ik ⟨ben⟩ Jahweh, die jullie heiligt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "En niet"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "zullen jullie ontheiligen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn heilige naam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "van mijn heiligheid (mijn heilige ⟨naam⟩)"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "en ik zal geheiligd worden"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "te midden van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "die jullie heiligt"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:33.396560377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En zeker, ⟨את⟩ uw bloed, ⟨voor⟩ uw levens zal Ik opeisen; van de hand van elk levend dier zal Ik het opeisen, en van de hand van de mens, van de hand van ieder mans broeder, zal Ik ⟨את⟩ de nefesj van de mens opeisen.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "en zeker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw bloed"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "uw bloed"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "voor uw levens"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "zal Ik opeisen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "van de hand van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elk"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "levend dier"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "zal Ik het opeisen"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "en van de hand van"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "van de hand van"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder mans"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "broeder"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "zal Ik opeisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de nefesj van de mens"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "de nefesj"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:19.242191269Z",
+  "model": "glm-5.3"
+}

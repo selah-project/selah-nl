@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Ik daarentegen ⟨ben⟩ arm en noodlijdend; Adonai, hij zal ⟨het⟩ voor mij rekenen ⟨als⟩ mijn hulp en mijn toevlucht ⟨ben⟩ u; mijn Elohim, toef niet!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ik daarentegen"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en noodlijdend"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hij zal rekenen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "mijn hulp"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "en mijn toevlucht"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "toef"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:54.715498668Z",
+  "model": "glm-5.3"
+}

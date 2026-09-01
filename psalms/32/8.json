@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Ik geef U inzicht en onderwijs U in de weg die u gaan moet; Ik raad U aan, Mijn oog is op U.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Ik geef U inzicht"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "en onderwijs U"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in de weg"
+    },
+    {
+      "surface": "זו",
+      "gloss": "die"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "u gaan moet"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "Ik raad aan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Mijn oog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:31.442087644Z",
+  "model": "glm-5.3"
+}

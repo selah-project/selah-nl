@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Gedenk dat mijn leven ⟨slechts⟩ wind ⟨is⟩; mijn oog zal niet terugkeren om het goede te zien.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "gedenk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mijn leven"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "zal terugkeren"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn oog"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het goede"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:31.476530891Z",
+  "model": "glm-5.3"
+}

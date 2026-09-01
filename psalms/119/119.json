@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Als slakken hebt U weggedaan al de goddelozen van de aarde; daarom heb ik uw getuigenissen lief.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "als slakken"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "hebt U weggedaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "heb ik lief"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "uw getuigenissen"
+    }
+  ],
+  "timestamp": "2026-09-01T00:04:37.913703047Z",
+  "model": "glm-5.3"
+}

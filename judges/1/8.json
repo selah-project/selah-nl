@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de zonen van Jehoeda streden tegen Jeroesjalajim, en zij namen het in, en zij sloegen het ⟨את⟩ met de scherpte van het zwaard, en ⟨את⟩ de stad zonden zij in het vuur.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "en zij streden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tegen Jeroesjalajim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "en zij namen in"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ het",
+      "marks": "Jeroesjalajim"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "en zij sloegen"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "met de scherpte van"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "het zwaard"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "zij zonden"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in het vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T20:34:47.258042644Z",
+  "model": "glm-5.3"
+}

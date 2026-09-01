@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Toen zag Haman dat Mordechai de knie niet boog en zich niet voor hem neerwierp, en Haman werd vol grimmigheid.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "toen zag"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "de knie boog"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "en zich neerwierp"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "en werd vol"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "grimmigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:34.730487870Z",
+  "model": "glm-5.3"
+}

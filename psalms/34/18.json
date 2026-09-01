@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "⟨De rechtvaardigen⟩ schreeuwden en Jahweh hoorde, en uit al hun benauwdheden redde hij hen.",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "schreeuwden"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoorde"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "en uit al"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "hun benauwdheden"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "redde hij hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:06.353371097Z",
+  "model": "glm-5.3"
+}

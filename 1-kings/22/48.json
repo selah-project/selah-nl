@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En ⟨er was⟩ geen koning in Edom; een stadhouder was koning.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "En ⟨er was⟩ geen koning"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "in Edom"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "een stadhouder"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "was koning"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:47.535060769Z",
+  "model": "glm-5.3"
+}

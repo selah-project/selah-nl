@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "En ik, tot U heb ik geschreeuwd, Jahweh, en in de morgen zal mijn gebed U tegemoetkomen.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ik"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "heb ik geschreeuwd"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "en in de morgen"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mijn gebed"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "zal U tegemoetkomen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:12.442833075Z",
+  "model": "glm-5.3"
+}

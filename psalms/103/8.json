@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Barmhartig en genadig ⟨is⟩ Jahweh, langzaam van toorn en groot in chesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "barmhartig"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "en genadig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "langzaam"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "van toorn"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "en groot"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:42.756420902Z",
+  "model": "glm-5.3"
+}

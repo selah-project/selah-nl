@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En Avraham stond op en boog zich neer voor het volk van het land, voor de zonen van Chet.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en stond op"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "en boog zich neer"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "voor het volk van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "voor de zonen van"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:13.371994476Z",
+  "model": "glm-5.3"
+}

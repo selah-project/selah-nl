@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "en aan wie in Chorma waren, en aan wie in Kor-Ashan, en aan wie in Atach",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "en aan wie"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "in Chorma"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "en aan wie"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "in Bor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "en aan wie"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "in Atach"
+    }
+  ],
+  "timestamp": "2026-08-31T20:48:42.673712946Z",
+  "model": "glm-5.3"
+}

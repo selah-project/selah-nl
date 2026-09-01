@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En Jaakob zei: Verkoop ⟨את⟩ je eerstgeboorterecht vandaag aan mij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "verkoop"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "vandaag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je eerstgeboorterecht"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "je eerstgeboorterecht"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan mij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:04.816251372Z",
+  "model": "glm-5.3"
+}

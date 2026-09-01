@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Hij geeft sneeuw als wol; rijp als as strooit hij uit.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "hij geeft"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sneeuw"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "als wol"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "rijp"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "als as"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "strooit hij uit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:22.755205562Z",
+  "model": "glm-5.3"
+}

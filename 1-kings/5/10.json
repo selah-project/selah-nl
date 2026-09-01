@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En de wijsheid van Sjelomo werd groter dan de wijsheid van alle zonen van het oosten en dan alle wijsheid van Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "en werd groter"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "de wijsheid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "van Sjelomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "dan de wijsheid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "van het oosten"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "en dan alle"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:45.391516267Z",
+  "model": "glm-5.3"
+}

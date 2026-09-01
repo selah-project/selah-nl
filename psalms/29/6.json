@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En hij doet ze dansen als een jonge stier ⟨—⟩ de Libanon, en Sirjon als een jonge wilde os.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "en hij doet ze dansen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "een jonge stier"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "de Libanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "en Sirjon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een jonge ⟨zoon⟩"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "wilde ossen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:19.664126373Z",
+  "model": "glm-5.3"
+}

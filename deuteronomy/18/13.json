@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Onberispelijk zal jij zijn met Jahweh, jouw Elohim.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "onberispelijk"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:52.323801709Z",
+  "model": "glm-5.3"
+}

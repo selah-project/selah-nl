@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En hij gebood ⟨את⟩ hen, zeggend: Zo zegt gij tot mijn heer, tot Esav: Zo zegt uw dienaar Jaäkov: Bij Lavan heb ik als vreemdeling gewoond, en ik ben gebleven tot nu toe.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en hij gebood"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "zegt gij"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "tot mijn heer"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "tot Esav"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "heb ik als vreemdeling gewoond"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "en ik ben gebleven"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu toe"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:29.935696224Z",
+  "model": "glm-5.3"
+}

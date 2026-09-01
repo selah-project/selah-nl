@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Want zoals de hemelen hoger zijn dan de aarde, zo zijn mijn wegen hoger dan jullie wegen, en mijn gedachten ⟨hoger⟩ dan jullie gedachten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "hoger zijn"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dan de aarde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "hoger zijn"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mijn wegen"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "dan jullie wegen"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "en mijn gedachten"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "dan jullie gedachten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:57.844537623Z",
+  "model": "glm-5.3"
+}

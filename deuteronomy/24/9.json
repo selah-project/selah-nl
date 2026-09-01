@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Gedenk wat Jahweh jouw Elohim Mirjam gedaan heeft ⟨את⟩ — op de weg, bij jullie uittocht uit Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Gedenk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat … Mirjam gedaan heeft"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedaan heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Mirjam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "bij jullie uittocht"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:39.013083065Z",
+  "model": "glm-5.3"
+}

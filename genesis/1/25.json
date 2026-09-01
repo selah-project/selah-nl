@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim maakte ⟨את⟩ het wilde gedierte van de aarde naar zijn soort, en ⟨את⟩ het vee naar zijn soort, en ⟨את⟩ al het kruipend gedierte van de grond naar zijn soort; en Elohim zag dat het goed was.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en maakte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het wilde gedierte van de aarde"
+    },
+    {
+      "surface": "חית",
+      "gloss": "wilde gedierte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "naar zijn soort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het vee"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "naar zijn soort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al het kruipend gedierte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kruipend gedierte"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van de grond"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "naar zijn soort"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:18.724510381Z",
+  "model": "glm-5.3"
+}

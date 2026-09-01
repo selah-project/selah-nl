@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "En ik zal wandelen in ruimte, want uw voorschriften heb ik gezocht.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "en ik zal wandelen"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "in ruimte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "uw voorschriften"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "heb ik gezocht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:29.381250351Z",
+  "model": "glm-5.3"
+}

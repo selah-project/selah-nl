@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Ik heb ⟨het⟩ recht verkondigd in de grote vergadering; zie, mijn lippen houd ik niet tegen, Jahweh, u weet ⟨het⟩.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "ik heb verkondigd"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "recht"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in de vergadering"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grote"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mijn lippen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "houd ik tegen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "weet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:08.435276133Z",
+  "model": "glm-5.3"
+}

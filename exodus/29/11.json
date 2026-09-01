@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En u zult ⟨את⟩ de stier slachten voor het aangezicht van Jahweh, bij de ingang van de tent van ontmoeting.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "en u zult slachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stier"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "de stier"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bij de ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "van de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:18.392090208Z",
+  "model": "glm-5.3"
+}

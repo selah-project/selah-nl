@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 140,
+  "translation": "Een man van ⟨de⟩ tong zal niet bestaan in het land; een man van geweld — het kwaad jaagt hem ⟨tot⟩ de omverwerping.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "van ⟨de⟩ tong"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "zal bestaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "van geweld"
+    },
+    {
+      "surface": "רע",
+      "gloss": "het kwaad"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "jaagt hem"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "⟨tot⟩ de omverwerping"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:25.594723283Z",
+  "model": "glm-5.3"
+}

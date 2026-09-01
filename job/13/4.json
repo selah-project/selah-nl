@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Maar jullie zijn smeerders van leugen, genezers van niets — jullie allemaal.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Maar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "smeerders"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leugen"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "genezers"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "van niets"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "jullie allemaal"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:42.164063891Z",
+  "model": "glm-5.3"
+}

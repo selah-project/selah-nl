@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En hij zei: Gezegend zij je door Jahweh, mijn dochter; je hebt je laatste chesed beter gemaakt dan de eerste, door niet achter de jongemannen aan te gaan, of het nu armen zijn of rijken.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "gezegend"
+    },
+    {
+      "surface": "את",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "door Jahweh"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mijn dochter"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "je hebt beter gemaakt"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "je chesed"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "de laatste"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "de eerste"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "door niet te"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "de jongemannen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "דל",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en of"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rijk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:03.353137588Z",
+  "model": "glm-5.3"
+}

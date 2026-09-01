@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Waarom trekt u uw hand terug, ja uw rechterhand? ⟨Haal haar⟩ uit uw schoot ⟨te voorschijn⟩ en maak een einde ⟨aan hen⟩!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "trekt u terug"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uw hand"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ja uw rechterhand"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "uit het midden van"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "uw schoot"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "maak een einde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:18.857071105Z",
+  "model": "glm-5.3"
+}

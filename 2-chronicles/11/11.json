@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En hij versterkte ⟨את⟩ de vestingen en stelde in die⟨n⟩ aanvoerders aan, en voorraadschuren van voedsel, en olie en wijn.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "versterkte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vestingen"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "de vestingen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "stelde"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in die[n]"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "aanvoerders"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "voorraadschuren"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "voedsel"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "wijn"
+    }
+  ],
+  "timestamp": "2026-08-31T23:06:02.745489653Z",
+  "model": "glm-5.3"
+}

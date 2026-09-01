@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "aan de timmerlieden, en aan de bouwers, en aan de metselaars, en om hout en gehouwen stenen te kopen, om het huis ⟨את⟩ te versterken.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "aan de timmerlieden"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "en aan de bouwers"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "en aan de metselaars"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "en om te kopen"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "hout"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "en stenen van"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "houwerij"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "om te versterken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:38.649849126Z",
+  "model": "glm-5.3"
+}

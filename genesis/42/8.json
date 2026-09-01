@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En Josef herkende ⟨את⟩ zijn broers, maar zij herkenden hem niet.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "en herkende"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn broers"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "והם",
+      "gloss": "maar zij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "herkenden hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:49.638306507Z",
+  "model": "glm-5.3"
+}

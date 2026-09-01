@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "IJzer door ijzer wordt geslepen, en een man slept het gezicht van zijn naaste.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ijzer"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "door ijzer"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wordt geslepen"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en een man"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "slept"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het gezicht"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "van zijn naaste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:29.197625357Z",
+  "model": "glm-5.3"
+}

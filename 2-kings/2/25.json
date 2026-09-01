@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En hij ging van daar naar de berg ⟨van⟩ de Karmel, en van daar keerde hij terug naar Sjomeron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "de Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "en van daar"
+    },
+    {
+      "surface": "שב",
+      "gloss": "keerde hij terug"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Sjomeron"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:52.401016802Z",
+  "model": "glm-5.3"
+}

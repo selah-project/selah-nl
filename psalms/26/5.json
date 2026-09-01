@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Ik heb de vergadering van kwaaddoeners gehaat, en met de wetenschap van goddelozen zal ik niet zitten.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "heb ik gehaat"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "van kwaaddoeners"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddelozen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "zal ik zitten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:15.429492865Z",
+  "model": "glm-5.3"
+}

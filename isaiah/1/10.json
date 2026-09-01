@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Hoort het woord van Jahweh, bestuurders van Sedom; neigt het oor tot de thorah van ons Elohim, volk van Gomorra!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hoort"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "bestuurders van"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "neigt het oor"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "de thorah van"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk van"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomorra"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:31.890865538Z",
+  "model": "glm-5.3"
+}

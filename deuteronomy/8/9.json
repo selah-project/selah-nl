@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Een land waarin je zonder armoede brood zult eten, je zult daarin aan niets gebrek hebben; een land waarvan de stenen ijzer ⟨zijn⟩, en uit zijn bergen zul je koper houwen.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "een land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "in armoede"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "zul je eten"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "zal ontbreken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niets"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "een land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarvan"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "zijn stenen"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ijzer"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "en uit zijn bergen"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "zul je houwen"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "koper"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:57.696937864Z",
+  "model": "glm-5.3"
+}

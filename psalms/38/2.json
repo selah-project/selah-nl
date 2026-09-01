@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Jahweh, bestraf mij niet in uw gramschap, en tuchtig mij niet in uw toorn.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "in uw gramschap"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "bestraf mij"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "in uw toorn"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "tuchtig mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:06.844699830Z",
+  "model": "glm-5.3"
+}

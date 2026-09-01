@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Want ⟨van⟩ gisteren zijn wij en wij weten niets, want een schaduw ⟨zijn⟩ onze dagen op aarde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "gisteren"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niets"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "צל",
+      "gloss": "een schaduw"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "onze dagen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:13.013319101Z",
+  "model": "glm-5.3"
+}

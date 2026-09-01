@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Om bekend te maken aan de mensenkinderen zijn machtige daden, en de kavod van de pracht van zijn koninkrijk.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "Om bekend te maken"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan de kinderen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "zijn machtige daden"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "en de kavod"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "van de pracht"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "van zijn koninkrijk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:13.160741785Z",
+  "model": "glm-5.3"
+}

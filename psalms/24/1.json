@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Van David, een mizmor. Van Jahweh is de aarde en haar volheid, de wereld en wie erop wonen.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "en haar volheid"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "de wereld"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "en wie wonen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "erop"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:17.371101669Z",
+  "model": "glm-5.3"
+}

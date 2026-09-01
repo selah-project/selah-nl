@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 5:3",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Ik ⟨zelf⟩ ken Efraim, en Israël is voor Mij niet verborgen; want nu heb jij, Efraim, ontucht bedreven, Israël is onrein geworden.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik ⟨zelf⟩"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ken"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "en Israël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "verborgen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "voor Mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הזנית",
+      "gloss": "heb jij ontucht bedreven"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "is onrein geworden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:45.523525981Z",
+  "model": "glm-5.3"
+}

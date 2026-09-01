@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 70,
+  "translation": "Voor de koorleider, van Dawid, ter gedachtenis.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ter gedachtenis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:49.337765766Z",
+  "model": "glm-5.3"
+}

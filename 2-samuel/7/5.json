@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Ga en zeg tot mijn dienaar, tot David: zo zegt Jahweh: Zult ú mij ⟨daarin⟩ een huis bouwen om ⟨daarin⟩ te wonen?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en zeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mijn dienaar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "zult ú"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bouwen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "בית",
+      "gloss": "een huis"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "om ⟨daarin⟩ te wonen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:11.279736537Z",
+  "model": "glm-5.3"
+}

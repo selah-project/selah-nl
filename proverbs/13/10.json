@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Alleen uit hoogmoed komt twist, maar met ⟨de⟩ overleggenden ⟨is⟩ wijsheid.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "uit hoogmoed"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "komt"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "twist"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "overleggenden"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "overleggenden"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:19.798580671Z",
+  "model": "glm-5.3"
+}

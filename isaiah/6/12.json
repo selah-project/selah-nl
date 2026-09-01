@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Jahweh voert ⟨de⟩ mens ver weg, en groot is de verlatenheid midden in het land.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "En voert ver weg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "en groot is"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "de verlatenheid"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midden in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:09.332598626Z",
+  "model": "glm-5.3"
+}

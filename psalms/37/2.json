@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Want snel als gras worden zij afgesneld, en als groen kruid verwelken zij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "als gras"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "snel"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "worden afgesneld"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "en als groen"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "kruid"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "verwelken zij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:35.783827624Z",
+  "model": "glm-5.3"
+}

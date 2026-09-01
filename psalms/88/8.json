@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "Op mij heeft uw toorn geleund, en met al uw branding hebt u mij vertrapt. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "op mij"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "heeft geleund"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "uw toorn"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en met al"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "uw branding"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "hebt u vertrapt"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:28.951523785Z",
+  "model": "glm-5.3"
+}

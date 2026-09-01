@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "En ik ben gekweld de hele dag, en mijn bestraffing ⟨komt⟩ elke morgen.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "en ik ben"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "gekweld"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "en mijn bestraffing"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "elke morgen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:18.853770600Z",
+  "model": "glm-5.3"
+}

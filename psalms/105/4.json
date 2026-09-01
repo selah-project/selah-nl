@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Zoekt Jahweh en zijn sterkte, zoekt zijn aangezicht voortdurend.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Zoekt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "en zijn sterkte"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "zoekt"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zijn aangezicht"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:38.572492615Z",
+  "model": "glm-5.3"
+}

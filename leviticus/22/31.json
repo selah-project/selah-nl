@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En jullie zullen mijn geboden bewaren en ⟨את⟩ ze doen: ik ⟨ben⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "En jullie zullen bewaren"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mijn geboden"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mijn geboden (ze)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:33.396395258Z",
+  "model": "glm-5.3"
+}

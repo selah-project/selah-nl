@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 33:32",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Als er woorden ⟨zijn⟩, antwoord mij; spreek, want ik wil jou rechtvaardigen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er ⟨zijn⟩"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "antwoord mij"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "wil ik"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "jou rechtvaardigen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:42.438842805Z",
+  "model": "glm-5.3"
+}

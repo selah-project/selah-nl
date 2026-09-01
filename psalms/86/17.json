@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 86,
+  "translation": "Doe met mij een teken ten goede, en laten mijn haters het zien en beschaamd worden, want ú, Jahweh, hebt mij geholpen en mij getroost.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Doe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "met mij"
+    },
+    {
+      "surface": "אות",
+      "gloss": "een teken"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ten goede"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "en laten zien"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "mijn haters"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "en beschaamd worden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "hebt mij geholpen"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "en mij getroost"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:52.509631340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Noach ging in, en zijn zonen, en zijn vrouw, en de vrouwen van zijn zonen ⟨את⟩ met hem, naar de ark, van voor het water van de watervloed.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij ging in"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en zijn zonen"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "en zijn vrouw"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "en de vrouwen van"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "van voor"
+    },
+    {
+      "surface": "מי",
+      "gloss": "het water van"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "de watervloed"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:41.830032289Z",
+  "model": "glm-5.3"
+}

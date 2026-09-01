@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Moge in mij niet beschaamd worden wie op u wachten, Adonai, Jahweh Tsevaot; moge in mij niet onteerd worden wie u zoeken, Elohim van Jisraël.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moge niet"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "beschaamd worden"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in mij"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "wie op u wachten"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moge niet"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "onteerd worden"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in mij"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "wie u zoeken"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:33.735656510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Hoort dit, oudsten, en geeft oor, alle bewoners van het land: is zoiets gebeurd in uw dagen, of ⟨ook⟩ in de dagen van uw vaders?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hoort"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "oudsten"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "en geeft oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "bewoners"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "is gebeurd"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "zoiets"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "in uw dagen"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "of ⟨ook⟩"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in de dagen van"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "uw vaders"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:47.577628936Z",
+  "model": "glm-5.3"
+}

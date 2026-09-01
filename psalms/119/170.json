@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 170,
+  "ref": "psalms 119:170",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Laat mijn smeekbede komen voor Uw aangezicht; overeenkomstig Uw belofte red mij.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "laat komen"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "mijn smeekbede"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor Uw aangezicht"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "overeenkomstig Uw belofte"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "red mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:56.349779260Z",
+  "model": "glm-5.3"
+}

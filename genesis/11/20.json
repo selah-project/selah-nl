@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Re'u leefde twee en dertig jaar, en verwekte ⟨את⟩ Serug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "en leefde"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Re'u"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:28.530668816Z",
+  "model": "glm-5.3"
+}

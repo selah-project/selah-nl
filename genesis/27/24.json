@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En hij zei: Jij ⟨zijt⟩ het, mijn zoon Esav? En hij zei: Ik ⟨ben het⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "זה",
+      "gloss": "het"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:41.704481719Z",
+  "model": "glm-5.3"
+}

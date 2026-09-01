@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Twist niet met een mens zonder reden, als hij jou geen kwaad aangedaan heeft.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "twist"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "een mens"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zonder reden"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "jou aangedaan heeft"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:16.339607716Z",
+  "model": "glm-5.3"
+}

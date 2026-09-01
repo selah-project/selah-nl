@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "En hij waste zijn aangezicht en ging naar buiten, en hij bedwong zichzelf, en hij zeide: Zet brood op.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "en hij waste"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zijn aangezicht"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en ging naar buiten"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "en bedwong zichzelf"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "zet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:22.044490180Z",
+  "model": "glm-5.3"
+}

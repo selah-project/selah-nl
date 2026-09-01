@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En dit is hoe je haar maken zult: driehonderd el de lengte van de ark, vijftig el haar breedte en dertig el haar hoogte.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "je maken zult"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (de ark)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lengte"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vijftig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "haar breedte"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "haar hoogte"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:55.559525708Z",
+  "model": "glm-5.3"
+}

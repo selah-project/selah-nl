@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "En ⟨u⟩ hebt mijn hoorn verhoogd ⟨als⟩ die van een wilde os; ik ben overvloeiend gezalfd met frisse olie.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "en hebt verhoogd"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "⟨als⟩ die van een wilde os"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "mijn hoorn"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "overvloeiend gezalfd"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "met olie"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "fris"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:49.935094781Z",
+  "model": "glm-5.3"
+}

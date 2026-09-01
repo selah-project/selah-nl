@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En Jahweh zal ⟨את⟩ Mitsrajim slaan — slaan en genezen; en zij zullen zich tot Jahweh wenden, en hij zal zich laten verbidden en hen genezen.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "en hij zal slaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "slaande"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "en genezende"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "en zij zullen zich wenden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "en hij zal zich laten verbidden"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "en hen genezen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:05.221370721Z",
+  "model": "glm-5.3"
+}

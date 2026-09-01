@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "Moge hij uw volk richten in tsedek, en uw armen in misjpat.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "moge hij richten"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uw volk"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "in tsedek"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "en uw armen"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in misjpat"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:58.880311883Z",
+  "model": "glm-5.3"
+}

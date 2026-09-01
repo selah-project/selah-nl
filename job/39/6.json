@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 39:6",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "wiens huis ik de woestijn ⟨als⟩ woning gegeven heb, en zijn verblijfplaatsen het zoutland?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wiens"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ik heb gegeven"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "de woestijn"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "⟨als⟩ woning"
+    },
+    {
+      "surface": "ומשכנותיו",
+      "gloss": "en zijn verblijfplaatsen"
+    },
+    {
+      "surface": "מלחה",
+      "gloss": "het zoutland"
+    }
+  ],
+  "timestamp": "2026-08-31T22:37:38.380263085Z",
+  "model": "glm-5.3"
+}

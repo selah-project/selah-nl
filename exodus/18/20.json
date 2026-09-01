@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En jij zult ⟨את⟩ hen vermanen ⟨betreffende⟩ ⟨את⟩ de verordeningen en ⟨את⟩ de wetten, en hun bekendmaken ⟨את⟩ de weg waarop zij moeten gaan, en ⟨את⟩ het werk dat zij moeten doen.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "en jij zult vermanen"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de verordeningen"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "de verordeningen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de wetten"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "de wetten"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "en jij zult bekendmaken"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de weg"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "zij zullen gaan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het werk"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "het werk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "zij zullen doen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:25.615620734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Want de koning had samen met zijn vorsten en heel de vergadering in Jeroesjalajim besloten het pesach in de tweede maand te houden.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "had besloten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "met zijn vorsten"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeroesjalajim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "te houden"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "het pesach"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "in de maand"
+    },
+    {
+      "surface": "השני",
+      "gloss": "de tweede"
+    }
+  ],
+  "timestamp": "2026-08-31T23:11:24.167566842Z",
+  "model": "glm-5.3"
+}

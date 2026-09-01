@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En hun koningen zal hij in uw hand geven, en u zult hun naam ⟨את⟩ van onder de hemel laten verdwijnen; geen man zal zich vóór u staande houden, totdat u ⟨את⟩ hen vernietigd hebt.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "en zal geven"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "hun koningen"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in uw hand"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "zult laten verdwijnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun naam"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "hun naam"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "van onder"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "zal zich staande houden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "geen man"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "vóór u"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "u vernietigd hebt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:57.421317883Z",
+  "model": "glm-5.3"
+}

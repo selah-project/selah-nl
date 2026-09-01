@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de koning zei tot hen: een droom heb ik gedroomd, en mijn geest is ontroerd om ⟨את⟩ de droom te kennen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "een droom"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "heb ik gedroomd"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "en is ontroerd"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mijn geest"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "om te kennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de droom"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "de droom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:33.590652083Z",
+  "model": "glm-5.3"
+}

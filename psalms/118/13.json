@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Duwduw ⟩duwde mij om te doen vallen, maar Jahweh hielp mij.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "duw"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "duwde mij"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "om te vallen"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "maar Jahweh"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "hielp mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:11.130527879Z",
+  "model": "glm-5.3"
+}

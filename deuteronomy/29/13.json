@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En niet met jullie alleen ⟨את⟩ sluit ik dit verbond en ⟨את⟩ deze vloek",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ met jullie"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sluit (snijd)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit verbond"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "het verbond"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deze vloek"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "de vloek"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:16.425726690Z",
+  "model": "glm-5.3"
+}

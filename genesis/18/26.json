@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 18:26",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Jahweh zei: Als Ik in Sedom vijftig rechtvaardigen vind te midden van de stad, dan zal Ik ⟨omwille van⟩ hen de hele plaats dragen ⟨vergeven⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "Ik vind"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "in Sedom"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vijftig"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "rechtvaardigen"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "te midden van"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "ונשאתי",
+      "gloss": "dan zal Ik dragen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "plaats"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "⟨omwille van⟩ hen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:46.408788868Z",
+  "model": "glm-5.3"
+}

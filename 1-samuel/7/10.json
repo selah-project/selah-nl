@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 7:10",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En het geschiedde, terwijl Sjemuël het brandoffer liet opgaan, dat de Filistijnen Israël naderden ten strijde; maar Jahweh liet het donderen met een groot geluid op die dag over de Filistijnen, en zij werden in verwarring gebracht en geslagen voor het aangezicht van Israël.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het geschiedde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemuël"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "liet opgaan"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "het brandoffer"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "en de Filistijnen"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "naderden"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ten strijde"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "tegen Israël"
+    },
+    {
+      "surface": "וירעם",
+      "gloss": "en liet het donderen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "met een geluid"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "על",
+      "gloss": "dag over"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Filistijnen"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "en zij werden in verwarring gebracht"
+    },
+    {
+      "surface": "וינגפו",
+      "gloss": "en geslagen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:34.148010928Z",
+  "model": "glm-5.3"
+}

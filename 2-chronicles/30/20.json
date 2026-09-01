@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En Jahweh hoorde naar Chizkijah, en Hij genas ⟨את⟩ het volk.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hoorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkijah"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "en Hij genas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T23:11:17.722020935Z",
+  "model": "glm-5.3"
+}

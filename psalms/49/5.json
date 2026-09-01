@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Ik neig mijn oor naar een spreuk; ik open met de lier mijn raadsel.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Ik neig"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "naar een spreuk"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "mijn oor"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ik open"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "met de lier"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "mijn raadsel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:48.607149764Z",
+  "model": "glm-5.3"
+}

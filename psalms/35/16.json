@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Bij de goddelozen, spotters bij ⟨het⟩ broodmaal, knarsten ⟨zij⟩ tegen mij hun tanden.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "bij de goddelozen"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "spotters"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "bij ⟨het⟩ broodmaal"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "knarsten"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "hun tanden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:19.533878939Z",
+  "model": "glm-5.3"
+}

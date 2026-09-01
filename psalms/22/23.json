@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Ik zal uw naam vertellen aan mijn broeders; in het midden van de gemeente zal ik u loven.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Ik zal vertellen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "aan mijn broeders"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "de gemeente"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "zal ik u loven"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:32.710370750Z",
+  "model": "glm-5.3"
+}

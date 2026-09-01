@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "dan geven wij ⟨את⟩ onze dochters aan u, en ⟨את⟩ uw dochters nemen wij voor ons; en wij zullen wonen ⟨את⟩ bij u, en wij zullen tot één volk worden.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "dan geven wij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onze dochters"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "onze dochters"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aan u"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "uw dochters"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "uw dochters"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "nemen wij"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "en wij zullen wonen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bij u (met u)"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "en wij zullen worden"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tot een volk"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:11.984688887Z",
+  "model": "glm-5.3"
+}

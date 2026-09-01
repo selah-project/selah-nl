@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En de koning van Jisraël trok uit, en hij sloeg ⟨את⟩ de paarden en ⟨את⟩ de strijdwagens, en hij sloeg Aram met een grote slag.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "en hij trok uit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en hij sloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de paarden"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "de paarden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de strijdwagens"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "de strijdwagens"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "en hij sloeg"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "slag"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grote"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:09.910027651Z",
+  "model": "glm-5.3"
+}

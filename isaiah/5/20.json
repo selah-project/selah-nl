@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Wee hen die tot het kwaad zeggen: goed, en tot het goede: kwaad; die duisternis stellen in plaats van licht, en licht in plaats van duisternis; die bitter stellen in plaats van zoet, en zoet in plaats van bitter!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "wee"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "hen die zeggen"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "tot het kwaad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "en tot het goede"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die stellen"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "in plaats van licht"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "en licht"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "in plaats van duisternis"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die stellen"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bitter"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "in plaats van zoet"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "en zoet"
+    },
+    {
+      "surface": "למר",
+      "gloss": "in plaats van bitter"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:55.493371721Z",
+  "model": "glm-5.3"
+}

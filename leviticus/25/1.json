@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En Jahweh sprak tot Mosjee op de berg Sinaï, zeggende:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en hij sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op de berg"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaï"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:57.277029870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 28:9",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En de vrouw zei tot hem: Zie, jij weet ⟨את⟩ wat Sjaoel gedaan heeft, dat hij ⟨את⟩ de geestenroepers en ⟨את⟩ de waarzeggers uit het land heeft uitgeroeid — waarom zet jij een strik voor mijn nefesj, om mij te laten sterven?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "weet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedaan heeft"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "uitgeroeid heeft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de geestenroepers"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "de geestenroepers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de waarzeggers"
+    },
+    {
+      "surface": "הידעני",
+      "gloss": "de waarzeggers"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "en waarom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "מתנקש",
+      "gloss": "een strik zet"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "voor mijn nefesj"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "om mij te laten sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T20:48:41.734625247Z",
+  "model": "glm-5.3"
+}

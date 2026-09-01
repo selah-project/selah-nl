@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 66:23",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "En het zal geschieden: van nieuwe maan tot nieuwe maan, en van sabbat tot sabbat, zal alle vlees komen om zich voor mijn aangeacht te buigen, zegt Jahweh.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en het zal geschieden"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "van"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nieuwe maan"
+    },
+    {
+      "surface": "בחדשו",
+      "gloss": "tot zijn nieuwe maan"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "en van"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "tot zijn sabbat"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "zal komen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "om zich te buigen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor mijn aangezicht"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:26:59.255472395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En zij zonden ⟨את⟩ de ark van Elohim naar Ekron. En het gebeurde, toen de ark van Elohim in Ekron kwam, dat de Ekronieten uitschreeuwden en zeiden: Zij hebben ⟨את⟩ de ark van de Elohim van Israël naar mij gebracht om mij te doden ⟨את⟩ en mijn volk!",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "en zij zonden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "naar Ekron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "toen kwam"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "in Ekron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "en schreeuwden"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "de Ekronieten"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "zij hebben rondgebracht"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naar mij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van de Elohim van Israël"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "van de Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "om mij te doden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "en mijn volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:39.012067706Z",
+  "model": "glm-5.3"
+}

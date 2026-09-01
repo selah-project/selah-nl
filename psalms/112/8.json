@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 112,
+  "translation": "Gestut is zijn hart, hij zal niet vrezen, totdat hij ⟨zijn ondergang⟩ aanschouwt ⟨op⟩ zijn tegenstanders.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "Gestut"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zijn hart"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "zal hij vrezen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hij aanschouwt"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "zijn tegenstanders"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:31.625018446Z",
+  "model": "glm-5.3"
+}

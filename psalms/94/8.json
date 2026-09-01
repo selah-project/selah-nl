@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Doorgrond ⟨dit⟩, dommen onder het volk, en dwazen — wanneer zullen ⟨jullie⟩ verstandig worden?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "doorgrond"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "dommen"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "onder het volk"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "en dwazen"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "zullen verstandig worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.586071960Z",
+  "model": "glm-5.3"
+}

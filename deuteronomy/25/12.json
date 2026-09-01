@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "dan zal jij haar hand afkappen ⟨את⟩; jouw oog zal ⟨haar⟩ niet sparen.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "dan zul jij afkappen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar hand"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "haar hand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "zult sparen"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "jouw oog"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:40.482628304Z",
+  "model": "glm-5.3"
+}

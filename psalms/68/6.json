@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Vader van de wezen en rechter van de weduwen ⟨is⟩ Elohim in zijn heilige woning.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Vader"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "van de wezen"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "en rechter"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "van de weduwen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "in zijn woning"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "heilige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:22.227445816Z",
+  "model": "glm-5.3"
+}

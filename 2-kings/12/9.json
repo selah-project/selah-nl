@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En de priesters kwamen overeen geen geld meer te nemen van ⟨את⟩ het volk, en de scheuren van het huis niet te herstellen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "kwamen overeen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "om niet"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "te nemen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "geld"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "en om niet"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "te herstellen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de scheuren"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "scheuren"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van het huis"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:33.639783131Z",
+  "model": "glm-5.3"
+}

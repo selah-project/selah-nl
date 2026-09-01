@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Binjamin verwekte ⟨את⟩ Bela, zijn eerstgeborene, Asjbel de tweede, en Achrach de derde.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "En Binjamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "zijn eerstgeborene"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Asjbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "de tweede"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "en Achrach"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "de derde"
+    }
+  ],
+  "timestamp": "2026-08-31T23:28:27.998188846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En Jahweh verhardde ⟨את⟩ het hart van Par'o, koning van Mitsrajim, en hij achtervolgde de kinderen van Jisraël; en de kinderen van Jisraël trokken uit met opgeheven hand.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "en verhardde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hart"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Par'o"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "en hij achtervolgde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "trokken uit"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "met hand"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "opgeheven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:06.446473897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En het zal zo zijn: uit de beek zul je drinken, en ⟨את⟩ de raven heb ik geboden je daar te onderhouden.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en het zal zijn"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "uit de beek"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "zul je drinken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de raven"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "de raven"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "heb ik geboden"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "je te onderhouden"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:12.765397239Z",
+  "model": "glm-5.3"
+}

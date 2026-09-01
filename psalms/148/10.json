@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 148,
+  "translation": " wild gedierte en al het vee, kruipend gedierte en gevleugelde vogels,",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "wild gedierte"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al het"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "vee"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kruipend gedierte"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "en vogels"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "gevleugelde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:09.646492433Z",
+  "model": "glm-5.3"
+}

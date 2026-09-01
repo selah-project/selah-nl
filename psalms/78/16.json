@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En hij liet stromen uitkomen uit de rots en deed water neerdalen als rivieren.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "en hij liet uitkomen"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "stromen"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "uit de rots"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "en deed neerdalen"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "als rivieren"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:51.000216797Z",
+  "model": "glm-5.3"
+}

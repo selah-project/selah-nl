@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 128,
+  "translation": "Een lied van de opgangen. Hoe gelukkig is een ieder die Jahweh vreest, die wandelt in zijn wegen.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van de opgangen"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "hoe gelukkig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "een ieder"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vreest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "die wandelt"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "in zijn wegen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:22.241489944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Ik, ik heb gesproken; ja, ik heb hem geroepen; ik heb hem gebracht, en hij heeft zijn weg doen slagen.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "heb gesproken"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "heb ik hem geroepen"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "heb ik hem gebracht"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "en heeft doen slagen"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "zijn weg"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:53.975137462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En hij zal ze naar de priester brengen, en ⟨deze⟩ zal ⟨het dier⟩ dat voor het zondeoffer ⟨is⟩ als eerste aanbieden, en hij zal zijn kop afsnijden ter hoogte van de nek, maar hij zal ⟨hem⟩ niet scheuren.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "en hij zal brengen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "ze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "en hij zal aanbieden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dat voor het zondeoffer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "voor het zondeoffer"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "als eerste"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "en hij zal afsnijden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn kop"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "zijn kop"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ter hoogte van"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "de nek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "hij zal scheuren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:34.664655377Z",
+  "model": "glm-5.3"
+}

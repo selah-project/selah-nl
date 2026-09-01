@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Mijn heer vroeg ⟨את⟩ zijn dienaren en zei: hebben jullie een vader of een broer?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "mijn heer"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "vroeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn dienaren"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "היש",
+      "gloss": "hebben"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "אב",
+      "gloss": "een vader"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "אח",
+      "gloss": "een broer"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:41.509287251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 90,
+  "translation": "Voordat ⟨de⟩ bergen geboren werden, en U ⟨de⟩ aarde en ⟨de⟩ wereld voortbracht, van eeuwigheid tot eeuwigheid bent U El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "geboren werden"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "en voortbracht"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "en wereld"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "van eeuwigheid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwigheid"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:05.763541377Z",
+  "model": "glm-5.3"
+}

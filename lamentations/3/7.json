@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Hij heeft mij omwald, ⟨zodat⟩ ik er niet uit ga; hij heeft mijn koperen ⟨keten⟩ zwaar gemaakt.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Hij heeft omwald"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "om mij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ik ga er uit"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "hij heeft zwaar gemaakt"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "mijn koperen ⟨keten⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:57.315662493Z",
+  "model": "glm-5.3"
+}

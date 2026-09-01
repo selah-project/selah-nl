@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Toen zei ik: Adonai Jahweh, houd toch op ⟨alsjeblieft⟩ — wie zal Jaäkov doen opstaan? Want hij is klein.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Toen zei ik"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "houd op"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "zal doen opstaan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "klein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:30.319602858Z",
+  "model": "glm-5.3"
+}

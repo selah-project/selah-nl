@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Die de bergen drenkt vanuit zijn bovenvertrekken; van de vrucht van uw werken wordt de aarde verzadigd.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "drenkt"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "vanuit zijn bovenvertrekken"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "van de vrucht"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "van uw werken"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "wordt verzadigd"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:06.617662825Z",
+  "model": "glm-5.3"
+}

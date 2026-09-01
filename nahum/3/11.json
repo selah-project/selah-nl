@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Ook jij zult dronken worden, zult verborgen zijn; ook jij zult een vesting zoeken wegens ⟨de⟩ vijand.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "jij"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "zult dronken worden"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "zult zijn"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "verborgen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "jij"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "zult zoeken"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "een vesting"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "wegens ⟨de⟩ vijand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:23.971397719Z",
+  "model": "glm-5.3"
+}

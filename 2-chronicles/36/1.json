@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En het volk van het land nam ⟨את⟩ Jehoachaz, de zoon van Josjia, en zij maakten hem koning in plaats van zijn vader in Jeroesjalajim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "en zij namen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "van Josjia"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "en maakten hem koning"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeroesjalajim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:12:43.186352795Z",
+  "model": "glm-5.3"
+}

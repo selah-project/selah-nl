@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En Jahweh zei tot hem: Ga, keer terug op jouw weg, woestijnwaarts naar Damasek, en wanneer je komt, zalf ⟨את⟩ Chazaël tot koning over Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "op jouw weg"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "woestijnwaarts"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "naar Damasek"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "en wanneer je komt"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "zul je zalfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chazaël"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaël"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tot koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:18.090370096Z",
+  "model": "glm-5.3"
+}

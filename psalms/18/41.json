@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 18:41",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En mijn vijanden — gij hebt mij hun ⟨את⟩ nek gegeven; mijn haters — ik roei ze uit.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "en mijn vijanden"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "gij hebt gegeven"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nek (achterhoofd)"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "en mijn haters"
+    },
+    {
+      "surface": "אצמיתם",
+      "gloss": "ik roei ze uit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:32.086516755Z",
+  "model": "glm-5.3"
+}

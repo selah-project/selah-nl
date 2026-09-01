@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Wanneer jij een gelofte aan Elohim doet, stel niet uit om die te voldoen, want er ⟨is⟩ geen welgevallen in dwazen; ⟨את⟩ wat jij gelooft, voltooi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "jij een gelofte doet"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "een gelofte"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "stel uit"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "om die te voldoen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is geen"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "welgevallen"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "in dwazen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat jij gelooft"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "jij gelooft"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "voltooi"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:11.032138680Z",
+  "model": "glm-5.3"
+}

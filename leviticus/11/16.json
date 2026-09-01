@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ de dochter van de jaäanä, en ⟨את⟩ de tachmas, en ⟨את⟩ de sjachaf, en ⟨את⟩ de nets, naar zijn soort;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de dochter van de jaäanä"
+    },
+    {
+      "surface": "בת",
+      "gloss": "de dochter"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "van de jaäanä (struysvogel)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de tachmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "de tachmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de sjachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "de sjachaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de nets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "de nets (havik)"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "naar zijn soort"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:51.982387402Z",
+  "model": "glm-5.3"
+}

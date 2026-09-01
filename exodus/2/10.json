@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En het kind groeide, en zij bracht hem naar de dochter van Par'o, en hij werd haar tot een zoon. En zij riep zijn naam Mosjee, en zij zei: Want uit het water heb ik hem getrokken.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "en groeide"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "het kind"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "en zij bracht hem"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "naar de dochter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en hij werd"
+    },
+    {
+      "surface": "לה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "tot een zoon"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "en zij riep"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "המים",
+      "gloss": "het water"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "heb ik hem getrokken"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:22.955986615Z",
+  "model": "glm-5.3"
+}

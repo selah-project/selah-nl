@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En ik nam jullie vader — ⟨את⟩ Avraham — van de overzijde van de Rivier, en ik leidde hem door heel het land Kenaan, en ik vermenigvuldigde zijn nageslacht, en ik gaf hem ⟨את⟩ Jitschak.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "en ik nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie vader"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "jullie vader"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "van de overzijde van"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "de Rivier"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "en ik leidde"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ hem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "door heel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "en ik vermenigvuldigde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn nageslacht"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zijn nageslacht"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "en ik gaf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    }
+  ],
+  "timestamp": "2026-08-31T20:34:58.783926862Z",
+  "model": "glm-5.3"
+}

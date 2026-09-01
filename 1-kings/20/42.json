@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En hij zei tot hem: zo zegt Jahweh: omdat je ⟨את⟩ de man die ik tot cherem verklaard had uit je hand hebt laten gaan, zal jouw nefesj ⟨in de plaats⟩ komen van zijn nefesj, en jouw volk in de plaats van zijn volk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "je hebt laten gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "die ik tot cherem verklaard had"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit je hand"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "zal komen"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jouw nefesj"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in de plaats van"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn nefesj"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "en jouw volk"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in de plaats van"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:41.203355499Z",
+  "model": "glm-5.3"
+}

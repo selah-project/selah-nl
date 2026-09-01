@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Kwaad dode[t] de goddeloze, en wie de rechtvaardige haten, zullen schuldig gestraft worden.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "doodt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "en wie haten"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de rechtvaardige"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "zullen schuldig gestraft worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:59.060187755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En er werden zeven dagen vervuld, nadat Jahweh ⟨את⟩ de Nijl geslagen had.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "en er werden vervuld"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "geslagen had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Nijl"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "de Nijl"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:58.218222801Z",
+  "model": "glm-5.3"
+}

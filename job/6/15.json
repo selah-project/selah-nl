@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Mijn broeders hebben trouweloos gehandeld als een beek, als een bedding van beeken die vergaan.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "mijn broeders"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "hebben trouweloos gehandeld"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "een beek"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "als een bedding"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "van beeken"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "die vergaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:40.647423218Z",
+  "model": "glm-5.3"
+}

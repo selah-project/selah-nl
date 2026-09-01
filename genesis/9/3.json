@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Alles wat zich beweegt en leeft, zal u tot voedsel zijn; zoals het groene kruid heb ik u ⟨את⟩ alles gegeven.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "wat zich beweegt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leeft"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "tot voedsel"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "zoals het groene"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "kruid"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "heb ik gegeven"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:48.354672612Z",
+  "model": "glm-5.3"
+}

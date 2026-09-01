@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En zij zei tegen Avraham: drijf deze dienstmaagd uit, en ⟨את⟩ haar zoon, want de zoon van deze dienstmaagd zal niet erven met mijn zoon, met Jitschak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "tegen Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "drijf uit"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "deze dienstmaagd"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "haar zoon"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "haar zoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "zal erven"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "van de dienstmaagd"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:37.822763549Z",
+  "model": "glm-5.3"
+}

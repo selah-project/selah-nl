@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Een boom des levens is zij voor wie haar vasthouden, en wie haar ondersteunt is gelukkig.",
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "boom"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "des levens"
+    },
+    {
+      "surface": "היא",
+      "gloss": "is zij"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "voor wie vasthouden"
+    },
+    {
+      "surface": "בה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "en wie haar ondersteunt"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "is gelukkig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:05.402455893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 76,
+  "translation": "Daar verbrijzelde hij de vlampijlen van de boog, schild en zwaard en oorlog. Sela.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "verbrijzelde hij"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "vlampijlen"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "van de boog"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "schild"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "en zwaard"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "en oorlog"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:25.624192929Z",
+  "model": "glm-5.3"
+}

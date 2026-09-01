@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En als jij in je hart zegt: Hoe zullen wij ⟨את⟩ het woord weten dat Jahweh niet gesproken heeft?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "En als"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "jij zult zeggen"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "in je hart"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "zullen wij weten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "gesproken heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:27.415938126Z",
+  "model": "glm-5.3"
+}

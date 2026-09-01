@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 9:3",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En alle vorsten van de gewesten, en de satrapen, en de stadhouders, en de ambtenaren van de koning verhieven ⟨את⟩ de Joden, want de angst voor Mordechai was op hen gevallen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "En alle"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vorsten"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "van de gewesten"
+    },
+    {
+      "surface": "והאחשדרפנים",
+      "gloss": "en de satrapen"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "en de stadhouders"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "en de ambtenaren"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "van de dienst"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "verhieven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Joden"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "de Joden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "was gevallen"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "de angst"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "voor Mordechai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:03.397980741Z",
+  "model": "glm-5.3"
+}

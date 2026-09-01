@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "dan zult U vanuit de hemelen hun gebed horen, ⟨את⟩ hun smeekbede, en hun recht doen.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "dan zult U horen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "vanuit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun gebed"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "hun gebed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun smeekbede"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "hun smeekbede"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "hun recht"
+    }
+  ],
+  "timestamp": "2026-08-31T23:05:00.606702730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Is niet de hele aarde vóór jou? Scheid u toch van mij ⟨את⟩ — als ⟨je⟩ naar links, dan ik naar rechts; en als ⟨je⟩ naar rechts, dan ik naar links.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "is niet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vóór jou"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "scheid u"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "naar links"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "dan ik naar rechts"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "naar rechts"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "dan ik naar links"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:01.899923090Z",
+  "model": "glm-5.3"
+}

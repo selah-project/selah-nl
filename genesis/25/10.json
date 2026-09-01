@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "het veld dat Avraham had gekocht van ⟨את⟩ de zonen van Chet; daar werd Avraham begraven, en Sara, zijn vrouw.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "het veld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "had gekocht"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "de zonen van Chet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "werd begraven"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "en Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:08.834792812Z",
+  "model": "glm-5.3"
+}

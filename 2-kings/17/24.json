@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 17:24",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En de koning van Assjoer bracht ⟨mensen⟩ uit Bavel, en uit Koeta, en uit Awva, en uit Chamat, en uit Sefarwajim, en deed hen wonen in de steden van de Sjomron, in plaats van de zonen van Israël; en zij namen ⟨את⟩ de Sjomron in bezit en woonden in zijn steden.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en bracht"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assjoer"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "uit Bavel"
+    },
+    {
+      "surface": "ומכותה",
+      "gloss": "en uit Koeta"
+    },
+    {
+      "surface": "ומעוא",
+      "gloss": "en uit Awva"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "en uit Chamat"
+    },
+    {
+      "surface": "וספרוים",
+      "gloss": "en uit Sefarwajim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en deed wonen"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "in de steden"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "de Sjomron"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "en zij namen in bezit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Sjomron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "de Sjomron"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "en zij woonden"
+    },
+    {
+      "surface": "בעריה",
+      "gloss": "in zijn steden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:05.994373646Z",
+  "model": "glm-5.3"
+}

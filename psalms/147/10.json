@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Niet in de macht van het paard heeft hij behagen, niet in de benen van de man schept hij welbehagen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Niet"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "in de macht"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "van het paard"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "heeft hij behagen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "in de benen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "van de man"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "schept hij welbehagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:02.346958500Z",
+  "model": "glm-5.3"
+}

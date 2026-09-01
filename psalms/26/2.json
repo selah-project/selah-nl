@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Beproef mij, Jahweh, en stel mij op de proef; smelt mijn nieren en mijn hart.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "beproef mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "en stel mij op de proef"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "smelt"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "mijn nieren"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "en mijn hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:22.221133193Z",
+  "model": "glm-5.3"
+}

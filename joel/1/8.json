@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Klaag als een jonge vrouw, omgord met een rouwkleed, om de man van haar jeugd.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "klaag"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "als een jonge vrouw"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "omgord"
+    },
+    {
+      "surface": "שק",
+      "gloss": "met een rouwkleed"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "de man"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "van haar jeugd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:50.224931824Z",
+  "model": "glm-5.3"
+}

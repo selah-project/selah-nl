@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 142,
+  "translation": "Een maskil van David, toen hij in de spelonk was; een gebed.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "een maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "toen hij was"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "in de spelonk"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "een gebed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:23.573282429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Hongerig, ook dorstig, hun nefesj ⟨⟨versmacht⟩⟩ in hen.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Hongerig"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "dorstig"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hun nefesj"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in hen"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "⟨versmacht⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:59.352969669Z",
+  "model": "glm-5.3"
+}

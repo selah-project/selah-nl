@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 144,
+  "translation": "De mens is aan een adem gelijkgesteld, zijn dagen als een schaduw die voorbijgaat.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "aan een adem"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "is gelijkgesteld"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "zijn dagen"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "als een schaduw"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "die voorbijgaat"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:47.982430655Z",
+  "model": "glm-5.3"
+}

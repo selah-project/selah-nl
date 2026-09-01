@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En het gebeurde, toen Rachel ⟨את⟩ Jossef gebaard had, dat Jaäkov tot Lavan zei: stuur mij weg, dat ik naar mijn plaats en naar mijn land ga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toen"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebaard had"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jossef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jossef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dat ... zei"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "stuur mij weg"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dat ik ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "mijn plaats"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "en naar mijn land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:32.977063171Z",
+  "model": "glm-5.3"
+}

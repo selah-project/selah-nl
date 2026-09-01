@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En ik zei: Ik zal ⟨את⟩ u niet weiden — de stervende ⟨zal⟩ sterven, en de verdelgde ⟨zal⟩ verdelgd worden, en de overgeblevenen, ieder ⟨zal⟩ ⟨את⟩ het vlees van haar naaste eten.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "En ik zei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "zal ik weiden"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "de stervende"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "zal sterven"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "en de verdelgde"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "zal verdelgd worden"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "en de overgeblevenen"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "zullen eten"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het vlees van haar naaste"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "van haar naaste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:04:10.057028898Z",
+  "model": "glm-5.3"
+}

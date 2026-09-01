@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": "Een lied van de opgangen. Gedenk, Jahweh, aan Dawid, ⟨את⟩ al zijn vernederingen.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van de opgangen"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "gedenk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al zijn vernederingen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "zijn vernederingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:34.642221343Z",
+  "model": "glm-5.3"
+}

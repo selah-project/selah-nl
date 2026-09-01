@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 15:10",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En Sjallum, zoon van Javesj, spande tegen hem samen, en hij sloeg hem ten overstaan van het volk, en doodde hem, en hij regeerde in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "spande samen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tegen hem"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Sjallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "van Javesj"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "en hij sloeg hem"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ten overstaan van"
+    },
+    {
+      "surface": "עם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "en doodde hem"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en hij regeerde"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:44.577898186Z",
+  "model": "glm-5.3"
+}

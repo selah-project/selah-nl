@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "Mijn hart stroomt over van een goed woord, ik zeg: mijn werken ⟨zijn⟩ voor de koning; mijn tong ⟨is⟩ de pen van een snelle schrijver",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "stroomt over"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "van een woord"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ik zeg"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mijn werken"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "voor de koning"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "mijn tong"
+    },
+    {
+      "surface": "עט",
+      "gloss": "de pen"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "van een schrijver"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "snelle"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:06.725315500Z",
+  "model": "glm-5.3"
+}

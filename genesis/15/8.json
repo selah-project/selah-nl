@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En hij zei: Adonai Jahweh, waaraan zal ik weten dat ik het in erfbezit zal nemen?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "במה",
+      "gloss": "waaraan"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "zal ik weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "ik het in erfbezit zal nemen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:08.743589410Z",
+  "model": "glm-5.3"
+}

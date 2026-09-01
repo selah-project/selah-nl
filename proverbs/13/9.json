@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Het licht van de rechtvaardigen verheugt zich ⟨en straalt⟩, maar de lamp van de goddelozen dooft uit.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "het licht"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "van de rechtvaardigen"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "verheugt zich ⟨en straalt⟩"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "maar de lamp"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "dooft uit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:19.798305822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En dit zijn de namen van de mannen die ⟨met⟩ u zullen staan: voor Reoeven, Elitsur, zoon van Sjedeoer.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "zijn de namen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "van de mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "zullen staan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ met u",
+      "marks": "prepositie et-H854 'met', geen accusatieffmerker"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "voor Reoeven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "van Sjedeoer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:30.301960178Z",
+  "model": "glm-5.3"
+}

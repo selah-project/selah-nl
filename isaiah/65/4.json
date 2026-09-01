@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "Die in de graven zitten en overnachten in de verborgen plekken, die varkensvlees eten en ⟨een⟩ bouillon van onreine dingen in hun vaten hebben.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "Die zitten"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "in de graven"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "en in de verborgen plekken"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "overnachten"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "die eten"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "varkens"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "en ⟨een⟩ stuk"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "onreine dingen"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "in hun vaten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:27:03.724046738Z",
+  "model": "glm-5.3"
+}

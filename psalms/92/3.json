@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "om te verkondigen in de morgen Uw chesed ⟨[goedertierenheid]⟩, en Uw trouw in de nachten,",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "om te verkondigen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Uw chesed"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "en Uw trouw"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "in de nachten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:08.916545177Z",
+  "model": "glm-5.3"
+}

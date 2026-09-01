@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 24:6",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En Jehojakim ging slapen bij zijn vaders, en Jehojachin zijn zoon werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "en hij ging slapen"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en hij werd koning"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Jehojachin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:13:04.389586516Z",
+  "model": "glm-5.3"
+}

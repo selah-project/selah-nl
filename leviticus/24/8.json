@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Op de dag van de sabbat, op de dag van de sabbat zal hij het ⟨את⟩ ordenen voor het aangezicht van Jahweh, voortdurend, van de kant van ⟨את⟩ de zonen van Jisraël, een eeuwig verbond.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op de dag van"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "de sabbat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag van"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "de sabbat"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "zal hij het ordenen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "de zonen van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "een verbond"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:30.167695488Z",
+  "model": "glm-5.3"
+}

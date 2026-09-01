@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En ⟨את⟩ de twee nieren, en ⟨את⟩ het vet dat daarop ⟨zit⟩, dat op de lendenen ⟨zit⟩, en ⟨את⟩ de aanhangsel boven de lever — bij de nieren zal hij het wegnemen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de twee nieren"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de twee"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "nieren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het vet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "het vet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "de lendenen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de aanhangsel"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "de aanhangsel"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "de lever"
+    },
+    {
+      "surface": "על",
+      "gloss": "bij"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "de nieren"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "zal hij het wegnemen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:28.838606883Z",
+  "model": "glm-5.3"
+}

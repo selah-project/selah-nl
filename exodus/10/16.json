@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Toen haastte Par'o zich om Mosjee en Aharon te roepen, en hij zei: ik heb gezondigd tegen Jahweh, jullie Elohim, en tegen jullie.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "en haastte zich"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "om te roepen"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "voor Mosjee"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "en voor Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ik heb gezondigd"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tegen Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "en tegen jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:38.926966952Z",
+  "model": "glm-5.3"
+}

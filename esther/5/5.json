@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En de koning zei: Haast ⟨את⟩ Haman om ⟨את⟩ het woord van Ester te doen. En de koning en Haman kwamen naar het feestmaal dat Ester gemaakt had.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en de koning zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "haast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het woord van Ester"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "van Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en kwam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "en Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "het feestmaal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "gemaakt had"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:02.137659060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Een mizmor van Dawid. Jahweh, wie zal als vreemdeling vertoeven in uw tent, wie zal wonen op uw heilige berg?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Een mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "zal als vreemdeling vertoeven"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "in uw tent"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "zal wonen"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "uw heilige berg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:18.298463569Z",
+  "model": "glm-5.3"
+}

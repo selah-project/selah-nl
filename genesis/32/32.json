@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En de zon ging voor hem op toen hij over Penuël ⟨את⟩ trok, en hij hinkte op zijn heup.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "en ging op"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toen"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "hij trok over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuël"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuël"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "hinkte"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "zijn heup"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:35.956777281Z",
+  "model": "glm-5.3"
+}

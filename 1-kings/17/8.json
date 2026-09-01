@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En het woord van Jahweh kwam tot hem, zeggende:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het geschiedde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:34.602421258Z",
+  "model": "glm-5.3"
+}

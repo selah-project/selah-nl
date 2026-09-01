@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij zei: wat heb je gedaan? ⟨De⟩ stem van het bloed van je broeder roept ⟨tot⟩ mij uit de aardbodem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "heb je gedaan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "stem"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "van het bloed"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "van je broeder"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "roept"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de aardbodem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:34.676976629Z",
+  "model": "glm-5.3"
+}

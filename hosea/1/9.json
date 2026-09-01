@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij zei: noem zijn naam Lo-Ammi (niet-mijn-volk), want jullie zijn niet mijn volk, en ik zal niet voor jullie ⟨zijn⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "noem"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Lo-Ammi (niet-mijn-volk)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T21:53:38.907158851Z",
+  "model": "glm-5.3"
+}

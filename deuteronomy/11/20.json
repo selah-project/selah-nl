@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "en je zult ze schrijven op de deurposten van je huis en op je poorten.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "en je zult ze schrijven"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "deurposten"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "je huis"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "en op je poorten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:34.659088569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "brandmerk voor brandmerk, wond voor wond, striem voor striem.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "brandmerk"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "voor"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "brandmerk"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "wond"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "voor"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "wond"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "striem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "voor"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "striem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:27.219629130Z",
+  "model": "glm-5.3"
+}

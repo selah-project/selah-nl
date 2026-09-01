@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En ik gaf aan Jitschak ⟨את⟩ Jaakob en ⟨את⟩ Esav, en ik gaf aan Esav ⟨את⟩ het gebergte Seïr om het in bezit te nemen; en Jaakob en zijn zonen daalden af naar Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "en ik gaf"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "aan Jitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "en ik gaf"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "aan Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het gebergte Seïr"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gebergte"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seïr"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "om te bezitten"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ het"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "en Jaakob"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en zijn zonen"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "daalden af"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "naar Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:34:58.784206392Z",
+  "model": "glm-5.3"
+}

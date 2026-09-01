@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En de ene zei: Wees toch bereid en ga met ⟨את⟩ uw dienaren. En hij zei: Ikzelf zal gaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en de ene zei"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "wees bereid"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "en ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw dienaren"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "uw dienaren"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ikzelf"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "zal gaan"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:54.441840103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En jullie weten dat ik met al mijn kracht ⟨את⟩ jullie vader gediend heb.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "en jullie"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met al"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mijn kracht"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "heb ik gediend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie vader"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "jullie vader"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:52.131462532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En mijn vijanden ⟨zijn⟩ in leven en sterk geworden, en zij die mij haten ⟨met⟩ leugen ⟨zijn⟩ talrijk.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "en mijn vijanden"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "in leven"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "zijn sterk geworden"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "en zijn talrijk"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "zij die mij haten"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leugen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:40.692156003Z",
+  "model": "glm-5.3"
+}

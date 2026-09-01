@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Ik zal niet sterven — maar ik zal leven, en de werken van Jah vertellen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "zal ik sterven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "zal ik leven"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "en ik zal vertellen"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "de werken"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:12.444591734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En u zult ⟨את⟩ het brandofferaltaar stellen vóór de ingang van de tabernakel, de tent van ontmoeting.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "en u zult stellen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het brandofferaltaar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "van het brandoffer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vóór"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "de ingang"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "van de tabernakel"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:52.522316027Z",
+  "model": "glm-5.3"
+}

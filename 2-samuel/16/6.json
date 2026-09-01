@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En hij wierp met stenen naar Dawid ⟨את⟩ en naar ⟨את⟩ alle dienaren van koning Dawid; en al het volk en alle gibboriem ⟨waren⟩ aan zijn rechterhand en aan zijn linkerhand.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "En hij wierp met stenen"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "met stenen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle dienaren van koning Dawid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dienaren van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "gibboriem"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "aan zijn rechterhand"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "en aan zijn linkerhand"
+    }
+  ],
+  "timestamp": "2026-08-31T20:54:09.694251290Z",
+  "model": "glm-5.3"
+}

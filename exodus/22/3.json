@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Als de diefstal zeker in zijn hand wordt aangetroffen — in leven, van os tot ezel tot schaap — dubbel zal hij vergoeden.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "zeker aangetroffen"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "wordt aangetroffen"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in zijn hand"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "de diefstal"
+    },
+    {
+      "surface": "משור",
+      "gloss": "van os"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ezel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שה",
+      "gloss": "schaap"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "in leven"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dubbel"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zal hij vergoeden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:05.742106211Z",
+  "model": "glm-5.3"
+}

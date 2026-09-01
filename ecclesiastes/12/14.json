@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Want ⟨את⟩ alle werk zal Elohim in het gericht brengen, ook over alles wat verborgen is, of het goed is of of het kwaad is.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle werk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "zal brengen"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in het gericht"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "wat verborgen is"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "of"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:22.406323581Z",
+  "model": "glm-5.3"
+}

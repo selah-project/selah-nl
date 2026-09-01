@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Je zult je niet ⟨met hen⟩ verenigen ⟨את⟩ in een graf, want je hebt je land verwoest, je volk gedood; tot in eeuwigheid zal het nageslacht van kwaaddoeners niet genoemd worden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "zullen verenigen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "in een graf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "je land"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "heb je verwoest"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "je volk"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "heb je gedood"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "zal genoemd worden"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslacht"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "van kwaaddoeners"
+    }
+  ],
+  "timestamp": "2026-08-31T23:44:34.905985410Z",
+  "model": "glm-5.3"
+}

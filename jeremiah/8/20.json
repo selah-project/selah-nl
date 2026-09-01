@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Voorbij ⟨is⟩ de oogst, ten einde ⟨is⟩ de zomer, en wij zijn niet gered.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "voorbij"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "de oogst"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ten einde"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "de zomer"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "en wij"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "zijn gered"
+    }
+  ],
+  "timestamp": "2026-08-31T21:29:35.314357317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En hij zeide: waarachtig, ik heb gezworen, luidt het orakel van Jahweh, dat, omdat gij ⟨את⟩ deze daad gedaan hebt en uw zoon, uw enige, niet hebt achtergehouden —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "בי",
+      "gloss": "waarachtig"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ik heb gezworen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "luidt het orakel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gij hebt gedaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze daad"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "de daad"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "hebt achtergehouden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw zoon"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "uw zoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw enige"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "uw enige"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:31.555600771Z",
+  "model": "glm-5.3"
+}

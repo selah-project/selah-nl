@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 98,
+  "translation": "Rivieren klappen in de handen, samen juichen de bergen.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Rivieren"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "klappen"
+    },
+    {
+      "surface": "כף",
+      "gloss": "in de handen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "samen"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "juichen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:52.025302819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Als je ⟨את⟩ Mijn volk, ⟨את⟩ de arme die bij je is, zilver leent, wees hem niet als een woekeraar; leg geen rente op hem.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "je leent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mijn volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mijn volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de arme"
+    },
+    {
+      "surface": "העני",
+      "gloss": "de arme"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "die bij je is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wees"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "als een woekeraar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "leg op"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "rente"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:16.273495523Z",
+  "model": "glm-5.3"
+}

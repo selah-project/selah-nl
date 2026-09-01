@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En hij mat ⟨את⟩ de voorhof: de lengte honderd el en de breedte honderd el, vierkant; en het altaar ⟨stond⟩ voor het huis.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "en hij mat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de voorhof"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "de voorhof"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "de lengte"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "en de breedte"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "vierkant"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "en het altaar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    }
+  ],
+  "timestamp": "2026-08-31T21:51:53.813506242Z",
+  "model": "glm-5.3"
+}

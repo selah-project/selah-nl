@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 12:24",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Hij neemt het verstand ⟨weg⟩ van de hoofden van ⟨het⟩ volk des lands, en doet hen dwalen in woestenij, zonder weg.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "neemt ⟨weg⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het verstand"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "de hoofden"
+    },
+    {
+      "surface": "עם",
+      "gloss": "van ⟨het⟩ volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des lands"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "en doet hen dwalen"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "in woestenij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "weg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:23.520700021Z",
+  "model": "glm-5.3"
+}

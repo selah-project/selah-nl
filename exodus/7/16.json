@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En je zult tot hem zeggen: Jahweh, de Elohim van de Hebreeën, heeft mij naar u gezonden ⟨om te zeggen⟩: stuur ⟨את⟩ mijn volk weg, zodat zij mij dienen in de woestijn; en zie, tot nu toe hebt u niet geluisterd.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "En je zult zeggen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "van de Hebreeën"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "heeft mij gezonden"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "naar u"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨om te zeggen⟩"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "stuur weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "zodat zij mij dienen"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hebt u geluisterd"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nu toe"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:29.134852205Z",
+  "model": "glm-5.3"
+}

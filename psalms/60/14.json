@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "In Elohim zullen wij dapperheid doen, en hij ⟨is het⟩ die onze vijanden zal vertreden.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "In Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "zullen wij doen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dapperheid"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "zal vertreden"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "onze vijanden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:13.477489366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "Voor de koorleider, op ⟨de wijs van⟩ Sjosjan Edut, een miktam van Dawid, om te onderwijzen.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Sjosjan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "een miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "om te onderwijzen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:37.015621414Z",
+  "model": "glm-5.3"
+}

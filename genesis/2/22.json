@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Jahweh Elohim bouwde ⟨את⟩ de rib, die Hij van de mens genomen had, tot een vrouw, en Hij bracht haar tot de mens.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en Hij bouwde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de rib"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "de rib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "Hij genomen had"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "tot een vrouw"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "en Hij bracht haar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:45.541004672Z",
+  "model": "glm-5.3"
+}

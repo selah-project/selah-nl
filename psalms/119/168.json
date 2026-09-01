@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik heb uw voorschriften bewaard en uw getuigenissen, want al mijn wegen ⟨liggen⟩ voor uw aangezicht.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "ik heb bewaard"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "uw voorschriften"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "en uw getuigenissen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mijn wegen"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "voor uw aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:47.267075102Z",
+  "model": "glm-5.3"
+}

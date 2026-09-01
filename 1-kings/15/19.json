@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 15:19",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "⟨Er zij⟩ een verbond tussen mij en jou, tussen mijn vader en jouw vader. Zie, ik heb jou een geschenk gezonden, zilver en goud; ga, verbreek jouw verbond met Baësja, koning van Jisraël, zodat hij van mij wegtrekt.",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "verbond"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen mij"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "en tussen jou"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "jouw vader"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "heb ik gezonden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "geschenk"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "verbreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw verbond"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "jouw verbond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baësja"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baësja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ועילה",
+      "gloss": "zodat hij wegtrekt"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van mij"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:32.548175136Z",
+  "model": "glm-5.3"
+}

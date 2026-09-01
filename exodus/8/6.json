@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij zei: Morgen. En hij ⟨zei⟩: Zoals uw woord ⟨is⟩, opdat u weet dat er niemand ⟨is⟩ als Jahweh, onze Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "zoals uw woord"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "u weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is niemand"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "als Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:00.785626707Z",
+  "model": "glm-5.3"
+}

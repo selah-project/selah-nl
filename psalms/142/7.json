@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 142,
+  "translation": "Let op mijn luid ⟨geschreeuw⟩, want ik ben zeer verzwakt; red mij van mijn achtervolgers, want zij zijn sterker dan ik.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Let op"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mijn geschreeuw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ik ben verzwakt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "van mijn achtervolgers"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "zij zijn sterk"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dan ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:46.328217226Z",
+  "model": "glm-5.3"
+}

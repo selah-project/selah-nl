@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Zie, hij rukt weg — wie kan hem ⟨terug⟩brengen? Wie zal tot hem zeggen: wat doe jij?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "zie"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "hij rukt weg"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "kan hem brengen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zal zeggen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "doe jij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:19.444303723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En Lavan zei: Goed dat ik ⟨את⟩ haar geef aan jou, meer dan dat ik ⟨את⟩ haar geef aan een andere man; blijf bij mij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "dat ik geef"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ haar",
+      "marks": "aan jou"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "dan dat ik geef"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ haar",
+      "marks": "aan een andere man"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan een man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "andere"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "blijf"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bij mij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:57.474692120Z",
+  "model": "glm-5.3"
+}

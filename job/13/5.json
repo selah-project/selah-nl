@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 13:5",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Wie geeft dat ⟨gij⟩ zwijgt — dat gij geheel zoudt zwijgen, en het zou voor jullie tot wijsheid wezen!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "zwijgen"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "zoudt gij geheel zwijgen"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en het zou zijn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "tot wijsheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:23.693707102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 61,
+  "translation": "Hij zal zitten ⟨op de troon⟩ tot in eeuwigheid voor het aangezicht van Elohim; chesed en waarheid, wijs toe — dat zij hem bewaren.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "hij zal zitten"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "en waarheid"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wijs toe"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "dat zij hem bewaren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:54.148079797Z",
+  "model": "glm-5.3"
+}

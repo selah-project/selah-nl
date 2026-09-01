@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En zo deed hij ⟨jaar⟩ in ⟨jaar⟩; steeds wanneer zij opging naar het huis van Jahweh, zo tergde ⟨Peninna⟩ haar; dan weende zij ⟨Channa⟩ en at zij niet.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "en zo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "deed hij"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "in jaar"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "steeds wanneer"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "zij opging"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "naar het huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "tergde"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "en weende zij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "at zij"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:41.541430460Z",
+  "model": "glm-5.3"
+}

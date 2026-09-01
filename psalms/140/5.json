@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 140,
+  "translation": "Bewaar mij, Jahweh, voor de handen van de slechte, voor de man van geweld — moge gij mij behoeden — die beraamd hebben mijn stappen weg te duwen.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Bewaar mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "voor de handen van"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de slechte"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "voor de man van"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "moge gij mij behoeden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "beraamd hebben"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "weg te duwen"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "mijn stappen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:39.031123537Z",
+  "model": "glm-5.3"
+}

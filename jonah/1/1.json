@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En het woord van Jahweh kwam tot Jona, zoon van Amitai, zeggende:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het kwam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amitai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T21:59:09.325468941Z",
+  "model": "glm-5.3"
+}

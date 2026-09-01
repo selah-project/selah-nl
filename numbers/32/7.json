@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En waarom ontmoedigen jullie ⟨את⟩ het hart van de zonen van Israël, om niet over te gaan naar het land dat Jahweh hun gegeven heeft?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "en waarom"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "ontmoedigen jullie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hart van de zonen van Israël"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "om over te gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegeven heeft"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:18:08.943434141Z",
+  "model": "glm-5.3"
+}

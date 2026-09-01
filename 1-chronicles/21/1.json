@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En de satan stond op tegen Israël, en hij verleidde Dawid om Israël te tellen.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "en stond op"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "de satan"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "en hij verleidde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "om te tellen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:02:08.725781230Z",
+  "model": "glm-5.3"
+}

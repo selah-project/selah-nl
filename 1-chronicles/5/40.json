@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Azarjah verwekte ⟨את⟩ Serajah, en Serajah verwekte ⟨את⟩ Jehotsadak.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "en Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "en Serajah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Jehotsadak"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:56.867635952Z",
+  "model": "glm-5.3"
+}

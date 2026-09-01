@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 26:35",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Dit zijn de zonen van Efraïm naar hun families: van Sjoetelach de familie van de Sjutlachieten; van Becher de familie van de Bachrieten; van Tachan de familie van de Tachanieten.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "van Efraïm"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "naar hun families"
+    },
+    {
+      "surface": "לשותלח",
+      "gloss": "van Sjoetelach"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "de familie"
+    },
+    {
+      "surface": "השתלחי",
+      "gloss": "van de Sjutlachieten"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "van Becher"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "de familie"
+    },
+    {
+      "surface": "הבכרי",
+      "gloss": "van de Bachrieten"
+    },
+    {
+      "surface": "לתחן",
+      "gloss": "van Tachan"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "de familie"
+    },
+    {
+      "surface": "התחני",
+      "gloss": "van de Tachanieten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:16:49.555535571Z",
+  "model": "glm-5.3"
+}

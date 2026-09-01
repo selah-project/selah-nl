@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "In de weg van uw getuigenissen heb ik mij verheugd, als over alle rijkdom.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "in de weg"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "van uw getuigenissen"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "heb ik mij verheugd"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "als over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הון",
+      "gloss": "rijkdom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:21.172432657Z",
+  "model": "glm-5.3"
+}

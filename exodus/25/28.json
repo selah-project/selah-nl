@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En u zult ⟨את⟩ de draagbomen maken van acacia-hout, en u zult ⟨את⟩ ze met goud overtrekken, en ⟨את⟩ de tafel zal daarmee gedragen worden.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en u zult maken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de draagbomen"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "de draagbomen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "en u zult overtrekken"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ze"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "met goud"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "en gedragen zal worden"
+    },
+    {
+      "surface": "בם",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "de tafel"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:25.678567779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Ben-Deker, in Makats, en in Sjaälbim, en in Bet-Sjemesj, en Elon-Bet-Chanan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "in Makats"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "en in Sjaälbim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "en in Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Sjemesj"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "en Elon-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Chanan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:35.482168938Z",
+  "model": "glm-5.3"
+}

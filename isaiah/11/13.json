@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En de afgunst van Efrajim zal wijken, en de benauwers van Jehoeda zullen afgesneden worden; Efrajim zal Jehoeda niet benijden ⟨את⟩, en Jehoeda zal Efrajim niet benauwen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "zal wijken"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "afgunst"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "benauwers van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "zullen afgesneden worden"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "zal benijden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoeda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "zal benauwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrajim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:16:24.337866149Z",
+  "model": "glm-5.3"
+}

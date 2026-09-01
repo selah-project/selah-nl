@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "en hij vroeg voor hem ⟨aan⟩ Jahweh, en hij gaf hem proviand, en ⟨את⟩ het zwaard van Goljat de Filistijn gaf hij hem.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "en hij vroeg"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "en proviand"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het zwaard van Goljat de Filistijn"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "het zwaard"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "van Goljat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "de Filistijn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:25.647152857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Van een leugenzaak houd ⟨u⟩ verre, en de onschuldige en de rechtvaardige zult gij niet doden, want Ik zal ⟨de⟩ goddeloze niet rechtvaardigen.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "van een zaak"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leugen"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "houd gij verre"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "en de onschuldige"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "en de rechtvaardige"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "zult gij doden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "zal Ik rechtvaardigen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de goddeloze"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:22.036105810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Lavan zei tegen Ja'akov: wat heb je gedaan? Je hebt ⟨את⟩ mijn hart gestolen en ⟨את⟩ mijn dochters weggevoerd als gevangenen van het zwaard.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "tegen Ja'akov"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "heb je gedaan"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "je hebt gestolen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn hart"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "en ⟨je hebt⟩ weggevoerd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn dochters"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "mijn dochters"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "als gevangenen"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van het zwaard"
+    }
+  ],
+  "timestamp": "2026-08-31T23:42:41.548254964Z",
+  "model": "glm-5.3"
+}

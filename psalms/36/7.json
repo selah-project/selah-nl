@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "Uw gerechtigheid ⟨is⟩ als de bergen van El; uw rechtspraak ⟨is⟩ een grote diepte; mens en vee redt U, Jahweh.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "uw gerechtigheid"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "als de bergen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "uw rechtspraak"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "een diepte"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "grote"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "en vee"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "redt U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:26.004583648Z",
+  "model": "glm-5.3"
+}

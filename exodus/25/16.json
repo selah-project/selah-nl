@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En u zult in de ark leggen ⟨את⟩ de getuigenis, die ik u geven zal.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "en u zult geven\/leggen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de getuigenis"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "de getuigenis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ik geven zal"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aan u"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:30.700995259Z",
+  "model": "glm-5.3"
+}

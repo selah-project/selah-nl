@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Mijn schreden hielden vast aan uw paden, geenszins wankelden mijn voeten.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "hielden vast"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mijn schreden"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "aan uw paden"
+    },
+    {
+      "surface": "בל",
+      "gloss": "geenszins"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "wankelden"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "mijn voeten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:11.601670584Z",
+  "model": "glm-5.3"
+}

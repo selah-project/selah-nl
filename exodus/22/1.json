@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Als bij ⟨het⟩ inbreken de dief wordt aangetroffen en geslagen wordt zodat hij sterft — er is voor hem geen bloed⟨schuld⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "bij ⟨het⟩ inbreken"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "wordt aangetroffen"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "de dief"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "en geslagen wordt"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "zodat hij sterft"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is niet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "bloed⟨schuld⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:05.741737419Z",
+  "model": "glm-5.3"
+}

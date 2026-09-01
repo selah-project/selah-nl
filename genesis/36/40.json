@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En dit ⟨zijn⟩ de namen van de stamhoofden van Esav, naar hun geslachten, naar hun woonplaatsen, met hun namen: stamhoofd Timna, stamhoofd Alva, stamhoofd Jetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "de namen van"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "de stamhoofden van"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "naar hun geslachten"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "naar hun woonplaatsen"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "met hun namen"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "stamhoofd"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "stamhoofd"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "stamhoofd"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Jetet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:03.474609176Z",
+  "model": "glm-5.3"
+}

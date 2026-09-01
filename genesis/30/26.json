@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Geef ⟨את⟩ mijn vrouwen en ⟨את⟩ mijn kinderen, voor wie ik jou gediend heb — met hen — en ik zal gaan; want ⟨את⟩ jij kent ⟨את⟩ mijn dienst waarmee ik jou gediend heb.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "geef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn vrouwen"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "mijn vrouwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mijn kinderen"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "mijn kinderen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "voor wie"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ik ... gediend heb"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jij"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "met hen"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "en ik zal gaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn dienst"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "mijn dienst"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ik jou gediend heb"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:32.977517665Z",
+  "model": "glm-5.3"
+}

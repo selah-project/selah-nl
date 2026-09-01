@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "Zij zullen U vrezen zolang de zon ⟨staat⟩, en voor het aangezicht van de maan, generatie — generaties.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "zullen zij U vrezen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zolang"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "en voor het aangezicht van"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "de maan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generatie"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "generaties"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:04.685845653Z",
+  "model": "glm-5.3"
+}

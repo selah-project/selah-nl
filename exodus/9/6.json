@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Jahweh deed ⟨את⟩ dit woord de dag daarna, en al het vee van Mitsrajim stierf; maar van het vee van de kinderen van Jisraël stierf niet één.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en deed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dit woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "de dag daarna"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en stierf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "maar van het vee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מת",
+      "gloss": "stierf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:10.442436734Z",
+  "model": "glm-5.3"
+}

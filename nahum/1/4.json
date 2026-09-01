@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Hij bestraft de zee en maakt haar droog, en alle rivieren laat hij opdrogen: Bashan verdort en de Karmel, en de bloem van de Libanon verdort.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "Hij bestraft"
+    },
+    {
+      "surface": "בים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "en maakt haar droog"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "rivieren"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "laat hij opdrogen"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "verdort"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "en de Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "en de bloem"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "van de Libanon"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "verdort"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:57.133468988Z",
+  "model": "glm-5.3"
+}

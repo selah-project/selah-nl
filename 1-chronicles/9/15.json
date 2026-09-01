@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Bakbakkar, Cherésj en Galal, en Mattanja, zoon van Micha, zoon van Zichri, zoon van Asaf.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "En Bakbakkar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Cherésj"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "en Galal"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "en Mattanja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Micha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zichri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    }
+  ],
+  "timestamp": "2026-08-31T22:59:52.612374448Z",
+  "model": "glm-5.3"
+}

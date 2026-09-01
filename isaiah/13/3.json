@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Ik heb bevolen ⟨aan⟩ mijn geheiligden, ook heb ik geroepen mijn helden voor mijn toorn, ⟨met⟩ mijn juichenden van mijn hoogheid.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "heb bevolen"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "mijn geheiligden"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "heb geroepen"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "mijn helden"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "voor mijn toorn"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "mijn juichenden"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "van mijn hoogheid"
+    }
+  ],
+  "timestamp": "2026-08-31T21:16:34.316184442Z",
+  "model": "glm-5.3"
+}

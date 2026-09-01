@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Jahweh bestemde een grote vis om ⟨את⟩ Jona te verslinden; en Jona was in de ingewanden van de vis drie dagen en drie nachten.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "en bestemde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "een vis"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grote"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "om te verslinden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en was"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "in de ingewanden"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "van de vis"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "en drie"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nachten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:55.061664324Z",
+  "model": "glm-5.3"
+}

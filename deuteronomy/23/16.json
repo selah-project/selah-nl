@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Je zult geen slaaf uitleveren aan zijn heer, die zich naar jou toe gered heeft uit de macht van zijn heer.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "zul jij uitleveren"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "slaaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "zijn heer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "zich gered heeft"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "naar jou toe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "uit de macht van"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "zijn heer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:56.849985164Z",
+  "model": "glm-5.3"
+}

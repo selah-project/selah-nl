@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "Aan hem die alleen grote wonderen doet, want tot in eeuwigheid ⟨duurt⟩ zijn chesed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "aan hem die doet"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "wonderen"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "grote"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:09.556307128Z",
+  "model": "glm-5.3"
+}

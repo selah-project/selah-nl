@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Ik ⟨ben⟩ een bloem van de Sjaron, een lelie der dalen.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "een bloem"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "van de Sjaron"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "een lelie"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "der dalen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:51.766159717Z",
+  "model": "glm-5.3"
+}

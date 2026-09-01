@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 63,
+  "translation": "Want U bent tot hulp voor mij geweest, en in de schaduw van Uw vleugels juich ik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "היית",
+      "gloss": "U bent geweest"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "tot hulp"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "en in de schaduw"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "van Uw vleugels"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "juich ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.898622544Z",
+  "model": "glm-5.3"
+}

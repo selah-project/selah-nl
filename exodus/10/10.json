@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En hij zei tot hen: zo moge Jahweh met ⟨u⟩ zijn, zoals ik ⟨u⟩ wegzendt, ⟨u⟩ en ⟨את⟩ uw kleinen; zie toch, want kwaad ⟨staat⟩ voor uw aangezicht.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "moge zijn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met u"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ik wegzend"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jullie kleinen"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "jullie kleinen"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "zie toch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "jullie aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:46.146042380Z",
+  "model": "glm-5.3"
+}

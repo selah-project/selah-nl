@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "In gebrek en honger ⟨zijn zij⟩ verworpen; die de dorre streek knagen ⟨als⟩ gisternacht — verwoesting en woestenij.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "in gebrek"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "en in honger"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "verworpen"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "die knagen"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "de dorre streek"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "gisternacht"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "verwoesting"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "en woestenij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:25.087436585Z",
+  "model": "glm-5.3"
+}

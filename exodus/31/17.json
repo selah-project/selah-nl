@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Tussen mij en tussen de kinderen van Jisraël ⟨is⟩ het een teken voor eeuwig, want in zes dagen maakte Jahweh ⟨את⟩ de hemel en ⟨את⟩ de aarde, en op de zevende dag rustte hij en werd hij verfrist.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "tussen mij"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אות",
+      "gloss": "een teken"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "zes"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maakte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hemel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "en op de dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "de zevende"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "rustte"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "en werd hij verfrist"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:21.302288908Z",
+  "model": "glm-5.3"
+}

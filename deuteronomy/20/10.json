@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Wanneer gij nadert tot een stad om er tegen te strijden, dan zult gij haar ⟨de⟩ vrede aanbieden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "gij nadert"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "een stad"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "om te strijden"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tegen haar"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "dan zult gij ... aanbieden"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "vrede"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:25.694440882Z",
+  "model": "glm-5.3"
+}

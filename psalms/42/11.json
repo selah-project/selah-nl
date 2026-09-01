@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Als met een verbrijzeling in mijn beenderen hebben mijn belagers mij gesmaad, door tot mij te zeggen, de hele dag: waar is jouw Elohim?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "als met een verbrijzeling"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "in mijn beenderen"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "hebben zij mij gesmaad"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mijn belagers"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "door te zeggen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar is"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:03.266473403Z",
+  "model": "glm-5.3"
+}

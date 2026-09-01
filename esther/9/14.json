@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En de koning zei: laat het zo gedaan worden; en er werd een wet uitgevaardigd in Sjoeshan, en de tien zonen van Haman hingen zij ⟨את⟩ op.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en de koning zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "en er werd uitgevaardigd"
+    },
+    {
+      "surface": "דת",
+      "gloss": "een wet"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "in Sjoeshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de tien zonen van Haman"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tien"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "hingen zij op"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:23.173705141Z",
+  "model": "glm-5.3"
+}

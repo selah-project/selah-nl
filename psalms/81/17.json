@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 81,
+  "translation": "En Hij zou hem gespijzigd hebben met het vet van tarwe, en met honing uit de rots zou ik u verzadigd hebben.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "En Hij zou hem gespijzigd hebben"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "met het vet"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "van tarwe"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "en uit de rots"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "honing"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "zou ik u verzadigd hebben"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:07.244078839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En zij braken ⟨את⟩ de zuil van de Baäl af, en zij braken ⟨את⟩ het huis van de Baäl af, en zij maakten het tot privaten, tot op deze dag.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "En zij braken af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zuil"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "de zuil"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "van de Baäl"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "en zij braken af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "van de Baäl"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "en zij maakten het"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "tot privaten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot op"
+    },
+    {
+      "surface": "היום",
+      "gloss": "deze dag"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:22.938126365Z",
+  "model": "glm-5.3"
+}

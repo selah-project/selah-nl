@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Wie op zijn hart vertrouwt, die ⟨is⟩ een dwaas, maar wie in wijsheid wandelt, die wordt gered.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "vertrouwt"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "op zijn hart"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "een dwaas"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "maar wie wandelt"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "in wijsheid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "wordt gered"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:54.240471468Z",
+  "model": "glm-5.3"
+}

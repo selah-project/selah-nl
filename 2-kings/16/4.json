@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En hij slachtte ⟨offers⟩ en liet rook opgaan op de hoogten en op de heuvels en onder iedere groene boom.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "en hij slachtte"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "en liet rook opgaan"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "op de hoogten"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "de heuvels"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "en onder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "boom"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "groene"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:52.978319348Z",
+  "model": "glm-5.3"
+}

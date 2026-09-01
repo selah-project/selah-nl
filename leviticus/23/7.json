@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Op de eerste dag zal een heilige samenkomst voor jullie zijn; alle werk van dienst zullen jullie niet doen.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Op de dag"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "de eerste"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "samenkomst"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "werk"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "van dienst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "zullen jullie doen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:54.228617524Z",
+  "model": "glm-5.3"
+}

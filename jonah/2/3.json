@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En hij zeide: Ik riep uit mijn benauwdheid tot Jahweh, en hij antwoordde mij; uit de schoot van Sjeool schreeuwde ik — u hoorde mijn stem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ik riep"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "uit mijn benauwdheid"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mijn⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "en hij antwoordde mij"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "uit de schoot"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sjeool"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "schreeuwde ik"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "u hoorde"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mijn stem"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:55.062085431Z",
+  "model": "glm-5.3"
+}

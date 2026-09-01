@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En Balak zei tot Bilam: ook vloeken zult u hem niet, ook zegenen zult u hem niet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "קב",
+      "gloss": "vloeken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "zult u hem vloeken"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "zegenen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "zult u hem zegenen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:15:51.277460020Z",
+  "model": "glm-5.3"
+}

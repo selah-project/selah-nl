@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En zij zei tot hen: zo zegt Jahweh, de Elohim van Israël: zeg tot de man die jullie ⟨את⟩ naar mij gezonden heeft:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "En zij zei"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "zeg"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "tot de man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gezonden heeft"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naar mij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:04.124731909Z",
+  "model": "glm-5.3"
+}

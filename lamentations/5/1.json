@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Gedenk, Jahweh, wat ons overkomen is; sla ⟨de ogen op⟩ en zie ⟨את⟩ onze schande.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Gedenk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "overkomen is"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "sla ⟨de ogen op⟩"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onze schande"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "onze schande"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:28.094027549Z",
+  "model": "glm-5.3"
+}

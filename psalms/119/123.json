@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Mijn ogen zijn ⟨uitgeput⟩ van verlangen naar uw heil en naar het woord van uw gerechtigheid.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mijn ogen"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "zijn ⟨uitgeput⟩"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "naar uw heil"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "en naar het woord"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "van uw gerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:05.543272174Z",
+  "model": "glm-5.3"
+}

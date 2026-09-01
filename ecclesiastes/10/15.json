@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "De moeite van de dwazen put ⟨hem⟩ uit — ⟨hij⟩ die niet weet ⟨hoe⟩ hij naar de stad ⟨moet⟩ gaan.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "de moeite"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "van de dwazen"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "put ⟨hem⟩ uit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "de stad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:19.917756667Z",
+  "model": "glm-5.3"
+}

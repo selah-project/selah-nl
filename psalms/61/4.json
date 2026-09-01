@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 61,
+  "translation": "Want gij zijt ⟨voor mij⟩ een toevlucht geweest, een sterke toren voor het aangezicht van de vijand.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "היית",
+      "gloss": "zijt gij geweest"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "een toevlucht"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "een toren"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "de vijand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:51.091081115Z",
+  "model": "glm-5.3"
+}

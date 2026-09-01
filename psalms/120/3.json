@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 120,
+  "translation": "Wat zal ⟨er⟩ jou gegeven worden, en wat zal ⟨er⟩ bij jou gevoegd worden, tong van bedrog?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יִּתֵּן",
+      "gloss": "zal gegeven worden"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "jou"
+    },
+    {
+      "surface": "וּמַה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "יֹּסִיף",
+      "gloss": "zal gevoegd worden"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "bij jou"
+    },
+    {
+      "surface": "לָשׁוֹן",
+      "gloss": "tong"
+    },
+    {
+      "surface": "רְמִיָּה",
+      "gloss": "van bedrog"
+    }
+  ],
+  "timestamp": "2026-08-31T23:45:48.106380323Z",
+  "model": "glm-5.3"
+}

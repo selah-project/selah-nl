@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Een tijd om te doden, en een tijd om te genezen; een tijd af te breken, en een tijd te bouwen.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "om te doden"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "om te genezen"
+    },
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "af te breken"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "te bouwen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:41.447768398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Toen ik zweeg, versleten mijn beenderen door mijn gebrul de hele dag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Toen"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ik zweeg"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "versleten"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mijn beenderen"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "door mijn gebrul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:19.635579453Z",
+  "model": "glm-5.3"
+}

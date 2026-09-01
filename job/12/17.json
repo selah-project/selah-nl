@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 12:17",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Hij voert raadgevers weg als buit ⟨⟨barrevoets⟩⟩, en rechters maakt Hij dwaas.",
+  "tokens": [
+    {
+      "surface": "מוליך",
+      "gloss": "Hij voert weg"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "raadgevers"
+    },
+    {
+      "surface": "שולל",
+      "gloss": "als buit ⟨barrevoets⟩"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "en rechters"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "maakt Hij dwaas"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:12.602218697Z",
+  "model": "glm-5.3"
+}

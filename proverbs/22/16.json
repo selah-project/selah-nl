@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Onderdrukt de arme om ⟨voor zich⟩ te vermeerderen, geeft aan de rijke — alleen ⟨om tot⟩ gebrek ⟨te komen⟩.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "Onderdrukt"
+    },
+    {
+      "surface": "דל",
+      "gloss": "de arme"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "om te vermeerderen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨voor zich⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "aan de rijke"
+    },
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "⟨om tot⟩ gebrek"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:21.816802613Z",
+  "model": "glm-5.3"
+}

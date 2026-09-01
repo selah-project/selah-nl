@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Deze maand is voor ulieden het hoofd van de maanden; zij is voor ulieden de eerste van de maanden van het jaar.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "deze maand"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor ulieden"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoofd"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "van de maanden"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "de eerste"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zij ⟨is⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor ulieden"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "van de maanden"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "van het jaar"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:49.498874587Z",
+  "model": "glm-5.3"
+}

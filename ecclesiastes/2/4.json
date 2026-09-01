@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Ik maakte mijn werken groot; ik bouwde mij huizen, ik plantte mij wijngaarden.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "Ik maakte groot"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mijn werken"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ik bouwde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huizen"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ik plantte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "wijngaarden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:02.276757129Z",
+  "model": "glm-5.3"
+}

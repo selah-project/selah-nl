@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "En alle koningen zullen zich voor hem neerbuigen; alle volken zullen hem dienen.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "en zullen zich neerbuigen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "koningen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "zullen hem dienen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:26.074260969Z",
+  "model": "glm-5.3"
+}

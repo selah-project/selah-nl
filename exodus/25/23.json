@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En u zult een tafel maken van acacia-hout: twee el zijn⟨⟩ zijn lengte, en een el zijn breedte, en een el en een helft zijn hoogte.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en u zult maken"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "een tafel"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "van hout"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "twee el"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "zijn lengte"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en een el"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "zijn breedte"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en een el"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en een helft"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "zijn hoogte"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:36.323462817Z",
+  "model": "glm-5.3"
+}

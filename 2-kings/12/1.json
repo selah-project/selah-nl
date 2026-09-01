@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Een zoon van zeven jaar was Jehoasj bij zijn koningschap.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "een zoon van"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "was Jehoasj"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "bij zijn koningschap"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:04.570942916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Beter dat jij niet een gelofte doet, dan dat jij wel een gelofte doet en niet voltooid.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "beter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "jij een gelofte doet"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "dan dat jij wel een gelofte doet"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "voltooid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:11.032335299Z",
+  "model": "glm-5.3"
+}

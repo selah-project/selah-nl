@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En de koning zei: Deze zegt: dit is mijn zoon, de levende, en jouw zoon is de dode; en die zegt: Nee, maar jouw zoon is de dode en mijn zoon de levende.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "החי",
+      "gloss": "de levende"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "en jouw zoon"
+    },
+    {
+      "surface": "המת",
+      "gloss": "de dode"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "en die"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jouw zoon"
+    },
+    {
+      "surface": "המת",
+      "gloss": "de dode"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en mijn zoon"
+    },
+    {
+      "surface": "החי",
+      "gloss": "de levende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:55.580528544Z",
+  "model": "glm-5.3"
+}

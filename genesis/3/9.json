@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Jahweh Elohim riep de mens en zei tot hem: waar bent u?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "riep"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "waar"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:20.475533087Z",
+  "model": "glm-5.3"
+}

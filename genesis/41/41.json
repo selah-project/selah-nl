@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "En Par'o zei tot Jozef: Zie, ik heb ⟨את⟩jou gesteld over heel het land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ik heb gesteld"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩jou",
+      "marks": "jou (over heel het land Mitsrajim)"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:30.882374853Z",
+  "model": "glm-5.3"
+}

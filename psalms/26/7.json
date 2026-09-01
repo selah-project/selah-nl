@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "om te doen horen de stem van dank, en te vertellen al uw wonderdaden.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "om te doen horen"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "van dankoffer"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "en te vertellen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "uw wonderdaden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:15.429858100Z",
+  "model": "glm-5.3"
+}

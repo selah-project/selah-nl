@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Zijn zilver geeft hij niet op woeker, en een steekpenning tegen de onschuldige neemt hij niet. Wie deze dingen doet, zal nooit wankelen, voor eeuwig niet.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "zijn zilver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "op woeker"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "en een steekpenning"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "de onschuldige"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "neemt"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doet"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "deze dingen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "zal wankelen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:32.817656472Z",
+  "model": "glm-5.3"
+}

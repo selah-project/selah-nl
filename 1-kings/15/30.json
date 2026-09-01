@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "vanwege de zonden van Jarobeam, die hij beging en waarmee hij Jisraël deed zondigen, door zijn verbittering, waarmee hij Jahweh, de Elohim van Jisraël, verbitterde ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "de zonden"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "van Jarobeam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hij beging"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en waarmee"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "hij deed zondigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "door zijn verbittering"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "hij verbitterde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh, de Elohim van Jisraël"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:10.710069332Z",
+  "model": "glm-5.3"
+}

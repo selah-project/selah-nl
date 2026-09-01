@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En ⟨את⟩ de muren van Jeroesjalajim rondom brak af heel ⟨het⟩ leger van de Kasdiem, dat ⟨bij⟩ de overste der beulsknechten ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de muren van Jeroesjalajim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "de muren"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jeroesjalajim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "brak af"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "leger"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "van de Kasdiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "de overste"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "der beulsknechten"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:53.726941211Z",
+  "model": "glm-5.3"
+}

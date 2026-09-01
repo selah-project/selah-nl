@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "en voor zijn zuster, de maagd, die nabij hem is, die geen man heeft gehad — voor haar mag hij zich onrein maken.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "en voor zijn zuster"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "de maagd"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "die nabij is"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aan hem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "zij is geweest"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "voor een man"
+    },
+    {
+      "surface": "לה",
+      "gloss": "voor haar"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "mag hij zich onrein maken"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:42.775351299Z",
+  "model": "glm-5.3"
+}

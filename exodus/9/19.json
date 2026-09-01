@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En nu, breng haastig ⟨את⟩ jouw vee binnen en ⟨את⟩ alles wat jou toebehoort op het veld; elk mens en dier dat op het veld gevonden wordt en niet naar het huis gebracht wordt — de hagel zal op hen neerkomen en zij zullen sterven.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "breng binnen (zend)"
+    },
+    {
+      "surface": "העז",
+      "gloss": "haastig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw vee"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "jouw vee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles wat jou toebehoort"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou toebehoort"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elk"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "en dier"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gevonden wordt"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "gebracht wordt"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "naar het huis"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "zal neerkomen"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "op hen"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "de hagel"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "en zij zullen sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:27.578957244Z",
+  "model": "glm-5.3"
+}

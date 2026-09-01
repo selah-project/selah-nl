@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "Wend Uw blik van mij af, dan kan ik opfleuren, eer ik heenga en er niet meer ben.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Wend Uw blik af"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "dan kan ik opfleuren"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "eer"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ik heenga"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "en er niet meer ben"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:48.333381370Z",
+  "model": "glm-5.3"
+}

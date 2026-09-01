@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Vang voor ons de vossen, de kleine vossen, die de wijngaarden verwoesten — want onze wijngaarden ⟨staan⟩ in bloei.",
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "vang"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "de vossen"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "vossen"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "kleine"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "die verwoesten"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "de wijngaarden"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "want onze wijngaarden"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "in bloei"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:52.149160383Z",
+  "model": "glm-5.3"
+}

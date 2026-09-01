@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "De offers van Elohim ⟨zijn⟩ een gebroken geest; een gebroken en verslagen hart, Elohim, u zult niet verachten.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "de offers"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "een geest"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "gebroken"
+    },
+    {
+      "surface": "לב",
+      "gloss": "een hart"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "gebroken"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "en verslagen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "u zult verachten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:29.731400535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij had twee vrouwen; de naam van de ene was Channa, en de naam van de tweede Peninna; en Peninna had kinderen, maar Channa had geen kinderen.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "en hij had"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vrouwen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "van de ene"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en de naam"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "van de tweede"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Peninna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het was"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "voor Peninna"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "maar voor Channa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "kinderen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:41:58.282984913Z",
+  "model": "glm-5.3"
+}

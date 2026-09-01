@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Daarom heb ik gezworen aan het huis van Eli: de ongerechtigheid van het huis van Eli zal niet verzoend worden, noch met slachtoffer noch met graanoffer, tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "en daarom"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "heb ik gezworen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "aan het huis"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "van Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨indien⟩"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "zal verzoend worden"
+    },
+    {
+      "surface": "עון",
+      "gloss": "de ongerechtigheid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "van Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "met slachtoffer"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "noch met graanoffer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T23:18:59.806846306Z",
+  "model": "glm-5.3"
+}

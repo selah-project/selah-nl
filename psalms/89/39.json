@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Maar jij — jij hebt verstoten en verworpen, jij bent toornig geworden op je Masjiach.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "maar jij"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "jij hebt verstoten"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "en verworpen"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "jij bent toornig geworden"
+    },
+    {
+      "surface": "עם",
+      "gloss": "op"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "je Masjiach"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:10.518088453Z",
+  "model": "glm-5.3"
+}

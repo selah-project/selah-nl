@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Hij werpt zijn ijs uit als brokstukken; wie kan standhouden voor zijn kou?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Hij werpt uit"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "zijn ijs"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "als brokstukken"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "zijn kou"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "kan standhouden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:19.905445877Z",
+  "model": "glm-5.3"
+}

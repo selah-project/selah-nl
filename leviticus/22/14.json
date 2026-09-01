@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En wanneer iemand onbedoeld heiligs eet, dan voegt hij ⟨de⟩ vijfde deel ⟨daaraan⟩ toe en geeft hij aan de priester ⟨את⟩ het heilige.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "en wanneer iemand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heiligs"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "onbedoeld"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "dan voegt hij toe"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "zijn vijfde deel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daaraan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en geeft"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "aan de priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het heilige"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "het heilige"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:40.305516901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Een bijwonende vreemdeling en een dagloner mogen daar niet van eten.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "bijwonende vreemdeling"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "en een dagloner"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mogen eten"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarvan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:04.413765984Z",
+  "model": "glm-5.3"
+}

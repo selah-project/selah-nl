@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Maar de chesed van Jahweh ⟨is⟩ van eeuwigheid tot eeuwigheid over wie Hem vrezen, en zijn rechtvaardigheid over kindskinderen,",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "maar de chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "van eeuwigheid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwigheid"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wie Hem vrezen"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "en zijn rechtvaardigheid"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "over kindskinderen"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "(letterlijk: zonen van zonen)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:51.831583966Z",
+  "model": "glm-5.3"
+}

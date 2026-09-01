@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En hij gebood de wolken van boven, en de deuren van de hemel opende hij.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en hij gebood"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "de wolken"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "van boven"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "en de deuren van"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "opende hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:45.522037428Z",
+  "model": "glm-5.3"
+}

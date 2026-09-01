@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Zelfs bij de Chorev hebben jullie Jahweh ⟨את⟩ tot toorn gemaakt, en Jahweh werd vertoornd op jullie om jullie te verdelgen ⟨את⟩ jullie.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "en bij de Chorev"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "hebben jullie tot toorn gemaakt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "en werd vertoornd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "op jullie"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "om te verdelgen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:17.103087249Z",
+  "model": "glm-5.3"
+}

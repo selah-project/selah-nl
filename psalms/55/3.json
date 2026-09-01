@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Neig ⟨het oor⟩ naar mij en antwoord mij; ik dwaal onrustig rond in mijn gemor en ik kreun.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "neig ⟨het oor⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naar mij"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "en antwoord mij"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "ik dwaal onrustig rond"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "in mijn gemor"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "en ik kreun"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:03.607385769Z",
+  "model": "glm-5.3"
+}

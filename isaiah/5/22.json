@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 5:22",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Wee ⟨hen die⟩ helden zijn in het drinken van wijn, en mannen van kracht in het mengen van sterke drank!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "helden"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "in het drinken"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wijn"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "en mannen van"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kracht"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "in het mengen"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sterke drank"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:12.537562737Z",
+  "model": "glm-5.3"
+}

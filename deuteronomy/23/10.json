@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Wanneer ⟨een⟩ leger uittrekt tegen jouw vijanden, bewaak je je tegen elke slechte zaak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "uittrekt"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leger"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "jouw vijanden"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "bewaak je je"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tegen elke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "zaak"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slechte"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:41.250477524Z",
+  "model": "glm-5.3"
+}

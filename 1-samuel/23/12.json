@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En Dawid zei: Zullen de heren van Keïla mij ⟨את⟩ en ⟨את⟩ mijn mannen uitleveren in de hand van Sjaoel? En Jahweh zei: Zij zullen uitleveren.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "zullen zij uitleveren"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "de heren van"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keïla"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mijn mannen"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mijn mannen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "zij zullen uitleveren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:20.114940042Z",
+  "model": "glm-5.3"
+}

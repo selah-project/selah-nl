@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Want U gaat hem vooruit met zegeningen van goed; U zet op zijn hoofd een kroon van fijn goud.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "gaat U hem vooruit"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "met zegeningen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "van goed"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "zet U"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "op zijn hoofd"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "een kroon"
+    },
+    {
+      "surface": "פז",
+      "gloss": "van fijn goud"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:23.515831674Z",
+  "model": "glm-5.3"
+}

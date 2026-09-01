@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 130,
+  "translation": "Adonai, hoor mijn stem; laten uw oren opmerkzaam zijn op de stem van mijn smeekbeden.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "mijn stem"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "laten ⟨zijn⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "uw oren"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "opmerkzaam"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "op de stem"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "van mijn smeekbeden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:30.412707325Z",
+  "model": "glm-5.3"
+}

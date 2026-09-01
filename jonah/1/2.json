@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Sta op, ga naar Nineve, de grote stad, en roep tegen haar, want hun kwaad is opgestegen vóór mijn aangezicht.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "sta op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "de grote"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "en roep"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tegen haar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "is opgestegen"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "hun kwaad"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vóór mijn aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T21:59:09.325721857Z",
+  "model": "glm-5.3"
+}

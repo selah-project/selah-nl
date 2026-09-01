@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij zond een man voor hen uit — ⟨als⟩ dienaar werd Jozef verkocht.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Hij zond"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hen uit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "⟨als⟩ dienaar"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "werd verkocht"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:35.616580340Z",
+  "model": "glm-5.3"
+}

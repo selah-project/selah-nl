@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Nadat hij ⟨את⟩ Sichon, de koning van de Emorieten, die in Chesjbon woonde, geslagen had, en ⟨את⟩ Og, de koning van Bashan, die in Ashtarot woonde, in Edreï —",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Nadat"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "geslagen had"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de Emorieten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "woonde"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "in Chesjbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "woonde"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "in Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "in Edreï"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:27.596286531Z",
+  "model": "glm-5.3"
+}

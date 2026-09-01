@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Ik ben de man die ellende zag, onder de roede van zijn verbolgenheid.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "de man"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zag"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ellende"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "onder de roede"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "van zijn verbolgenheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:41:18.375202589Z",
+  "model": "glm-5.3"
+}

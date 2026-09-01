@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En u zult ⟨את⟩ het altaar maken van acaciahout: vijf el de lengte en vijf el de breedte; vierkant zal het altaar zijn, en drie el zijn hoogte.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en u zult maken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het altaar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "van hout"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia's"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lengte"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "en vijf"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "breedte"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "vierkant"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "en drie"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "zijn hoogte"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:42.454919349Z",
+  "model": "glm-5.3"
+}

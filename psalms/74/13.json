@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "U, met uw macht heeft U de zee gebroken, U hebt de koppen van de tanninim verbrijzeld op de wateren.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "heeft U gebroken"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "met uw macht"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "U hebt verbrijzeld"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "de koppen van"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "de tanninim"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:40.730392975Z",
+  "model": "glm-5.3"
+}

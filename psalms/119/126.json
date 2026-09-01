@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Tijd ⟨om te handelen⟩ voor Jahweh — zij hebben uw Tora geschonden.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "tijd"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te handelen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "zij hebben geschonden"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "uw Tora"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:46.600168810Z",
+  "model": "glm-5.3"
+}

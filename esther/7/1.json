@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En de koning kwam, en Haman, om te drinken met Ester de koningin.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en kwam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "en Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "om te drinken"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "de koningin"
+    }
+  ],
+  "timestamp": "2026-08-31T23:28:10.524763913Z",
+  "model": "glm-5.3"
+}

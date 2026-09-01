@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 100,
+  "translation": "Want goed ⟨is⟩ Jahweh; voor eeuwig ⟨is⟩ zijn chesed, en tot geslacht en geslacht ⟨is⟩ zijn trouw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "דר",
+      "gloss": "geslacht"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en geslacht"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "zijn trouw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:35.133431240Z",
+  "model": "glm-5.3"
+}

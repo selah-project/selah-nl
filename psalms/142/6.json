@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 142,
+  "translation": "Ik schreeuwde tot U, Jahweh; ik zei: U bent mijn toevlucht, mijn deel in het land van de levenden.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Ik schreeuwde"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ik zei"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mijn toevlucht"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "mijn deel"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "van de levenden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:46.328024937Z",
+  "model": "glm-5.3"
+}

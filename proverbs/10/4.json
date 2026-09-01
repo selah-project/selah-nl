@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Arm ⟨wordt⟩ wie werkt met een luie hand, maar de hand van vlijtigen maakt rijk.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "arm"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "werkt"
+    },
+    {
+      "surface": "כף",
+      "gloss": "hand"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "luie"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "maar de hand"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "van vlijtigen"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "maakt rijk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:11.964261123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Geen heelheid is in mijn vlees vanwege uw verbolkenheid, geen sjalom in mijn beenderen vanwege mijn zonde.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "heelheid"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "in mijn vlees"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "uw verbolkenheid"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "in mijn beenderen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mijn zonde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:06.844969652Z",
+  "model": "glm-5.3"
+}

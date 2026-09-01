@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Jehosjoea stond vroeg in de morgen op, en hij stelde ⟨את⟩ het volk in slagorde op, en hij trok op, hij en de oudsten van Jisraël, vóór het volk, naar Ha-Aj.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "en hij stond vroeg op"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "en hij stelde op \/ monsterde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en hij trok op"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "en de oudsten van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vóór"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ha-Aj"
+    }
+  ],
+  "timestamp": "2026-08-31T20:30:27.316304066Z",
+  "model": "glm-5.3"
+}

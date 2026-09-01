@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En Par'o zal zeggen over de kinderen van Jisraël: ⟨Zij⟩ zijn verdwaald in het land, de woestijn heeft hen opgesloten.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en hij zal zeggen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "over de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "verdwaald"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zij"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "heeft opgesloten"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "de woestijn"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:34.902980994Z",
+  "model": "glm-5.3"
+}

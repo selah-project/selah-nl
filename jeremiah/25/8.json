@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Daarom, zo heeft Jahweh van de legerscharen gesproken: omdat gij ⟨את⟩ mijn woorden niet hebt aangehoord —",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gesproken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "van de legerscharen"
+    },
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "gij hebt aangehoord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn woorden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mijn woorden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:33:14.413605796Z",
+  "model": "glm-5.3"
+}

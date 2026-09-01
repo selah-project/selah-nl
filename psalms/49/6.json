@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Waarom zou ik vrezen in dagen van kwaad, wanneer de ongerechtigheid mijner hielen mij omsingelt?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "zou ik vrezen"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in dagen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "עון",
+      "gloss": "de ongerechtigheid"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "mijner hielen"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "mij omsingelt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:48.607374255Z",
+  "model": "glm-5.3"
+}

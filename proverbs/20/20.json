@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Wie zijn vader en zijn moeder vervloekt — zijn lamp wordt gedoofd in ⟨de⟩ pupil ⟨van⟩ duisternis.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "vervloekt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "en zijn moeder"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "wordt gedoofd"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "zijn lamp"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "in de pupil (diepste)"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:57.279041015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En hij bracht ⟨את⟩ de korban van het volk nader, en nam ⟨את⟩ de bok van de zondeoffering, die voor het volp volk was, en slachtte hem, en ontzondigde hem, zoals de eerste.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "en hij bracht nader"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de korban"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "de korban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bok"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "de bok"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van de zondeoffering"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "voor het volk"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "en slachtte hem"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "en ontzondigde hem"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "zoals de eerste"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:09.596516295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En zij zullen ⟨את⟩ het vlees eten in deze nacht — gebraden in het vuur — en met mazzot, met bittere kruiden zullen zij het eten.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "en zij zullen eten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het vlees"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in de nacht"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "gebraden"
+    },
+    {
+      "surface": "אש",
+      "gloss": "in het vuur"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "en met mazzot"
+    },
+    {
+      "surface": "על",
+      "gloss": "met"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "bittere kruiden"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "zullen zij het eten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:40.063703584Z",
+  "model": "glm-5.3"
+}

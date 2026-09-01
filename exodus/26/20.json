@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En voor de tweede zijde van de misjkan, aan de noordzijde: twintig borden.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "en voor de zijde"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "van de misjkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "de tweede"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "aan de zijde van"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "het noorden"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "borden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:45.466805392Z",
+  "model": "glm-5.3"
+}

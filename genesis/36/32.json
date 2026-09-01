@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En Bela, zoon van Beor, regeerde in Edom, en de naam van zijn stad was Dinhaba.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "regeerde"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "in Edom"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "van Beor"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en de naam"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "van zijn stad"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Dinhaba"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:28.031015855Z",
+  "model": "glm-5.3"
+}

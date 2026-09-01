@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Elohim, U hebt mij geleerd vanaf mijn jeugd, en tot hiertoe verkondig ik ⟨Uw⟩ wonderen.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "hebt U mij geleerd"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "vanaf mijn jeugd"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hiertoe"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "verkondig ik"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "⟨Uw⟩ wonderen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:03.408707442Z",
+  "model": "glm-5.3"
+}

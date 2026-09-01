@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Maar de edelmoedige beraamt edelmoedige dingen, en door edelmoedige dingen zal hij standhouden.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "maar de edelmoedige"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "edelmoedige dingen"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "beraamt"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "על",
+      "gloss": "door"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "edelmoedige dingen"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "zal standhouden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:47.068385038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En wie ervan eet, zal zijn ongerechtigheid dragen, omdat hij ⟨את⟩ het heilige van Jahweh ontheiligd heeft; die nefesj zal uit haar volk uitgeroeid worden.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "en wie ervan eet"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "zijn ongerechtigheid"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "zal dragen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het heilige"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "het heilige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ontheiligd heeft"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "zal uitgeroeid worden"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "die nefesj"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "uit haar volk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:38.423386340Z",
+  "model": "glm-5.3"
+}

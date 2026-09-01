@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Wanneer je een Hebreeuwse slaaf koopt, zal hij zes jaar dienen, en in het zevende ⟨jaar⟩ zal hij gratis als vrij man naar buiten gaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wanneer"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "je koopt"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "slaaf"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebreeuwse"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zes"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "zal hij dienen"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "en in het zevende"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "zal hij naar buiten gaan"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "als vrij man"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "gratis"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:53.273028821Z",
+  "model": "glm-5.3"
+}

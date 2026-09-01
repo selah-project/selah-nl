@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Maar om Dawids wil gaf Jahweh zijn Elohim hem een lamp in Jeroesjalajim, om zijn zoon na hem te doen opstaan en om Jeroesjalajim te doen staan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om ... wil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "zijn Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "een lamp"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeroesjalajim"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "om te doen opstaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zoon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "na hem"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "en om te doen staan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeroesjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:19.972904002Z",
+  "model": "glm-5.3"
+}

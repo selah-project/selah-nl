@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "van Aram en van Moav, en van de zonen van Ammon, en van de Filistijnen, en van Amalek, en van de buit van Hadadezer, zoon van Rechov, koning van Tsova.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "van Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "en van Moav"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "en van de zonen"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "van Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "en van de Filistijnen"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "en van Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "en van de buit"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "van Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "van Rechov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "van Tsova"
+    }
+  ],
+  "timestamp": "2026-08-31T20:51:31.954640544Z",
+  "model": "glm-5.3"
+}

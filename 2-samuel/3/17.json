@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En het woord van Avner was met de oudsten van Jisraël, zeggende: Gisteren en eergisteren hebt gij ⟨את⟩ David gezocht om ⟨als⟩ koning over u ⟨te zijn⟩.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "En het woord"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "van Avner"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de oudsten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zowel"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "gisteren"
+    },
+    {
+      "surface": "גם",
+      "gloss": "als"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "eergisteren"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "hebt gij"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "gezocht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "om koning"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "over u"
+    }
+  ],
+  "timestamp": "2026-08-31T20:50:39.647200449Z",
+  "model": "glm-5.3"
+}

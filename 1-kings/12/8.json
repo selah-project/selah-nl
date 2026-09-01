@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En hij verliet ⟨את⟩ het overleg van de oudsten die hem hadden geraadpleegd, en overlegde ⟨את⟩ de jongelingen die met ⟨את⟩ hem waren opgegroeid, die voor zijn aangezicht stonden.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "En hij verliet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het overleg van de oudsten"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "het overleg"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "van de oudsten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "hem hadden geraadpleegd"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "en overlegde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de jongelingen"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "de jongelingen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "waren opgegroeid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "met hem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stonden"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor zijn aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:58.252076986Z",
+  "model": "glm-5.3"
+}

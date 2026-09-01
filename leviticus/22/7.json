@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En als de zon ondergaat en hij rein is, mag hij daarna eten van de heilige dingen, want het is zijn brood.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "en wanneer ondergaat"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "en rein is"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hij mag eten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "de heilige dingen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "zijn brood"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:19.307553578Z",
+  "model": "glm-5.3"
+}

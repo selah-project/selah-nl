@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 113,
+  "translation": "Die de onvruchtbare van ⟨het⟩ huis doet zitten ⟨als⟩ een moeder van kinderen, verblijd — hallelu Jah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "die doet zitten"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "de onvruchtbare"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van ⟨het⟩ huis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "een moeder"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "van kinderen"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "verblijd"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hallelu (looft)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:10.427659094Z",
+  "model": "glm-5.3"
+}

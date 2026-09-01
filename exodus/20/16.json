@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Gij zult tegen uw naaste niet antwoorden ⟨als⟩ getuige van leugen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "zult antwoorden"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "tegen uw naaste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "getuige"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leugen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:06.268766181Z",
+  "model": "glm-5.3"
+}

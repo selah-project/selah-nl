@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim zegende ⟨את⟩ hen, zeggende: Wees vruchtbaar en word talrijk en vul ⟨את⟩ de wateren in de zeeën, en het gevogelte word talrijk op de aarde.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "en zegende"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "wees vruchtbaar"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "en word talrijk"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "en vul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de wateren"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in de zeeën"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "en het gevogelte"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "word talrijk"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:18.722362171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 54:14",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 54,
+  "translation": "In gerechtigheid zult u gegrondvest worden; blijf verre van onderdrukking, want u zult niet vrezen, en van verschrikking, want zij zal niet tot u naderen.",
+  "tokens": [
+    {
+      "surface": "בצדקה",
+      "gloss": "in gerechtigheid"
+    },
+    {
+      "surface": "תכונני",
+      "gloss": "zult gegrondvest worden"
+    },
+    {
+      "surface": "רחקי",
+      "gloss": "blijf verre"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "van onderdrukking"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "zult vrezen"
+    },
+    {
+      "surface": "וממחתה",
+      "gloss": "en van verschrikking"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "zal naderen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:25.881573578Z",
+  "model": "glm-5.3"
+}

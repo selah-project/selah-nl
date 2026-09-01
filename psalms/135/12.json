@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "En gaf hun land als erfdeel, als erfdeel aan Israël, zijn volk.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "en gaf"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hun land"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "als erfdeel"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "als erfdeel"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "aan Israël"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:44.587717156Z",
+  "model": "glm-5.3"
+}

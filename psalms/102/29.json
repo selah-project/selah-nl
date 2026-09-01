@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "De zonen van uw dienaren zullen ⟨blijven⟩ wonen, en hun nageslacht zal voor uw aangezicht bestendig staan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "De zonen"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "van uw dienaren"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "zullen ⟨blijven⟩ wonen"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "en hun nageslacht"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor uw aangezicht"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "zal bestendig staan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:29.313340723Z",
+  "model": "glm-5.3"
+}

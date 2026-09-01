@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Aas of verscheurd ⟨dier⟩ mag hij niet eten, om zich daarmee onrein te maken; ik ben Jahweh.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "aas"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "of verscheurd ⟨dier⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hij mag eten"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "om zich onrein te maken"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:19.307713807Z",
+  "model": "glm-5.3"
+}

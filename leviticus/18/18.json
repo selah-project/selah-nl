@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 18:18",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En een vrouw bij haar zuster zul je niet nemen, om ⟨haar⟩ te benauwen, om haar naaktheid te onthullen tegenover haar, tijdens haar leven.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "en een vrouw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "haar zuster"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "zul je nemen"
+    },
+    {
+      "surface": "לצרר",
+      "gloss": "om te benauwen"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "om te onthullen"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "haar naaktheid"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tegenover haar"
+    },
+    {
+      "surface": "בחייה",
+      "gloss": "tijdens haar leven"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:25.884132858Z",
+  "model": "glm-5.3"
+}

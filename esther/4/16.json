@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 4:16",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Ga, verzamel ⟨את⟩ alle Joden die gevonden worden in Sjoesjan, en vast voor mij, en eet niet en drink niet drie dagen, nacht en dag; ook ik en mijn dienstmaagden zullen zo vasten; en zo zal ik naar de koning gaan, wat niet volgens de wet is; en zoals ik verloren ben gegaan, ben ik verloren gegaan.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "verzamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Joden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Joden"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "die gevonden worden"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "in Sjoesjan"
+    },
+    {
+      "surface": "וצומו",
+      "gloss": "en vast"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "eet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "drink"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nacht"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "en dag"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "ונערתי",
+      "gloss": "en mijn dienstmaagden"
+    },
+    {
+      "surface": "אצום",
+      "gloss": "zullen vasten"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "ובכן",
+      "gloss": "en zo"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "zal ik gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "volgens de wet"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "en zoals"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "ik verloren ben gegaan"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "ben ik verloren gegaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:45.702060992Z",
+  "model": "glm-5.3"
+}

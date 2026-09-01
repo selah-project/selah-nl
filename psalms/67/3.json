@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 67,
+  "translation": "om te doen weten op aarde uw weg, onder alle volken uw verlossing.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "om te doen weten"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op aarde"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "uw weg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "onder alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "uw verlossing"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:56.911032822Z",
+  "model": "glm-5.3"
+}

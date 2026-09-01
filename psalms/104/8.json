@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Bergen stijgen op, dalen dalen af, naar de plaats die gij voor hen gegrondvest hebt.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "stijgen op"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "dalen af"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "dalen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "de plaats"
+    },
+    {
+      "surface": "זה",
+      "gloss": "die"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "grondvestte gij"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:02.048595777Z",
+  "model": "glm-5.3"
+}

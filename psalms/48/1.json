@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Een lied, een muziekstuk van de zonen van Korach.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een muziekstuk"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:17.670546982Z",
+  "model": "glm-5.3"
+}

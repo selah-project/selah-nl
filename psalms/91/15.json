@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Hij zal Mij aanroepen en Ik zal hem antwoorden; Ik ben met hem in de benauwdheid, Ik zal hem eruit redden en hem eren.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "hij zal Mij aanroepen"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "en Ik zal hem antwoorden"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "in de benauwdheid"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "zal Ik hem eruit redden"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "en hem eren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:14.395018378Z",
+  "model": "glm-5.3"
+}

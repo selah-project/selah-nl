@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 36:26",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "en hun veertig voetstukken van zilver: twee voetstukken onder de ene plank en twee voetstukken onder de ⟨andere⟩ plank.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "en veertig"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "hun voetstukken"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "van zilver"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "voetstukken"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "de plank"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "en twee"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "voetstukken"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "de ⟨andere⟩ plank"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ⟨andere⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:41.908780175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 67,
+  "translation": "Elohim zegent ons, en alle einden van de aarde zullen ⟨Hem⟩ vrezen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "zegent ons"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "en zullen vrezen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Hem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "einden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:03.349925584Z",
+  "model": "glm-5.3"
+}

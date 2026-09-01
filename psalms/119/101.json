@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Van elke slechte weg heb ik mijn voeten teruggehouden, opdat ik uw woord bewaar.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "van elke"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "weg"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slechte"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "heb ik teruggehouden"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mijn voeten"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ik bewaar"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "uw woord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:44.055144913Z",
+  "model": "glm-5.3"
+}

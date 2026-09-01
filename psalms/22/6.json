@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Tot U riepen zij en werden gered; op U vertrouwden zij en werden niet beschaamd.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "riepen zij"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "en werden gered"
+    },
+    {
+      "surface": "בך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "vertrouwden zij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "werden beschaamd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:01.725330979Z",
+  "model": "glm-5.3"
+}

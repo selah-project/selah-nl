@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En Mosjee gebood ⟨את⟩ de kinderen van Israël op gezag van Jahweh, zeggend: Recht spreken de stam van de kinderen van Jozef.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en gebood"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gezag (mond) van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "כן",
+      "gloss": "recht"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "de stam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "spreken"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:26.373422211Z",
+  "model": "glm-5.3"
+}

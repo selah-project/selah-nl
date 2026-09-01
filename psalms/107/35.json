@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Hij maakt een woestijn tot een waterplas, en een dor land tot waterbronnen.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Hij maakt"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "een woestijn"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "tot een waterplas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van water"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "en een land"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "dor"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "tot bronnen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van water"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:05.301333784Z",
+  "model": "glm-5.3"
+}

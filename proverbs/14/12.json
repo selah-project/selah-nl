@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Er is een weg die recht is voor een man, maar het einde daarvan ⟨zijn⟩ de wegen van de dood.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Er is"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "een weg"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "recht"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "maar het einde daarvan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "de wegen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van de dood"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:21.718167815Z",
+  "model": "glm-5.3"
+}

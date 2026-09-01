@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En wanneer een stier een man ⟨את⟩ of een vrouw ⟨את⟩ stoot en ⟨hij⟩ sterft, zal de stier zeker gestenigd worden en zal zijn vlees niet gegeten worden; en de eigenaar van de stier is onschuldig.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "En wanneer"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "stoot"
+    },
+    {
+      "surface": "שור",
+      "gloss": "een stier"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "een man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "een vrouw"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "een vrouw"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "en ⟨hij⟩ sterft"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "zeker gestenigd"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "zal gestenigd worden"
+    },
+    {
+      "surface": "השור",
+      "gloss": "de stier"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "gegeten worden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vlees"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "zijn vlees"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "en de eigenaar"
+    },
+    {
+      "surface": "השור",
+      "gloss": "van de stier"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "is onschuldig"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:27.220371324Z",
+  "model": "glm-5.3"
+}

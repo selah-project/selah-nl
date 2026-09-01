@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "Want ziet, uw vijanden rumoeren, en wie u haten hebben ⟨het⟩ hoofd opgeheven.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ziet"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "uw vijanden"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "rumoeren"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "en wie u haten"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "hebben opgeheven"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoofd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:29.299785987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En dit is wat jullie daarvan niet mogen eten: de nesjer, en de peres, en de aznijá.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mogen eten"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "de nesjer"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "en de peres"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "en de aznijá"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:23.150210415Z",
+  "model": "glm-5.3"
+}

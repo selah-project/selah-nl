@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Jahweh Elohim, wend het aangezicht van uw Masjiach niet af; gedenk de chesed van Dawid, uw dienaar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "wend ... af"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "van uw Masjiach"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "gedenk"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "de chesed"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    }
+  ],
+  "timestamp": "2026-08-31T23:04:34.838538964Z",
+  "model": "glm-5.3"
+}

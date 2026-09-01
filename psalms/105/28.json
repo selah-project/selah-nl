@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij zond duisternis en maakte ⟨het⟩ donker, en zij kwamen niet in opstand tegen ⟨את⟩ zijn woord.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Hij zond"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "en maakte ⟨het⟩ donker"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "kwamen in opstand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn woord"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "tegen zijn woord"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:11.140953092Z",
+  "model": "glm-5.3"
+}

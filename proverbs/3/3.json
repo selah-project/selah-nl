@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Chesed ⟨(trouwvolle liefde)⟩ en waarheid — laat zij jou niet verlaten; bind ze om je keel, schrijf ze op de tafel van je hart.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "en waarheid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "laat zij jou verlaten"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "bind ze"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "je keel"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "schrijf ze"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "de tafel"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "van je hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:07.603774141Z",
+  "model": "glm-5.3"
+}

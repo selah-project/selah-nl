@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Voorzeker, tegen mij keert hij zich om, hij wendet zijn hand heel de dag ⟨lang⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "voorzeker"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "keert zich om"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "wendt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de dag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:41:18.375649121Z",
+  "model": "glm-5.3"
+}

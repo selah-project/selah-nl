@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Oería sliep aan de ingang van het huis van de koning, ⟨את⟩ alle dienaren van zijn heer ⟨met hem⟩; en hij ging niet naar beneden, naar zijn huis.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "en sliep"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Oería"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aan de ingang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle dienaren van zijn heer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dienaren"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "van zijn heer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ging hij naar beneden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:36.602799056Z",
+  "model": "glm-5.3"
+}

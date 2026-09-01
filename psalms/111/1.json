@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 111,
+  "translation": "Halleloeja! Ik loof Jahweh met heel mijn hart, in de raad van de oprechten en ⟨in⟩ de vergadering.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halleloeja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "(-ja)"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ik loof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met heel"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "in de raad"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "van de oprechten"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "en ⟨in⟩ de vergadering"
+    }
+  ],
+  "timestamp": "2026-08-31T23:46:02.339453241Z",
+  "model": "glm-5.3"
+}

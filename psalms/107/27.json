@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Zij wankelen en zwaaien heen en weer als een dronkaard, en al hun wijsheid wordt verslonden.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "zij wankelen"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "en zwaaien heen en weer"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "als een dronkaard"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "hun wijsheid"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "wordt verslonden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:06.264554443Z",
+  "model": "glm-5.3"
+}

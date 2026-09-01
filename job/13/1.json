@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 13:1",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Zie, alles heeft mijn oog gezien, mijn oor heeft het gehoord en ⟨het⟩ begrijpt het.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "heeft gezien"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn oog"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "heeft gehoord"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "mijn oor"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "en ⟨het⟩ begrijpt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "het"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:42.163317504Z",
+  "model": "glm-5.3"
+}

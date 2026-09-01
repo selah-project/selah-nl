@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En hij zei: ⟨את⟩ uw stem hoorde ik in de tuin, en ik vreesde, omdat ik naakt ben, en ik verborg mij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw stem"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "uw stem"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "hoorde ik"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "in de tuin"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "vreesde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "naakt"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik ben"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "verborg mij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:20.476254884Z",
+  "model": "glm-5.3"
+}

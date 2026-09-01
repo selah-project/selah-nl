@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En het werd gemeld aan de koning van Mitsrajim dat het volk gevlucht was; en het hart van Par'o en zijn dienaren keerde zich ⟨om⟩ tegen het volk, en zij zeiden: Wat hebben wij gedaan, dat wij Jisraël ⟨את⟩ hebben laten gaan uit onze dienst?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "en het werd gemeld"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan de koning"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "gevlucht was"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "en keerde zich om"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Par'o"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "en zijn dienaren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "hebben wij gedaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "wij hebben laten gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "uit onze dienst"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:06.445736313Z",
+  "model": "glm-5.3"
+}

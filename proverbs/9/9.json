@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Geef aan ⟨de⟩ wijze, en hij zal nog wijzer worden; maak bekend aan ⟨de⟩ rechtvaardige, en hij zal ⟨in⟩ leergierigheid toenemen.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "aan ⟨de⟩ wijze"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "en hij zal wijs worden"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "maak bekend"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "aan ⟨de⟩ rechtvaardige"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "en hij zal toenemen"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "⟨in⟩ leergierigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:35.211526145Z",
+  "model": "glm-5.3"
+}

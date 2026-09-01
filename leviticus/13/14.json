@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Maar op de dag dat er levend vlees in hem gezien wordt, is hij onrein.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "maar op de dag"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "dat gezien wordt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in hem"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levend"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "is hij onrein"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:56.645610761Z",
+  "model": "glm-5.3"
+}

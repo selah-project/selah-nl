@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En de ene riep tot de andere en zei: Heilig, heilig, heilig is Jahweh Tseva'ot; de volheid van heel de aarde is zijn kavod.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "en riep"
+    },
+    {
+      "surface": "זה",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "זה",
+      "gloss": "de andere"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Heilig"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseva'ot"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "de volheid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "zijn kavod (heerlijkheid)"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:27.703716998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Stro wordt je dienaren niet gegeven, en over de bakstenen zegt men ⟨tegen⟩ ons: maak ⟨ze⟩! en zie, je dienaren worden geslagen — en de zonde ligt bij je ⟨eigen⟩ volk.",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "Stro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wordt gegeven"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "je dienaren"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "en over de bakstenen"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "zegt men"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨tegen⟩ ons"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maak ⟨ze⟩"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "je dienaren"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "worden geslagen"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "en de zonde"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bij je volk"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:21.573472153Z",
+  "model": "glm-5.3"
+}

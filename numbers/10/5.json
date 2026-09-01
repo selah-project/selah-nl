@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En jullie steken ⟨een⟩ teroe'a aan, en de kampen die aan de oostkant legeren trekken op.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "en jullie steken aan"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "teroe'a (alarmsignaal)"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "en trekken op"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "de kampen"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "die legeren"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "aan de oostkant"
+    }
+  ],
+  "timestamp": "2026-08-31T20:11:45.872046819Z",
+  "model": "glm-5.3"
+}

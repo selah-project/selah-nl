@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En distels en doornen zal hij ⟨de aardbodem⟩ u voortbrengen, en u zult ⟨את⟩ het gewas van het veld eten.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "En doornen"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "en distels"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "zal hij voortbrengen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "en u zult eten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het gewas van het veld"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "het gewas"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van het veld"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:08.367233604Z",
+  "model": "glm-5.3"
+}

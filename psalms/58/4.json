@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 58,
+  "translation": "Vervreemd zijn de goddelozen vanaf de moederschoot; ⟨al⟩ vanaf de buik dwalen zij, leugens sprekend.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "Vervreemd zijn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "vanaf de moederschoot"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "dwalen zij"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "vanaf de buik"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sprekend"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "leugens"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:55.793904520Z",
+  "model": "glm-5.3"
+}

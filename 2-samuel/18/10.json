@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En een zekere man zag ⟨het⟩ en meldde ⟨het⟩ aan Joav, en hij zeide: Zie, ik heb ⟨את⟩ Avsjalom zien hangen in de terebint.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "zag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een zekere"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "meldde"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "aan Joav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ik heb gezien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avsjalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avsjalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "hangend"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "in de terebint"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:01.064948385Z",
+  "model": "glm-5.3"
+}

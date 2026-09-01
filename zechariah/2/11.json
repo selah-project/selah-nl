@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Hoi, Tsiyon! Ontvlucht ⟨het⟩, bewoonster van ⟨de⟩ dochter van Bavel!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoi!"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "ontvlucht!"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "bewoonster"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Bavel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:03:02.581612989Z",
+  "model": "glm-5.3"
+}

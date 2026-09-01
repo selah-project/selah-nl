@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Maar als jullie niet luisteren naar de stem van Jahweh en in opstand komen tegen ⟨את⟩ de mond van Jahweh, dan zal de hand van Jahweh tegen jullie zijn en tegen jullie vaders.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Maar als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "jullie luisteren"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "en in opstand komen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mond van Jahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de mond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dan zal zijn"
+    },
+    {
+      "surface": "יד",
+      "gloss": "de hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "tegen jullie"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "en tegen jullie vaders"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:48.386544969Z",
+  "model": "glm-5.3"
+}

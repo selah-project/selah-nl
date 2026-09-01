@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Hij heeft jou ⟨את⟩ tot Zich gebracht, en ⟨את⟩ al je broeders, de zonen van Levi, ⟨את⟩ met jou — en zoeken jullie ook het priesterschap?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "en Hij heeft gebracht"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "jou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al je broeders"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "je broeders"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met jou"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "en zoeken jullie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "het priesterschap"
+    }
+  ],
+  "timestamp": "2026-08-31T20:14:12.268665201Z",
+  "model": "glm-5.3"
+}

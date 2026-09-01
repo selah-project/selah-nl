@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Want Jahweh hoort ⟨naar⟩ de armen, en ⟨את⟩ zijn gevangenen veracht hij niet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoort"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨naar⟩"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "de armen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn gevangenen"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "zijn gevangenen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "veracht hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:27.419274384Z",
+  "model": "glm-5.3"
+}

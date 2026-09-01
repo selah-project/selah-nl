@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "dat Jahweh een man, een profeet, zond tot de zonen van Jisraël, en hij zei tot hen: zo zegt Jahweh, Elohim van Jisraël: ik heb jullie ⟨את⟩ uit Mitsrajim opgevoerd en jullie ⟨את⟩ uit het slavenhuis weggeleid.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dat ... zond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "een profeet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "heb opgevoerd"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie (uit Mitsrajim)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "en heb weggeleid"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie (uit het slavenhuis)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit het huis van"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slaven"
+    }
+  ],
+  "timestamp": "2026-08-31T20:36:22.629832589Z",
+  "model": "glm-5.3"
+}

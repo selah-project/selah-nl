@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "behalve voor zijn naaste bloedverwant, die dicht bij hem staat: voor zijn moeder en voor zijn vader en voor zijn zoon en voor zijn dochter en voor zijn broer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "behalve ⟨immers⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "voor zijn bloedverwant"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "die nabij is"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aan hem"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "voor zijn moeder"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "en voor zijn vader"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "en voor zijn zoon"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "en voor zijn dochter"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "en voor zijn broer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:42.775216774Z",
+  "model": "glm-5.3"
+}

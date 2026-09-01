@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Jahweh zal ⟨de⟩ volken richten; richt mij, Jahweh, naar mijn rechtvaardigheid en naar mijn oprechtheid die over mij ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "zal richten"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "richt mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "naar mijn rechtvaardigheid"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "en naar mijn oprechtheid"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:48.764868802Z",
+  "model": "glm-5.3"
+}

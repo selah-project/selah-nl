@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En hij bracht ⟨את⟩ de priesters en ⟨את⟩ de Levieten binnen, en verzamelde hen op het oostelijke plein.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "En hij bracht binnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de priesters"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Levieten"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "de Levieten"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "en verzamelde hen"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "op het plein"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "het oostelijke"
+    }
+  ],
+  "timestamp": "2026-08-31T23:10:27.757189041Z",
+  "model": "glm-5.3"
+}

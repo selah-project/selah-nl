@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En koning Shelomoh zond en haalde ⟨את⟩ Chiram uit Tsor.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "En … zond"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en haalde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "uit Tsor"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:32.585857058Z",
+  "model": "glm-5.3"
+}

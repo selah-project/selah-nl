@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En wie het vlees van de zav aanraakt, wast zijn kleren en baadt zich in water en is onrein tot de avond.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "En wie aanraakt"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "het vlees van"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "de zav"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "wast"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zijn kleren"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "en baadt zich"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in water"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "en is onrein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "de avond"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:59.936677013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En zij baarde een zoon, en hij riep ⟨את⟩ zijn naam Gersjom, want hij zei: een vreemdeling ben ik geweest in een vreemd land.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "en zij baarde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij riep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gersjom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hij zei"
+    },
+    {
+      "surface": "גר",
+      "gloss": "een vreemdeling"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ben ik geweest"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in een land"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "vreemd"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:38.898087795Z",
+  "model": "glm-5.3"
+}

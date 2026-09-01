@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "moge de vijand mijn nefesj achtervolgen en inhalen, en mijn leven op de aarde vertrappen, en mijn eer in het stof doen wonen. Sela.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "moge achtervolgen"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "de vijand"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "en inhalen"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "en vertrappen"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mijn leven"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "en mijn eer"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "in het stof"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "doen wonen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:44.990312160Z",
+  "model": "glm-5.3"
+}

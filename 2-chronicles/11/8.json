@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ Gat en ⟨את⟩ Marjesja en ⟨את⟩ Zief",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Marjesja"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Marjesja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zief"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zief"
+    }
+  ],
+  "timestamp": "2026-08-31T23:05:58.759366646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Hij stelde duisternis ⟨als⟩ zijn schuilplaats, rondom hem zijn hut — duisternis van wateren, wolkenmassa's van wolkenluchten.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "hij stelde"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "zijn schuilplaats"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "rondom hem"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "zijn hut"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "duisternis van"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wateren"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "wolkenmassa's van"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "wolkenluchten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:14.627555365Z",
+  "model": "glm-5.3"
+}

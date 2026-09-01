@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En wie een dier slaat, zal het vergoeden; en wie een mens slaat, moet gedood worden.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "en wie slaat"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "een dier"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "zal het vergoeden"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "en wie slaat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "een mens"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "moet gedood worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:35.244344642Z",
+  "model": "glm-5.3"
+}

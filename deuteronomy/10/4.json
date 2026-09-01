@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 10:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En hij schreef op de tafelen, overeenkomstig het eerste schrijven, ⟨את⟩ de tien woorden, die Jahweh tot jullie gesproken had op de berg, uit het midden van het vuur, op de dag van de samenkomst; en Jahweh gaf ze aan mij.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "en hij schreef"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "de tafelen"
+    },
+    {
+      "surface": "כמכתב",
+      "gloss": "overeenkomstig het schrijven"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "het eerste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tien woorden"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "de tien"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "tot jullie"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op de berg"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit het midden van"
+    },
+    {
+      "surface": "האש",
+      "gloss": "het vuur"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag van"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "de samenkomst"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "en hij gaf ze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aan mij"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:15.339901456Z",
+  "model": "glm-5.3"
+}

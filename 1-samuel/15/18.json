@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En Jahweh zond jou op weg en zei: Ga, en vernietig ⟨את⟩ de zondaars — ⟨את⟩ Amalek — volledig, en strijd tegen hen tot je hen verteerd hebt, ⟨את⟩ hen.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "en hij zond jou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op weg"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "en vernietig volledig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zondaars"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "de zondaars"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "en strijd"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tegen hem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "je hen verteerd hebt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:10.426834287Z",
+  "model": "glm-5.3"
+}

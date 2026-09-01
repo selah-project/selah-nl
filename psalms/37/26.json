@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "De gehele dag is hij goedertieren en leent hij uit, en zijn nazaat is tot zegen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "de gehele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "is goedertieren"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "en leent uit"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "en zijn nazaat"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "tot zegen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:43.638416824Z",
+  "model": "glm-5.3"
+}

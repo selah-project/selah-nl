@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Verlaat mij niet, Jahweh, mijn Elohim, verwijder U niet van mij!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "verlaat mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "verwijder U"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:51.230572212Z",
+  "model": "glm-5.3"
+}

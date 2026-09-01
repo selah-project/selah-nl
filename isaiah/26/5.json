@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Want Hij heeft neergedrukt ⟨de⟩ bewoners van de hoogte, ⟨de⟩ stad ⟨die⟩ verheven was; Hij vernedert haar, Hij vernedert haar tot de aarde, Hij doet haar ⟨tot⟩ het stof reiken.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השח",
+      "gloss": "heeft neergedrukt"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bewoners"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "van de hoogte"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "stad"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "verheven"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "Hij vernedert haar"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "Hij vernedert haar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "Hij doet haar reiken"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "het stof"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:06.411251142Z",
+  "model": "glm-5.3"
+}

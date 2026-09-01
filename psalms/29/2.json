@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Geeft Jahweh de kavod van zijn naam, buigt u neer voor Jahweh in heilige pracht.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "de kavod"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "van zijn naam"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "buigt u neer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "in pracht"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:31.596523502Z",
+  "model": "glm-5.3"
+}

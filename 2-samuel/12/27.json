@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Joav zond boden naar David toe en zei: ik heb gestreden tegen Rabbah, en ook heb ik de stad van de wateren ingenomen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "boden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "ik heb gestreden"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "tegen Rabbah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "heb ik ingenomen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stad"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "המים",
+      "gloss": "van de wateren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:53:02.199643977Z",
+  "model": "glm-5.3"
+}

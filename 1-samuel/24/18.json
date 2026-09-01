@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En hij zei tot Dawid: Rechtvaardiger ben jij dan ik, want jij hebt mij het goede vergolden, en ik heb jou het kwade vergolden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardiger"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dan ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "heb je mij vergolden"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "heb ik jou vergolden"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "het kwade"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:31.478341245Z",
+  "model": "glm-5.3"
+}

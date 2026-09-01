@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Zij — zij knielden en zij vielen, maar wij stonden op en richtten ⟨ons⟩ op.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "knielden"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "en vielen"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "maar wij"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "stonden op"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "en richtten ⟨ons⟩ op"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:03.176055765Z",
+  "model": "glm-5.3"
+}

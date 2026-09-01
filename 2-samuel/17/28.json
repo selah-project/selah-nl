@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 17:28",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "bedden en schotels en aardewerk vaatwerk en tarwe en gerst en meel en geroosterd graan en bonen en linzen en geroosterde peulvruchten",
+  "tokens": [
+    {
+      "surface": "משכב",
+      "gloss": "bedden"
+    },
+    {
+      "surface": "וספות",
+      "gloss": "en schotels"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "en vaatwerk"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "aardewerk"
+    },
+    {
+      "surface": "וחטים",
+      "gloss": "en tarwe"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "en gerst"
+    },
+    {
+      "surface": "וקמח",
+      "gloss": "en meel"
+    },
+    {
+      "surface": "וקלי",
+      "gloss": "en geroosterd graan"
+    },
+    {
+      "surface": "ופול",
+      "gloss": "en bonen"
+    },
+    {
+      "surface": "ועדשים",
+      "gloss": "en linzen"
+    },
+    {
+      "surface": "וקלי",
+      "gloss": "en geroosterde peulvruchten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:54:10.685385174Z",
+  "model": "glm-5.3"
+}

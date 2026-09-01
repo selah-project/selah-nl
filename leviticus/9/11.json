@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En ⟨את⟩ het vlees en ⟨את⟩ de huid verbrandde hij met vuur buiten het kamp.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het vlees"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de huid"
+    },
+    {
+      "surface": "העור",
+      "gloss": "de huid"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "verbrandde hij"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "het kamp"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:42.716113830Z",
+  "model": "glm-5.3"
+}

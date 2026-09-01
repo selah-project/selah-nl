@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Een berg van Elohim ⟨is⟩ de berg van Bashan, een berg van pieken ⟨is⟩ de berg van Bashan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "een berg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "⟨is⟩ de berg"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "van Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "een berg"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "van pieken"
+    },
+    {
+      "surface": "הר",
+      "gloss": "⟨is⟩ de berg"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "van Bashan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:36.755382095Z",
+  "model": "glm-5.3"
+}

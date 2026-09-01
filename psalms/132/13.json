@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": "Want Jahweh heeft Tsiyon verkozen, het begeerd als ⟨zitplaats⟩ voor zich.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "heeft verkozen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "heeft het begeerd"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "als zitplaats"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor zich"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:36.620836815Z",
+  "model": "glm-5.3"
+}

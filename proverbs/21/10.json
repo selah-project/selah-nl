@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "De nefesj van de goddeloze verlangt naar kwaad; zijn naaste vindt geen genade in zijn ogen.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "de nefesj"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van de goddeloze"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "verlangt"
+    },
+    {
+      "surface": "רע",
+      "gloss": "naar kwaad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "vindt genade"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in zijn ogen"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zijn naaste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:44.693460532Z",
+  "model": "glm-5.3"
+}

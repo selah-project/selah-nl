@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Zeggen zij nu, huis van Aharon: tot in eeuwigheid ⟨duurt⟩ zijn chesed.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Zeggen zij"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:13.475595913Z",
+  "model": "glm-5.3"
+}

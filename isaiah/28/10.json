@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Want tsav latsav, tsav latsav, kav lakav, kav lakav, hier een weinig, daar een weinig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "צו",
+      "gloss": "tsav"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "latsav"
+    },
+    {
+      "surface": "צו",
+      "gloss": "tsav"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "latsav"
+    },
+    {
+      "surface": "קו",
+      "gloss": "kav"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "lakav"
+    },
+    {
+      "surface": "קו",
+      "gloss": "kav"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "lakav"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "een weinig"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hier\/daar"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "een weinig"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:32.559480368Z",
+  "model": "glm-5.3"
+}

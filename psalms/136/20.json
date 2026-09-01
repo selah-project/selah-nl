@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "en Og, koning van de Basjan, want tot in eeuwigheid ⟨duurt⟩ zijn chesed (ontferming).",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "en Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "van de Basjan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:15.356770021Z",
+  "model": "glm-5.3"
+}

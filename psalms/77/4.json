@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 77,
+  "translation": "Ik gedenk Elohim en ik kreun; ik overpeins, en mijn geest wordt overmand. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "ik gedenk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "en ik kreun"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ik overpeins"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "en wordt overmand"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mijn geest"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:48.054789904Z",
+  "model": "glm-5.3"
+}

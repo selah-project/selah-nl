@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Mogen zijn dagen weinig zijn, en zijn pekuddá (ambt) neme een ander.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mogen zijn"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "zijn dagen"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "weinig"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "zijn ambt"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "neme"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "een ander"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:33.540606290Z",
+  "model": "glm-5.3"
+}

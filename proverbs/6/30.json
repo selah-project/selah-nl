@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Men veracht een dief niet wanneer hij steelt om zijn nefesj ⟨de ziel⟩ te vullen, wanneer hij honger lijdt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "veracht men"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "een dief"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "hij steelt"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "om te vullen"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn nefesj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "hij honger lijdt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:52.719562221Z",
+  "model": "glm-5.3"
+}

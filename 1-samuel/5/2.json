@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En de Filistijnen namen ⟨את⟩ de ark van Elohim en brachten ⟨die⟩ ⟨את⟩ het huis van Dagon binnen, en plaatsten ⟨die⟩ ⟨את⟩ naast Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "En namen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Filistijnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "en brachten binnen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Dagon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "van Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "en plaatsten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "naast Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "naast"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:59.523548413Z",
+  "model": "glm-5.3"
+}

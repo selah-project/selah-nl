@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ajjalon met zijn weiland, ⟨את⟩ Gat-Rimmon met zijn weiland — vier steden.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajjalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajjalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn weiland"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "met zijn weiland"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn weiland"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "met zijn weiland"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "steden"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    }
+  ],
+  "timestamp": "2026-08-31T20:33:26.153969076Z",
+  "model": "glm-5.3"
+}

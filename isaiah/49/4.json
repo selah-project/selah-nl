@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Maar ik zei: Tevergeefs heb ik me afgemat, voor leegte en ijdelheid heb ik mijn kracht verbruikt; toch is mijn rechtszaak bij Jahweh ⟨את⟩, en mijn loon bij mijn Elohim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maar ik"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "zei ik"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "tevergeefs"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "heb ik me afgemat"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "voor leegte"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "en ijdelheid"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mijn kracht"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "heb ik verbruikt"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "toch"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mijn rechtszaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "en mijn loon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:23:34.205166771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En jullie zullen niemand benadelen, een ieder ⟨את⟩ zijn naaste; en je zult je Elohim vrezen, want ik ben Jahweh, jullie Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "zullen jullie benadelen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een ieder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naaste"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "zijn naaste"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "en je zult vrezen"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "je Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:56.442775316Z",
+  "model": "glm-5.3"
+}

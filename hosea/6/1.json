@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Kom, laten wij terugkeren tot Jahweh, want híj heeft verscheurd en hij zal ons genezen; hij heeft geslagen en hij zal ons verbinden.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "en laten wij terugkeren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "híj"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "heeft verscheurd"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "en hij zal ons genezen"
+    },
+    {
+      "surface": "יך",
+      "gloss": "heeft geslagen"
+    },
+    {
+      "surface": "וגחבשנו",
+      "gloss": "en hij zal ons verbinden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:45.117093642Z",
+  "model": "glm-5.3"
+}

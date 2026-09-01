@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En heel de vergadering hief ⟨het⟩ op en gaf ⟨את⟩ hun stem, en het volk weende in die nacht.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "enhief"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "engaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun stem"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "hun stem"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "enweende"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in die nacht"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:50.769089962Z",
+  "model": "glm-5.3"
+}

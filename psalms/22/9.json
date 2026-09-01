@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Wentel het op Jahweh — moge Hij hem laten ontkomen, moge Hij hem redden, want Hij behaagt zich in hem.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Wentel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "moge Hij hem laten ontkomen"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "moge Hij hem redden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behaagt zich"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:04.761496185Z",
+  "model": "glm-5.3"
+}

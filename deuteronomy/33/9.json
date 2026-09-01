@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Die tot zijn vader en tot zijn moeder zei: ik heb hem niet gezien; en ⟨את⟩ zijn broers heeft hij niet herkend, en ⟨את⟩ zijn zonen heeft hij niet gekend — want zij hebben uw woord bewaard en uw verbond zullen zij in acht nemen.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "die zei"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "tot zijn vader"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "en tot zijn moeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "heb ik hem gezien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn broers"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "heeft hij herkend"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "heeft hij gekend"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "hebben zij bewaard"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "uw woord"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "en uw verbond"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "zullen zij in acht nemen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:46.510041674Z",
+  "model": "glm-5.3"
+}

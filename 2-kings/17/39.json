@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Maar ⟨את⟩ Jahweh, uw Elohim, zult gij vrezen, en ⟨hij⟩ zal u ⟨את⟩ redden uit de hand van al uw vijanden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh, uw Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "zult gij vrezen"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "zal redden"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u",
+      "marks": "u"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "uw vijanden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:07.279874978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Ruk mij niet weg met de goddelozen, en met de daders van ongheid, die vrede spreken met hun naasten terwijl kwaad in hun hart is.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "ruk mij weg"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "de daders"
+    },
+    {
+      "surface": "און",
+      "gloss": "van ongheid"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die spreken"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "hun naasten"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "terwijl kwaad"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "in hun hart is"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:39.417637212Z",
+  "model": "glm-5.3"
+}

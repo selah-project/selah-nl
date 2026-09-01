@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "En daarna naderden alle zonen van Jisraël, en hij gebood hun ⟨את⟩ alles wat Jahweh ⟨את⟩ met hem gesproken had op de berg Sinaï.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "en na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "naderden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "en hij gebood hen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hem",
+      "marks": "hem (Mosjee)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op de berg"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaï"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:59.127494138Z",
+  "model": "glm-5.3"
+}

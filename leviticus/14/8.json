@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En degene die gereinigd wordt zal zijn kleren wassen en al zijn haar afscheren, en zich in water baden, en hij zal rein zijn; en daarna zal hij de kamp binnenkomen, maar buiten zijn tent verblijven, zeven dagen lang.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "en hij zal wassen"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "degene die gereinigd wordt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn kleren"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zijn kleren"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "en hij zal afscheren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al zijn haar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "zijn haar"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "en hij zal zich baden"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in water"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "en hij zal rein zijn"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "zal hij binnenkomen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "de kamp"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hij zal verblijven"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "zijn tent"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:39.107477913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 64,
+  "translation": "En elke mens ⟨kreeg⟩ ontzag, en zij verkondigden het werk van Elohim, en over zijn daden peinsden zij wijs.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "en zij ontzag kregen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "en zij verkondigden"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "het werk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "en over zijn daden"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "peinsden zij wijs"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:25.878985393Z",
+  "model": "glm-5.3"
+}

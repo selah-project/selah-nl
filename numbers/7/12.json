@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En het gebeurde: degene die op de eerste dag ⟨את⟩ zijn offergave bracht, was Nachsjon, zoon van Amminadav, van de stam van Jehoeda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "degene die bracht"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "de eerste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn offergave"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "zijn offergave"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachsjon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "van Amminadav"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "van de stam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T20:11:08.027055766Z",
+  "model": "glm-5.3"
+}

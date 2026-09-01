@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Hoelang, Jahweh, de goddelozen — hoelang zullen de goddelozen juichen?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer (hoelang)"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer (hoelang)"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "zullen juichen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:17.922294139Z",
+  "model": "glm-5.3"
+}

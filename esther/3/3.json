@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En de dienaren van de koning die in de poort van de koning ⟨waren⟩, zeiden tot Mordechai: waarom overtreed jij ⟨את⟩ het gebod van de koning?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en ze zeiden"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "de dienaren"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in de poort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "tot Mordechai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "overtreed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het gebod van de koning"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "het gebod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:21.754619154Z",
+  "model": "glm-5.3"
+}

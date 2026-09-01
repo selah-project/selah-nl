@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 67,
+  "translation": "⟨De⟩ aarde gaf haar opbrengst; Elohim, onze Elohim, zegent ons —",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "haar opbrengst"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "zegent ons"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:03.349799718Z",
+  "model": "glm-5.3"
+}

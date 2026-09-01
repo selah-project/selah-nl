@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Wie is hij, de Koning van de kavod? Jahweh, sterk en machtig, Jahweh, machtig in de strijd.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "is hij"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de Koning"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "van de kavod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "en machtig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "machtig"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "in de strijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:18.671450570Z",
+  "model": "glm-5.3"
+}

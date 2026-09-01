@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 77,
+  "translation": "Is ⟨zijn⟩ chesed voor altijd ten einde? ⟨Is⟩ ⟨zijn⟩ woord ⟨de belofte⟩ geëindigd voor geslacht en geslacht?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "is het ten einde"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "voor altijd"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "geëindigd"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "voor geslacht"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en geslacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:35.251799029Z",
+  "model": "glm-5.3"
+}

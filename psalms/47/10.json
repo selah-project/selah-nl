@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "De edelen van ⟨de⟩ volken zijn verzameld ⟨als⟩ ⟨het⟩ volk van de Elohim van Avraham, want aan Elohim ⟨behoren⟩ de schilden van ⟨de⟩ aarde — hoog verheven is hij ⟨zeer⟩.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "de edelen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "van de volken"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "zijn verzameld"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "van de Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "van Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "de schilden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨zeer⟩ hoog"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "is verheven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:36.579105747Z",
+  "model": "glm-5.3"
+}

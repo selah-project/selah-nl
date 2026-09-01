@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 124,
+  "translation": "als Jahweh niet ⟨was⟩ voor ons geweest, toen de mens tegen ons opstond,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "als niet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "geweest"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "toen opstond"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "tegen ons"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:43.345930447Z",
+  "model": "glm-5.3"
+}

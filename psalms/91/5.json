@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Je zult niet vrezen voor de schrik van de nacht, noch voor de pijl die overdag vliegt,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "je zult vrezen"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "voor de schrik"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "van de nacht"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "noch voor de pijl"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "die vliegt"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "overdag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:16.036289565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Wie van Baäsja in de stad sterft, de honden zullen hem opeten; en wie van hem op het veld sterft, de vogelen van de hemel zullen hem opeten.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "wie sterft"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "van Baäsja"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zullen opeten"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "de honden"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "en wie sterft"
+    },
+    {
+      "surface": "לו",
+      "gloss": "van hem"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zullen opeten"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "de vogelen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van de hemel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:08.412127766Z",
+  "model": "glm-5.3"
+}

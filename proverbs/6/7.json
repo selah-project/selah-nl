@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "die voor zichzelf geen aanvoerder heeft, geen opzichter en geen heerser;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "voor zichzelf"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "aanvoerder"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "opzichter"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "en geen heerser"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:32.122801086Z",
+  "model": "glm-5.3"
+}

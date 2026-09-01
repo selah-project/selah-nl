@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Haar vorsten in haar midden zijn leeuwen die brullen; haar rechters zijn wolven van de avond, die het been tot de morgen niet kaal knagen.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Haar vorsten"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "in haar midden"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "leeuwen"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "die brullen"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "haar rechters"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "wolven"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "van de avond"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "kaal knagen"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "tot de morgen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:02:21.576268464Z",
+  "model": "glm-5.3"
+}

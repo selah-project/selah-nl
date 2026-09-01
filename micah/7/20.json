@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "U zult trouw geven aan Ja'akov, chesed aan Avraham, die U gezworen hebt aan onze vaders vanaf de dagen vanouds.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "U zult geven"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "trouw"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "aan Ja'akov"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "aan Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "U gezworen hebt"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "aan onze vaders"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "vanaf de dagen"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "vanouds"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:40.364376953Z",
+  "model": "glm-5.3"
+}

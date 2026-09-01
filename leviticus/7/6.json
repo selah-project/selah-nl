@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Alle mannelijken onder de priesters mogen het eten; op een heilige plaats zal het gegeten worden; het is hoogst heilig.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mannelijken"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "onder de priesters"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "mogen het eten"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "op een plaats"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zal gegeten worden"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "der heiligheden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:00.262061282Z",
+  "model": "glm-5.3"
+}

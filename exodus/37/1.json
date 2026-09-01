@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En Betsalel maakte ⟨את⟩ de ark van acacia-hout: twee el en een half was zijn lengte, en een el en een half zijn breedte, en een el en een half zijn hoogte.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en maakte"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "twee el"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en een half"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "was zijn lengte"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en een el"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en een half"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "zijn breedte"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en een el"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en een half"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "zijn hoogte"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:36.008818400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 20:8",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Als een droom vliegt hij weg en zij vinden hem niet; en hij wordt weggejaagd als een nachtelijk gezicht.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "als een droom"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "vliegt hij weg"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ימצאוהו",
+      "gloss": "zullen zij hem vinden"
+    },
+    {
+      "surface": "וידד",
+      "gloss": "en hij wordt weggejaagd"
+    },
+    {
+      "surface": "כחזיון",
+      "gloss": "als een gezicht"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "van de nacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:34:00.666181383Z",
+  "model": "glm-5.3"
+}

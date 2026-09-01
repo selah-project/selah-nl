@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 95,
+  "translation": "Komt, laten wij ons neerbuigen en knielen, ons buigen voor het aangezicht van Jahweh, onze Maker.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "komt"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "laten wij ons neerbuigen"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "en knielen"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "ons buigen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "onze Maker"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:23.369915627Z",
+  "model": "glm-5.3"
+}

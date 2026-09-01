@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de koning zei tot de wijzen, kenners van de tijden — want zo was ⟨het⟩ woord van de koning voor het aangezicht van allen die wet en recht kennen —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en de koning zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "tot de wijzen"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "kenners"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "van de tijden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "die kennen"
+    },
+    {
+      "surface": "דת",
+      "gloss": "wet"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "en recht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:02.912059377Z",
+  "model": "glm-5.3"
+}

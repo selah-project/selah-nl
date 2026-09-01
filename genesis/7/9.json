@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Twee aan twee kwamen zij bij Noach ⟨de ark in⟩, mannetje en wijfje, zoals Elohim Noach geboden had ⟨את⟩ Noach.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "aan twee"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kwamen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mannetje"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "en wijfje"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebood"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:31.714022101Z",
+  "model": "glm-5.3"
+}

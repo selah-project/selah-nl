@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En hij nam hen mee, en hij liet hen ⟨את⟩ de beek overgaan, en hij liet overgaan ⟨את⟩ alles wat hij had.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "en hij nam hen mee"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "en hij liet hen overgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de beek"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "de beek"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "en hij liet overgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat hij had"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hij had"
+    }
+  ],
+  "timestamp": "2026-08-31T23:14:55.850109855Z",
+  "model": "glm-5.3"
+}

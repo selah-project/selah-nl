@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Velen zeggen tot mijn nefesj: er is geen redding voor hem, in Elohim. Sela.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "velen"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "zeggen"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "tot mijn nefesj"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is niet"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "redding"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:38.781045425Z",
+  "model": "glm-5.3"
+}

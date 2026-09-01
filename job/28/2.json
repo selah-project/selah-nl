@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "IJzer wordt uit het stof genomen, en steen wordt gesmolten tot koper.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ijzer"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "uit het stof"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "wordt genomen"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "en steen"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "wordt uitgegoten ⟨gesmolten⟩"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "tot koper"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:39.706540720Z",
+  "model": "glm-5.3"
+}

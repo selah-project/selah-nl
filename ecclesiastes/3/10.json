@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Ik heb de bezigheid gezien ⟨את⟩ die Elohim aan de mensenkinderen gegeven heeft om zich daarin te laten aftobben.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "heb ik gezien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bezigheid"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "de bezigheid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegeven heeft"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan de kinderen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "om zich te laten aftobben"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:40.437415852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En de wateren bedekten hun verdrukkers; niet één van hen bleef over.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "en bedekten"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "hun verdrukkers"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "van hen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "bleef over"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:40.686950004Z",
+  "model": "glm-5.3"
+}

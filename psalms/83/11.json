@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "die vernietigd werden bij En-Dor, die tot mest werden voor de aarde.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "die vernietigd werden"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "bij En-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "die werden"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "tot mest"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "voor de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:18.265077342Z",
+  "model": "glm-5.3"
+}

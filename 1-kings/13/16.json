@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En hij zei: Ik kan niet met jou terugkeren en niet met jou meegaan, en ik zal geen brood eten en geen water met jou drinken in deze plaats.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan ik"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "terugkeren"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met jou"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "en meegaan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met jou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eten"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "drinken"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met jou"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in de plaats"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:47.395987263Z",
+  "model": "glm-5.3"
+}

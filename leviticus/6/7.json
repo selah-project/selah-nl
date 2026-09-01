@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En dit is de tora van de mincha: de zonen van Aharon brengen ⟨את⟩ haar voor het aangezicht van Jahweh, tegenover de voorzijde van het altaar.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "de tora"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "van de mincha"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "brengen zij nabij"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (de mincha)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "פני",
+      "gloss": "de voorzijde"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:57.224155903Z",
+  "model": "glm-5.3"
+}

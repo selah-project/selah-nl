@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En ⟨את⟩ de koning van Ha-Ai grepen zij levend, en zij brachten ⟨את⟩ hem naar Jehosjoea.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "En ⟨את⟩",
+      "marks": "de koning van Ha-Ai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ha-Ai"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "grepen zij"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levend"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "en zij brachten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    }
+  ],
+  "timestamp": "2026-08-31T20:30:58.854090263Z",
+  "model": "glm-5.3"
+}

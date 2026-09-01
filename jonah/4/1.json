@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En het was kwaad voor Jonah, een grote kwaal, en het brandde ⟨in⟩ hem.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "en het was kwaad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaal"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grote"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "en het brandde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "in hem"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:51.786566769Z",
+  "model": "glm-5.3"
+}

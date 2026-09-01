@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 129,
+  "translation": "En de voorbijgangers zeggen niet: de zegen van Jahweh zij ⟨over⟩ jullie; wij hebben jullie gezegend ⟨את⟩ in de naam van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "zeggen"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "de voorbijgangers"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "de zegen van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "zij jullie"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "wij hebben gezegend"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jullie"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in de naam van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:33.040004829Z",
+  "model": "glm-5.3"
+}

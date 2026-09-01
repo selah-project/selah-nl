@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Jahweh, onze Elohim, gaf in onze hand ook ⟨את⟩ Og, de koning van ⟨de⟩ Basjan, en ⟨את⟩ heel zijn volk; en wij sloegen hem tot er hem geen overlevende overgelaten werd.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en hij gaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "in onze hand"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "heel zijn volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "en wij sloegen hem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "niet"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "overgelaten werd"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "overlevende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:44.170599489Z",
+  "model": "glm-5.3"
+}

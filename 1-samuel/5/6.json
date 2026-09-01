@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En de hand van Jahweh werd zwaar over de Asjddodieten, en Hij verwoestte hen, en Hij sloeg ⟨את⟩ hen met aambeien, ⟨את⟩ Asjdod en ⟨את⟩ zijn gebieden.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "En werd zwaar"
+    },
+    {
+      "surface": "יד",
+      "gloss": "de hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "de Asjddodieten"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "en Hij verwoestte"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en Hij sloeg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "de Asjddodieten"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "met aambeien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asjdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Asjdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn gebieden"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "zijn gebieden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:13.867001629Z",
+  "model": "glm-5.3"
+}

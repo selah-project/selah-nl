@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Wijk eruit, ga er niet langs; wijk ervan af en ga voorbij.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "wijk eruit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ga langs"
+    },
+    {
+      "surface": "בו",
+      "gloss": "er"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "wijk af"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ervan"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "en ga voorbij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:13.740688759Z",
+  "model": "glm-5.3"
+}

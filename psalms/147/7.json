@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Zingt voor Jahweh met lofprijzing; psalmeert voor onze Elohim op de lier.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Zingt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "met lofprijzing"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "psalmeert"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "voor onze Elohim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "op de lier"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:35.203372557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Zie, ⟨om⟩ te zegenen ben ik ontboden, en Hij heeft gezegend — en ik kan het niet terughalen.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "te zegenen"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "ben ik ontboden"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "en Hij heeft gezegd... gezegend"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "kan ik terughalen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:16:14.341160392Z",
+  "model": "glm-5.3"
+}

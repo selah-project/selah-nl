@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 120,
+  "translation": "Ik ⟨sta voor⟩ sjalom, maar wanneer ik spreek, zij ⟨staan⟩ voor oorlog.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "maar wanneer"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ik spreek"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨staan⟩ voor oorlog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:10.082468454Z",
+  "model": "glm-5.3"
+}

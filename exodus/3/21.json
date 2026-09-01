@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En ik zal ⟨את⟩ de gunst van dit volk in de ogen van Mitsrajim geven, en het zal gebeuren: wanneer gij vertrekt, zult gij niet leeg vertrekken.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en ik zal geven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gunst"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gunst"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van dit volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in de ogen van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en het zal gebeuren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "gij vertrekt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "zult gij vertrekken"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ledig"
+    }
+  ],
+  "timestamp": "2026-08-31T23:14:16.483570693Z",
+  "model": "glm-5.3"
+}

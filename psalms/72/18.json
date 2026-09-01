@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "Gezegend ⟨is⟩ Jahweh, Elohim, Elohim van Jisraël, die wonderen doet, Hij alleen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "gezegend"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doet"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "wonderen"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "Hij alleen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:54.844631237Z",
+  "model": "glm-5.3"
+}

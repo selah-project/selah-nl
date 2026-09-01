@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 62,
+  "translation": "Voor de koorleider, op ⟨de wijs van⟩ Jeduthun. Een mizmor van David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Voor de koorleider"
+    },
+    {
+      "surface": "על",
+      "gloss": "op ⟨de wijs van⟩"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Jeduthun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:04.309339092Z",
+  "model": "glm-5.3"
+}

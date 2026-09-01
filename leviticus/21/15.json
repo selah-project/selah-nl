@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En hij zal zijn nageslacht onder zijn volk niet ontheiligen, want ík, Jahweh, heilig hem.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "zal ontheiligen"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zijn nageslacht"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "onder zijn volk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ík"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "heilig hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:20.225867145Z",
+  "model": "glm-5.3"
+}

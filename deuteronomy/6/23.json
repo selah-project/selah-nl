@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En ons bracht Hij vandaar uit, om ons binnen te brengen, om ons ⟨את⟩ het land te geven dat Hij aan onze vaders gezworen had.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ ons"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "bracht uit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "vandaar"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om te"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "binnen te brengen"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ons"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "te geven"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "gezworen had"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "aan onze vaders"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:57.287505964Z",
+  "model": "glm-5.3"
+}

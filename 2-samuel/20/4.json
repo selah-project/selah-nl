@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En de koning zeide tot Amasa: Roep mij ⟨את⟩ de mannen van Jehoeda bijeen ⟨binnen⟩ drie dagen, en jij, sta hier ⟨gereed⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zeide"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "roep bijeen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mannen van Jehoeda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en jij"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "sta"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:46.418617060Z",
+  "model": "glm-5.3"
+}

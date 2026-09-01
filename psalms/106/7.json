@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Onze vaders in Mitsrajim — zij doorgrondden uw wonderen niet, zij gedachten ⟨את⟩ de overvloed van uw chesed (goedertierenheid) niet, maar zij waren opstandig bij de zee, bij de zee van Soef.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "onze vaders"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "doorgrondden"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "uw wonderen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "zij gedachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de overvloed van uw chesed"
+    },
+    {
+      "surface": "רב",
+      "gloss": "de overvloed"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "van uw chesed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "maar zij waren opstandig"
+    },
+    {
+      "surface": "על",
+      "gloss": "bij"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "בים",
+      "gloss": "bij de zee"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "van Soef"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:20.837368023Z",
+  "model": "glm-5.3"
+}

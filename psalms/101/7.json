@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 101,
+  "translation": "Niet zal wonen binnen mijn huis wie bedrog bedrijft; wie leugens spreekt, wordt niet bevestigd voor mijn ogen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "zal wonen"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "binnen"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mijn huis"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bedrijft"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bedrog"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spreekt"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "leugens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "wordt bevestigd"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:15.366180006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En hij slachtte ⟨את⟩ het brandoffer, en de zonen van Aharon brachten hem ⟨את⟩ het bloed, en hij sprenkelde het op het altaar rondom.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "en hij slachtte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het brandoffer"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "het brandoffer"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "en zij brachten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "en hij sprenkelde het"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:42.716551072Z",
+  "model": "glm-5.3"
+}

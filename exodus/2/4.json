@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En zijn zuster stelde zich op veraf, om te weten wat hem gedaan zou worden.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "en stelde zich op"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "zijn zuster"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "veraf"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "om te weten"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gedaan zou worden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:50.428928520Z",
+  "model": "glm-5.3"
+}

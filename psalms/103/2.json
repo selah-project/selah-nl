@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Zegen, mijn ziel, ⟨את⟩ Jahweh, en vergeet niet al zijn vergeldingen ⟨van goed⟩.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Zegen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn ziel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "vergeet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "zijn vergeldingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:03.144514753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Het woord dat tot Jirmejahoe kwam, vanwege ⟨את⟩ Jahweh, zeggende:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Het woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahoe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T21:34:55.312081322Z",
+  "model": "glm-5.3"
+}

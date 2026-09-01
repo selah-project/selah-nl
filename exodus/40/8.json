@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En u zult ⟨את⟩ de voorhof rondom opzetten, en u zult ⟨את⟩ het voorhangsel van de poort van de voorhof plaatsen.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "en u zult opzetten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de voorhof"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "de voorhof"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "en u zult plaatsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het voorhangsel van de poort"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "het voorhangsel"
+    },
+    {
+      "surface": "שער",
+      "gloss": "van de poort"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van de voorhof"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:52.523545402Z",
+  "model": "glm-5.3"
+}

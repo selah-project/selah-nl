@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "voor de pest die in duisternis rondgaat, voor het verderf dat verwoest in het middaguur.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "voor de pest"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "in duisternis"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "rondgaat"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "voor het verderf"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "dat verwoest"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "in het middaguur"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:16.036548210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 2:19",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En zij zeiden: een man, een Mitsri, heeft ons gered uit de hand van de herders, en ook heeft hij ⟨voor⟩ ons water geschept, hij heeft ⟨את⟩ de kudde gedrenkt.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "een Mitsri"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "heeft ons gered"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "van de herders"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "heeft geschept"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "geschept"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "en hij heeft gedrenkt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kudde"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "de kudde"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:49.554273024Z",
+  "model": "glm-5.3"
+}

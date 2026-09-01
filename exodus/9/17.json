@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Nog steeds verhef jij je tegen mijn volk, doordat jij hen niet laat gaan.",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "nog steeds jij"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "verhef jij je"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "tegen mijn volk"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "doordat niet"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "jij hen laat gaan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:27.578525381Z",
+  "model": "glm-5.3"
+}

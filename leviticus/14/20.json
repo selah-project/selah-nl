@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En de priester zal het brandoffer op het altaar laten opstijgen ⟨את⟩, en het graanoffer ⟨את⟩ op het altaar; en de priester zal voor hem verzoening doen, en hij zal rein zijn.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "zal laten opstijgen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het brandoffer"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "het brandoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het graanoffer"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "het graanoffer"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op het altaar"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "en zal verzoening doen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "en hij zal rein zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:24.761483588Z",
+  "model": "glm-5.3"
+}

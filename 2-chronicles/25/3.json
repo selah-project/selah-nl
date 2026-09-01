@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En het gebeurde, zodra het koninkrijk bij hem versterkt was, dat hij ⟨את⟩ zijn dienaren doodde, die ⟨את⟩ de koning, zijn vader, geslagen hadden.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zodra"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "versterkt was"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "het koninkrijk"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "dat hij doodde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn dienaren"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "die geslagen hadden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    }
+  ],
+  "timestamp": "2026-08-31T23:10:18.586406010Z",
+  "model": "glm-5.3"
+}

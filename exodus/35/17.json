@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "⟨את⟩ de voorhangen van de voorhof, ⟨את⟩ zijnzuilen en ⟨את⟩ zijn voetstukken, en ⟨את⟩ het voorhangsel van de poort van de voorhof,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de voorhangen van de voorhof"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "de voorhangen"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van de voorhof"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zuilen"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "zijn zuilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn voetstukken"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "zijn voetstukken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het voorhangsel van de poort"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "het voorhangsel"
+    },
+    {
+      "surface": "שער",
+      "gloss": "van de poort"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van de voorhof"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:03.174202681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Jehosjoea zei tot de priesters, zeggend: neemt ⟨את⟩ de ark van het verbond op en trekt voor het volk uit. En zij namen ⟨את⟩ de ark van het verbond op en gingen voor het volk uit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "neemt op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van het verbond"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "van het verbond"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "en trekt over"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "en zij namen op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van het verbond"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "van het verbond"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en gingen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:35.725251170Z",
+  "model": "glm-5.3"
+}

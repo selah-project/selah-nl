@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Sará zei: Gelach heeft Elohim mij gemaakt; al wie het hoort, lacht ⟨om⟩ mij.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "En ⟨zij⟩ zei"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sará"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "Gelach"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "heeft gemaakt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al wie"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "het hoort"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "lacht"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨om⟩ mij"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:35.886316766Z",
+  "model": "glm-5.3"
+}

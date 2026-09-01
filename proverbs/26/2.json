@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Als ⟨de⟩ vogel bij het zwerven, als de zwaluw bij het vliegen, zo komt een vloek zonder reden niet ⟨ergens⟩ aan.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "als de vogel"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "bij het dwalen\/zwerven"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "als de zwaluw"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "bij het vliegen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "een vloek"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zonder reden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "komt aan"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:18.065420324Z",
+  "model": "glm-5.3"
+}

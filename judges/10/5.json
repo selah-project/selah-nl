@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Jaïr stierf en werd begraven in Kamon.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "en stierf"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jaïr"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en werd begraven"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "in Kamon"
+    }
+  ],
+  "timestamp": "2026-08-31T20:38:08.577405023Z",
+  "model": "glm-5.3"
+}

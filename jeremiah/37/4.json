@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En Jirmejahoe kwam en ging uit te midden van het volk, en zij hadden ⟨את⟩ hem nog niet gegeven in het huis van opsluiting.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "En Jirmejahoe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en ging uit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "te midden van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "hadden gegeven"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "van opsluiting"
+    }
+  ],
+  "timestamp": "2026-08-31T21:36:47.347522798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 138,
+  "translation": "Zij zullen U loven, Jahweh, alle koningen van de aarde, want zij hebben gehoord de woorden van Uw mond.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Zij zullen U loven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "koningen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "zij hebben gehoord"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "van Uw mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:33.839154788Z",
+  "model": "glm-5.3"
+}

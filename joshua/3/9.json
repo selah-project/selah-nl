@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Jehosjoea zei tot de kinderen van Jisraël: Kom hiernaartoe en luister naar ⟨את⟩ de woorden van Jahweh, jullie Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hiernaartoe"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "en luister"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de woorden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:09.109592698Z",
+  "model": "glm-5.3"
+}

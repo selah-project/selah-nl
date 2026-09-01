@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "in het schemeruur, in de avond van de dag, in het duister van de nacht en de verduistering",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "in het schemeruur"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in de avond"
+    },
+    {
+      "surface": "יום",
+      "gloss": "van de dag"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "in het duister (pupil van de nacht)"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "van de nacht"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "en de verduistering"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:32.368062276Z",
+  "model": "glm-5.3"
+}

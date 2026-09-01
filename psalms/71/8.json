@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Vol worde mijn mond van uw lof, de gehele dag van uw pracht.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "volle worde"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "van uw lof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de gehele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "van uw pracht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:28.596160891Z",
+  "model": "glm-5.3"
+}

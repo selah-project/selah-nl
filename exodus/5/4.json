@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En de koning van Mitsrajim zei tot hen: waarom, Mosjee en Aharon, houden jullie ⟨את⟩ het volk af van zijn werk? Gaan jullie naar jullie dwangarbeid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "houden jullie af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "van zijn werk"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gaan jullie"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "naar jullie dwangarbeid"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:41.365585673Z",
+  "model": "glm-5.3"
+}

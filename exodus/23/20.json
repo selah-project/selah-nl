@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Zie, ik zend een bode voor uw aangezicht ⟨uit⟩, om u te bewaren op de weg, en om u te brengen naar de plaats die ik heb toebereid.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zend"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "een bode"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor uw aangezicht"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "om u te bewaren"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "ולהביאך",
+      "gloss": "en om u te brengen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "de plaats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הכנתי",
+      "gloss": "ik heb toebereid"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:42.413049304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Jahweh Elohim gaf de mens gebod en zei: van elke boom van de hof — etend zul jij eten.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en gaf gebod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van elke"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "boom"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "van de hof"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "etend"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "zul jij eten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:33.545831070Z",
+  "model": "glm-5.3"
+}

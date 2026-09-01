@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Wij zullen ⟨hem⟩ kennen, najagen om te kennen ⟨את⟩ Jahweh; als de dageraad ⟨is⟩ zijn uitgang zeker, en hij zal komen als de regen, voor ons, als de najaarsregen die de aarde doordrenkt.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "wij zullen kennen"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "najagen"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "om te kennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "als de dageraad"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "zeker\/bereid"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "zijn uitgang"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "en hij zal komen"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "als de regen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "als de najaarsregen"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "doordrenkt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:31.539267648Z",
+  "model": "glm-5.3"
+}

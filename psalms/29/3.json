@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "De stem van Jahweh ⟨is⟩ over de wateren; El van de kavod doet donderen — Jahweh over vele wateren.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "van de kavod"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "doet donderen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wateren"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:31.596650975Z",
+  "model": "glm-5.3"
+}

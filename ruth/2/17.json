@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En zij leesde op het veld tot de avond, en zij sloeg uit ⟨את⟩ wat zij gelezend had, en het was ongeveer een efa gerst.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "en zij leesde op"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "de avond"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "en zij sloeg uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat zij gelezend had"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "zij gelezend had"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het was"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "ongeveer een efa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "gerst"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:36.519903858Z",
+  "model": "glm-5.3"
+}

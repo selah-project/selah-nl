@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En hij plaatste ⟨את⟩ het gouden altaar in de tent van samenkomst, voor het aangezicht van ⟨de⟩ voorhang.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en hij plaatste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het gouden altaar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "van goud \/ gouden"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "de voorhang"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:43.496961946Z",
+  "model": "glm-5.3"
+}

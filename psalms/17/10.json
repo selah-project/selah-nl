@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Hun vet hebben zij afgesloten, hun mond heeft gesproken met hoogmoed.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "hun vet"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "hebben zij afgesloten"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "hun mond"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "heeft gesproken"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "met hoogmoed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:52.029141749Z",
+  "model": "glm-5.3"
+}

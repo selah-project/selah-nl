@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En ik keerde terug, ik, en ik zag ⟨את⟩ ⟨de⟩ ijdelheid onder de zon.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "en ik keerde terug"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "en ik zag"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ijdelheid"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:57.467139316Z",
+  "model": "glm-5.3"
+}

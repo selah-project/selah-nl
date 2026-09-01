@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Van David. Twist, Jahweh, ⟨את⟩ mijn twistzoekers; strijd ⟨את⟩ mijn bestrijders.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Van David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Twist"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn twistzoekers"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "mijn twistzoekers"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "strijd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn bestrijders"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mijn bestrijders"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:33.967380014Z",
+  "model": "glm-5.3"
+}

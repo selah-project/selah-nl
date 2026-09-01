@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Vanwege de zaak dat zij jullie niet tegemoet kwamen met brood en met water op de weg, bij jullie uittocht uit Mitsrajim, en omdat ⟨zij⟩ tegen jou Bilam ben-Beor huurden, uit Ptor van Aram-Naharajim, om jou te vervloeken.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "de zaak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "tegemoet kwamen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "met brood"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "en met water"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "bij jullie uittocht"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en omdat"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "huurden"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tegen jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "uit Ptor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "van de twee rivieren"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "om jou te vervloeken"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:58.410494347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En ik zei in mijn rust: nooit zal ik wankelen, voor eeuwig ⟨niet⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "zei ik"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "in mijn rust"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nooit"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "zal ik wankelen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:30.615913145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Als het zeker verscheurd wordt, zal hij het als getuenis brengen; ⟨voor⟩ het verscheurde zal hij niet vergoeden.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "zeker"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "verscheurd wordt"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "zal hij het brengen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "als getuenis"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "het verscheurde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zal hij vergoeden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:28.175350898Z",
+  "model": "glm-5.3"
+}

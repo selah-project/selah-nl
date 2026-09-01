@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "U zult hen zoeken en hen niet vinden — de mannen van uw geschil; zij zullen zijn als niet en als niets, de mannen van uw oorlog.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "U zult hen zoeken"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "hen vinden"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "de mannen van"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "uw geschil"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zij zullen zijn"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "als niet"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "en als niets"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "de mannen van"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "uw oorlog"
+    }
+  ],
+  "timestamp": "2026-08-31T23:22:00.562485667Z",
+  "model": "glm-5.3"
+}

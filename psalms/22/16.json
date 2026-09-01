@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Verdroogd als een potscherd is mijn kracht, en mijn tong kleeft aan mijn kaken; en in het stof van de dood legt ⟨U⟩ mij neer.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "verdroogd"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "als een potscherd"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mijn kracht"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "en mijn tong"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "kleeft"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "aan mijn kaken"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "en in het stof"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van de dood"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "legt ⟨U⟩ mij neer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:32.932861958Z",
+  "model": "glm-5.3"
+}

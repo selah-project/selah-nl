@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En men zal de koe voor zijn ogen verbranden: ⟨את⟩ haar vel en ⟨את⟩ haar vlees en ⟨את⟩ haar bloed, met haar mest, zal hij verbranden.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "en men zal verbranden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koe"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "de koe"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "voor zijn ogen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar vel"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "haar vel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "haar vlees"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "haar vlees"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "haar bloed"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "haar bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "met\/over"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "haar mest"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "zal hij verbranden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:15:00.052582292Z",
+  "model": "glm-5.3"
+}

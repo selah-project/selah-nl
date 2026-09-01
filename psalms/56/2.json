@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 56,
+  "translation": "Wees mij genadig, Elohim, want sterflijk mens heeft mij opgeslokt; de hele dag, vechtend, drukt hij mij neer.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Wees mij genadig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "heeft mij opgeslokt"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "sterflijk mens"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "vechtend"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "drukt hij mij neer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:52.235449833Z",
+  "model": "glm-5.3"
+}

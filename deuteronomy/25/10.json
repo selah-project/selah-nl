@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En zijn naam zal in Israël genoemd worden: het huis van hem wiens sandaal is uitgetrokken.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "en zal genoemd worden"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Israël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis van"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "hem wiens ... is uitgetrokken"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "de sandaal"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:40.482325029Z",
+  "model": "glm-5.3"
+}

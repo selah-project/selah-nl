@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 37:26",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En hij overtrok het met zuiver goud — ⟨את⟩ zijn dak en ⟨את⟩ zijn wanden rondom en ⟨את⟩ zijn hoornen — en hij maakte er een krans van goud rondom voor.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "en hij overtrok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ het",
+      "marks": "het (altaar)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "zuiver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn dak"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "zijn dak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn wanden"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "zijn wanden"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn hoornen"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "zijn hoornen"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "er voor"
+    },
+    {
+      "surface": "זר",
+      "gloss": "een krans"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:11.130469106Z",
+  "model": "glm-5.3"
+}

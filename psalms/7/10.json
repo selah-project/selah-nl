@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Laat het kwaad van de goddelozen eindigen, ⟨toch⟩, en ⟨laat⟩ ⟨de⟩ rechtvaardige ⟨U⟩ bevestigen; en proever van harten en nieren ⟨is⟩ Elohim, ⟨de⟩ rechtvaardige.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "laat eindigen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨toch⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddelozen"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "en bevestig"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardige"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "en proever"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "harten"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "en nieren"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:48.765153149Z",
+  "model": "glm-5.3"
+}

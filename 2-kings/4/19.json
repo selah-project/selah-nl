@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 4:19",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij zei tot zijn vader: Mijn hoofd, mijn hoofd! En hij zei tot de jongen: Draag hem naar zijn moeder.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mijn hoofd"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mijn hoofd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "de jongen"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "draag hem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "zijn moeder"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:21.943356480Z",
+  "model": "glm-5.3"
+}

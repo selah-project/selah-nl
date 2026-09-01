@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Riepen zij hen, zo gingen zij weg van hun aangezicht; aan de Baälim slachtten zij en aan de gesneden beelden lieten zij rook opstijgen.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "riepen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gingen zij"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "weg van hun aangezicht"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "aan de Baälim"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "slachtten zij"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "en aan de gesneden beelden"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "lieten zij rook opstijgen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:16.885049681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "Mijn pad en mijn liggen — u hebt ⟨ze⟩ uitgestrooid ⟨als kaf⟩, en met al mijn wegen bent u vertrouwd.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "mijn pad"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "en mijn liggen"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "u hebt uitgestrooid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en met al"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mijn wegen"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "bent u vertrouwd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:21.543574714Z",
+  "model": "glm-5.3"
+}

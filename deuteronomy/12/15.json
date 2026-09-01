@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 12:15",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Alleen, naar alles wat je nefesj begeert, mag je slachten en vlees eten, volgens de zegen van Jahweh je Elohim, die hij je gegeven heeft in al je poorten; de onreine en de reine mogen het eten, zoals ⟨men⟩ de gazelle en het hert ⟨eet⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "naar alles"
+    },
+    {
+      "surface": "אות",
+      "gloss": "wat... begeert"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "je nefesj"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "mag je slachten"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "en vlees eten"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "volgens de zegen van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "je Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegeven heeft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in al"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "je poorten"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "de onreine"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "en de reine"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "mogen het eten"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "zoals de gazelle"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "en het hert"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:23.339439137Z",
+  "model": "glm-5.3"
+}

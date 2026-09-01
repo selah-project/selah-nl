@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de satan antwoordde ⟨את⟩ Jahweh en zei: Huid voor huid, en alles wat een man heeft, geeft hij voor zijn nefesj.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "En antwoordde"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "de satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "עור",
+      "gloss": "huid"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עור",
+      "gloss": "huid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "een man heeft"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft hij"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:53.754401832Z",
+  "model": "glm-5.3"
+}

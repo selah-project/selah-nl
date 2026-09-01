@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "Wee ⟨hem⟩ die zegt tot een vader: wat verwek je? en tot een vrouw: wat bare je?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "die zegt"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "tot een vader"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "verwek je"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "en tot een vrouw"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "bare je"
+    }
+  ],
+  "timestamp": "2026-08-31T21:23:07.614877612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En Jaakov woonde in het land van de verblijfplaatsen van zijn vader, in het land Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en hij woonde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "van de verblijfplaatsen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van zijn vader"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:33.844755874Z",
+  "model": "glm-5.3"
+}

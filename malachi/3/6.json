@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Want ík, Jahweh, ben niet veranderd; daarom zijt gij, zonen van Jaäkov, niet verteerd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ík"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "ben veranderd"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en gij"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "zijt verteerd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:52.969629075Z",
+  "model": "glm-5.3"
+}

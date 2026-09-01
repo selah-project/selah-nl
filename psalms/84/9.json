@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 84,
+  "translation": "Jahweh, Elohim van de legerscharen, hoor mijn gebed; neig uw oor, Elohim van Jaakov. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "van de legerscharen"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mijn gebed"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "neig uw oor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:59.592829351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "U opent ⟨את⟩ uw hand en verzadigt alles wat leeft ⟨met⟩ welbehagen.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "U opent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uw hand"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "en verzadigt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wat leeft"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "welbehagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:16.772455730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Jehoe zei: Heilig een plechtige samenkomst voor de Baäl. En zij riepen het uit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En Jehoe zei"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehoe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Heilig"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "een plechtige samenkomst"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "voor de Baäl"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "En zij riepen het uit"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:36.082657152Z",
+  "model": "glm-5.3"
+}

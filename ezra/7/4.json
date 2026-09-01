@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "zoon van Zerachjah, zoon van Oezi, zoon van Boekki.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Oezi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Boekki"
+    }
+  ],
+  "timestamp": "2026-08-31T22:52:07.886778826Z",
+  "model": "glm-5.3"
+}

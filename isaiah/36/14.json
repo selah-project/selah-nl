@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "Zo zegt de koning: Laat Chizkijahoe jullie niet misleiden, want hij zal ⟨את⟩ jullie niet kunnen redden.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "misleide"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahoe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "zal… kunnen"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "redden"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:04.654870757Z",
+  "model": "glm-5.3"
+}

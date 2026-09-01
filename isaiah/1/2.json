@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Hoort, hemelen, en neig ⟨jullie⟩ oor, aarde, want Jahweh heeft gesproken: zonen heb ik grootgebracht en verhoogd, maar zij zijn tegen mij in opstand gekomen.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hoort"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hemelen"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "en neig ⟨jullie⟩ oor"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "heeft gesproken"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "heb ik grootgebracht"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "en verhoogd"
+    },
+    {
+      "surface": "והם",
+      "gloss": "maar zij"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "zijn in opstand gekomen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tegen mij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:13:02.274083341Z",
+  "model": "glm-5.3"
+}

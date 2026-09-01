@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Want hij heeft de grendels van je poorten sterk gemaakt, je zonen heeft hij gezegend in je binnenste.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sterk gemaakt"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "de grendels"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "van je poorten"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "heeft gezegend"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "je zonen"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "in je binnenste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:22.754634002Z",
+  "model": "glm-5.3"
+}

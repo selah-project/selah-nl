@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Zitters in duisternis en doodsschaduw, gevangenen van ellende en van ijzer,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "zitters"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "in duisternis"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "en doodsschaduw"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "gevangenen van"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ellende"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "en van ijzer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:30.353706252Z",
+  "model": "glm-5.3"
+}

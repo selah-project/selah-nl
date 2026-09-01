@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Jahweh kent de overleggingen van de mens, dat ⟨zij⟩ ijdelheid ⟨zijn⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "de overleggingen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ijdelheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:02.291838994Z",
+  "model": "glm-5.3"
+}

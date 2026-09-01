@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Dawid verzamelde ⟨את⟩ heel het volk en ging naar Rabba, en hij streed tegen haar en nam haar in.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "en verzamelde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel het volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en ging"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "naar Rabba"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "en hij streed"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tegen haar"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "en nam haar in"
+    }
+  ],
+  "timestamp": "2026-08-31T23:19:36.758873364Z",
+  "model": "glm-5.3"
+}

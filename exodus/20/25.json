@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En als gij Mij een altaar van stenen maakt, zult gij het niet bouwen van gehouwen stenen ⟨את⟩; want uw zwaard hebt gij erover bewogen en gij hebt het ontheiligd.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En als"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "een altaar"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "van stenen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "maakt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "zult gij bouwen"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "gehouwen stenen"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "gehouwen stenen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "uw zwaard"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "hebt gij bewogen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "erover"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "en gij hebt het ontheiligd"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:08.519333802Z",
+  "model": "glm-5.3"
+}

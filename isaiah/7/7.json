@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Zo heeft Adonai Jahweh gezegd: het zal niet standhouden, en het zal niet gebeuren.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "zal standhouden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zal gebeuren"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:31.073448351Z",
+  "model": "glm-5.3"
+}

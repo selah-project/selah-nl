@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "Luister, dochter, en zie, neig uw oor; vergeet uw volk en het huis van uw vader.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "luister"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "neig"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "uw oor"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "vergeet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uw volk"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "het huis van"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uw vader"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:43.676677635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Mogen de zondaars vergaan van ⟨de⟩ aarde, en de goddelozen — laat hen niet meer zijn. Zegen, mijn nefesj, Jahweh ⟨את⟩. Hallelu Jah.",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "mogen vergaan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "de zondaars"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨de⟩ aarde"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "en de goddelozen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "niet meer"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "laat hen niet zijn"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "zegen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu (looft)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:26.445408721Z",
+  "model": "glm-5.3"
+}

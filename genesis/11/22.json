@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Serug leefde dertig jaar, en hij verwekte ⟨את⟩ Nachor.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "en leefde"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:28.990783160Z",
+  "model": "glm-5.3"
+}

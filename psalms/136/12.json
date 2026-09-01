@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "Met een sterke hand en met een uitgestrekte arm, want tot in eeuwigheid ⟨duurt⟩ zijn chesed.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "met een hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "sterke"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "en met een arm"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "uitgestrekte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:10.271143941Z",
+  "model": "glm-5.3"
+}

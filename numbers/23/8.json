@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Hoe zou ik doorboren ⟨met vloeken⟩ — El doorboort niet, en hoe zou ik toornen — Jahweh is niet vertoornd.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "zou ik doorboren"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "doorboort"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en hoe"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "zou ik toornen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "is vertoornd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:16:19.196693697Z",
+  "model": "glm-5.3"
+}

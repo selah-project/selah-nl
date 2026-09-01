@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En jij, mensenkind, zou jij ⟨את⟩ oordelen, zou jij ⟨את⟩ oordelen, de stad van bloed? Dan maak jij haar alle gruwelen bekend.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "En jij"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "zou jij oordelen"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "zou jij oordelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stad van bloed"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "van bloed"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "en jij maakt haar bekend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle gruwelen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "haar gruwelen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:46:25.651349371Z",
+  "model": "glm-5.3"
+}

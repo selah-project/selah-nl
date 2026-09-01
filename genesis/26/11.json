@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En Avimelech gebood heel het volk en zei: Wie deze man aanraakt en zijn vrouw — dood zal hij gedood worden.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "gebood"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel het volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "de rakende"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "deze man"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "en zijn vrouw"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal gedood worden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:10.475554112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En dit zijn de geslachten van de zonen van Noach: Sjem, Cham en Jafet; en aan hen werden zonen geboren na de vloed.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit zijn"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "de geslachten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sjem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "en Jafet"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "en geboren werden"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hen"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "na"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "de vloed"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:06.326469875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Laat de verdrukte niet beschaamd terugkeren; laten de ellendige en de noodlijdende uw naam loven.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "terugkeren"
+    },
+    {
+      "surface": "דך",
+      "gloss": "de verdrukte"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "beschaamd worden"
+    },
+    {
+      "surface": "עני",
+      "gloss": "de ellendige"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en de noodlijdende"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "laten loven"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:13.335668655Z",
+  "model": "glm-5.3"
+}

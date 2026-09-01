@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Want mijn vijanden hebben over mij gesproken, en die op mijn leven wachten, beraadslaagden tezamen:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "hebben gesproken"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "לי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "en die wachten op"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn leven"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "beraadslaagden"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tezamen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:40.342281551Z",
+  "model": "glm-5.3"
+}

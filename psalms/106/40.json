@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En de toorn van Jahweh ontbrandde tegen zijn volk, en Hij walgde van ⟨את⟩ zijn erfdeel.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ontbrandde"
+    },
+    {
+      "surface": "אף",
+      "gloss": "toorn (letterlijk: neusgaten)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "tegen zijn volk"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "en Hij walgde van"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn erfdeel"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "zijn erfdeel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:35.917502620Z",
+  "model": "glm-5.3"
+}

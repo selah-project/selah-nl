@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 97,
+  "translation": "Vuur gaat voor Hem uit en ontsteekt rondom Zijn tegenstanders.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor Hem"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gaat"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "en ontsteekt"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "Zijn tegenstanders"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:14.788165822Z",
+  "model": "glm-5.3"
+}

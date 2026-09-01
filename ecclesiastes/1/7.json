@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Alle beken stromen naar de zee, en de zee is niet vol; naar de plaats waarheen de beken stromen, daar keren zij terug om te stromen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "beken"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "stromen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "והים",
+      "gloss": "en de zee"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "is niet"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "de plaats"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "waarheen de beken"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "stromen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zij"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "keren terug"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te stromen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:55.735468402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 130,
+  "translation": "Een lied van de stijgende trappen. Uit de diepten roep ik U aan, Jahweh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van de stijgende trappen"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "uit de diepten"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "roep ik U aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:30.412380091Z",
+  "model": "glm-5.3"
+}

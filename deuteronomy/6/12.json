@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "pas op voor jezelf dat je Jahweh ⟨את⟩ niet vergeet, die je uitgeleid heeft uit het land Mitsrajim, uit het slavenhuis.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "pas op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jezelf"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dat … niet"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "je vergeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "je uitgeleid heeft"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit het huis"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "van slaven"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:19.521376651Z",
+  "model": "glm-5.3"
+}

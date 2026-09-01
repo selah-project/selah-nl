@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Uit het midden ⟨worden⟩ ze verdreven; ⟨men⟩ schreeuwt tegen hen als tegen een dief.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "גו",
+      "gloss": "het midden"
+    },
+    {
+      "surface": "יגרשו",
+      "gloss": "worden verdreven"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "schreeuwt ⟨men⟩"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "tegen hen"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "als ⟨tegen⟩ een dief"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:50.655529610Z",
+  "model": "glm-5.3"
+}

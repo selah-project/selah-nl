@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Sta op, Jahweh, treed zijn aangezicht tegemoet, buig hem neer; red mijn nefesj van de goddeloze, ⟨door⟩ uw zwaard.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sta op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "treed tegemoet"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zijn aangezicht"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "buig hem neer"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "red"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "van de goddeloze"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "uw zwaard"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:48.890224135Z",
+  "model": "glm-5.3"
+}

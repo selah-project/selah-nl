@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 8:5",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En zij zeide: Als het ⟨⟨goed⟩⟩ is voor de koning, en als ik genade gevonden heb voor zijn aangezicht, en de zaak recht ⟨is⟩ voor de koning, en ik welbehaaglijk ben in zijn ogen — laat er geschreven worden om ⟨את⟩ de brieven terug te nemen, het plan van Haman, zoon van Medatha, de Agagieter, die hij schreef om ⟨את⟩ de Joden te vernietigen die in alle gewesten van de koning zijn.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zeide"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "על",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ik gevonden heb"
+    },
+    {
+      "surface": "חן",
+      "gloss": "genade"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor zijn aangezicht"
+    },
+    {
+      "surface": "וכשר",
+      "gloss": "en recht ⟨is⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "de zaak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "en welbehaaglijk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in zijn ogen"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "laat geschreven worden"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "om terug te nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de brieven"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "de brieven"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "het plan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "van Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "van Medatha"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "de Agagieter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "hij schreef"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "om te vernietigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Joden"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "de Joden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in alle"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "gewesten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:36.762706200Z",
+  "model": "glm-5.3"
+}

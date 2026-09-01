@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Ook Lot, die ⟨samen met⟩ ⟨את⟩ Avram meeging, had kleinvee en runderen en tenten.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ook"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "die meeging"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "had"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kleinvee"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "en runderen"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "en tenten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:54.617037155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "De woorden van Lemoeel, de koning — een last die zijn moeder hem leerde.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "van Lemoeel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "משא",
+      "gloss": "een last"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "hem leerde"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "zijn moeder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:33.217873727Z",
+  "model": "glm-5.3"
+}

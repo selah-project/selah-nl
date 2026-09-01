@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Want een mens is er niet — rechtvaardig op de aarde — die goed doet en niet zondigt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "een mens"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is er niet"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "doet"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "zondigt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:41.944201117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Ik zal als de dauw zijn voor Israël, hij zal bloeien als de lelie en zijn wortels uitslaan als ⟨de Libanon⟩.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "Ik zal zijn"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "als de dauw"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "voor Israël"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "hij zal bloeien"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "als de lelie"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en uitslaan"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "zijn wortels"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "als de Libanon"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:21.947283570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Ben ik Elohim van dichtbij — ⟨uitspraak⟩ van Jahweh — en niet Elohim van veraf?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "van dichtbij"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "⟨uitspraak⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "van veraf"
+    }
+  ],
+  "timestamp": "2026-08-31T21:33:09.037947929Z",
+  "model": "glm-5.3"
+}

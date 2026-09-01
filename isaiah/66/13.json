@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 66:13",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "Als een man die door zijn moeder getroost wordt, zo zal Ik ⟨jullie⟩ troosten; en in Jeroesjalajim zullen jullie getroost worden.",
+  "tokens": [
+    {
+      "surface": "כאיש",
+      "gloss": "als een man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "zijn moeder"
+    },
+    {
+      "surface": "תנחמנו",
+      "gloss": "troost hem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "אנחמכם",
+      "gloss": "zal ⟨jullie⟩ troosten"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "en in Jeroesjalajim"
+    },
+    {
+      "surface": "תנחמו",
+      "gloss": "zullen jullie getroost worden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:27:03.702827816Z",
+  "model": "glm-5.3"
+}

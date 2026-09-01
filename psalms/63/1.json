@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 63,
+  "translation": "Een mizmor van David, toen hij was in de woestijn van Jehoeda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "toen hij was"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.331322391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 16:27",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En ⟨את⟩ de stier van de zondeoffering en ⟨את⟩ de bok van de zondeoffering, wiens bloed binnen gebracht werd om verzoening te doen in het heiligdom, zal men naar buiten brengen, buiten het kamp, en zij zullen in het vuur verbranden ⟨את⟩ hun vellen en ⟨את⟩ hun vlees en ⟨את⟩ hun mest.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de stier van de zondeoffering"
+    },
+    {
+      "surface": "פר",
+      "gloss": "de stier"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van de zondeoffering"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de bok van de zondeoffering"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "de bok"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van de zondeoffering"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wiens"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "binnen gebracht werd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun bloed"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "hun bloed"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "om verzoening te doen"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in het heiligdom"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "zal men naar buiten brengen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "het kamp"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "en zij zullen verbranden"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in het vuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun vellen"
+    },
+    {
+      "surface": "ערתם",
+      "gloss": "hun vellen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun vlees"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "hun vlees"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun mest"
+    },
+    {
+      "surface": "פרשם",
+      "gloss": "hun mest"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:51.548558495Z",
+  "model": "glm-5.3"
+}

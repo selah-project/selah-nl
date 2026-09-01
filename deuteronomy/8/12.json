@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Dat je niet eet en verzadigd wordt, en goede huizen bouwt en ⟨daarin⟩ woont,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "dat... niet"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "en verzadigd wordt"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "en huizen"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "goede"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bouwt"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "en woont"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:57.697460319Z",
+  "model": "glm-5.3"
+}

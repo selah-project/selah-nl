@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En ik verkoop ⟨את⟩ jullie zonen en ⟨את⟩ jullie dochters in de hand van de zonen van Jehoeda, en zij verkopen hen aan de Sjabeeërs, aan een volk dat ver weg is — want Jahweh heeft gesproken.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "en ik verkoop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie zonen"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "jullie zonen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jullie dochters"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "jullie dochters"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "en zij verkopen hen"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "aan de Sjabeeërs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "een volk"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "ver weg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "heeft gesproken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:26.108503761Z",
+  "model": "glm-5.3"
+}

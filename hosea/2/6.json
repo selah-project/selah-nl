@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En ⟨את⟩ haar kinderen zal ik niet liefhebben, want kinderen van ontucht zijn zij.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haar kinderen"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "haar kinderen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "zal ik liefhebben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "van ontucht"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:06.760097800Z",
+  "model": "glm-5.3"
+}

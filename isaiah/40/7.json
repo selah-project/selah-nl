@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Verdroogd is het gras, verwelkt is de bloem, want de roeach van Jahweh heeft erin geblazen — voorwaar, gras is het volk.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "verdroogd is"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "het gras"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "verwelkt is"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "de bloem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de roeach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "heeft geblazen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "erin"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "voorraar"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gras"
+    },
+    {
+      "surface": "העם",
+      "gloss": "is het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:46.293821560Z",
+  "model": "glm-5.3"
+}

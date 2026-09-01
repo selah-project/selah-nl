@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Want hij ⟨is het⟩ die je redden zal van de strik van de vogelvanger, van de verderfelijke pest.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij ⟨is het⟩"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "die je redden zal"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "van de strik"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "van de vogelvanger"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "van de pest"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "verderfelijke"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:24.607407728Z",
+  "model": "glm-5.3"
+}

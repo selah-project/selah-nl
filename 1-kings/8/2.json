@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En zij vergaderden zich bij koning Sjelomo, alle mannen van Jisraël, in de maand Ha-Etaniem, bij het feest — dat is de zevende maand.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "En zij vergaderden zich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "in de maand"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Ha-Etaniem"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "bij het feest"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dat is"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "de maand"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "de zevende"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:02.257810898Z",
+  "model": "glm-5.3"
+}

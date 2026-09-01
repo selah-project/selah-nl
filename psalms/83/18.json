@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "Mogen zij zich schamen en ontsteld zijn tot ⟨in⟩ eeuwigheid, ja, mogen zij worden beschaamd en omkomen.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Mogen zij zich schamen"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "en ontsteld zijn"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "eeuwigheid"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "mogen zij worden beschaamd"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "en omkomen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:18.495213161Z",
+  "model": "glm-5.3"
+}

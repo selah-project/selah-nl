@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Hoor, Israël: u gaat heden over ⟨את⟩ de Jarden om binnen te gaan, om volken te erven, groter en machtiger dan u, steden, groot en versterkt tot in ⟨de⟩ hemel.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gaat over"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "om binnen te gaan"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "om te erven"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "groter"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "en machtiger"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dan u"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "steden"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "en versterkt"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "tot in de hemel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:29.332470973Z",
+  "model": "glm-5.3"
+}

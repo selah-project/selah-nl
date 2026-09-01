@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Dawid werd oud en vol van dagen, en hij deed zijn zoon Sjelomo koning worden over Jisraël.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "werd oud"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "en vol"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dagen"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "deed koning worden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:29:10.306924943Z",
+  "model": "glm-5.3"
+}

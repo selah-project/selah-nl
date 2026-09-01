@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Want hij die bloed onderzoekt, heeft ⟨את⟩ hen gedacht; hij vergat de schreeuw van de ellendigen niet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "onderzoekt"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "heeft gedacht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "vergat"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "de schreeuw"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "van de ellendigen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:59.158028848Z",
+  "model": "glm-5.3"
+}

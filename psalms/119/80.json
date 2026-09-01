@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Moge mijn hart onverdeeld zijn in uw verordeningen, opdat ik niet beschaamd word.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "moge zijn"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "onverdeeld"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "in uw verordeningen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ik beschaamd word"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:08.853967418Z",
+  "model": "glm-5.3"
+}

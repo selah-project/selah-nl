@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Achav, zoon van Omri, deed wat kwaad is in de ogen van Jahweh, meer dan allen die vóór hem waren.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "En hij deed"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "van Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "het kwaad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in de ogen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "meer dan allen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "vóór hem waren"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:08.501198938Z",
+  "model": "glm-5.3"
+}

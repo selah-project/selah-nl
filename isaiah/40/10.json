@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Zie, Adonai Jahweh komt met kracht, en zijn arm heerst voor hem; zie, zijn loon is ⟨את⟩ bij hem en zijn vrucht voor zijn aangezicht.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "met kracht"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "en zijn arm"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "heerst"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "zijn loon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bij hem"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "en zijn vrucht"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor zijn aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:49.269027355Z",
+  "model": "glm-5.3"
+}

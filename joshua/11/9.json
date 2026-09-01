@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Jehosjoea deed hun aan zoals Jahweh hem gezegd had: hun paarden hamstrengelde hij en hun strijdwagens verbrandde hij in het vuur.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en deed"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gezegd had"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun paarden"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "hun paarden"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "hamstrengelde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hun strijdwagens"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "hun strijdwagens"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "verbrandde"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in het vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T20:32:05.474106417Z",
+  "model": "glm-5.3"
+}

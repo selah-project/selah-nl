@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "“Laten wij ⟨את⟩ hun banden verscheuren en hun touwen van ons werpen!”",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Laten wij verscheuren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun banden"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "hun banden"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "en werpen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van ons"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "hun touwen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:48.042872952Z",
+  "model": "glm-5.3"
+}

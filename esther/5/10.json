@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Maar Haman bedwong zich, en hij kwam in zijn huis; en hij zond ⟨boodschappers⟩ en hij liet ⟨את⟩ zijn vrienden komen, en ⟨את⟩ Zeresj, zijn vrouw.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "maar hij bedwong zich"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hij liet komen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vrienden"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "zijn vrienden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeresj"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresj"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:14.192417176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En Bilha werd zwanger en baarde Ja'akov een zoon.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "en werd zwanger"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en baarde"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:26.909378429Z",
+  "model": "glm-5.3"
+}

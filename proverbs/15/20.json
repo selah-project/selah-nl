@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Een wijze zoon verblijdt ⟨zijn⟩ vader, maar een dwaas mens veracht zijn moeder.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wijze"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "verblijdt"
+    },
+    {
+      "surface": "אב",
+      "gloss": "vader"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "maar een dwaas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "veracht"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "zijn moeder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:21.162339430Z",
+  "model": "glm-5.3"
+}

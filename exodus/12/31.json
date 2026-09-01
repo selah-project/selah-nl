@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En hij riep Mosjee en Aharon in de nacht en zei: Sta op, ga weg uit het midden van mijn volk, zowel jullie als de kinderen van Jisraël, en ga heen, dien Jahweh ⟨את⟩, zoals jullie gezegd hebben.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "En hij riep"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in de nacht"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Sta op"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "ga weg"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit het midden van"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zowel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "als"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "en ga heen"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "dien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "zoals jullie gezegd hebben"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:32.588238655Z",
+  "model": "glm-5.3"
+}

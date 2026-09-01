@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 149,
+  "translation": "Israël verblijde zich in zijn Maker, de kinderen van Tsjijon juichen in hun koning.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "verblijde zich"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "in zijn Maker"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "van Tsjijon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "juichen"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "in hun koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:01.772611864Z",
+  "model": "glm-5.3"
+}

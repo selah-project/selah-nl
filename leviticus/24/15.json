@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 24:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En tot de kinderen van Jisraël zul je spreken en zeggen: Ieder mens die zijn Elohim vloekt, zal zijn zonde dragen.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "zul je spreken"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en zeggen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "die"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "vloekt"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "zijn Elohim"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "zal dragen"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "zijn zonde"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:42.175989978Z",
+  "model": "glm-5.3"
+}

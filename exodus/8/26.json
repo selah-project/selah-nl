@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Mosjee ging uit vanwege Par'o, en hij smeekte tot Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "en hij ging uit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "en hij smeekte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:05.372050321Z",
+  "model": "glm-5.3"
+}

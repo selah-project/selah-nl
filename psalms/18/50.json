@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Daarom loof ik U onder de volken, Jahweh, en psalm ik tot Uw naam.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "daarom (op)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "loof ik U"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder de volken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "en tot Uw naam"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "psalm ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:05.879827078Z",
+  "model": "glm-5.3"
+}

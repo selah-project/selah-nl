@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "En de magere en lelijke koeien verslinden ⟨את⟩ de zeven eerste koeien, de vette.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "en zij verslinden"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "de koeien"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "de magere"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "en de lelijke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zeven eerste koeien, de vette"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "de zeven"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "koeien"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "de eerste"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "de vette"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:30.865949040Z",
+  "model": "glm-5.3"
+}

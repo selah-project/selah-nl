@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Toen boog Bat-Sjeva en wierp zich neer voor de koning; en de koning zei: Wat ⟨wil⟩ jij?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "Toen boog"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sjeva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "en wierp zich neer"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "voor de koning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨wil⟩ jij"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:18.156082544Z",
+  "model": "glm-5.3"
+}

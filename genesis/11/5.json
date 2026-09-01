@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Jahweh daalde af om ⟨את⟩ de stad te zien en ⟨את⟩ de toren, die de mensenkinderen gebouwd hadden.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "daalde af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de toren"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "de toren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "gebouwd hadden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van de mens(heid)"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:42.624441328Z",
+  "model": "glm-5.3"
+}

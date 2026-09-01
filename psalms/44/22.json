@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Zou Elohim dit niet onderzoeken? Want hij kent ⟨de⟩ geheimen van ⟨het⟩ hart.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Zou niet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "onderzoeken"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "geheimen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:44.817908096Z",
+  "model": "glm-5.3"
+}

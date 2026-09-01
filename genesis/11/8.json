@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Jahweh verspreidde ⟨את⟩ hen van daar over de oppervlakte van heel de aarde, en zij hielden op de stad te bouwen.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "verspreidde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen (de bouwers)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "פני",
+      "gloss": "de oppervlakte (letterlijk: aangezicht)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "en zij hielden op"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "te bouwen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:42.624999754Z",
+  "model": "glm-5.3"
+}

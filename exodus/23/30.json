@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Langzaam, langzaam zal ik hen verdrijven van voor jouw gezicht, totdat jij vruchtbaar wordt en het land in bezit neemt ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "langzaam"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "langzaam"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "zal ik hen verdrijven"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "van voor jouw gezicht"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨wanneer⟩"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "jij vruchtbaar wordt"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "en in bezit neemt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:59.063707194Z",
+  "model": "glm-5.3"
+}

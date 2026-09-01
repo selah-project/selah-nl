@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En waarom verzwaart gij ⟨את⟩ uw hart, zoals Mitsrajim en Par'o ⟨את⟩ hun hart verzwaarden? Is het niet zo dat, toen hij zich aan hen vergreep, zij hen wegzonden en zij heengingen?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "En waarom"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "verzwaart gij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw hart"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "uw hart"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "verzwaarden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "en Par'o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun hart"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hun hart"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Is het niet zo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toen"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "hij zich vergreep"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "aan hen"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "zij zonden hen weg"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en zij gingen heen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:19:09.921309399Z",
+  "model": "glm-5.3"
+}

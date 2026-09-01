@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En Mosjee riep tot Jahweh, zeggend: Wat zal ik doen met dit volk? Nog een weinig en zij stenigen mij.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "En Mosjee riep"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zal ik doen"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "met dit volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "een weinig"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "en zij stenigen mij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:57.473460869Z",
+  "model": "glm-5.3"
+}

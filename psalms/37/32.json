@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Een goddeloze spiedt op de rechtvaardige en zoekt hem te doden.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "spiedt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "een goddeloze"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "op de rechtvaardige"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "en zoekt"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "hem te doden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:41.505094750Z",
+  "model": "glm-5.3"
+}

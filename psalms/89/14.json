@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Van jou ⟨is⟩ de arm met macht; sterk ⟨is⟩ jouw hand, verheven ⟨is⟩ jouw rechterhand.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "van jou"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "arm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "macht"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "sterk ⟨is⟩"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jouw hand"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "verheven ⟨is⟩"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "jouw rechterhand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:20.037281287Z",
+  "model": "glm-5.3"
+}

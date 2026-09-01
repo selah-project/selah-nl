@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "De stem van Jahweh doet de herten kreunen, en ontblotend de bossen — en in zijn heiligdom zegt alles ⟨samen⟩: kavod!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "doet kreunen"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "de herten"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "en ontblotend"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "de bossen"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "en in zijn heiligdom"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:07.042563325Z",
+  "model": "glm-5.3"
+}

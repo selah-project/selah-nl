@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim deed goed aan de vroedvrouwen, en het volk werd talrijk en werd zeer machtig.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "en deed goed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "aan de vroedvrouwen"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "en werd talrijk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "en werd machtig"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:30.681068315Z",
+  "model": "glm-5.3"
+}

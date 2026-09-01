@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 12:13",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "de koning van Devir, één; de koning van Geder, één;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "van Devir"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "van Geder"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T20:31:36.907229573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "Moge mijn gebed voor Uw aangezicht komen, neig Uw oor tot mijn geschreeuw.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "moge komen"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor Uw aangezicht"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mijn gebed"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "neig"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "Uw oor"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "tot mijn geschreeuw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:14.297846599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "En Jaakob riep zijn zonen en zei: Kom samen, dan verkondig ik jullie wat jullie zal overkomen in de laatste dagen.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "riep"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "kom samen"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "dan verkondig ik"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat jullie zal overkomen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "zal overkomen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "in het einde"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "van de dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:58.427404068Z",
+  "model": "glm-5.3"
+}

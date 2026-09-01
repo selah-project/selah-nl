@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Aharon zal ⟨את⟩ de stier van de chattat aanbieden, die voor hem is, en verzoening doen voor zichzelf en voor zijn huis.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "zal aanbieden"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stier van de chattat"
+    },
+    {
+      "surface": "פר",
+      "gloss": "stier"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van de chattat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem is"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "verzoening doen"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "voor zichzelf"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "en voor"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:21.005212038Z",
+  "model": "glm-5.3"
+}

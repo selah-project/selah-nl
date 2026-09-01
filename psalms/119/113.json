@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "⟨De⟩ twijfelgezinden heb ik gehaat, en uw Tora heb ik liefgehad.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "twijfelgezinden"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "heb ik gehaat"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "en uw Tora"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "heb ik liefgehad"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:01.892831736Z",
+  "model": "glm-5.3"
+}

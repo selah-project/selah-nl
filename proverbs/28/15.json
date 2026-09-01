@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Een brullende leeuw en een hongerige beer — zo is een goddeloze heerser over een arm volk.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "een leeuw"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "brullende"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "en een beer"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "hongerige"
+    },
+    {
+      "surface": "משל",
+      "gloss": "heerser"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "goddeloze"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "דל",
+      "gloss": "arm"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:45.353109208Z",
+  "model": "glm-5.3"
+}

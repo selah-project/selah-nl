@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 29:16",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Een vader was ik voor de armen, en de rechtszaak die ik niet kende, die onderzocht ik.",
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "een vader"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "was ik"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "voor de armen"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "en de rechtszaak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kende ik"
+    },
+    {
+      "surface": "אחקרהו",
+      "gloss": "die onderzocht ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:33.003018539Z",
+  "model": "glm-5.3"
+}

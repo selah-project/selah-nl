@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Een talent goud, zuiver, zal hij ⟨את⟩ haar maken, ⟨את⟩ al deze gereedschappen.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "een talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "zuiver"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zal hij maken"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al deze gereedschappen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "de gereedschappen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:27.190258185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "zeggende: Elohim heeft hem verlaten; achtervolgt en grijpt hem, want er is niemand die redt.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "heeft hem verlaten"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "achtervolgt"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "en grijpt hem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is niet"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "die redt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:40.342431584Z",
+  "model": "glm-5.3"
+}

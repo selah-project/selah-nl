@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En de dienaren van de koning Chizkijahoe kwamen tot Jesjajahoe.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en kwamen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "de dienaren van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahoe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesjajahoe"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:10.591285209Z",
+  "model": "glm-5.3"
+}

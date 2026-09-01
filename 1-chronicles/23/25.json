@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Want Dawid zei: Jahweh, de Elohim van Israël, heeft aan zijn volk rust gegeven, en Hij woont in Jeroesjalajem tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "heeft rust gegeven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "aan zijn volk"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "en Hij woont"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeroesjalajem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T23:02:46.649384255Z",
+  "model": "glm-5.3"
+}

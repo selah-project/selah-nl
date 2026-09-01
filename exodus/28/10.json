@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "zes van hun namen op de ene steen, en ⟨את⟩ de namen van de zes overigen op de tweede steen, naar hun geboortevolgorde",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "zes"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "van hun namen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "de steen"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de namen van de zes overigen"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "de namen"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "van de zes"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "de overigen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "de steen"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "de tweede"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "naar hun geboortevolgorde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:30.694197548Z",
+  "model": "glm-5.3"
+}

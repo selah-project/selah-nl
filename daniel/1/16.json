@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de opsichter nam voortdurend ⟨את⟩ hun spijs weg, en de wijn van hun drank, en gaf hun zaaigoed ⟨in plaats daarvan⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "de opsichter"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nam weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun spijs"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "hun spijs"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "en de wijn"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "van hun drank"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en gaf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "zaaigoed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:51.054186539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij zal zijn hand op de kop van de bok leggen en hem slachten op de plaats waar men ⟨את⟩ het brandoffer slacht, voor het aangezicht van Jahweh; ⟨een⟩ zonde-offer ⟨is⟩ het.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "en hij zal leggen"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "de kop"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "van de bok"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "en slachten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "de bok"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "op de plaats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "men slacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het brandoffer"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "het brandoffer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "zonde-offer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:47.609159228Z",
+  "model": "glm-5.3"
+}

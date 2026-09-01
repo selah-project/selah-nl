@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "In uw bevelen zal ik overpeinzen, en ik zal acht geven op uw paden.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "in uw bevelen"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "zal ik overpeinzen"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "en ik zal acht geven"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "op uw paden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:21.172559011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ Tsor'a, en ⟨את⟩ Ajalon, en ⟨את⟩ Chevron, die in Jehoeda ⟨en⟩ in Binyamin ⟨liggen⟩, vestingsteden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsor'a"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsor'a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "in Jehoeda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "en in Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "steden"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "vestingen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:06:02.745349121Z",
+  "model": "glm-5.3"
+}

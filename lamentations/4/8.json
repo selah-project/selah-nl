@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Donkerder dan zwart is hun gedaante; op de straten worden zij niet herkend; hun huid kleeft vast aan hun gebeente, verdord, is het geworden als hout.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "donkerder"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "dan zwart"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "hun gedaante"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "worden zij herkend"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "op de straten"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "kleeft vast"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "hun huid"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "hun gebeente"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "verdord"
+    },
+    {
+      "surface": "היה",
+      "gloss": "is het geworden"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "als hout"
+    }
+  ],
+  "timestamp": "2026-08-31T22:41:45.154826331Z",
+  "model": "glm-5.3"
+}

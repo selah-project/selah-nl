@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En hij zei tegen Jehoeda om Jahweh, de Elohim van hun vaderen, te zoeken ⟨את⟩, en om de tora en het mitswot te doen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "tegen Jehoeda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "om te zoeken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim van"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "hun vaderen"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "en om te doen"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "de tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "en het mitswot"
+    }
+  ],
+  "timestamp": "2026-08-31T23:07:36.409668023Z",
+  "model": "glm-5.3"
+}

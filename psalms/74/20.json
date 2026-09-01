@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Zie om naar het verbond, want de duistere plekken van het land ⟨zijn⟩ vol ⟨van⟩ woongronden van geweld.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Zie om naar"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "het verbond"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "⟨zijn⟩ vol"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "de duistere plekken"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "woongronden"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "van geweld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:43.536980148Z",
+  "model": "glm-5.3"
+}

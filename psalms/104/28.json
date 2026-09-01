@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": " Jij geeft het hun, zij rapen het op; jij opent jouw hand, zij worden verzadigd met goed.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "jij geeft"
+    },
+    {
+      "surface": "להם",
+      "gloss": "het hun"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "zij rapen op"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "jij opent"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jouw hand"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "zij worden verzadigd"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "met goed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:14.144427664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "De ogen van alles verwachten u, en u geeft hun ⟨את⟩ hun spijze op zijn tijd.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "de ogen van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "u"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "verwachten"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en u"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun spijze"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "hun spijze"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "op zijn tijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:16.772321135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Wie dankoffer brengt, eert mij; en wie de weg ⟨recht⟩ bereidt, hem zal ik het heil van Elohim doen zien.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "brengt offer"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "dank"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "eert mij"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en bereidt"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "weg"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "hem zal ik doen zien"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "het heil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:44.237230149Z",
+  "model": "glm-5.3"
+}

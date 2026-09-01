@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Gezworen heeft Adonai Jahweh door zijn heiligheid: zie, dagen komen over u, en men zal ⟨את⟩ u wegnemen met haken, en uw nakomelingen met vishaken.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Gezworen heeft"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "door zijn heiligheid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zie"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "באים",
+      "gloss": "komen"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "over u"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "en men zal wegnemen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "u"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "met haken"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "en uw nakomelingen"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "met"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "vishaken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:50.411240634Z",
+  "model": "glm-5.3"
+}

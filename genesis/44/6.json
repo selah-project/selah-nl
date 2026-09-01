@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "En hij haalde hen in, en hij sprak tot hen ⟨את⟩ deze woorden.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "en hij haalde hen in"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "en hij sprak"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze woorden"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "deze woorden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:27.065280536Z",
+  "model": "glm-5.3"
+}

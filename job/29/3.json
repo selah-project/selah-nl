@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "toen zijn lamp ⟨scheen⟩ boven mijn hoofd, en bij zijn licht wandelde ik ⟨door⟩ duisternis;",
+  "tokens": [
+    {
+      "surface": "בהלו",
+      "gloss": "toen hij deed schijnen"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "zijn lamp"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "boven"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mijn hoofd"
+    },
+    {
+      "surface": "לאורו",
+      "gloss": "bij zijn licht"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "wandelde ik"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:33.340073805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Door jouw wijsheid en door jouw inzicht heb jij jezelf rijkdom verworven, en je hebt goud en zilver ⟨verzameld⟩ in jouw schathuizen.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "Door jouw wijsheid"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "en door jouw inzicht"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "heb jij … verworven"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jezelf"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "rijkdom"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "en je hebt ⟨verzameld⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "en zilver"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "in jouw schathuizen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:07.860127080Z",
+  "model": "glm-5.3"
+}

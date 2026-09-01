@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En als het zeker van hem gestolen wordt, zal hij vergoeden aan zijn eigenaar.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "zeker"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "gestolen wordt"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "van hem"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zal hij vergoeden"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "aan zijn eigenaar"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:28.175218119Z",
+  "model": "glm-5.3"
+}

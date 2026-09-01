@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En dit zijn de verwekkingen van Jitschak, zoon van Avraham: Avraham verwekte ⟨את⟩ Jitschak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "de verwekkingen (geslachtsregister)"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "van Jitschak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "van Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:18.971627583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Door traagheid zakt het dak in, en door slapheid van handen druipt het huis leeg.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "door traagheid"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "zakt in"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "het dak"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "en door slapheid"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "van handen"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "druipt"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:27.943216250Z",
+  "model": "glm-5.3"
+}

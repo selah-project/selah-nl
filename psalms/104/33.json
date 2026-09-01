@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Ik zal zingen voor Jahweh zolang ik leef, ik zal snarenspel maken voor mijn Elohim zolang ik besta.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "ik zal zingen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "zolang ik leef"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ik zal snarenspel maken"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "voor mijn Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "zolang ik besta"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:26.444964073Z",
+  "model": "glm-5.3"
+}

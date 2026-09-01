@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Spreek tot de kinderen van Jisraël en zeg tot hen: wanneer jullie de Jardan overtrekken ⟨את⟩, naar het land Kenaän —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en zeg"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "overtrekken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Jardan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jardan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaän"
+    }
+  ],
+  "timestamp": "2026-08-31T20:19:17.560574519Z",
+  "model": "glm-5.3"
+}

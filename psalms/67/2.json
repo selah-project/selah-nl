@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 67,
+  "translation": "Elohim, zij ons genadig en zegene ons; doen Hij ⟨zijn⟩ aangezicht over ons lichten. Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "zij ons genadig"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "en zegene ons"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "doen lichten"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zijn aangezicht"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "over ons"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:56.910831871Z",
+  "model": "glm-5.3"
+}

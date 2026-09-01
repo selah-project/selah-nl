@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 20:14",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Toen kwam Jeshajahoe de profeet bij koning Chizkijahoe, en hij zei tot hem: Wat hebben deze mannen gezegd, en vanwaar zijn zij tot jou gekomen? En Chizkijahoe zei: Uit een ver land zijn zij gekomen, uit Bavel.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "toen kwam"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jeshajahoe"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "de profeet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahoe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "hebben gezegd"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "deze mannen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "en vanwaar"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "zijn gekomen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot jou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahoe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit land"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "een ver"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zijn zij gekomen"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "uit Bavel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:44.575949836Z",
+  "model": "glm-5.3"
+}

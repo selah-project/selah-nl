@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Een vreemdeling ben ik op de aarde; verberg uw mitswot niet voor mij.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Een vreemdeling"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben ik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "verberg"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "uw mitswot"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:23.530369543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En zij riepen tot Jahweh en zeiden: Wij hebben gezondigd, want wij hebben Jahweh verlaten en de Baälim gediend ⟨את⟩ en ⟨את⟩ de Asjtarot; en nu, red ons uit de hand van onze vijanden, dan zullen wij u dienen.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "en zij riepen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "wij hebben gezondigd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "wij hebben verlaten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "en wij dienden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Baälim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "de Baälim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Asjtarot"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "de Asjtarot"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "red ons"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand van"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "onze vijanden"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "dan zullen wij u dienen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:50.147156819Z",
+  "model": "glm-5.3"
+}

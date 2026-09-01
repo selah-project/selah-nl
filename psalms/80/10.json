@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "U maakte ⟨de grond⟩ vrij voor zijn aangezicht, en het sloeg wortel met zijn wortels en vervulde ⟨de⟩ aarde.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "U maakte vrij"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "voor zijn aangezicht"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "en het sloeg wortel"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "met zijn wortels"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "en vervulde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨de⟩ aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:17.047047186Z",
+  "model": "glm-5.3"
+}

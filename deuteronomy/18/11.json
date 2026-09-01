@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "noch een bezweerder, noch een die een geest van een dode raadpleegt, noch een kenner ⟨van verborgen dingen⟩, noch een die de doden ⟨raadpleegt⟩.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "noch een bezweerder"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "bezweringsformule"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "noch een die raadpleegt"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "een geest van een dode"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "noch een kenner ⟨van verborgen dingen⟩"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "noch een die vraagt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "de doden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:34.383940861Z",
+  "model": "glm-5.3"
+}

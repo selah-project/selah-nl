@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "⟨את⟩ elke orev, naar zijn soort;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elke orev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "orev (raaf)"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "naar zijn soort"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:51.981021965Z",
+  "model": "glm-5.3"
+}

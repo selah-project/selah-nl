@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Jahweh, uw naam ⟨is⟩ tot in eeuwigheid; Jahweh, uw gedachtenis ⟨is⟩ voor geslacht en geslacht.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "uw gedachtenis"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "voor geslacht"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en geslacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:49.154474251Z",
+  "model": "glm-5.3"
+}

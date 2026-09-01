@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Gerechtigheid bewaart ⟨de⟩ wie volkomen ⟨is⟩ op ⟨zijn⟩ weg, maar slechtheid doet de zonde wankelen.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "gerechtigheid"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "bewaart"
+    },
+    {
+      "surface": "תם",
+      "gloss": "wie volkomen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "op ⟨zijn⟩ weg"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "maar slechtheid"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "doet wankelen"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "de zonde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:23.358595856Z",
+  "model": "glm-5.3"
+}

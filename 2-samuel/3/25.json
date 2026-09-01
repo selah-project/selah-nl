@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Je kent ⟨את⟩ Avner, zoon van Ner: hij is gekomen om je te misleiden, en om je uitgang en je ingang te kennen, en om alles te weten wat jij doet.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "je kent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "om je te misleiden"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hij is gekomen"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "en om te kennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je uitgang"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "je uitgang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "je ingang"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "je ingang"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "en om te weten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doet"
+    }
+  ],
+  "timestamp": "2026-08-31T23:19:58.321369553Z",
+  "model": "glm-5.3"
+}

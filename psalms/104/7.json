@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Voor uw bestraffing vluchten zij, voor het geluid van uw donder haasten zij zich weg.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "voor"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "uw bestraffing"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "vluchten zij"
+    },
+    {
+      "surface": "מן",
+      "gloss": "voor"
+    },
+    {
+      "surface": "קול",
+      "gloss": "het geluid"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "van uw donder"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "haasten zij zich weg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:02.048470820Z",
+  "model": "glm-5.3"
+}

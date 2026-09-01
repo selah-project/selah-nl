@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Zes dagen mag werk gedaan worden, en op de zevende dag is sjabbat, volkomen rust, heilig voor Jahweh; ieder die werk doet op de dag van de sjabbat zal zeker gedood worden.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "zes"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mag gedaan worden"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "en op de dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "de zevende"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "is sjabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "volkomen rust"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "die doet"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "van de sjabbat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "zal gedood"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "worden, zeker"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:56.824686609Z",
+  "model": "glm-5.3"
+}

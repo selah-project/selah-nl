@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 57,
+  "translation": "Wees mij genadig, Elohim, wees mij genadig, want bij U schuilt mijn nefesj, en in de schaduw van Uw vleugels zal ik schuilen, totdat het verderf voorbijgaat.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "wees mij genadig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "wees mij genadig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bij U"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "schuilt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "en in de schaduw"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "van Uw vleugels"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "zal ik schuilen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "voorbijgaat"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "het verderf"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:24.340661073Z",
+  "model": "glm-5.3"
+}

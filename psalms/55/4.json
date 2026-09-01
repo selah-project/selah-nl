@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Vanwege de stem van de vijand, vanwege het geweld van de goddeloze; want zij laten ⟨het⟩ onrecht op mij neerkomen, en in toom haten zij mij.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "vanwege de stem"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "van de vijand"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "het geweld"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van de goddeloze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "laten zij neerkomen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op mij"
+    },
+    {
+      "surface": "און",
+      "gloss": "onrecht"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "en in toorn"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "haten zij mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:03.607535523Z",
+  "model": "glm-5.3"
+}

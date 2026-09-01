@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "De rechtvaardige eet tot verzadiging van zijn nefesj, maar de buik van de goddelozen ontbeert ⟨het⟩.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "De rechtvaardige"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "tot verzadiging"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "van zijn nefesj"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "maar de buik"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "ontbeert"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:10.089945143Z",
+  "model": "glm-5.3"
+}

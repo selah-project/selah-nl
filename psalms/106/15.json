@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En hij gaf hun hun verzoek, maar hij zond magerheid in hun nefesj.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en hij gaf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "hun verzoek"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "maar hij zond"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "magerheid"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "in hun nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:53.794574185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Haman nam ⟨את⟩ het kleed en ⟨את⟩ het paard, en kleedde ⟨את⟩ Mordechai, en deed hem rijden op het plein van de stad, en riep voor hem uit: zo wordt gedaan aan de man in wiens eer de koning welbehagen heeft.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en Haman nam"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het kleed"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "het kleed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het paard"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "het paard"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "en hij kleedde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "en hij deed hem rijden"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "op het plein"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij riep"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor hem uit"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wordt gedaan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan de man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in wiens"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "welbehagen heeft"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "in zijn eer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:13.929684513Z",
+  "model": "glm-5.3"
+}

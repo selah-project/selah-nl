@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Jahweh zal ⟨את⟩ de regen van je land geven ⟨als⟩ fijn stof en stof; uit de hemel zal het op je neerdalen tot je vernietigd bent.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "zal geven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de regen van je land"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "de regen"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "van je land"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "fijn stof"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "en stof"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "zal neerdalen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "op je"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "je vernietigd bent"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:07.385617902Z",
+  "model": "glm-5.3"
+}

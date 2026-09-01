@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Toen ik riep, antwoordde mij Elohim van mijn recht; in benauwdheid hebt Gij mij ruimte gegeven; wees mij genadig en hoor mijn gebed.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "toen ik riep"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoordde mij"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "van mijn recht"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in benauwdheid"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "hebt Gij ruimte gegeven"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "wees mij genadig"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "en hoor"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mijn gebed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:55.771815114Z",
+  "model": "glm-5.3"
+}

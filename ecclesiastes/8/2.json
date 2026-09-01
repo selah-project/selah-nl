@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Ik — de mond van een koning, bewaar ⟨die⟩, en ⟨dat⟩ omwille van de eed van Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de mond"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van een koning"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en omwille van"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "⟨dat⟩"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "de eed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:34.959941850Z",
+  "model": "glm-5.3"
+}

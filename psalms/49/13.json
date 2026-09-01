@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "En de mens ⟨in⟩ aanzien blijft niet ⟨overnachten⟩; aan de beesten gelijkgemaakt — vergaan zijn zij.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "En de mens"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "⟨in⟩ aanzien"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "blijft ⟨overnachten⟩"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "gelijkgemaakt"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "aan de beesten"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "vergaan zijn zij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:10.022102300Z",
+  "model": "glm-5.3"
+}

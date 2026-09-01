@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En hij deed ⟨את⟩ heel het volk staan, ieder ⟨met⟩ zijn wapen in zijn hand, van de rechterschouder van het huis tot de linkerschouder van het huis, bij ⟨de⟩ altaar en bij ⟨het⟩ huis, rondom de koning.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "en hij deed staan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel het volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en ieder"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "zijn wapen"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in zijn hand"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "van de schouder"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "rechter-"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "de schouder"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "linker-"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "bij het altaar"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "en bij het huis"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-08-31T23:08:34.344050637Z",
+  "model": "glm-5.3"
+}

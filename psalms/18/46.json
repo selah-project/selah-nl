@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Zonen van het vreemde zullen verwelken en bevend uit hun vestingen komen.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "van het vreemde"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "zullen verwelken"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "en bevend komen"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "uit hun vestingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:03.365641639Z",
+  "model": "glm-5.3"
+}

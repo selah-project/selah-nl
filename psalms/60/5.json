@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "U hebt uw volk ⟨een⟩ hard ⟨ding⟩ laten zien; U hebt ons wijn van wankelgang te drinken gegeven.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "U hebt laten zien"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uw volk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hard ⟨ding⟩"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "U hebt ons te drinken gegeven"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wijn"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "van wankelgang"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:35.022123200Z",
+  "model": "glm-5.3"
+}

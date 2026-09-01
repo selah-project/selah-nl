@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Zie, het oog van Jahweh ⟨is⟩ op hen die hem vrezen, op hen die op zijn chesed wachten (chesed: trouwbare liefde),",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "עין",
+      "gloss": "het oog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "hen die hem vrezen"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "op hen die wachten"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "op zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:14.254154648Z",
+  "model": "glm-5.3"
+}

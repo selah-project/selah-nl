@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Met mijn hele hart heb ik u gezocht; laat mij niet afdwalen van uw mitswot.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "met mijn hele"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hart"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "heb ik u gezocht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "mij afdwalen"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "van uw mitswot"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:34.523624252Z",
+  "model": "glm-5.3"
+}

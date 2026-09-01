@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 137,
+  "translation": "Moge mijn tong kleven aan mijn verhemelte, als ik u niet gedenk, als ik Jeroesjalajim niet verhef ⟨את⟩ boven de hoogste vreugde van mij.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "moge kleven"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "mijn tong"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "aan mijn verhemelte"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ik u gedenk"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ik verhef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeroesjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "de hoogste"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "vreugde van mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:50.971820675Z",
+  "model": "glm-5.3"
+}

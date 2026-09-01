@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En gerechtigheid zal ⟨de⟩ gordel van zijn heupen zijn, en trouw de gordel van zijn lendenen.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en zal zijn"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "gerechtigheid"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "gordel"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "van zijn heupen"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "en trouw"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "gordel"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "van zijn lendenen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:16:05.605645591Z",
+  "model": "glm-5.3"
+}

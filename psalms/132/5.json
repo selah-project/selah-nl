@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": "totdat ik een plaats vind voor Jahweh, woningen voor de Sterke van Jaäkov.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ik vind"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "een plaats"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "woningen"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "voor de Sterke"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkov"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:40.943146653Z",
+  "model": "glm-5.3"
+}

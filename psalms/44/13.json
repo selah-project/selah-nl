@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Jij verkoopt jouw volk voor niets, en je vergroot geen rijkdom door hun prijs.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "Jij verkoopt"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jouw volk"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "voor niets"
+    },
+    {
+      "surface": "הון",
+      "gloss": "rijkdom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "vergroot je"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "door hun prijs"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:37.332330672Z",
+  "model": "glm-5.3"
+}

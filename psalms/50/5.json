@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Verzamel ⟨mij⟩ mijn chasidim, die mijn verbond sluiten over ⟨een⟩ slachtoffer.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Verzamel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mij⟩"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "mijn chasidim"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "sluiten"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slachtoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:48.730446447Z",
+  "model": "glm-5.3"
+}

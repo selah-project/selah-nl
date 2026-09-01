@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": "ik geef geen slaap aan mijn ogen, geen dommeling aan mijn oogleden,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "zeker niet"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ik geef"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "slaap"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "aan mijn ogen"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "aan mijn oogleden"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "dommeling"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:34.642677515Z",
+  "model": "glm-5.3"
+}

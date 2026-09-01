@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Offer aan Elohim ⟨dank⟩-dankzegging, en betaal aan de Hoogste je geloften.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Offer"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "dankzegging"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "en betaal"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "aan de Hoogste"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "je geloften"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:12.523875863Z",
+  "model": "glm-5.3"
+}

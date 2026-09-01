@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Uw land ⟨is⟩ verwoesting, uw steden ⟨zijn⟩ met vuur verbrand; uw grondgoed wordt vóór u door vreemden verslonden, ⟨את⟩ ⟨haar⟩ — en ⟨het is⟩ verwoesting als een omkering van vreemden.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "uw land"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "verwoesting"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "uw steden"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "verbrand"
+    },
+    {
+      "surface": "אש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "uw grondgoed"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "vóór u"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vreemden"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "verslinden"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (het grondgoed)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "en verwoesting"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "als een omkering"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "van vreemden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:54.188522887Z",
+  "model": "glm-5.3"
+}

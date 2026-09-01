@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 137,
+  "translation": "Als ik u vergeet, Jeroesjalajim, vergeten ⟨moge⟩ mijn rechterhand ⟨haar bekwaamheid⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ik u vergeet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "vergeten ⟨moge⟩"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "mijn rechterhand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:50.971519494Z",
+  "model": "glm-5.3"
+}

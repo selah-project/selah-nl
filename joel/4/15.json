@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Zon en maan werden donker, en de sterren trokken hun glans samen.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "zon"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "en maan"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "werden donker"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "en de sterren"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "trokken samen"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "hun glans"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:29.959411997Z",
+  "model": "glm-5.3"
+}

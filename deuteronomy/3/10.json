@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "alle steden van de vlakte, en heel Gil'ad, en heel Bashan tot Salka en Edre'i toe, steden van het koninkrijk van Og in Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "steden"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "van de vlakte"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salka"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "en Edre'i"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "steden"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "van het koninkrijk"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "in Bashan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:26.654756669Z",
+  "model": "glm-5.3"
+}

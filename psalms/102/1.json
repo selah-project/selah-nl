@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Een gebed van de verdrukte, wanneer hij overstelpt wordt, en voor het aangezicht van Jahweh zijn klacht uitstort.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "een gebed"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "van de verdrukte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "hij overstelpt wordt"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "en voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "uitstort"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "zijn klacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:07.437446344Z",
+  "model": "glm-5.3"
+}

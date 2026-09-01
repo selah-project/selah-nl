@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Voor de koorleider, van David, een mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:29.194878479Z",
+  "model": "glm-5.3"
+}

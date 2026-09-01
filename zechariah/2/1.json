@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En ik sloeg ⟨את⟩ mijn ogen op en ik zag, en zie, vier hoornen.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "en ik sloeg op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn ogen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn ogen"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "en ik zag"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "hoornen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:03:24.434974716Z",
+  "model": "glm-5.3"
+}

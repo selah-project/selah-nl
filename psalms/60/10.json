@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "Moav is mijn wasvat; op Edom werp ik mijn sandaal; over mij, Peléshet, jubel!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "vat"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "mijn was-"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "werp ik"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "mijn sandaal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peléshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "jubel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:30.634215030Z",
+  "model": "glm-5.3"
+}

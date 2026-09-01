@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Aharon moet ⟨את⟩ de bok aandragen waarop het lot voor Jahweh kwam, en hem bereiden tot zondeoffer.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "moet aandragen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bok"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "de bok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarop"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "erop"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "het lot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "en hem bereiden"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "tot zondeoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:14.296579457Z",
+  "model": "glm-5.3"
+}

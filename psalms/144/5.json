@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 144,
+  "translation": "Jahweh, neig uw hemelen en daal neer; raak de bergen aan en zij zullen roken.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הט",
+      "gloss": "neig"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "uw hemelen"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "en daal neer"
+    },
+    {
+      "surface": "גע",
+      "gloss": "raak aan"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "en zij zullen roken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:16.039774875Z",
+  "model": "glm-5.3"
+}

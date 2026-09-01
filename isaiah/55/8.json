@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Want ⟨mijn⟩ gedachten ⟨zijn⟩ niet uw gedachten, en uw wegen ⟨zijn⟩ niet mijn wegen, luidt het oracle van Jahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "mijn gedachten"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "uw gedachten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "uw wegen"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mijn wegen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "luidt het oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T23:22:13.760924180Z",
+  "model": "glm-5.3"
+}

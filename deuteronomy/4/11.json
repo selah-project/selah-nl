@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En jullie naderden en gingen staan onder de berg, en de berg brandde in vuur tot het middelpunt van de hemel: duisternis, wolk en dichte duisternis.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "en jullie naderden"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "en gingen staan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "en de berg"
+    },
+    {
+      "surface": "בער",
+      "gloss": "brandde"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in vuur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het middelpunt van"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "wolk"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "en dichte duisternis"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:03.148381987Z",
+  "model": "glm-5.3"
+}

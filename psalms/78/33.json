@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En Hij maakte ⟨een einde aan⟩ hun dagen in ijdelheid, en hun jaren in verschrikking.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "en Hij maakte een einde"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "in ijdelheid"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "hun dagen"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "en hun jaren"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "in verschrikking"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:04.228606702Z",
+  "model": "glm-5.3"
+}

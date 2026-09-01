@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 141,
+  "translation": "Een rechtvaardige sla mij in chesed, en bestraft mij — olie voor ⟨het⟩ hoofd; laat mijn hoofd het niet weigeren, want nog ⟨is⟩ mijn gebed ⟨gericht⟩ op hun boosheid.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "sla mij"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "een rechtvaardige"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "in chesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "en bestraft mij"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoofd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יני",
+      "gloss": "laat … weigeren"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mijn hoofd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "en mijn gebed"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "op hun boosheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:42.812702475Z",
+  "model": "glm-5.3"
+}

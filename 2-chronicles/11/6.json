@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En hij bouwde ⟨את⟩ Bet-Lechem en ⟨את⟩ Etam en ⟨את⟩ Tekoa",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Lechem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Etam"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tekoa"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoa"
+    }
+  ],
+  "timestamp": "2026-08-31T23:05:58.758921441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En uit ⟨את⟩ de gemeente van de kinderen van Jisraël zal hij nemen twee bokken voor de chattat, en één ram voor het brandoffer.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩ uit",
+      "marks": "de gemeente van de kinderen van Jisraël"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gemeente"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "zal hij nemen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "bokken"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "van de geiten"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "voor de chattat (zondeoffer)"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "en één ram"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "voor het brandoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:21.004933349Z",
+  "model": "glm-5.3"
+}

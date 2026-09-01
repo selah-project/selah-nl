@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Atalja, de moeder van Achazja, zag dat haar zoon dood was, en zij stond op en verdelgde ⟨את⟩ heel het nageslacht van het koninkrijk.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "En Atalja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "de moeder van"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazja"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "zag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dood was"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "haar zoon"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "en zij stond op"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "en verdelgde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel het nageslacht van het koninkrijk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "het nageslacht"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "van het koninkrijk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:37.462481774Z",
+  "model": "glm-5.3"
+}

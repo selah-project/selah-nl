@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Dawid veroverde ⟨את⟩ de vesting van Tsjion — dat is de stad van Dawid.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "en veroverde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vesting van Tsjion"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "de vesting"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "van Tsjion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dat is"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:51:30.894737832Z",
+  "model": "glm-5.3"
+}

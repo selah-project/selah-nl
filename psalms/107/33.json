@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Hij maakt rivieren tot woestijn, en waterbronnen tot dorstig ⟨grond⟩;",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Hij maakt"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rivieren"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "tot woestijn"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "en bronnen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van water"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "tot dorstig ⟨grond⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:05.300845551Z",
+  "model": "glm-5.3"
+}

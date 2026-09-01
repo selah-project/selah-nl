@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "U leidt mij uit het net dat zij voor mij verborgen hebben, want U bent mijn toevlucht.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "U leidt mij uit"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "uit het net"
+    },
+    {
+      "surface": "זו",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "zij verborgen hebben"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "mijn toevlucht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:34.842480605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Chever verwekte ⟨את⟩ Jaflet en ⟨את⟩ Sjomer en ⟨את⟩ Chotam en ⟨את⟩ Sjoe'a, hun zuster.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "En Chever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Jaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sjomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Sjomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sjoe'a"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Sjoe'a"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "hun zuster"
+    }
+  ],
+  "timestamp": "2026-08-31T22:59:14.777173979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En zij zetten ⟨את⟩ zijn wapenuitrusting in het huis van Ashtarot, en ⟨את⟩ zijn lichaam spietsten zij aan de muur van Beet-Sjan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "en zij zetten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn wapenuitrusting"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zijn wapenuitrusting"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "van Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn lichaam"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "zijn lichaam"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "spietsten zij"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "aan de muur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van Beet"
+    },
+    {
+      "surface": "שן",
+      "gloss": "-Sjan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:50:03.961606865Z",
+  "model": "glm-5.3"
+}

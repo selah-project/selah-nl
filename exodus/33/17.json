@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En Jahweh zeide tot Mosjee: ook ⟨את⟩ dit woord dat gij gesproken hebt, zal ik doen; want gij hebt chen gevonden in mijn ogen, en ik ken u bij naam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "gij gesproken hebt"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zal ik doen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "gij hebt gevonden"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chen (gunst)"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in mijn ogen"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "en ik ken u"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bij naam"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:11.828795570Z",
+  "model": "glm-5.3"
+}

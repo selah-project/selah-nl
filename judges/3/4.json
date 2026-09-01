@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En zij waren ⟨daar⟩ om daarmee Israël op de proef te stellen, ⟨את⟩ Israël — om te weten of zij zouden luisteren naar ⟨את⟩ de geboden van Jahweh, die Hij ⟨את⟩ hun vaderen geboden had door de hand van Mosjee.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "En zij waren"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "om op de proef te stellen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "om te weten"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "of zij zouden luisteren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de geboden"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "naar de geboden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Hij geboden had"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun vaderen"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "hun vaderen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "van Mosjee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:35:30.964002043Z",
+  "model": "glm-5.3"
+}

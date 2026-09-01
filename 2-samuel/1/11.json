@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Dawid greep zijn kleren en scheurde ze, en ook alle mannen die ⟨את⟩ bij hem waren.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "En greep"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "zijn kleren"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "en scheurde ze"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "de mannen die bij hem waren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:50:14.788637387Z",
+  "model": "glm-5.3"
+}

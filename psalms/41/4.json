@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Jahweh zal hem schragen op een bed van krankheid; heel zijn legerstede hebt ⟨U⟩ omgekeerd in zijn ziekte.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "zal hem schragen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "bed"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "van krankheid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "zijn legerstede"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "hebft ⟨U⟩ omgekeerd"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "in zijn ziekte"
+    }
+  ],
+  "timestamp": "2026-08-31T23:46:01.037786575Z",
+  "model": "glm-5.3"
+}

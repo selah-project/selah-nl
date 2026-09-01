@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 67,
+  "translation": "Voor de koorleider, op snaarinstrumenten. Een mizmor, een lied.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "op snaarinstrumenten"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:56.910555693Z",
+  "model": "glm-5.3"
+}

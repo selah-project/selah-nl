@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Sta op, en ga naar beneden, naar het huis van de pottenbakker, en daar zal Ik ⟨את⟩ mijn woorden je doen horen.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "sta op"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "en ga naar beneden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "van de pottenbakker"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "en daar"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "zal Ik je doen horen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn woorden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mijn woorden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:17.457622207Z",
+  "model": "glm-5.3"
+}

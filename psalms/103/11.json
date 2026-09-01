@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Want zo hoog als de hemelen boven de aarde ⟨zijn⟩, zo machtig is zijn chesed over wie Hem vrezen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "zo hoog als"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "is machtig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wie Hem vrezen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:02.767739719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Zie, aan Jahweh uw Elohim behoren de hemel en de hemel der hemelen, de aarde en alles wat daarin is",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "en de hemel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "der hemelen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin is"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:54.800455685Z",
+  "model": "glm-5.3"
+}

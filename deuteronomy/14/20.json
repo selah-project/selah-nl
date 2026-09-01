@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Alle rein gevogelte mag ⟨jullie⟩ eten.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "gevogelte"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rein"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag ⟨jullie⟩ eten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:06.844001277Z",
+  "model": "glm-5.3"
+}

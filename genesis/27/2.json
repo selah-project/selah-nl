@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En hij zei: zie nu, ik ben oud geworden, ik ken de dag van mijn dood niet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ik ben oud geworden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ik ken"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "van mijn dood"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:14.512865181Z",
+  "model": "glm-5.3"
+}

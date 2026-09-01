@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 138,
+  "translation": "Want hoog is Jahweh, en de nederige ziet ⟨ hij ⟩, en de trotse kent ⟨ hij ⟩ van veraf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רם",
+      "gloss": "hoog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "en de nederige"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ziet hij"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "en de trotse"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "van veraf"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "kent hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:37.490678652Z",
+  "model": "glm-5.3"
+}

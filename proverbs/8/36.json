@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "proverbs 8:36",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Maar wie mij mist, doet geweld aan zijn leven; allen die mij haten, hebben de dood lief.",
+  "tokens": [
+    {
+      "surface": "וחטאי",
+      "gloss": "Maar wie mij mist"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "doet geweld"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "aan zijn leven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "die mij haten"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "hebben lief"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de dood"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:54.103142677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En Joav stond op en ging naar G(esj)oer, en bracht ⟨את⟩ Avsjalom naar Jeroesjalajim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en hij stond op"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en ging"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "naar Gesjoer"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en bracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avsjalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsjalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:53:46.195529410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Met Uw raad leidt U mij, en daarna zult U mij ⟨met⟩ glorie aannemen.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "met Uw raad"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "leidt U mij"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glorie"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "zult U mij aannemen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:15.060158651Z",
+  "model": "glm-5.3"
+}

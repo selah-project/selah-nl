@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij keerde hun wateren om in bloed, en hij doodde hun vis.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Hij keerde om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun wateren"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "hun wateren"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "in bloed"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hij doodde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun vis"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "hun vis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:50.437793403Z",
+  "model": "glm-5.3"
+}

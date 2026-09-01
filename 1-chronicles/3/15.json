@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En de zonen van Josjijahoe: de eerstgeborene Jochanan, de tweede Jehojakim, de derde Tsidkijahoe, de vierde Shallum.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "En de zonen van"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josjijahoe"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "de eerstgeborene"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jochanan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "de tweede"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "de derde"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahoe"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "de vierde"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:56.720862266Z",
+  "model": "glm-5.3"
+}

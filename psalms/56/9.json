@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 56,
+  "translation": "Mijn omzwervingen hebt U geteld — U; zet mijn tranen in Uw zadelleer. Zijn zij niet in Uw boek?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "mijn omzwervingen"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "heb U geteld"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "zet"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "mijn tranen"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "in Uw zadelleer"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "zijn ⟨zij⟩ niet"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "in Uw boek"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:44.227562039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Jahweh, jullie Elohim, heeft jullie vermenigvuldigd, en zie, jullie zijn heden als de sterren van de hemel ⟨in⟩ menigte.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "heeft vermenigvuldigd"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jullie"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "en zie, jullie zijn"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "als de sterren"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van de hemel"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "⟨in⟩ menigte"
+    }
+  ],
+  "timestamp": "2026-08-31T20:19:46.771839592Z",
+  "model": "glm-5.3"
+}

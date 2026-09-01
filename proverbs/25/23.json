@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Een noordwind wekt regen op, en een vertoornd gezicht ⟨verjaagt⟩ een tong ⟨die⟩ in het verborgene ⟨werkt⟩.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "noord"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "wekt op"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "regen"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "en een gezicht"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "vertoornd"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "een tong"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "in het verborgene"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:01.771454563Z",
+  "model": "glm-5.3"
+}

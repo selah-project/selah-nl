@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Zie, hij gaat aan mij voorbij en ik zie ⟨hem⟩ niet; en hij trekt verder en ik begrijp ⟨het⟩ niet bij hem.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "zie"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "hij gaat voorbij"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "aan mij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ik zie"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "en hij trekt verder"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "ik begrijp"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bij hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:19.444093832Z",
+  "model": "glm-5.3"
+}

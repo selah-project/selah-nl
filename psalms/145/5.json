@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "De pracht van de heerlijkheid van uw majesteit en de woorden van uw wonderen zal ik overdenken.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "de pracht"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "van de heerlijkheid"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "van uw majesteit"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "en de woorden"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "van uw wonderen"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "zal ik overdenken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:10.196051042Z",
+  "model": "glm-5.3"
+}

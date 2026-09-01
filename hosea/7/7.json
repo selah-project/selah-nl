@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Zij zijn allemaal heet als een oven en zij hebben ⟨את⟩ hun rechters verslonden; al hun koningen zijn gevallen — er is niemand onder hen die tot Mij roept.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "zij allemaal"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "zijn heet"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "als een oven"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "en zij hebben verslonden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun rechters"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "hun rechters"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "hun koningen"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "zijn gevallen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is niemand"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "die roept"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onder hen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot Mij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:29.524846492Z",
+  "model": "glm-5.3"
+}

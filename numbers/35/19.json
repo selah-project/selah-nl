@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "De lossers van het bloed, hij zelf zal de moordenaar doden; wanneer hij hem ontmoet, hij zelf zal hem doden.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "De lossers"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "van het bloed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij zelf"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "zal doden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de moordenaar"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "de moordenaar"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "wanneer hij ontmoet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij zelf"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "zal hij hem doden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:19:32.651552354Z",
+  "model": "glm-5.3"
+}

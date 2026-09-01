@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En als jullie tot hiertoe niet naar mij luisteren, zal ik het tuchttreffen van jullie zevenvoudig vermeerderen over ⟨jullie⟩ zonden.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hieraan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "jullie luisteren"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naar mij"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "zal ik vermeerderen"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "het tuchttreffen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jullie"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zevenvoudig"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "jullie zonden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:29.036657540Z",
+  "model": "glm-5.3"
+}

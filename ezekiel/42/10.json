@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "In de breedte van de muur van de voorhof, richting het oosten, tegenover het aangezicht van de afgescheiden plaats en tegenover het aangezicht van het gebouw — zijvertrekken.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "in de breedte"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "van de muur"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van de voorhof"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "richting"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "het oosten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "de afgescheiden plaats"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en naar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "het gebouw"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "zijvertrekken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:51:44.054405796Z",
+  "model": "glm-5.3"
+}

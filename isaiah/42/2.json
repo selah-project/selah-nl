@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Hij zal niet schreeuwen en zijn stem niet verheffen, en hij zal zijn stem niet hoorbaar maken op de straat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "zal schreeuwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "zal verheffen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "zal hoorbaar maken"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "op de straat"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "zijn stem"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:36.468773673Z",
+  "model": "glm-5.3"
+}

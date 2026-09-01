@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 76,
+  "translation": "En zijn hut ⟨stond⟩ in Sjalém, en zijn woning in Tsiyon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en zijn hut ⟨stond⟩"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "in Sjalém"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "zijn hut"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "en zijn woning"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:25.624019357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Dit zijn de vastgestelde tijden van Jahweh, heilige samenroepingen, die gij uitroept ⟨את⟩ in hun vastgestelde tijd.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "vastgestelde tijden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "heilige samenroepingen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "gij uitroept"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "in hun vastgestelde tijd"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "in hun vastgestelde tijd"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:57.497401376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Grijpt een man vuur in zijn schoot, en zijn kleren branden niet?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "grijpt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "in zijn schoot"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "en zijn kleren"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "branden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:48.700216762Z",
+  "model": "glm-5.3"
+}

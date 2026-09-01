@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En David zei: Dit is het huis van Jahweh Elohim, en dit ⟨is⟩ het altaar voor brandoffers voor Israël.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is het"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "voor brandoffers"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "voor Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:02:26.153928402Z",
+  "model": "glm-5.3"
+}

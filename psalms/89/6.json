@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "En de hemelen zullen jouw wonderen belijden, Jahweh, en jouw trouw in ⟨de⟩ vergadering van de heiligen.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "en zij zullen belijden"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "jouw wonderen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "jouw trouw"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in de vergadering"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "van de heiligen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:05.998961007Z",
+  "model": "glm-5.3"
+}

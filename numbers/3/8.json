@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En zij zullen ⟨את⟩ alle gereedschap van de tent der samenkomst bewaken, en ⟨את⟩ de wacht van de zonen van Jisraël, om de dienst van de woning te verrichten.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "en zij zullen bewaken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle gereedschap van de tent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "gereedschap"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der samenkomst"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de wacht van de zonen van Jisraël"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "wacht"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "om te verrichten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dienst van de woning"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "de dienst"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "van de woning"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:40.032829821Z",
+  "model": "glm-5.3"
+}

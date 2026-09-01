@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Wee de herders die te gronde richten en verstrooien ⟨את⟩ de kudde van mijn weide, luidt het woord van Jahweh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "de herders"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "die te gronde richten"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "en verstrooien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kudde van mijn weide"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "de kudde"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "van mijn weide"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "luidt het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:51.348229622Z",
+  "model": "glm-5.3"
+}

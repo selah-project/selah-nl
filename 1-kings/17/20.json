@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En hij riep tot Jahweh en zei: Jahweh, mijn Elohim, heb jij ook kwaad gebracht over de weduwe bij wie ik als vreemdeling woon, door ⟨את⟩ haar zoon te doden?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij riep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "de weduwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bij wie"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "als vreemdeling woon"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bij haar"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "heb jij kwaad gebracht"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "door te doden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar zoon"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "haar zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:26.940898257Z",
+  "model": "glm-5.3"
+}

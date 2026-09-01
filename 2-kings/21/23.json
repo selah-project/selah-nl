@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En de dienaren van Amon smeeden een samenzwering tegen hem, en zij doodden de koning in zijn huis.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "en zij smeeden een samenzwering"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "de dienaren van"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tegen hem"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "en zij doodden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in zijn huis"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:08.577237395Z",
+  "model": "glm-5.3"
+}

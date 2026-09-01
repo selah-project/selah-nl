@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En jullie: wees vruchtbaar en vermenigvuldig, wemel op de aarde en vermenigvuldig daarop.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "en jullie"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "wees vruchtbaar"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "en vermenigvuldig"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "wemel"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "en vermenigvuldig"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarop"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:08.439295510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 124,
+  "translation": "Een lied van de trappen, van Dawid. Als Jahweh niet ⟨was⟩ voor ons geweest — laat Israël nu zeggen —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Een lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van de trappen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Als niet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "geweest"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "laten zeggen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:43.345642746Z",
+  "model": "glm-5.3"
+}

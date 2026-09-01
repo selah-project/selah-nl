@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En de koningin van Sjeba zag ⟨את⟩ de wijsheid van Sjelomo, en het huis dat hij gebouwd had.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "de koningin"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "van Sjeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de wijsheid van Sjelomo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "de wijsheid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "van Sjelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "en het huis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hij gebouwd had"
+    }
+  ],
+  "timestamp": "2026-08-31T23:29:22.358464941Z",
+  "model": "glm-5.3"
+}

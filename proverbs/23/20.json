@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Wees niet onder wijnzuipers, onder vleesvratten, voor hen ⟨zelf⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "wees"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "onder wijnzuipers"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wijn"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "onder vleesvratten"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "למו",
+      "gloss": "voor hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:47.154076139Z",
+  "model": "glm-5.3"
+}

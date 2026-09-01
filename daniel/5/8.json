@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 5:8",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Toen kwamen alle wijzen van de koning binnen, maar zij konden het schrift niet lezen en de uitleg niet aan de koning bekendmaken.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "toen"
+    },
+    {
+      "surface": "עללין",
+      "gloss": "kwamen binnen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "wijzen"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "כהלין",
+      "gloss": "konden"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "het schrift"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "lezen"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "en de uitleg"
+    },
+    {
+      "surface": "להודעה",
+      "gloss": "bekendmaken"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "aan de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:48:09.121748651Z",
+  "model": "glm-5.3"
+}

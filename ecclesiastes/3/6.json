@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Een tijd om te zoeken, en een tijd om te verliezen; een tijd om te bewaren, en een tijd om weg te werpen.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "om te zoeken"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "om te verliezen"
+    },
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "om te bewaren"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "om weg te werpen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:53.722959755Z",
+  "model": "glm-5.3"
+}

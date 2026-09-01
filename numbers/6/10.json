@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En op de achtste dag moet hij twee tortelduiven of twee jonge duiven brengen naar de priester, naar de ingang van de tent van samenkomst.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "En op de dag"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "de achtste"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "moet hij brengen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "tortelduiven"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "jonge"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "duiven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "de ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "van de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:48.482300448Z",
+  "model": "glm-5.3"
+}

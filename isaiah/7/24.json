@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Met pijlen en met de boog zal men daarheen komen, want distels en doornen zal heel het land worden.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "Met pijlen"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "en met de boog"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "zal men komen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "distels"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "en doornen"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zal worden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:47.016009957Z",
+  "model": "glm-5.3"
+}

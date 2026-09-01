@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 5:14",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Zoekt het goede en niet het kwade, opdat gij leeft; en zo zij Jahweh, Elohim van de legerscharen, ⟨את⟩ met u, zoals gij zegt.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "zoekt"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "רע",
+      "gloss": "het kwade"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "gij leeft"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en zo zij"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "de legerscharen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ met u",
+      "marks": "met u (prepositie את H854, niet de lijdend-voorwerpmarker)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "gij zegt"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:33.060785411Z",
+  "model": "glm-5.3"
+}

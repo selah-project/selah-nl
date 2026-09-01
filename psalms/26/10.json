@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "in wier handen ⟨is⟩ kwade zin, en hun rechterhand ⟨is⟩ vol van steekpenningen.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "in wier"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "handen"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kwade zin"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "en hun rechterhand"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "vol"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "van steekpenningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:00.071977913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Zonen van mensen, hoe lang ⟨zal⟩ mijn eer tot schande ⟨zijn⟩? ⟨Gij⟩ bemint ijdelheid en zoekt leugen. Sela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van mensen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hoe lang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "mijn eer"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "tot schande"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "bemint ⟨gij⟩"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ijdelheid"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "zoek(t)"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "leugen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:55.771955646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Adonai geeft ⟨het⟩ woord; ⟨de⟩ draagsters van ⟨de⟩ blijde boodschap ⟨zijn⟩ een groot leger.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "draagsters van de blijde boodschap"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "leger"
+    },
+    {
+      "surface": "רב",
+      "gloss": "groot"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:15.837905205Z",
+  "model": "glm-5.3"
+}

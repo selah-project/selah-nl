@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Want nu zullen zij zeggen: geen koning hebben wij, want ⟨את⟩ Jahweh hebben wij niet gevreesd; en de koning — wat zal hij ons doen?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "zullen zij zeggen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "hebben wij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "hebben wij gevreesd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "en de koning"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zal hij doen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:54.928517445Z",
+  "model": "glm-5.3"
+}

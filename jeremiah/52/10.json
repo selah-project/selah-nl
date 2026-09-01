@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 52,
+  "translation": "En de koning van Bavel slachtte ⟨את⟩ de zonen van Tsidkijahoe voor zijn ogen; ook ⟨את⟩ alle vorsten van Jehoeda slachtte hij in Rivla.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "en hij slachtte"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zonen van Tsidkijahoe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahoe"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "voor zijn ogen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle vorsten van Jehoeda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vorsten van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "slachtte hij"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "in Rivla"
+    }
+  ],
+  "timestamp": "2026-08-31T21:40:48.766878587Z",
+  "model": "glm-5.3"
+}

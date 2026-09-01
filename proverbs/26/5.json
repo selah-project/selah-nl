@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Antwoord een dwaas naar zijn dwaasheid, anders wordt hij wijs in zijn eigen ogen.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Antwoord"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "een dwaas"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "naar zijn dwaasheid"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wordt"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wijs"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in zijn eigen ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:15.474469266Z",
+  "model": "glm-5.3"
+}

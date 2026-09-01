@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik heb mij gehaast en niet geaarzeld om uw geboden te bewaren.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "ik heb mij gehaast"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "geaarzeld"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te bewaren"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "uw geboden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:23.123063399Z",
+  "model": "glm-5.3"
+}

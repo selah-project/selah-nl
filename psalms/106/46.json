@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En Hij gaf ⟨את⟩ hen aan ontfermingen, voor het aangezicht van al hun gevangenennemers.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en Hij gaf"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "aan ontfermingen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "hun gevangenennemers"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:58.120160311Z",
+  "model": "glm-5.3"
+}

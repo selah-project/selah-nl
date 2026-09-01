@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Verwacht ⟨van⟩ Jahweh; wees sterk, en laat je hart moed vatten; ja, verwacht Jahweh!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Verwacht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨van⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "wees sterk"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "en laat moed vatten"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "je hart"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "ja, verwacht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨van⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:56.845554395Z",
+  "model": "glm-5.3"
+}

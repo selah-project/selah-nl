@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En ⟨zijn⟩ land is vol geworden van zilver en goud, en er is geen einde aan zijn schatten; en ⟨zijn⟩ land is vol geworden van paarden, en er is geen einde aan zijn strijdwagens.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "en het is vol geworden"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "zijn land"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "van zilver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is geen"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "einde"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "aan zijn schatten"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "en het is vol geworden"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "zijn land"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "van paarden"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is geen"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "einde"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "aan zijn strijdwagens"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:44.439911506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Hij zond vanuit de hoogte, Hij nam mij, Hij trok mij uit vele wateren.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Hij zond"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "vanuit de hoogte"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "Hij nam mij"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "Hij trok mij"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "uit wateren"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:16.016520855Z",
+  "model": "glm-5.3"
+}

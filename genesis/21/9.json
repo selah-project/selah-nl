@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Sjera zag ⟨את⟩ de zoon van Hagar de Egyptische, die zij aan Avraham gebaard had, spottend lachen.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "en zij zag"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sjera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zoon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "van Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "de Egyptische"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "zij gebaard had"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "aan Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "spottend lachen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:37.822505674Z",
+  "model": "glm-5.3"
+}

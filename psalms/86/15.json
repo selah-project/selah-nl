@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 86,
+  "translation": "Maar u, Adonai, ⟨ bent ⟩ El, vol ontferming en genadig, langmoedig en groot in chesed en trouw.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "maar u"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "vol ontferming"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "en genadig"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lang"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "van neusgaten ⟨toorn⟩"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "en groot"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "in chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "en trouw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:15.006646393Z",
+  "model": "glm-5.3"
+}

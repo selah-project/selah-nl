@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Honig heb je gevonden — eet wat genoeg voor je is, anders word je erover verzadigd en braak je het uit.",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "honig"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "heb je gevonden"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "wat genoeg voor je is"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "word je erover verzadigd"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "en braak je het uit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:01.001133851Z",
+  "model": "glm-5.3"
+}

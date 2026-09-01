@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 90,
+  "translation": "Een gebed van Mosjee, de man van ⟨de⟩ Elohim. Adonai, een woonplaats bent U voor ons geweest, in geslacht en geslacht.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "een gebed"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "van Mosjee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van ⟨de⟩ Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "woonplaats"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "היית",
+      "gloss": "bent geweest"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "in geslacht"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en geslacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:05.763302918Z",
+  "model": "glm-5.3"
+}

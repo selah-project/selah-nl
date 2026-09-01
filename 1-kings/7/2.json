@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En hij bouwde ⟨את⟩ het huis van het woud van de Levanon: honderd el zijn lengte, en vijftig el zijn breedte, en dertig el zijn hoogte, op vier rijen cederen zuilen, en cederen balken op de zuilen.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van het woud van de Levanon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יער",
+      "gloss": "woud"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "van de Levanon"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "zijn lengte"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "en vijftig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "zijn breedte"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "zijn hoogte"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "rijen"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "zuilen van"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cederen"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "en balken"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cederen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "de zuilen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:22.107373167Z",
+  "model": "glm-5.3"
+}

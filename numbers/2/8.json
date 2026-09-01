@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "en zijn leger en zijn getelden: zevenenvijftig ⟨duizend⟩ en vierhonderd.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "en zijn leger"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "en zijn getelden"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "envijftig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "en vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:24.883430802Z",
+  "model": "glm-5.3"
+}

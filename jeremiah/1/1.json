@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "De woorden van Jirmejahu, zoon van Chilqijahu, van de priesters die in Anatot ⟨woonden⟩, in het land van Binjamin.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "de woorden van"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilqijahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "in Anatot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land van"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    }
+  ],
+  "timestamp": "2026-08-31T21:27:26.128586808Z",
+  "model": "glm-5.3"
+}

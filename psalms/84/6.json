@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 84,
+  "translation": "Hoe gelukkig ⟨is⟩ de mens wiens sterkte in u ⟨is⟩, ⟨met⟩ wegen in hun hart.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "hoe gelukkig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "sterkte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in u"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "in hun hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:36.740186825Z",
+  "model": "glm-5.3"
+}

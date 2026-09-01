@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Jehonatan gaf ⟨את⟩ zijn uitrusting aan de jongen die hij had, en hij zeide tot hem: Ga, breng ⟨het⟩ naar de stad.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en gaf"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn uitrusting"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zijn uitrusting"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "de jongen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hij had"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zeide"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "breng"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "naar de stad"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:08.174797468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "en verbind huwelijken met ons: ⟨את⟩ ons geven jullie jullie dochters, en ⟨את⟩ onze dochters nemen jullie voor jezelf.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "en verbind huwelijken met ons"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ons",
+      "marks": "jullie dochters"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "jullie dochters"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "geven jullie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "onze dochters"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "onze dochters"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "nemen jullie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jezelf"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:46.923532198Z",
+  "model": "glm-5.3"
+}

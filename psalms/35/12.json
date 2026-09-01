@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Zij vergelden mij kwaad voor goed, berooving ⟨voor⟩ mijn nefesj.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "zij vergelden mij"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "voor"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "goed"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "berooving"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:13.854904985Z",
+  "model": "glm-5.3"
+}

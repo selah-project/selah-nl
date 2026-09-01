@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Met ⟨een⟩ lied drinken zij geen wijn; sterke drank wordt bitter voor wie hem drinken.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "met ⟨een⟩ lied"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "drinken zij"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wijn"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "wordt bitter"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sterke drank"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "voor wie hem drinken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:59.680617228Z",
+  "model": "glm-5.3"
+}

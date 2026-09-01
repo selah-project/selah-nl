@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Ver weg is wat geweest is, en diep, diep — wie kan het vinden?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "ver weg"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "geweest is"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "en diep"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "diep"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "kan het vinden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:33.399648935Z",
+  "model": "glm-5.3"
+}

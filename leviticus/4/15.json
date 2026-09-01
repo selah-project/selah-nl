@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En de oudsten van de vergadering leggen ⟨את⟩ hun handen op de kop van de stier voor het aangezicht van Jahweh, en men slacht ⟨את⟩ de stier voor het aangezicht van Jahweh.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "en zij leggen"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de oudsten"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "van de vergadering"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun handen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hun handen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "de kop"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "van de stier"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "en men slacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stier"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "de stier"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:02.640051557Z",
+  "model": "glm-5.3"
+}

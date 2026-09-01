@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Laat hun ogen verduisterd worden, zodat zij niet zien, en laat hun heupen voortdurend wankelen.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "laat verduisterd worden"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "hun ogen"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "van het zien"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "en hun heupen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "wankelen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:11.093796987Z",
+  "model": "glm-5.3"
+}

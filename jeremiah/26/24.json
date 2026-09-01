@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 26:24",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Maar de hand van Achikam, de zoon van Sjafan, was ⟨את⟩ met Jirmejahu, zodat men hem niet gaf in de hand van het volk om hem te doden.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "maar"
+    },
+    {
+      "surface": "יד",
+      "gloss": "de hand"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Achikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Sjafan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ met",
+      "marks": "met Jirmejahu (voorzetsel את, geen direct-objectmarker)"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "zodat niet"
+    },
+    {
+      "surface": "תת",
+      "gloss": "men gaf"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "om hem te doden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:54.390269613Z",
+  "model": "glm-5.3"
+}

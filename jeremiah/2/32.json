@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Vergeet een jongedochter haar sieraad, een bruid haar sjerp? Maar Mijn volk heeft Mij vergeten, dagen zonder getal.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "Vergeet"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "een jongedochter"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "haar sieraad"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "een bruid"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "haar sjerp"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "Maar Mijn volk"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "heeft Mij vergeten"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "getal"
+    }
+  ],
+  "timestamp": "2026-08-31T21:27:15.347352271Z",
+  "model": "glm-5.3"
+}

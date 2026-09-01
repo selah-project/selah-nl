@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "En hij zei tegen mij: Jij bent mijn dienaar, Jisraël, in wie ik mij zal verheerlijken.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mijn dienaar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij bent"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in wie"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in jou"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ik mij zal verheerlijken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:23:34.204981257Z",
+  "model": "glm-5.3"
+}

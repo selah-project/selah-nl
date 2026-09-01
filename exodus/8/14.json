@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En de tovenaars deden zo met hun geheime kunsten om ⟨את⟩ de luizen tevoorschijn te brengen, maar zij konden niet; en de luizen waren in de mens en in het vee.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "En zij deden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "de tovenaars"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "met hun geheime kunsten"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "om tevoorschijn te brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de luizen"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "de luizen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "konden zij"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en waren"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "de luizen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "in de mens"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "en in het vee"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:18.770667175Z",
+  "model": "glm-5.3"
+}

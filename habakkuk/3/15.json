@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "U trad door de zee met uw paarden, ⟨door⟩ de golfbrekende massa van vele wateren.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "U trad"
+    },
+    {
+      "surface": "בים",
+      "gloss": "door de zee"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "met uw paarden"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "de massa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wateren"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-08-31T22:01:51.915816130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 85,
+  "translation": "Voor de koorleider, van de zonen van Korach, een mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:00.733333280Z",
+  "model": "glm-5.3"
+}

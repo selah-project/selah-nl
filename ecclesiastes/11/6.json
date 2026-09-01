@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Zaai 's ochtends ⟨את⟩ je zaad, en laat 's avonds je hand niet rusten, want je weet niet of dit zal slagen of dat, of dat beide als één goed ⟨zijn⟩.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "'s ochtends"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zaai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je zaad"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "je zaad"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "en 's avonds"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "laat rusten"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "je hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "je niet"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "אי",
+      "gloss": "of"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "zal slagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "of dat"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "beide"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "als één"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:05.795922415Z",
+  "model": "glm-5.3"
+}

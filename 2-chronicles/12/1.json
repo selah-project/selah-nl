@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En het gebeurde, toen het koninkrijk van Rechavam vaststond en hij zelf sterk was geworden, verliet hij ⟨את⟩ de Tora van Jahweh, en heel Israël met hem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "toen vaststond"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "het koninkrijk"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "van Rechavam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "en hij sterk was geworden"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "verliet hij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Tora van Jahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "de Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:06:55.515619684Z",
+  "model": "glm-5.3"
+}

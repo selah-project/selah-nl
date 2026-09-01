@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Achav riep Ovadjahoe, die over het huis ⟨stond⟩; en Ovadjahoe vreesde ⟨את⟩ Jahweh zeer.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "En hij riep"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadjahoe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "en Ovadjahoe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vreesde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:33.030353303Z",
+  "model": "glm-5.3"
+}

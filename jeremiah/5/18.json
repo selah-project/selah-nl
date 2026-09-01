@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Maar ook in die dagen, luidt het orakel van Jahweh, zal ik met jullie ⟨את⟩ geen volledige einde maken.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "maar ook"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in dagen"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "die"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "luidt het orakel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zal ik maken"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jullie"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "volledige einde"
+    }
+  ],
+  "timestamp": "2026-08-31T21:28:42.247369402Z",
+  "model": "glm-5.3"
+}

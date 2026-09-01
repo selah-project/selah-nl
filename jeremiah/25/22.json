@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "en ⟨את⟩ alle koningen van Tsor, en ⟨את⟩ alle koningen van Tsidon, en ⟨את⟩ de koningen van het eiland dat aan de overzijde van de zee ⟨ligt⟩;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alle koningen van Tsor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "koningen van"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alle koningen van Tsidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "koningen van"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de koningen van het eiland"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "de koningen van"
+    },
+    {
+      "surface": "האי",
+      "gloss": "het eiland"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "aan de overzijde van"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:52.741271139Z",
+  "model": "glm-5.3"
+}

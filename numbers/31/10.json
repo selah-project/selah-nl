@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En ⟨את⟩ al hun steden in hun woonplaatsen, en ⟨את⟩ al hun vestingen verbrandden zij met vuur.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al hun steden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "hun steden"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "in hun woonplaatsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al hun vestingen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "hun vestingen"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "verbrandden zij"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T20:18:11.739870316Z",
+  "model": "glm-5.3"
+}

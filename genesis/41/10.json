@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Par'o was vertoornd op zijn dienaren, en hij gaf ⟨את⟩ mij in bewaring in het huis van de overste der beulen, ⟨את⟩ mij en ⟨את⟩ de overste der bakkers.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "was vertoornd"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij gaf"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mij"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "in bewaring"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "שר",
+      "gloss": "van de overste"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "der beulen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de overste der bakkers"
+    },
+    {
+      "surface": "שר",
+      "gloss": "de overste"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "der bakkers"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:16.987579006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "En Jahweh is ⟨voor mij⟩ tot hoog verschiet ⟪geweest⟫, en mijn Elohim tot rots van mijn toevlucht.",
+  "tokens": [
+    {
+      "surface": "והי",
+      "gloss": "en is geweest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "tot hoog verschiet"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "en mijn Elohim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "tot rots"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "van mijn toevlucht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.811306207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Zal ik niet, zoals ik gedaan heb aan Shomeron en haar afgoden, zó doen aan Jeroesjalajim en haar beelden?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Zal... niet"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ik gedaan heb"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "aan Shomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "en haar afgoden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zó"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "doen"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "aan Jeroesjalajim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "en haar beelden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:46.785777283Z",
+  "model": "glm-5.3"
+}

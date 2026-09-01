@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "Mijn ongevormde begin zagen jouw ogen, en op jouw boek werden ze allemaal geschreven — de dagen werden geformeerd, en niet één ⟨was⟩ erbij.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "mijn ongevormde begin"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "zagen"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "jouw ogen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "jouw boek"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ze allemaal"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "werden geschreven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de dagen"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "werden geformeerd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "erbij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:24.277580498Z",
+  "model": "glm-5.3"
+}

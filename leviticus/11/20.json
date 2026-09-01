@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Al het gekrioel van gevleugelden dat op vier ⟨poten⟩ gaat, ⟨is⟩ een verfoeisel voor jullie.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "het gekrioel"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "van gevleugelden"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "dat gaat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "een verfoeisel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:12.768628414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik riep tot u — red mij, en ik zal uw getuigenissen in acht nemen.",
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "ik riep tot u"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "en ik zal in acht nemen"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "uw getuigenissen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:44.630341197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "opdat hij jou heden ⟨את⟩ tot zich ⟨vestigt⟩ als een volk, en hij jou tot een Elohim zal zijn, zoals hij tot je gesproken heeft en zoals hij gezworen heeft aan je vaders, aan Avraham, aan Jitschak en aan Jaäkov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "⟨vestigt⟩"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot zich"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "als een volk"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot een Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken heeft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tot je"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "en zoals"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "gezworen heeft"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "aan je vaders"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "aan Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "aan Jitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "en aan Jaäkov"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:12.429291394Z",
+  "model": "glm-5.3"
+}

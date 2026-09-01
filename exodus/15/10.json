@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "U blies met Uw roeach — de zee bedekte hen; zij zonken als lood in ⟨de⟩ machtige wateren.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "U blies"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "met Uw roeach"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "bedekte hen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "zonken zij"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "als lood"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in wateren"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "machtige"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:26.114526263Z",
+  "model": "glm-5.3"
+}

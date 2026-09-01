@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 84,
+  "translation": "Hoe bemind zijn ⟨את⟩ uw woningen, Jahweh Tsevaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hoe"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "bemind"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "uw woningen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:36.567280823Z",
+  "model": "glm-5.3"
+}

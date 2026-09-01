@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Elohim doet de eenzamen wonen in ⟨een⟩ huis, brengt gevangenen uit in voorspoed; alleen de weerbarstigen wonen in een dor ⟨land⟩.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "doet wonen"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "de eenzamen"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "in ⟨een⟩ huis"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "brengt uit"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "gevangenen"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "in voorspoed"
+    },
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "de weerbarstigen"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "wonen"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "in een dor ⟨land⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:22.227602904Z",
+  "model": "glm-5.3"
+}

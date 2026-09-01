@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 148,
+  "translation": "vuur en hagel, sneeuw en damp, stormwind die zijn woord volbrengt,",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "en hagel"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sneeuw"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "en damp"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "storm"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "die volbrengt"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "zijn woord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:29.589647637Z",
+  "model": "glm-5.3"
+}

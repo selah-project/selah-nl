@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Van U is de dag, ook van U is de nacht; U heeft het licht en de zon bereid.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "van U"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "לך",
+      "gloss": "van U"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "de nacht"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "heeft U bereid"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "het licht"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "en de zon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:40.730844748Z",
+  "model": "glm-5.3"
+}

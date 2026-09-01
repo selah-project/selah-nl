@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 6:11",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En ik zei: Tot wanneer, Adonai? En hij zei: Totdat steden verwoest zijn zonder bewoner, en huizen zonder mens, en de grond verwoesting op verwoesting wordt.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "En ik zei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨dat⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨voorwaarde⟩"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "verwoest zijn"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "steden"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bewoner"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "en huizen"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "והאדמה",
+      "gloss": "en de grond"
+    },
+    {
+      "surface": "תשאה",
+      "gloss": "verwoesting wordt"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "op verwoesting"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:09.332454741Z",
+  "model": "glm-5.3"
+}

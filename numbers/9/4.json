@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Mosjee sprak tot de kinderen van Jisraël om het pesach te houden.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en hij sprak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "om te houden"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "het pesach"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:56.320207819Z",
+  "model": "glm-5.3"
+}

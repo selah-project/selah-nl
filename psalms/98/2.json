@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 98,
+  "translation": "Bekend heeft Jahweh gemaakt Zijn verlossing; voor de ogen van ⟨de⟩ natiën heeft Hij Zijn rechtvaardigheid onthuld.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "bekend gemaakt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "Zijn verlossing"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "voor de ogen van"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "de natiën"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "heeft onthuld"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "Zijn rechtvaardigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:06.980603199Z",
+  "model": "glm-5.3"
+}

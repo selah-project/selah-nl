@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "want wijd zul je ⟨את⟩ je hand voor hem openen, en lenend zul je hem lenen, genoeg voor zijn gebrek, voor wat hij tekortkomt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wijd"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "zul je openen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "je hand"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "en lenend"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "zul je hem lenen"
+    },
+    {
+      "surface": "די",
+      "gloss": "genoeg"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "voor zijn gebrek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "voor wat"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "hij tekortkomt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:51.062042348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Van de stem van mijn zuchten kleeft mijn gebeente aan mijn vlees.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "van de stem"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "van mijn zuchten"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "kleeft"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mijn gebeente"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "aan mijn vlees"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:35.236247194Z",
+  "model": "glm-5.3"
+}

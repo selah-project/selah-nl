@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "opdat ⟨u⟩ gaat op de weg van de goeden, en de paden van de rechtvaardigen bewaart.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "⟨u⟩ gaat"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "van de goeden"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "en de paden"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "van de rechtvaardigen"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "bewaart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:06.965864080Z",
+  "model": "glm-5.3"
+}

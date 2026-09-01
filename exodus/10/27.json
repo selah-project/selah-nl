@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Jahweh verhardde ⟨את⟩ het hart van Par'o, en hij wilde hen niet laten gaan.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "en hij verhardde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hart van Par'o"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "wilde hij"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "hen laten gaan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:16.303745507Z",
+  "model": "glm-5.3"
+}

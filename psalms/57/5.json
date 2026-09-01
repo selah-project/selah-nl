@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 57,
+  "translation": "Mijn nefesj ⟨is⟩ te midden van leeuwinnen; ik lig neer ⟨onder⟩ vurige ⟨vlammen⟩ — mensenkinderen wier tanden speer en pijlen zijn, en hun tong een scherp zwaard.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "te midden van"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "leeuwinnen"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ik lig neer"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "vurige ⟨vlammen⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "hun tanden"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "speer"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "en pijlen"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "en hun tong"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zwaard"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "scherp"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:19.272783758Z",
+  "model": "glm-5.3"
+}

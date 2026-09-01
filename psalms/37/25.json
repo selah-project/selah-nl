@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Jong ben ik geweest, ook ben ik oud geworden, en ik heb geen rechtvaardige verlaten gezien, en zijn nazaat ⟨die⟩ brood zoekt.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "jong"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ben ik geweest"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ben ik oud geworden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "heb ik gezien"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardige"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "verlaten"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "en zijn nazaat"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "zoekt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:43.638184719Z",
+  "model": "glm-5.3"
+}

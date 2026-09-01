@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Maar Elohim is ⟨mijn⟩ koning van ouds, ⟨Hij⟩ die overwinningen bewerkt in het midden van de aarde.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "en Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mijn koning"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "van ouds"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "die bewerkt"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "overwinningen"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:18.857213454Z",
+  "model": "glm-5.3"
+}

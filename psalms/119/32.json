@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "De weg van uw mitswot zal ik rennen, want u verruimt mijn hart.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "van uw mitswot"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "zal ik rennen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "u verruimt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:31.992483Z",
+  "model": "glm-5.3"
+}

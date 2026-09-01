@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En de bovenvertrekken waren ingekort, want ⟨de⟩ galerijen ontnamen ⟨ruimte⟩ aan deze, aan de ondervertrekken en aan de middelste ⟨vertrekken⟩ van het gebouw.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "en de vertrekken"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "de bovenvertrekken"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "waren ingekort"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "ontnamen ⟨ruimte⟩ aan"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "de galerijen"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "aan deze"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "aan de ondervertrekken"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "en aan de middelste"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "van het gebouw"
+    }
+  ],
+  "timestamp": "2026-08-31T21:51:55.286863Z",
+  "model": "glm-5.3"
+}

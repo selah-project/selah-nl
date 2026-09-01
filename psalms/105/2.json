@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Zingt voor hem, speelt voor hem, overweegt al zijn wonderen.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Zingt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "speelt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "overweegt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "al"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "zijn wonderen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:38.572212527Z",
+  "model": "glm-5.3"
+}

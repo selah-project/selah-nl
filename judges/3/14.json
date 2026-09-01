@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En de kinderen van Israël dienden ⟨את⟩ Eglon, de koning van Moab, achttien jaar.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "en zij dienden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "acht"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:36:31.361804050Z",
+  "model": "glm-5.3"
+}

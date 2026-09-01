@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Moge hun weg duisternis zijn en gladheid, en de engel van Jahweh ⟨die⟩ hen achtervolgt.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "moge zijn"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "hun weg"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "en gladheid"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "en de engel van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "hen achtervolgt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:20.872710471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 1:6",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Aankijk mij niet, ⟨want⟩ ik ben zwart-bruin, ⟨omdat⟩ de zon mij heeft geschroeid. De zonen van mijn moeder werden tegen mij gloeiend ⟨van toorn⟩; zij stelden mij als bewaakster over ⟨את⟩ de wijngaarden; mijn wijngaard, de mijne, heb ik niet bewaard.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תראוני",
+      "gloss": "aankijk mij"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "⟨want⟩ ik ben"
+    },
+    {
+      "surface": "שחרחרת",
+      "gloss": "zwart-bruin"
+    },
+    {
+      "surface": "ששזפתני",
+      "gloss": "heeft geschroeid mij"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "van mijn moeder"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "werden gloeiend"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "stelden zij mij"
+    },
+    {
+      "surface": "נטרה",
+      "gloss": "als bewaakster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de wijngaarden"
+    },
+    {
+      "surface": "הכרמים",
+      "gloss": "de wijngaarden"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "mijn wijngaard"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "de mijne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נטרתי",
+      "gloss": "heb ik bewaard"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:29.611134652Z",
+  "model": "glm-5.3"
+}

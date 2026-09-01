@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En bewaart zeer zorgvuldig jullie nefesj ⟨levens⟩, door ⟨את⟩ Jahweh jullie Elohim lief te hebben.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "en bewaart"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer zorgvuldig"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "jullie nefesj ⟨levens⟩"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "door lief te hebben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh jullie Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:34:39.851124535Z",
+  "model": "glm-5.3"
+}

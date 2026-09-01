@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En hij keerde terug naar zijn broers en zei: Het jong is er niet meer, en ik — waarheen zou ik gaan?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "keerde terug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "het jong"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "is er niet meer"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gaan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:36.240243074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En Jirmejahoe gebood Baroech ⟨את⟩, door te zeggen: Ik ben opgesloten, ik kan niet komen in het huis van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "En gebood"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baroech"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baroech"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "door te zeggen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "ben opgesloten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "komen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:36:15.345517075Z",
+  "model": "glm-5.3"
+}

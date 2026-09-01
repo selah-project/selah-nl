@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En ⟨את⟩ haar twee zonen — de naam van de ene was Gersjom, want hij zei: een gast ben ik geweest in een vreemd land.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "haar twee zonen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "haar zonen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "van de ene"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gersjom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zei hij"
+    },
+    {
+      "surface": "גר",
+      "gloss": "een gast"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ben ik geweest"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in een land"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "vreemd"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:55.175769869Z",
+  "model": "glm-5.3"
+}

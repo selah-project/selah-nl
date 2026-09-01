@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Want zonder reden verborgen zij voor mij een put — hun net; zonder reden groeven zij ⟨een put⟩ voor mijn nefesj.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zonder reden"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "verborgen zij"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "een put"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "hun net"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zonder reden"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "groeven zij"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "voor mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:20.872832146Z",
+  "model": "glm-5.3"
+}

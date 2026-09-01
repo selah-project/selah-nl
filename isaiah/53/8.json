@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 53,
+  "translation": "Uit benauwenis en uit gericht werd hij weggenomen; en ⟨את⟩ zijn generatie — wie zal erover spreken? Want hij werd afgesneden uit het land der levenden; om de overtreding van mijn volk werd de slag ⟨hen⟩ getroffen.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "uit benauwenis"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "en uit gericht"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "werd weggenomen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn generatie"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "zijn generatie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "zal erover spreken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "werd afgesneden"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "der levenden"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "om de overtreding"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "van mijn volk"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "de slag"
+    },
+    {
+      "surface": "למו",
+      "gloss": "hen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:57.622563376Z",
+  "model": "glm-5.3"
+}

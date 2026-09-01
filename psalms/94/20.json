@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Zal ⟨een⟩ troon van verderf zich met U verbinden, die onheil vormt bij ⟨een⟩ verordening?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "zal zich verbinden met U"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troon"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "van verderf"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "vormt"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "onheil"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bij"
+    },
+    {
+      "surface": "חק",
+      "gloss": "verordening"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:02.459289312Z",
+  "model": "glm-5.3"
+}

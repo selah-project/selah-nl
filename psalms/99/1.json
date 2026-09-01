@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 99,
+  "translation": "Jahweh is koning ⟨geworden⟩ — de volken beven; ⟨Hij⟩ die troont ⟨op⟩ de cherubs, ⟨dan⟩ wankelt de aarde.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is koning geworden"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "beven"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "troont"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "op de cherubs"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "wankelt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:49.793547151Z",
+  "model": "glm-5.3"
+}

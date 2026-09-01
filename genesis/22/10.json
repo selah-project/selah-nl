@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En Avraham stak ⟨את⟩ zijn hand uit en nam ⟨את⟩ het mes, om zijn zoon te slachten.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en stak uit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het mes"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "het mes"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "om te slachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zoon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:36.346768147Z",
+  "model": "glm-5.3"
+}

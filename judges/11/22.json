@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En zij namen ⟨את⟩ heel het grondgebied van de Emorieten in bezit, van de Arnon tot aan de Jabbok, en van de woestijn tot aan de Jarden.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "En zij namen in bezit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel het grondgebied van de Emorieten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "het grondgebied"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "van de Emorieten"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "van de Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "de Jabbok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "de woestijn"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:24.221229465Z",
+  "model": "glm-5.3"
+}

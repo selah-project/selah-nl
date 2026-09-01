@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En jij, ga ⟨heen⟩ tot het einde, en jij zult rusten en zult opstaan in jouw lot, aan het einde van de dagen.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "En jij"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "tot het einde"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "en jij zult rusten"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "en jij zult opstaan"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "in jouw lot"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "aan het einde"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "van de dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:50:01.211656530Z",
+  "model": "glm-5.3"
+}

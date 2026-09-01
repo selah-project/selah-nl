@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de koning gaf ⟨את⟩ het zilver en ⟨את⟩ het goud in Jeroesjalajim als stenen, en ⟨את⟩ de ceders gaf hij als sycomoren die in de laagvlakte ⟨staan⟩, in overvloed.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en gaf"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het zilver"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "het zilver"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het goud"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "het goud"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeroesjalajim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "als stenen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de ceders"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "de ceders"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "als sycomoren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "in de laagvlakte"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "in overvloed"
+    }
+  ],
+  "timestamp": "2026-08-31T23:04:13.224789054Z",
+  "model": "glm-5.3"
+}

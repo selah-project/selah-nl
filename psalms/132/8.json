@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": "Sta op, Jahweh, naar uw rustplaats, u en de ark van uw sterkte.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sta op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "naar uw rustplaats"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "en de ark"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "van uw sterkte"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:40.943658424Z",
+  "model": "glm-5.3"
+}

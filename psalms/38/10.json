@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Adonai, voor uw aangezicht is heel mijn verlangen, en mijn gezucht is voor u niet verborgen.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "voor uw aangezicht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "mijn verlangen"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "en mijn gezucht"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "is verborgen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:56.990155330Z",
+  "model": "glm-5.3"
+}

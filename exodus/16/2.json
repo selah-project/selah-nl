@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En heel de gemeente van de zonen van Jisraël morde tegen Mosjee en tegen Aharon in de woestijn.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "En morde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "de gemeente"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en tegen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:58.525170723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Een tijd om stenen weg te werpen, en een tijd om stenen bijeen te brengen; een tijd om te omhelzen, en een tijd om ver ⟨te zijn⟩ van omhelzen.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "om weg te werpen"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stenen"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "om bijeen te brengen"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stenen"
+    },
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "om te omhelzen"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "om ver te zijn"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "van omhelzen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:53.722699436Z",
+  "model": "glm-5.3"
+}

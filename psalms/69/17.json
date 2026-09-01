@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Antwoord mij, Jahweh, want goed is uw chesed; overeenkomstig de veelheid van uw ontfermingen wend u tot mij.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Antwoord mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "overeenkomstig de veelheid"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "van uw ontfermingen"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "wend u"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:49.786700500Z",
+  "model": "glm-5.3"
+}

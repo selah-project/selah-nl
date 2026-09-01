@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "De benauwdheden van mijn hart hebben zich verwijd; uit mijn angsten voer mij uit.",
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "benauwdheden"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "van mijn hart"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "hebben zich verwijd"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "uit mijn angsten"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "voer mij uit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:04.575364157Z",
+  "model": "glm-5.3"
+}

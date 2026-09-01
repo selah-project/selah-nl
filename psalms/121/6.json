@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 121,
+  "translation": "Overdag zal de zon jou niet slaan, noch de maan in de nacht.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "overdag"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "zal jou slaan"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "noch de maan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in de nacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:19.740223116Z",
+  "model": "glm-5.3"
+}

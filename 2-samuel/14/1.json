@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En Joav, zoon van Tserujah, merkte dat het hart van de koning ⟨op⟩ Avsjalom ⟨gericht was⟩.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "en merkte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨op⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsjalom"
+    }
+  ],
+  "timestamp": "2026-08-31T20:53:23.932966300Z",
+  "model": "glm-5.3"
+}

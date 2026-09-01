@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En zij droegen hem ⟨את⟩ op de paarden, en hij werd begraven in Jeroesjalajim bij zijn vaderen, in de stad van Dawid.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "en zij droegen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "de paarden"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en hij werd begraven"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeroesjalajim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaderen"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad van"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:15.437267479Z",
+  "model": "glm-5.3"
+}

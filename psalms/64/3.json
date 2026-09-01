@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 64,
+  "translation": "Verberg mij voor ⟨de⟩ samenzwering van kwaaddoeners, voor de opschudding van werkers van ongerechtigheid.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "verberg mij"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "voor de samenzwering"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "van kwaaddoeners"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "voor de opschudding"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "van werkers"
+    },
+    {
+      "surface": "און",
+      "gloss": "van ongerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:57.781723692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En nu: mijn vader heeft een zwaar juk op jullie geladen, en ík zal aan jullie juk toevoegen; mijn vader heeft jullie ⟨את⟩ met zwepen getuchtigd, en ík zal jullie ⟨את⟩ met schorpioenen tuchtigen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "geladen heeft"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "op jullie"
+    },
+    {
+      "surface": "על",
+      "gloss": "een juk"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "zwaar"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ík"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "zal toevoegen"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jullie juk"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "getuchtigd heeft"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "met zwepen"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "met zwepen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ík"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "zal tuchtigen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "met schorpioenen"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "met schorpioenen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:53.488515174Z",
+  "model": "glm-5.3"
+}

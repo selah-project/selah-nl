@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "In de eerste maand, op de veertiende ⟨dag⟩ van de maand, tussen de avonden, is ⟨het⟩ Pesach voor Jahweh.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "in de maand"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "de eerste"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "op vier"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van de maand"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "de avonden"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:09.740325861Z",
+  "model": "glm-5.3"
+}

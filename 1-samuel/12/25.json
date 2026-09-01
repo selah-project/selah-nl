@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Maar als jullie kwaad doen, zullen ook jullie, ook jullie koning, weggevaagd worden.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Maar als"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "doen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "jullie koning"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "weggevaagd worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:18.950421419Z",
+  "model": "glm-5.3"
+}

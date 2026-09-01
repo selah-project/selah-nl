@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Omdat ⟨de nacht⟩ de deuren van mijn schoot niet sloot, en ellende voor mijn ogen niet verborg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "sloot"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "de deuren"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "van mijn schoot"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "en ⟨niet⟩ verborg"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ellende"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "voor mijn ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:15.689301711Z",
+  "model": "glm-5.3"
+}

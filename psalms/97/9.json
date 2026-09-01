@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 97,
+  "translation": "Want jij, Jahweh, bent El Eljon boven de hele aarde; zeer hoog verheven ben jij boven alle elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Eljon (de Hoogste)"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "hoog verheven ben jij"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:43.687462365Z",
+  "model": "glm-5.3"
+}

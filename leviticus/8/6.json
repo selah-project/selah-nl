@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Mosjie bracht ⟨את⟩ Aharon en ⟨את⟩ zijn zonen nader, en hij waste ⟨את⟩ hen met water.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "en hij bracht nader"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "en hij waste"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen"
+    },
+    {
+      "surface": "במים",
+      "gloss": "met water"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:55.917090218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Want Jahweh zag ⟨את⟩ de ellende van Israël, dat zij zeer bitter was, en ⟨er was⟩ geen opgeslotene en geen losgelatene, en er was geen helper voor Israël.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ellende van Israël"
+    },
+    {
+      "surface": "עני",
+      "gloss": "de ellende"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "bitter was"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "opgeslotene"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "loosgelatene"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er was geen"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "helper"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "voor Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:01.745875041Z",
+  "model": "glm-5.3"
+}

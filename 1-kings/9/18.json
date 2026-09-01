@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "en ⟨את⟩ Baälat en ⟨את⟩ Tamar, in de woestijn, in het land.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Baälat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baälat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:38.084881022Z",
+  "model": "glm-5.3"
+}

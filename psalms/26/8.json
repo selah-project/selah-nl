@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Jahweh, ik heb de woning van uw huis liefgehad, en de plaats van de verblijfplaats van uw heerlijkheid.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "heb ik liefgehad"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "de woning"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "van uw huis"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "en de plaats"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "van de verblijfplaats"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "van uw heerlijkheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:15.430008343Z",
+  "model": "glm-5.3"
+}

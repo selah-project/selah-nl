@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 100,
+  "translation": "Dien ⟨את⟩ Jahweh met blijdschap, kom voor zijn aangezicht met gejuich.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Dien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "met blijdschap"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor zijn aangezicht"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "met gejuich"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:07.460016537Z",
+  "model": "glm-5.3"
+}

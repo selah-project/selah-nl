@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En ik zet Mitsrajim tegen Mitsrajim aan, en zij zullen vechten, ieder tegen zijn broeder, en ieder tegen zijn naaste; stad tegen stad, koninkrijk tegen koninkrijk.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "En ik zet aan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tegen Mitsrajim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "en zij zullen vechten"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "tegen zijn broeder"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en ieder"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "tegen zijn naaste"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tegen stad"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "koninkrijk"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "tegen koninkrijk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:34.239743786Z",
+  "model": "glm-5.3"
+}

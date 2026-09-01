@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Moge verwoesting hem overkomen zonder dat hij het weet, en zijn net, dat hij verborg, moge hem vangen; in diezelfde verwoesting moge hij vallen.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "moge hem overkomen"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "verwoesting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hij weet"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "en zijn net"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "hij verborg"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "moge hem vangen"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "in verwoesting"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "moge hij vallen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:20.872989444Z",
+  "model": "glm-5.3"
+}

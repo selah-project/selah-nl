@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Want niet in mijn boog vertrouw ik, en mijn zwaard, dat ⟨zal⟩ mij niet verlossen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "in mijn boog"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "vertrouw ik"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "en mijn zwaard"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "⟨zal⟩ mij verlossen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:21.586906204Z",
+  "model": "glm-5.3"
+}

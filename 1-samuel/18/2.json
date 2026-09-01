@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Sjaoel nam hem op die dag ⟨en⟩ gaf hem niet ⟨toestemming⟩ om terug te keren naar het huis van zijn vader.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "En hij nam hem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op ⟨de⟩ dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gaf hij hem"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "om terug te keren"
+    },
+    {
+      "surface": "בית",
+      "gloss": "naar het huis"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van zijn vader"
+    }
+  ],
+  "timestamp": "2026-08-31T20:46:42.967277724Z",
+  "model": "glm-5.3"
+}

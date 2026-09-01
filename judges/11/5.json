@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 11:5",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En het gebeurde toen de zonen van Ammon streden met Israël, dat de oudsten van Gilead gingen om Jiftach te halen uit het land Tov.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toen"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "streden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "gingen"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de oudsten van"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "om te halen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiftach"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tov"
+    }
+  ],
+  "timestamp": "2026-08-31T20:38:46.863847376Z",
+  "model": "glm-5.3"
+}

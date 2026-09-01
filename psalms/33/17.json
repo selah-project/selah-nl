@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "IJdel ⟨is⟩ het paard voor redding, en door de grootheid van zijn kracht redt het niemand.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "IJdel"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "het paard"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "voor redding"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "en door de grootheid"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "van zijn kracht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "redt het"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:14.253812463Z",
+  "model": "glm-5.3"
+}

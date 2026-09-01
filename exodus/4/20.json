@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Mosjee nam ⟨את⟩ zijn vrouw en ⟨את⟩ zijn zonen, en liet hen rijden op de ezel, en hij keerde terug naar het land Mitsrajim; en Mosjee nam ⟨את⟩ de staf van Elohim in zijn hand.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vrouw"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "liet hen rijden"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "de ezel"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "keerde terug"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "naar het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de staf"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "staf"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in zijn hand"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:07.333428332Z",
+  "model": "glm-5.3"
+}

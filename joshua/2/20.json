@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En als je dit onze woord bekendmaakt, dan zijn wij onschuldig ⟨aan⟩ de eed die je ons hebt laten zweren.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "je bekendmaakt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit ons woord"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "ons woord"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "dan zijn wij"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "onschuldig"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "van de eed van jou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "je ons hebt laten zweren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:30:01.244570020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Woorden van wijzen worden in rust gehoord, meer dan het geschreeuw van een heerser onder de dwazen.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "van wijzen"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "in rust"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "worden gehoord"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "meer dan het geschreeuw"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "van een heerser"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "onder de dwazen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:12.257185674Z",
+  "model": "glm-5.3"
+}

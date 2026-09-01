@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Mogen zij die u vrezen tot mij terugkeren, en ⟨zullen⟩ zij die uw getuigenissen kennen.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "mogen terugkeren"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "die u vrezen"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "en (die) kennen"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "uw getuigenissen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:08.853831076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Zing voor Jahweh een nieuw lied, zijn lof van het einde van de aarde af, ⟨gij⟩ die afdalen naar de zee en wat haar vult, ⟨gij⟩ eilanden en hun bewoners.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "zing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nieuw"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "zijn lof"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "van het einde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "die afdalen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "naar de zee"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "en wat haar vult"
+    },
+    {
+      "surface": "איים",
+      "gloss": "eilanden"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "en hun bewoners"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:49.193637111Z",
+  "model": "glm-5.3"
+}

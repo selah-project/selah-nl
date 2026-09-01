@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Geef mij niet over aan de ⟨wil van⟩ mijn benauwers, want valse getuigen zijn tegen mij opgestaan, en zij ademen geweld uit.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "geef mij"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "aan de ⟨wil⟩"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mijn benauwers"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "zijn opgestaan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "getuigen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valse"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "en zij ademen uit"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:39.556239636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Gegeven wordt ⟨de⟩ dwaas in hoge posities ⟨aan⟩ velen, en rijken zitten in het lage ⟨land⟩.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "gegeven wordt"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "de dwaas"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "in hoge posities"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "velen"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "en rijken"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "in het lage"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zitten"
+    }
+  ],
+  "timestamp": "2026-08-31T23:46:17.069014521Z",
+  "model": "glm-5.3"
+}

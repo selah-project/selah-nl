@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 130,
+  "translation": "Mijn nefesj ⟨verlangt⟩ naar Adonai, meer dan wachters ⟨naar⟩ de morgen — wachters naar de morgen.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "naar Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "meer dan wachters"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "naar de morgen"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "wachters"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "naar de morgen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:44.952115098Z",
+  "model": "glm-5.3"
+}

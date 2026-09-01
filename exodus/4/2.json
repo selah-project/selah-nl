@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Jahweh zei tot hem: wat is dit in jouw hand? En hij zei: een staf.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "wat is dit"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jouw hand"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "een staf"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:09.039248613Z",
+  "model": "glm-5.3"
+}

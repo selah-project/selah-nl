@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Want hij zegt: Zijn mijn vorsten niet tezamen koningen?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hij zegt"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Zijn ... niet"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mijn vorsten"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tezamen"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "koningen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:45.239599338Z",
+  "model": "glm-5.3"
+}

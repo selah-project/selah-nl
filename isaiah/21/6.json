@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Want zo heeft Adonai tot mij gezegd: Ga, stel de wachter op; wat hij ziet, make hij bekend.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "stel op"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "de wachter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hij ziet"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "make hij bekend"
+    }
+  ],
+  "timestamp": "2026-08-31T23:21:34.599063938Z",
+  "model": "glm-5.3"
+}

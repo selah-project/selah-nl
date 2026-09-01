@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En ik ⟨ben⟩ als een man die niet hoort, en in wiens mond geen weerwoorden ⟨zijn⟩.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "En ik ben"
+    },
+    {
+      "surface": "кאיש",
+      "gloss": "als een man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoort"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "in zijn mond"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "weerwoorden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:59.959052163Z",
+  "model": "glm-5.3"
+}

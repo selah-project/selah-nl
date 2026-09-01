@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Laat uw aangezicht lichten over uw dienaar; red mij door uw chesed.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "Laat … lichten"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "door uw chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:21.654031640Z",
+  "model": "glm-5.3"
+}

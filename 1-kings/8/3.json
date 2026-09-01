@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En alle oudsten van Jisraël kwamen, en de priesters droegen ⟨את⟩ de ark.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "En zij kwamen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oudsten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "en zij droegen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "de ark"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:02.258000603Z",
+  "model": "glm-5.3"
+}

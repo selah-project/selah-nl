@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En David verlangde, en hij zei: Wie zal mij te drinken geven van het water uit de put van Beth-Lechem, die bij de poort is?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "En verlangde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "zal mij te drinken geven"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "uit de put van"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "bij de poort is"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:59.291191672Z",
+  "model": "glm-5.3"
+}

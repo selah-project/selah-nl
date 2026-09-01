@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Er zal bij u niemand gevonden worden die zijn zoon of zijn dochter door het vuur laat gaan, geen waarzegger, geen dromenuitlegger, geen vogelkiker en geen tovenaar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "zal gevonden worden"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bij u"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "die ... laat gaan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "of zijn dochter"
+    },
+    {
+      "surface": "באש",
+      "gloss": "door het vuur"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "waarzegger"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "waarzeggerij"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "dromenuitlegger"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "vogelkiker"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "tovenaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:34.383783845Z",
+  "model": "glm-5.3"
+}

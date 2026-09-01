@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Buiten moet jij staan, en de man bij wie jij ⟨de lening⟩ opeist, die moet ⟨את⟩ het onderpand naar buiten, naar jou toe, brengen.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "moet jij staan"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "en de man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bij wie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "opeist"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "brengen moet"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "naar jou toe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het onderpand"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "het onderpand"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "naar buiten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:39.013483637Z",
+  "model": "glm-5.3"
+}

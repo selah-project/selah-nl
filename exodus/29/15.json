@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En ⟨את⟩ de ene ram zult u nemen, en Aharón en zijn zonen zullen ⟨את⟩ hun handen steunen op het hoofd van de ram.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de ene ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "de ram"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "zult u nemen"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "en zij zullen steunen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharón"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en zijn zonen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun handen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hun handen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "het hoofd"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "van de ram"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:33.857165322Z",
+  "model": "glm-5.3"
+}

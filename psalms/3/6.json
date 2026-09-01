@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Ik ben gaan liggen en heb geslapen; ik ben ontwaakt, want Jahweh draagt mij.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ben ik gaan liggen"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "en heb geslapen"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "ik ben ontwaakt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "draagt mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:43.829830974Z",
+  "model": "glm-5.3"
+}

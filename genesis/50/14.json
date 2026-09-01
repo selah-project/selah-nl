@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "En Jozef keerde terug naar Mitsrajim, hij en zijn broers en allen die met hem omhoog waren gegaan om zijn vader te begraven, nadat hij zijn vader begraven had.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en hij keerde terug"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "naar Mitsrajim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "en zijn broers"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en allen"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "die omhoog waren gegaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hem",
+      "marks": "hem (Jozef)"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "om te begraven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "hij begraven had"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:08.125502498Z",
+  "model": "glm-5.3"
+}

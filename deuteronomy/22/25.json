@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En als op het veld de man ⟨את⟩ het jonge meisje vindt, de verloofde, en de man haar grijpt en met haar ligt, dan zal de man die met haar gelegen heeft alleen sterven.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En als"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "vindt"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het jonge meisje, de verloofde"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "het jonge meisje"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "de verloofde"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "en grijpt"
+    },
+    {
+      "surface": "בה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "en ligt"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "met haar"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dan zal sterven"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "gelegen heeft"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "met haar"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:06.116483117Z",
+  "model": "glm-5.3"
+}

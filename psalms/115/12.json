@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 115,
+  "translation": "Jahweh heeft ons gedacht ⟨in gunst⟩; hij zegent, hij zegent ⟨את⟩ het huis van Israël, hij zegent ⟨את⟩ het huis van Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "heeft ons gedacht"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "hij zegent"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "hij zegent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Israël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "hij zegent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:06.377548700Z",
+  "model": "glm-5.3"
+}

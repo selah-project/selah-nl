@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jonah 1:12",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij zei tot hen: Neem mij op en werp mij in de zee, dan bedaart de zee ⟨van⟩ jullie; want ik weet dat dit grote onweer over jullie ⟨kwam⟩ omwille van mij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "שאוני",
+      "gloss": "neem mij op"
+    },
+    {
+      "surface": "והטילני",
+      "gloss": "en werp mij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "dan bedaart"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "van jullie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ik weet"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בשלי",
+      "gloss": "omwille van mij"
+    },
+    {
+      "surface": "הסער",
+      "gloss": "dit onweer"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "grote"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "over jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:58.482628825Z",
+  "model": "glm-5.3"
+}

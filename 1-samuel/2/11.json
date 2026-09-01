@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Elqana ging naar Rama, naar zijn huis; en de jongen diende ⟨את⟩ Jahweh, ⟨את⟩ voor het aangezicht van Eli, de priester.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "naar Rama"
+    },
+    {
+      "surface": "על",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "en de jongen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "dienen(d)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ voor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht van"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    }
+  ],
+  "timestamp": "2026-08-31T20:41:20.218306408Z",
+  "model": "glm-5.3"
+}

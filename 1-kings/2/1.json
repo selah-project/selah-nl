@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de dagen van David naderden om te sterven, en hij gebood zijn zoon Shelomo, zeggende:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "en naderden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de dagen van"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "om te sterven"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "en hij gebood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:29.976818085Z",
+  "model": "glm-5.3"
+}

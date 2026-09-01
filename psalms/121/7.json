@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 121,
+  "translation": "Jahweh zal jou bewaren voor alle kwaad, hij zal ⟨את⟩ jouw nefesj bewaren.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "zal jou bewaren"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "voor alle"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "hij zal bewaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw nefesj"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jouw nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:19.740343113Z",
+  "model": "glm-5.3"
+}

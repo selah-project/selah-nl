@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Mijn mond zal wijsheden spreken, en het overdenken van mijn hart ⟨zal⟩ inzichten ⟨zijn⟩.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "zal spreken"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "wijsheden"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "en het overdenken"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "van mijn hart"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "inzichten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:10.898381666Z",
+  "model": "glm-5.3"
+}

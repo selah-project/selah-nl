@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 63,
+  "translation": "En zij die mijn nefesj zoeken ten verderve, zullen komen in de diepten van de aarde.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "en zij"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "ten verderve"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "zoeken"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "zullen komen"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "in de diepten"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:31.585716360Z",
+  "model": "glm-5.3"
+}

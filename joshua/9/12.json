@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Dit ⟨is⟩ ons brood — heet hebben wij ⟨את⟩ het meegenomen als proviand uit onze huizen, op de dag dat wij uittrokken om naar jullie te gaan; maar nu, zie, het ⟨is⟩ uitgedroogd en het is kruimelig geworden.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "ons brood"
+    },
+    {
+      "surface": "חם",
+      "gloss": "heet"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "hebben wij meegenomen als proviand"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (ons brood)"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "uit onze huizen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "dat wij uittrokken"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "naar jullie"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "maar nu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "uitgedroogd"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en het is geworden"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "kruimelig"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:55.814802387Z",
+  "model": "glm-5.3"
+}

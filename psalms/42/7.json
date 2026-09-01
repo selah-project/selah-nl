@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Mijn Elohim, over mij is neer gebogen mijn nefesj; daarom gedenk ik U, uit het land van de Jarden en de Chermonim, van de berg Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Mijn Elohim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "is neer gebogen"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom ⟨vanwege⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "gedenk ik U"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "van de Jarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "en de Chermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "van de berg"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:27.117238316Z",
+  "model": "glm-5.3"
+}

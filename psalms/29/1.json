@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Een mizmor van David. Geeft Jahweh, zonen van elim, geeft Jahweh kavod en macht.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "van elim"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "en macht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:31.596275961Z",
+  "model": "glm-5.3"
+}

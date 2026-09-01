@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En de mannen staken ⟨את⟩ hun hand uit en brachten ⟨את⟩ Lot naar zich toe, het huis in, en ⟨את⟩ de deur sloten zij.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "en zij staken uit"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun hand"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hun hand"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "en zij brachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "naar zich toe"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "het huis in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de deur"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "de deur"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "sloten zij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:03.932830171Z",
+  "model": "glm-5.3"
+}

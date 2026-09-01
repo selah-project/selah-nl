@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Want zij verlangde naar het goede, bewoonster van Marot; want kwaad is neergedaald van ⟨את⟩ Jahweh tot de poort van Jeroesjalajim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "zij verlangde"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "naar het goede"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "bewoonster"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "van Marot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "is neergedaald"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "tot de poort"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jeroesjalajim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:59:11.057447794Z",
+  "model": "glm-5.3"
+}

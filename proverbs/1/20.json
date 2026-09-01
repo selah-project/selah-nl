@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Chokma roept luid op straat, op de pleinen verheft zij haar stem.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Chokma (wijsheid)"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "op straat"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "roept luid"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "op de pleinen"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "verheft"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "haar stem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:35.918427824Z",
+  "model": "glm-5.3"
+}

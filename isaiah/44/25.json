@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 44:25",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "die de tekenen van leugenaars verbreekt en de waarzegers dol maakt, die wijzen achteruit doet keren en hun kennis dwaas maakt",
+  "tokens": [
+    {
+      "surface": "מפר",
+      "gloss": "verbreekt"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "de tekenen"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "van leugenaars"
+    },
+    {
+      "surface": "וקסמים",
+      "gloss": "en de waarzegers"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "dol maakt"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "doet keren"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wijzen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "achteruit"
+    },
+    {
+      "surface": "ודעתם",
+      "gloss": "en hun kennis"
+    },
+    {
+      "surface": "ישכל",
+      "gloss": "dwaas maakt"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:50.218405615Z",
+  "model": "glm-5.3"
+}

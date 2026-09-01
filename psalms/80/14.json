@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "Het zwijn uit het bos knaagt haar kaal, en het gedierte van het veld weidt haar af.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "knaagt haar kaal"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "het zwijn"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "uit het bos"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "en het gedierte"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "van het veld"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "weidt haar af"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:35.476376679Z",
+  "model": "glm-5.3"
+}

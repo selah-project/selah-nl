@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En het gebeurde na de dood van Avraham, dat Elohim ⟨את⟩ Jitschak zijn zoon zegende; en Jitschak woonde bij Beër-Lachai-Roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de dood"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "van Avraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dat … zegende"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak zijn zoon"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en woonde"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beër"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lachai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:32.957022774Z",
+  "model": "glm-5.3"
+}

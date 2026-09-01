@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En de priester zal ⟨את⟩ de plek bekijken, en hij zal ⟨את⟩ de plek zeven dagen afsluiten ⟨voor inspectie⟩.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "en hij zal bekijken"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de plek"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "de plek"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "en hij zal afsluiten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de plek"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "de plek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:30.722527477Z",
+  "model": "glm-5.3"
+}

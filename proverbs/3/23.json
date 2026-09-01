@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Dan zul je veilig gaan op je weg, en je voet zal niet stoten.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "zul je gaan"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "veilig"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "op je weg"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "en je voet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "zal stoten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:45.423343755Z",
+  "model": "glm-5.3"
+}

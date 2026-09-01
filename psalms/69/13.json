@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Zij die in de poort zitten spreken over mij, en ⟨ik ben⟩ het lied van de sterke-drink-dranken ⟨drinkers⟩.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "spreken"
+    },
+    {
+      "surface": "בי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die zitten"
+    },
+    {
+      "surface": "שער",
+      "gloss": "in de poort"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "en ⟨het⟩ lied ⟨van⟩"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "de drinkers van"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sterke drank"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:30.964201818Z",
+  "model": "glm-5.3"
+}

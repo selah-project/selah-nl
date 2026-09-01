@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Zijn priesters vielen door het zwaard, en zijn weduwen konden niet ⟨rouw⟩wenen.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "zijn priesters"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "door het zwaard"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "vielen"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "en zijn weduwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "konden wenen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:05.309022775Z",
+  "model": "glm-5.3"
+}

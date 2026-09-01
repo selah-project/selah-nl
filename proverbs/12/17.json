@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Die trouw uitblaast, verkondigt recht, maar een getuige van leugens ⟨brengt⟩ bedrog.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "uitblaast"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "trouw"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "verkondigt"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "recht"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "maar een getuige"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "van leugens"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:30.557028065Z",
+  "model": "glm-5.3"
+}

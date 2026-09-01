@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Schiep voor mij een rein hart, Elohim, en vernieuw een vastgestelde roeach in mijn binnenste.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "een hart"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rein"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "schiep"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en een roeach"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "vastgestelde"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "vernieuw"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "in mijn binnenste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:31.066786001Z",
+  "model": "glm-5.3"
+}

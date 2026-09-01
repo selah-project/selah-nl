@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Esjton verwekte ⟨את⟩ Beet-Rafa, en ⟨את⟩ Paseach, en ⟨את⟩ Techinna, de vader van Ir-Nachasj; dit zijn de mannen van Recha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "en Esjton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paseach"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Techinna"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Techinna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "de vader van"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachasj"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "zijn de mannen van"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Recha"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:32.904590691Z",
+  "model": "glm-5.3"
+}

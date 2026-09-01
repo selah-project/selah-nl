@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En de koning zei: wie tot u spreekt, breng hem bij mij, en hij zal niet opnieuw blijven aangrijpen u.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "die spreekt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "breng hem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bij mij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "zal hij blijven"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opnieuw"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "aangrijpen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-31T20:53:09.899643545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "U heeft het land doen beven, U heeft het gescheurd; genees zijn scheuren, want het wankelt.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "U heeft laten beven"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "U heeft het gescheurd"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "genees"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "zijn scheuren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "het wankelt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:37.016173560Z",
+  "model": "glm-5.3"
+}

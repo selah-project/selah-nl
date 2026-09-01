@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En de priester die reinigt, doet de man die gereinigd wordt ⟨את⟩ staan, en ⟨את⟩ ze, voor het aangezicht van Jahweh, bij de ingang van de tent van ontmoeting.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "en hij doet staan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "die reinigt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de man die gereinigd wordt"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "die gereinigd wordt"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en ⟨את⟩ ze",
+      "marks": "de offeranden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bij de ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "van de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:22.115868692Z",
+  "model": "glm-5.3"
+}

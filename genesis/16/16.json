@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Avram was een zoon van tachtig jaar en zes jaren toen Hagar ⟨את⟩ Jisjmaël aan Avram baarde.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "En Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon van"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "tachtig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en zes"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaren"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "toen baarde"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisjmaël"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jisjmaël"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "aan Avram"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:29.107038002Z",
+  "model": "glm-5.3"
+}

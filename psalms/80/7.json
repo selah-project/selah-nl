@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "U maakt ons tot twist ⟨voor⟩ onze naasten, en onze vijanden bespotten ⟨ons⟩ onder elkander.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "U maakt ons"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "tot twist"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "⟨voor⟩ onze naasten"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "en onze vijanden"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "bespotten"
+    },
+    {
+      "surface": "למו",
+      "gloss": "onder elkander"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:36.923292488Z",
+  "model": "glm-5.3"
+}

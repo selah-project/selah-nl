@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim zeide: Er zij een uitspansel (rakía) in het midden van de wateren, en het scheide tussen water en water.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zeide"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Er zij"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "een uitspansel (rakía)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het zij"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "scheidend"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "למים",
+      "gloss": "en water"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:35.586544880Z",
+  "model": "glm-5.3"
+}

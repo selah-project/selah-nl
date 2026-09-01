@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 113,
+  "translation": "Looft Jah! Looft, dienaren van Jahweh, looft ⟨את⟩ de naam van Jahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Looft"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Looft"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dienaren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "looft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de naam van Jahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:19.065016657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 8:8",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Verslonden ⟨is⟩ Israël; nu zijn zij onder de naties geworden als een voorwerp waarin geen welgevallen ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "נבלע",
+      "gloss": "verslonden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zijn zij geworden"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder de naties"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "als een voorwerp"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is geen"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "welgevallen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:53.925230966Z",
+  "model": "glm-5.3"
+}

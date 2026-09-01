@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Nauwelijks zou uw dienaar ⟨את⟩ de Jarden oversteken ⟨samen met⟩ ⟨את⟩ de koning — en waarom zou de koning mij deze vergelding vergelden?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "nauwelijks"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "zou oversteken"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "en waarom"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "mij vergelden"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "de vergelding"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:11.485661255Z",
+  "model": "glm-5.3"
+}

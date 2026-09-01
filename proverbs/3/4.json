@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Zo vind je gunst en goed inzicht in de ogen van Elohim en ⟨van⟩ de mens.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "zo vind je"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gunst"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "en inzicht"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in de ogen van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "en de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:07.603924732Z",
+  "model": "glm-5.3"
+}

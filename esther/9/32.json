@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En het bevel van Ester bevestigde ⟨de⟩ woorden van deze Poerim, en het werd geschreven in het boek.",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "en het bevel"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "van Ester"
+    },
+    {
+      "surface": "קים",
+      "gloss": "bevestigde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "van deze Poerim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "en het werd geschreven"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in het boek"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:16.720636500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Wees mij genadig, Jahweh, want ik ben verzwakt; genees mij, Jahweh, want mijn beenderen zijn ontzet.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "wees mij genadig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "verzwakt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "genees mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "zijn ontzet"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mijn beenderen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:27.148950806Z",
+  "model": "glm-5.3"
+}

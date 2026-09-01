@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 32:42",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Ik zal mijn pijlen dronken maken van bloed, en mijn zwaard zal vlees eten, van het bloed van doorstokenen en gevangenen, van het hoofd van de aanvoerders van de vijand.",
+  "tokens": [
+    {
+      "surface": "אשכיר",
+      "gloss": "zal dronken maken"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "mijn pijlen"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "van bloed"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "en mijn zwaard"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "zal eten"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "van het bloed"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "van doorstokenen"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "en gevangenen"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "van het hoofd"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "van de aanvoerders"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "van de vijand"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:04.558949080Z",
+  "model": "glm-5.3"
+}

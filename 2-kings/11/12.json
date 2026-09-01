@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En hij bracht ⟨את⟩ de zoon van de koning naar buiten, en hij zette op hem ⟨את⟩ de kroon en ⟨את⟩ de getuigenis, en zij maakten ⟨את⟩ hem koning en zalfden hem, en zij sloegen de handpalmen en zeiden: Leve de koning!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "en hij bracht naar buiten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zoon van de koning"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij zette"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kroon"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "de kroon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de getuigenis"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "de getuigenis"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "en zij maakten koning"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (de zoon van de koning)"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "en zalfden hem"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en zij sloegen"
+    },
+    {
+      "surface": "כף",
+      "gloss": "de handpalmen"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "leve"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:11.358729242Z",
+  "model": "glm-5.3"
+}

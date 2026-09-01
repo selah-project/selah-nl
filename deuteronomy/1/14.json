@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En jullie antwoordden ⟨את⟩ mij en zeiden: goed is het woord dat jij gesproken hebt om te doen.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "En jullie antwoordden"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mij"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "en zeiden"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "jij gesproken hebt"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:03.283403262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "anders verscheurt hij als een leeuw mijn nefesj, scheurend ⟨her en der⟩, en er is geen die redt.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "hij verscheurt"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "als een leeuw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "scheurend"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is niet"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "die redt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:54.372145189Z",
+  "model": "glm-5.3"
+}

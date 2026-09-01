@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En hij kwam bij de heuvel, en hij nam ⟨het⟩ uit hun hand, en hij bracht ⟨het⟩ onder in het huis; en hij stuurde ⟨את⟩ de mannen weg, en zij gingen heen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "de heuvel"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "uit hun hand"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "en hij bracht onder"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hij stuurde weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mannen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en zij gingen heen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:31.020412107Z",
+  "model": "glm-5.3"
+}

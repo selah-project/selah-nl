@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En U ⟨bent⟩ heilig, troonend op de lofzangen van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en U"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "troonend"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "op de lofzangen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:31.502709004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 56,
+  "translation": "In Elohim loof ik het woord; in Jahweh loof ik het woord.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "loof ik"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "loof ik"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:44.227877122Z",
+  "model": "glm-5.3"
+}

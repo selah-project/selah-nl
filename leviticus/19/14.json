@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Vervloek een dove niet, en voor een blinde zet geen struikelblok; en je zult je Elohim vrezen — ik ben Jahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "vervloek"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "een dove"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "en voor"
+    },
+    {
+      "surface": "עור",
+      "gloss": "een blinde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zet"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "struikelblok"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "en je zult vrezen"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "je Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:07.231356756Z",
+  "model": "glm-5.3"
+}

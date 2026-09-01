@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En bij wie ⟨את⟩ stenen gevonden werden, gaven die ⟨ze⟩ aan de schat van het huis van Jahweh, onder de hand van Jechiël de Gersuniet.",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "En bij wie gevonden werden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "stenen"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stenen"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gaven"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "aan de schat van"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "onder"
+    },
+    {
+      "surface": "יד",
+      "gloss": "de hand van"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Jechiël"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "de Gersuniet"
+    }
+  ],
+  "timestamp": "2026-08-31T23:04:06.350546527Z",
+  "model": "glm-5.3"
+}

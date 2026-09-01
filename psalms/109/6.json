@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Stel een rasha over hem aan, en een satan (aanklager) sta aan zijn rechterhand.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "stel aan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over hem"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "een rasha (boosdoener)"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "een satan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "sta"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "zijn rechterhand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:33.540360916Z",
+  "model": "glm-5.3"
+}

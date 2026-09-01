@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En hij maakte voor het huis vensters met schuine kozijnen, van binnen dicht.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "En hij maakte"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "voor het huis"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "vensters"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "met schuine kozijnen"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "van binnen dicht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:05.495776139Z",
+  "model": "glm-5.3"
+}

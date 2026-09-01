@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En de grens ging uit naar ⟨de⟩ zee, ha-Michmeta vanaf het noorden; en de grens wendde zich oostwaarts naar Taänat-Sjilo, en passeerde ⟨את⟩ het van oostwaarts naar Janocha.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "En ging uit"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "de grens"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "naar de zee"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "ha-Michmeta"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "vanaf het noorden"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "en wendde zich"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "de grens"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "oostwaarts"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "Taänat"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Sjilo"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "en passeerde"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Taänat-Sjilo"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "van oostwaarts"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "naar Janocha"
+    }
+  ],
+  "timestamp": "2026-08-31T20:32:58.210396311Z",
+  "model": "glm-5.3"
+}

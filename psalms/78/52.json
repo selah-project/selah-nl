@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En Hij deed zijn volk uittrekken als schapen, en Hij leidde hen als een kudde in de woestijn.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "En Hij deed uittrekken"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "als schapen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "en Hij leidde hen"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "als een kudde"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:58.451828920Z",
+  "model": "glm-5.3"
+}

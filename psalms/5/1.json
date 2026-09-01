@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Voor de koorleider, op ⟨de⟩ nechielot ⟨fluiten⟩ — een mizmor van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Voor de koorleider"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "nechielot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:33.199554610Z",
+  "model": "glm-5.3"
+}

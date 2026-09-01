@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En de vorsten brachten ⟨את⟩ de sjoham-stenen en ⟨את⟩ de stenen van de vullingen voor de efod en voor de chosjen.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "en de vorsten"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "brachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de sjoham-stenen"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "stenen"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "sjoham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de stenen van de vullingen"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "stenen"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "van de vullingen"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "voor de efod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "en voor de chosjen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:26.933197296Z",
+  "model": "glm-5.3"
+}

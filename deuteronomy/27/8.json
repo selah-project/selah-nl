@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En je zult op de stenen ⟨את⟩ alle woorden van deze Torah schrijven, goed duidelijk uitleggen.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "en zul je schrijven"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "de stenen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle woorden van deze Torah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "van de Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "באר",
+      "gloss": "duidelijk uitleggen"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:11.098433219Z",
+  "model": "glm-5.3"
+}

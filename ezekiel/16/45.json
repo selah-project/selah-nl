@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 16:45",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Dochter van je moeder ben jij ⟨את⟩, die haar man en haar kinderen verachtte; en zuster van je zusters ben jij ⟨את⟩, wier mannen en wier kinderen zij verachtten; jullie moeder ⟨was⟩ een Chittiet, en jullie vader een Emoriet.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "van je moeder"
+    },
+    {
+      "surface": "את",
+      "gloss": "jij",
+      "marks": "pronomen אַתָּה, geen DOM-teken"
+    },
+    {
+      "surface": "געלת",
+      "gloss": "verachtte"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "haar man"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "en haar kinderen"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "en zuster"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "van je zusters"
+    },
+    {
+      "surface": "את",
+      "gloss": "jij",
+      "marks": "pronomen אַתָּה, geen DOM-teken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wier"
+    },
+    {
+      "surface": "געלו",
+      "gloss": "verachtten"
+    },
+    {
+      "surface": "אנשיהן",
+      "gloss": "hun mannen"
+    },
+    {
+      "surface": "ובניהן",
+      "gloss": "en hun kinderen"
+    },
+    {
+      "surface": "אמכן",
+      "gloss": "jullie moeder"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "een Chittiet"
+    },
+    {
+      "surface": "ואביכן",
+      "gloss": "en jullie vader"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "een Emoriet"
+    }
+  ],
+  "timestamp": "2026-08-31T21:44:50.402648851Z",
+  "model": "glm-5.3"
+}

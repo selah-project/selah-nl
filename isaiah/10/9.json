@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Is Kalno niet als Karchemisj? Is Chamat niet als Arpad? Is Shomron niet als Damasek?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Is... niet"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "als Karchemisj"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "als Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "als Damasek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:46.785405068Z",
+  "model": "glm-5.3"
+}

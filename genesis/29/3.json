@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 29:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En daar werden alle kudden verzameld, en zij rolden ⟨את⟩ de steen van de mond van de put en drenkten ⟨את⟩ het kleinvee, en brachten ⟨את⟩ de steen terug op de mond van de put, op zijn plaats.",
+  "tokens": [
+    {
+      "surface": "ונאספו",
+      "gloss": "en daar werden verzameld"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "kudden"
+    },
+    {
+      "surface": "וגללו",
+      "gloss": "en zij rolden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de steen"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "de steen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de mond"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "van de put"
+    },
+    {
+      "surface": "והשקו",
+      "gloss": "en drenkten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het kleinvee"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "het kleinvee"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "en brachten terug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de steen"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "de steen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de mond"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "van de put"
+    },
+    {
+      "surface": "למקמה",
+      "gloss": "op zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:43.181477161Z",
+  "model": "glm-5.3"
+}

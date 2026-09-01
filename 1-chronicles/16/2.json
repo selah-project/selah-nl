@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Dawid hield op met het aanbieden van het brandoffer en de vredeoffers, en hij zegende ⟨את⟩ het volk in de naam van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "en hij hield op"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "met het aanbieden van"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "het brandoffer"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "en de vredeoffers"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en hij zegende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in de naam van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:18.235053927Z",
+  "model": "glm-5.3"
+}

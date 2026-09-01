@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Dan zul jij de priem nemen en ⟨את⟩ in zijn oor en in de deur zetten, en hij zal jou een dienaar ⟨zijn⟩ voor eeuwig; ook aan je dienstmaagd zul je zo doen.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "zul jij nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de priem"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "de priem"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "en zetten"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "in zijn oor"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "en in de deur"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en hij zal zijn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "dienaar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "aan je dienstmaagd"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zul je doen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:26.952543622Z",
+  "model": "glm-5.3"
+}

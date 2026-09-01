@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 146,
+  "translation": "Jahweh opent de ogen van blinden, Jahweh richt de gebogenen op, Jahweh heeft de rechtvaardigen lief;",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "opent"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "blinden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "richt op"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "de gebogenen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "heeft lief"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rechtvaardigen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:29.229612338Z",
+  "model": "glm-5.3"
+}

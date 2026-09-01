@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Dawid sloeg ook ⟨את⟩ Hadad'ezer, zoon van Rechov, koning van Tsova, toen hij heenging om zijn hand terug te brengen aan de Rivier.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "sloeg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad'ezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadad'ezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "toen hij heenging"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "om terug te brengen"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "aan de Rivier"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:06.603991601Z",
+  "model": "glm-5.3"
+}

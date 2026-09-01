@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Één tora zal ⟨er⟩ zijn voor de inlands geborene en voor de vreemdeling die bij jullie vertoeft.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "één"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "voor de inlands geborene"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "en voor de vreemdeling"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "die vertoeft"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "bij jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:50.556071101Z",
+  "model": "glm-5.3"
+}

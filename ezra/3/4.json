@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En zij vierden ⟨את⟩ het feest van de loofhutten, zoals geschreven, en ⟨brachten⟩ het brandoffer van dag op dag in getal, volgens het voorschrift, de taak van elke dag op zijn dag.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "en zij vierden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het feest van de loofhutten"
+    },
+    {
+      "surface": "חג",
+      "gloss": "het feest"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "van de loofhutten"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "zoals geschreven"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "en ⟨brachten⟩ brandoffer"
+    },
+    {
+      "surface": "יום",
+      "gloss": "van dag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op dag"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "in getal"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "volgens het voorschrift"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "de taak"
+    },
+    {
+      "surface": "יום",
+      "gloss": "van elke dag"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "op zijn dag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:51:38.891105771Z",
+  "model": "glm-5.3"
+}

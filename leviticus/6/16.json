@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En elk graanoffer van een priester moet geheel ⟨opgaan in rook⟩; het mag niet gegeten worden.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en elk"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "graanoffer"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "van een priester"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "geheel"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "moet zijn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "gegeten worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:16.732904954Z",
+  "model": "glm-5.3"
+}

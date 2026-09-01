@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Hij komt bij het geslacht van zijn vaders; tot ⟨in⟩ eeuwigheid zullen zij het licht niet zien.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "hij komt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bij"
+    },
+    {
+      "surface": "דור",
+      "gloss": "het geslacht"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "van zijn vaders"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "eeuwigheid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "zullen zij zien"
+    },
+    {
+      "surface": "אור",
+      "gloss": "het licht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:59.989265877Z",
+  "model": "glm-5.3"
+}

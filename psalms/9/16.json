@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Gezonken zijn de naties in de kuil die zij maakten; in het net dat zij verborgen is hun voet gevangen.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "gezonken zijn"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "de naties"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "in de kuil"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "die zij maakten"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "in het net"
+    },
+    {
+      "surface": "זו",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "zij verborgen"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "is gevangen"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "hun voet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:59.158566739Z",
+  "model": "glm-5.3"
+}

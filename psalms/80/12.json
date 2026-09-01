@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "Het zond zijn ranken uit tot aan de zee, en tot aan de Rivier zijn jonge scheuten.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "het zond uit"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "zijn ranken"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot aan"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "de Rivier"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "zijn jonge scheuten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:17.047375259Z",
+  "model": "glm-5.3"
+}

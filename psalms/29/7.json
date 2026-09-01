@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "De stem van Jahweh houwt vlammen van vuur ⟨uit⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "houwt"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "vlammen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "van vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:19.664268723Z",
+  "model": "glm-5.3"
+}

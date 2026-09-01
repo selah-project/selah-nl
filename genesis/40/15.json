@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Want gestolen ben ik gestolen uit het land van de Hebreeën, en ook hier heb ik niets gedaan ⟨waarom⟩ zij ⟨את⟩ mij in de put zouden zetten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "gestolen"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "ben ik gestolen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "van de Hebreeën"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "heb ik gedaan"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "niets"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨waarom⟩"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zij zouden zetten"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mij"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "in de put"
+    }
+  ],
+  "timestamp": "2026-08-31T23:14:12.357964579Z",
+  "model": "glm-5.3"
+}

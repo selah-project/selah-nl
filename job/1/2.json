@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En er werden hem zeven zonen geboren en drie dochters.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "en er werden geboren"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "en drie"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dochters"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:53.025534686Z",
+  "model": "glm-5.3"
+}

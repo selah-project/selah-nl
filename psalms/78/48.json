@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En Hij gaf hun vee over aan de hagel, en hun kudden aan ⟨de⟩ bliksemschichten.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "En Hij gaf over"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "aan de hagel"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "hun vee"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "en hun kudden"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "aan de bliksemschichten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:05.902454029Z",
+  "model": "glm-5.3"
+}

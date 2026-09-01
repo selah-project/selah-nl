@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En als een man zijn dochter als dienstmaagd verkoopt, zal zij niet uitgaan zoals de slaven uitgaan.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "en-als"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "verkoopt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een-man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn-dochter"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "zijn-dochter"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "als-dienstmaagd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "zal-zij-uitgaan"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "zoals-het-uitgaan-van"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "de-slaven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:59.264235020Z",
+  "model": "glm-5.3"
+}

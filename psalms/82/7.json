@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 82,
+  "translation": "Maar zoals een sterveling zult gij sterven, en zoals een van de vorsten zult gij vallen.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Maar"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "zoals een sterveling"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "zult gij sterven"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "en zoals een"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "van de vorsten"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "zult gij vallen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:19.158727803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Ik heb ⟨את⟩ alle werken gezien die gedaan zijn onder de zon; en ziet, het geheel ⟨is⟩ hevel en een najagen van wind.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ik heb gezien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle werken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "werken"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "die gedaan zijn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en ziet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "het geheel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "en een najagen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van wind"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:35.043835521Z",
+  "model": "glm-5.3"
+}

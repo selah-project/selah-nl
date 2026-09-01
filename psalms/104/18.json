@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "De hoge bergen ⟨zijn⟩ voor de steenbokken, de rotsen een toevlucht voor de klipdassen.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "de hoge"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "voor de steenbokken"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "de rotsen"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "een toevlucht"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "voor de klipdassen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:04.054083364Z",
+  "model": "glm-5.3"
+}

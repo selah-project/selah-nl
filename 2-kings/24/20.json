@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Want door de toorn (neusgaten) van Jahweh geschiedde dit in Jeroesjalajim en in Jehoeda, tot hij ⟨את⟩ hen van zijn aangezicht geworpen had; en Tsidkijahoe kwam in opstand tegen de koning van Babel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "על",
+      "gloss": "door"
+    },
+    {
+      "surface": "אף",
+      "gloss": "de toorn (neusgaten)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "geschiedde"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeroesjalajim"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "en in Jehoeda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "hen geworpen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen (Jeroesjalajim en Jehoeda)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zijn aangezicht"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "en kwam in opstand"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahoe"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "tegen de koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Babel"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:27.127716727Z",
+  "model": "glm-5.3"
+}

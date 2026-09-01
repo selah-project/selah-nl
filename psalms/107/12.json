@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "toen verootmoedigde Hij hun hart in hun moeite; zij wankelden, en er was geen helper.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "toen verootmoedigde Hij"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "in hun moeite"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hun hart"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "wankelden"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er was niet"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "een helper"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:30.353958681Z",
+  "model": "glm-5.3"
+}

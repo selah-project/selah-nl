@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 130,
+  "translation": "En hij, hij zal ⟨את⟩ Israël lossen van al zijn ongerechtigheden.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "zal lossen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "zijn ongerechtigheden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:44.952369831Z",
+  "model": "glm-5.3"
+}

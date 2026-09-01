@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Jehoe ging rusten bij zijn vaders, en zij begroeven ⟨את⟩ hem in Shomron; en Jehoachaz zijn zoon werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ging rusten"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehoe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "en zij begroeven"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (Jehoe)"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Shomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en werd koning"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:09.385837607Z",
+  "model": "glm-5.3"
+}

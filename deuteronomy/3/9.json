@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "De Tsidoniërs noemen de Chermon Sirjon, en de Emoriet noemt hem Senir.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "De Tsidoniërs"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "noemen"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "de Chermon"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Sirjon"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "en de Emoriet"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "noemt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Senir"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:26.654537699Z",
+  "model": "glm-5.3"
+}

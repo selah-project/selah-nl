@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 96,
+  "translation": "Het veld springt op ⟨van vreugde⟩ en alles wat erin is; dan juichen alle bomen van het woud.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "springt op ⟨van vreugde⟩"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Het veld"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "erin is"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "juichen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bomen van"
+    },
+    {
+      "surface": "יער",
+      "gloss": "het woud"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.130119326Z",
+  "model": "glm-5.3"
+}

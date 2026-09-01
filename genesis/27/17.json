@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En zij gaf ⟨את⟩ de smakelijke spijzen en ⟨את⟩ het brood dat zij bereid had in de hand van Jaäkov, haar zoon.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "en zij gaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de smakelijke spijzen"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "de smakelijke spijzen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het brood"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "het brood"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "zij bereid had"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "haar zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:15.925874795Z",
+  "model": "glm-5.3"
+}

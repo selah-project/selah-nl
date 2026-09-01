@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En toen de dageraad opsteeg, spoorden de mal'achiem Lot aan, zeggend: Sta op, neem je vrouw en je twee dochters, degenen die gevonden worden, anders word je weggevaagd in de schuld van de stad.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "en toen"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "de dageraad"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "opsteeg"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "spoorden aan"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "de mal'achiem"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "קום",
+      "gloss": "sta op"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je vrouw"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "je vrouw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "je twee dochters"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "je dochters"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "die gevonden worden"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "word je weggevaagd"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "in de schuld van"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:22.552790189Z",
+  "model": "glm-5.3"
+}

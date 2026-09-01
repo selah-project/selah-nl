@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En Lavan gaf haar ⟨את⟩ Zilpa, zijn dienstmaagd, tot een dienstmaagd voor Lea, zijn dochter.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa, zijn dienstmaagd"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "zijn dienstmaagd"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "voor Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "zijn dochter"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "tot een dienstmaagd"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:43.770810663Z",
+  "model": "glm-5.3"
+}

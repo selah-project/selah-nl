@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 64,
+  "translation": "De rechtvaardige verblijdt zich in Jahweh en schuilt bij hem, en allen die recht ⟨zijn⟩ van hart, roemen.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "verblijdt zich"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de rechtvaardige"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "en schuilt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "en roemen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "die recht zijn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:25.879166648Z",
+  "model": "glm-5.3"
+}

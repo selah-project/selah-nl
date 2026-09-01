@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Levend is Jahweh, en gezegend ⟨zij⟩ mijn rots, en verhoogd ⟨zij⟩ de Eloah van mijn heil.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "levend"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "en gezegend"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mijn rots"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "en verhoogd"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "de Eloah van"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mijn heil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:03.365820168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Arpachsjad verwekte ⟨את⟩ Selach, en Selach verwekte ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "en Arpachsjad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Selach"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "en Selach"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:20.099164609Z",
+  "model": "glm-5.3"
+}

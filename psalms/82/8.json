@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 82,
+  "translation": "Sta op, Elohim, oordeel ⟨את⟩ de aarde, want gij zult alle volken als erfdeel bezitten.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sta op"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "oordeel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gij"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "zult als erfdeel bezitten"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "volken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:19.158863866Z",
+  "model": "glm-5.3"
+}

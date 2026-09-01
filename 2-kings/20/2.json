@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En hij wendde ⟨את⟩ zijn gezicht naar de muur en bad tot Jahweh, zeggende:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "en hij wendde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn gezicht"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zijn gezicht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "de muur"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "en bad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:37.914096203Z",
+  "model": "glm-5.3"
+}

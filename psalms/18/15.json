@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Hij zond zijn pijlen uit en verstrooide hen, en bliksemschichten — veel — en deed hen wankelen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en Hij zond uit"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "zijn pijlen"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "en verstrooide hen"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "en bliksemschichten"
+    },
+    {
+      "surface": "רב",
+      "gloss": "veel"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "en deed hen wankelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:19.197748074Z",
+  "model": "glm-5.3"
+}

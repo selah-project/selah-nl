@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Sjallum verwekte ⟨את⟩ Jekamja, en Jekamja verwekte ⟨את⟩ Elisjama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "En Sjallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekamja"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Jekamja"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "en Jekamja"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elisjama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elisjama"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:15.848447410Z",
+  "model": "glm-5.3"
+}

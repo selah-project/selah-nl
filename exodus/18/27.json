@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Mosjee liet ⟨את⟩ zijn schoonvader vertrekken, en deze ging heen naar zijn eigen land.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hij liet vertrekken"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn schoonvader"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "zijn schoonvader"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "לו",
+      "gloss": "heen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "zijn eigen land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:19.679784085Z",
+  "model": "glm-5.3"
+}

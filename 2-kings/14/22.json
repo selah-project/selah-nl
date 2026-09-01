@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Hij bouwde ⟨את⟩ Eilat en bracht het terug aan Jehoeda, nadat de koning was gaan rusten bij zijn vaders.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eilat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "en bracht het terug"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "aan Jehoeda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "was gaan rusten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:12.085853344Z",
+  "model": "glm-5.3"
+}

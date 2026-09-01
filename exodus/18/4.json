@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En de naam van de andere was Eliëzer, want ⟨de⟩ Elohim van mijn vader ⟨was⟩ mijn hulp, en hij redde mij van het zwaard van Par'o.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "en de naam"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "van de andere"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliëzer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "van mijn vader"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "mijn hulp"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "en hij redde mij"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "van het zwaard"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Par'o"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:55.175948608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En zij brachten ⟨את⟩ de ark omhoog, en ⟨את⟩ de tent der samenkomst, en ⟨את⟩ alle heilige voorwerpen die in de tent waren — de priesters, de Levieten, brachten die omhoog.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "en zij brachten omhoog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de tent der samenkomst"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "samenkomst"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alle heilige voorwerpen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "voorwerpen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in de tent"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "brachten omhoog"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ die"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "de Levieten"
+    }
+  ],
+  "timestamp": "2026-08-31T23:05:26.522908287Z",
+  "model": "glm-5.3"
+}

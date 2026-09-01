@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 2:2",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En ⟨het⟩ werd gezegd aan de koning van Jericho, zeggend: Zie, mannen zijn hier gekomen, vannacht, van de kinderen van Jisraël, om ⟨את⟩ het land te doorzoeken.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en ⟨het⟩ werd gezegd"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan de koning"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "van Jericho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zijn gekomen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "vannacht"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "van de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "om te doorzoeken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:55.469368816Z",
+  "model": "glm-5.3"
+}

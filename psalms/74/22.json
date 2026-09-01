@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Sta op, Elohim, voer uw rechtszaak; gedenk uw smaad ⟨van⟩ de goddeloze, de ganse dag.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "sta op"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "voer uw rechtszaak"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "uw zaak"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gedenk"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "uw smaad"
+    },
+    {
+      "surface": "מני",
+      "gloss": "van"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de ganse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:13.336013353Z",
+  "model": "glm-5.3"
+}

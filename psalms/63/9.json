@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 63,
+  "translation": "Mijn nefesj kleeft aan U ⟨achter U aan⟩; ⟨het is⟩ Uw rechterhand die mij schraagt.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "kleeft"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "achter U aan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "schraagt"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "Uw rechterhand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:31.585471963Z",
+  "model": "glm-5.3"
+}

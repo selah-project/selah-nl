@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En het gebeurde op ⟨een⟩ dag, dat zijn zonen en zijn dochters aten en wijn dronken in het huis van hun broeder, de eerstgeborene.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "היום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "zijn dochters"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "aten"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "en dronken"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wijn"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "van hun broeder"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "de eerstgeborene"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:48.111556413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": "Zie, wij hebben ervan gehoord in Efrata, wij hebben het gevonden in de velden van Jaär.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "wij hebben ervan gehoord"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "in Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "wij hebben het gevonden"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "in de velden van"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Jaär"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:40.943392934Z",
+  "model": "glm-5.3"
+}

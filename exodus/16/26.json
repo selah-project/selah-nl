@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Zes dagen zullen jullie het verzamelen, maar op de zevende dag ⟨is⟩ sjabbat — er zal geen ⟨man⟩ in zijn.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "zes"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "zullen jullie het verzamelen"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "maar op de dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "de zevende"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sjabbat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal er zijn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "erin"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:05.789334901Z",
+  "model": "glm-5.3"
+}

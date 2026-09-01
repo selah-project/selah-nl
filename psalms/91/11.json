@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Want Hij zal zijn malachiem over je gebieden, om je te bewaren op al je wegen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "zijn malachiem"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "Hij zal gebieden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "over je"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "om je te bewaren"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "op al"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "je wegen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:53.382521779Z",
+  "model": "glm-5.3"
+}

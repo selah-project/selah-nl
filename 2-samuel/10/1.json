@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En het gebeurde daarna dat de koning van de zonen van Ammon stierf, en Chanun zijn zoon werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "stierf"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "van Ammon"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "werd koning"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chanun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:05.116981779Z",
+  "model": "glm-5.3"
+}

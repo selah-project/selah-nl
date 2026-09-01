@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En doorkijkramen in drie rijen, en venster ⟨tegenover⟩ venster, drie keer.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "en doorkijkramen"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "rijen"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "en venster"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "venster"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "keer"
+    }
+  ],
+  "timestamp": "2026-08-31T23:44:13.762673250Z",
+  "model": "glm-5.3"
+}

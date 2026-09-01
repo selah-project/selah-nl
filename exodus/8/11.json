@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Par'o zag dat er verlichting was, en hij verzwaarde ⟨את⟩ zijn hart, en hij hoorde niet naar hen, zoals Jahweh gesproken had.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "En hij zag"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "er was"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "verlichting"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "en hij verzwaarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hart"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zijn hart"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hij hoorde"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "naar hen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:06.429855329Z",
+  "model": "glm-5.3"
+}

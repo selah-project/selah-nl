@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 11:5",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Wier kopers hen doden en zich niet schuldig voelen, en hun verkopers zeggen: Gezegend zij Jahweh, ik ben rijk geworden; en hun herders hebben geen medelijden met hen.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wier"
+    },
+    {
+      "surface": "קניהן",
+      "gloss": "kopers"
+    },
+    {
+      "surface": "יהרגן",
+      "gloss": "hen doden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "zich schuldig voelen"
+    },
+    {
+      "surface": "ומכריהן",
+      "gloss": "en hun verkopers"
+    },
+    {
+      "surface": "ימאר→יאמר",
+      "gloss": "zeggen"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "gezegend"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואעשר",
+      "gloss": "en ik ben rijk geworden"
+    },
+    {
+      "surface": "ורעיהם",
+      "gloss": "en hun herders"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "hebben medelijden"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "met hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:00.980169729Z",
+  "model": "glm-5.3"
+}

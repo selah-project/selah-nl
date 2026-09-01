@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Mordechai ging heen en deed overeenkomstig alles wat Ester hem geboden had.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "en ging heen"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en deed"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "overeenkomstig alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "geboden had"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:17.372401861Z",
+  "model": "glm-5.3"
+}

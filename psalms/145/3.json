@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Groot ⟨is⟩ Jahweh en zeer te loven, en aan Zijn grootheid ⟨is⟩ geen onderzoek.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Groot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "en te loven"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "en aan Zijn grootheid"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is geen"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "onderzoek"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:07.968971867Z",
+  "model": "glm-5.3"
+}

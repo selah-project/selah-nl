@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En ⟨את⟩ de vetdelen van de stier en van de ram: de staart, en het vet dat de ingewanden bedekt, en de nieren, en de uitstulping boven de lever.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de vetdelen"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "de vetdelen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "השור",
+      "gloss": "de stier"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "de ram"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "de staart"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "en het bedekkende vet"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "en de nieren"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "en de uitstulping"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "van de lever"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:11.267545595Z",
+  "model": "glm-5.3"
+}

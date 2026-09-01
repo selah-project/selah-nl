@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Denk hieraan: ⟨de⟩ vijand smaadde Jahweh, en een dwaas volk heeft uw naam gelasterd.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Denk hieraan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hieraan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "⟨de⟩ vijand"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "smaadde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en een volk"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "dwaas"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "heeft gelasterd"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:43.536683506Z",
+  "model": "glm-5.3"
+}

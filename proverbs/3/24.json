@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Als je gaat liggen, zul je niet schrikken, en wanneer je ligt, zal je slaap zoet zijn.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "je gaat liggen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "zul je schrikken"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "en wanneer je ligt"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "zal zoet zijn"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "je slaap"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:45.423455161Z",
+  "model": "glm-5.3"
+}

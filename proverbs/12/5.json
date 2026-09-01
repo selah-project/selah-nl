@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "De plannen van de rechtvaardigen ⟨zijn⟩ recht, maar de streken van de slechten ⟨zijn⟩ bedrog.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "plannen"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "van de rechtvaardigen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "recht"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "streken"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de slechten"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrog"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:52.019677142Z",
+  "model": "glm-5.3"
+}

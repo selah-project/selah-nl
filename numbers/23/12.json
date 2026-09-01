@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En hij antwoordde en zei: Moet ik niet zorgvuldig bewaken ⟨את⟩ datgene wat Jahweh in mijn mond legt — ⟨את⟩ dat zal ik spreken?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en hij antwoordde"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "moet ik niet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "datgene wat Jahweh in mijn mond legt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "Jahweh legt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "in mijn mond"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dat"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "zal ik bewaken"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "om te spreken"
+    }
+  ],
+  "timestamp": "2026-08-31T20:15:52.650272721Z",
+  "model": "glm-5.3"
+}

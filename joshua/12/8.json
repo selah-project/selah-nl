@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "in het bergland en in de laagvlakte en in de Arava en in de hellingen en in de woestijn en in de Negev: de Chittiet, de Emoriet en de Kanaäniet, de Perizziet, de Chivviet en de Jebusiet.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "in het bergland"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "en in de laagvlakte"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "en in de Arava"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "en in de hellingen"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "en in de woestijn"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "en in de Negev"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "de Chittiet"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de Emoriet"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "en de Kanaäniet"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "de Perizziet"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "de Chivviet"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "en de Jebusiet"
+    }
+  ],
+  "timestamp": "2026-08-31T20:32:03.392912308Z",
+  "model": "glm-5.3"
+}

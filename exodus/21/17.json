@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En wie zijn vader of zijn moeder vervloekt, zal zeker gedood worden.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "en wie vervloekt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "of zijn moeder"
+    },
+    {
+      "surface": "מות",
+      "gloss": "gedood"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal zeker gedood worden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:50.629310197Z",
+  "model": "glm-5.3"
+}

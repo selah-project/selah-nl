@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "U zult de naam van Jahweh, uw Elohim, niet ⟨tevergeefs⟩ dragen, want Jahweh zal ⟨de⟩ ⟨schuldloos⟩ ⟨laten⟩ wie de naam van hem ⟨tevergeefs⟩ draagt ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "u zult dragen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de naam van Jahweh, uw Elohim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "tevergeefs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "hij zal vrijpleiten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die de naam van hem draagt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "draagt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "tevergeefs"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:10.840218518Z",
+  "model": "glm-5.3"
+}

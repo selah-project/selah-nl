@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 95,
+  "translation": "Wiens in wiens hand ⟨zijn⟩ de diepten der aarde, en de hoogten der bergen zijn zijn ⟨eigendom⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wiens"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in wiens hand"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "de diepten"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "der aarde"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "en de hoogten"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "der bergen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zijn zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:16.010311508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 81,
+  "translation": "Maar mijn volk luisterde niet naar mijn stem, en Jisraël wilde Mij niet.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Maar... niet"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "luisterde"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "naar mijn stem"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "en Jisraël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "wilde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:23.175230576Z",
+  "model": "glm-5.3"
+}

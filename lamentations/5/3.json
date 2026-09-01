@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Weesjongens ⟨zijn⟩ wij geworden, zonder vader; onze moeders ⟨zijn⟩ als weduwen.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "weesjongens"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "⟨zijn⟩ wij geworden"
+    },
+    {
+      "surface": "אין",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "אב",
+      "gloss": "vader"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "onze moeders"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "⟨zijn⟩ als weduwen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:28.094420438Z",
+  "model": "glm-5.3"
+}

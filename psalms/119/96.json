@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Van elke volmaaktheid heb ik ⟨een⟩ einde gezien; ⟨maar⟩ uw gebod is zeer ruim.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "van elke"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "volmaaktheid"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "heb ik gezien"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "einde"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "is ruim"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "uw gebod"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:01.484429961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Avond en morgen en middag overpeins ik en zucht ik, en hij verhoort mijn stem.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "avond"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "en morgen"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "en middag"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "overpeins ik"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "en zucht ik"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "en hij verhoort"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mijn stem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:31.170335242Z",
+  "model": "glm-5.3"
+}

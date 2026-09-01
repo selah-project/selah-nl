@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 146,
+  "translation": "Vertrouw niet op edelen, op een zoon van de mens, bij wie geen redding ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "vertrouw"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "op edelen"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "op een zoon van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "bij wie geen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "redding"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:40.506987958Z",
+  "model": "glm-5.3"
+}

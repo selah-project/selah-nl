@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Ga niet uit naar het veld, en wandel niet op de weg, want een zwaard ⟨voor⟩ de vijand, verschrikking rondom.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "ga uit"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "het veld"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "en op de weg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "wandel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "een zwaard"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "voor de vijand"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "verschrikking"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-08-31T21:28:04.673767894Z",
+  "model": "glm-5.3"
+}

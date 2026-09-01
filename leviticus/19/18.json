@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Je zult geen wraak nemen en geen wrok koesteren tegen ⟨את⟩ de kinderen van je volk, maar je zult je naaste liefhebben als jezelf; ik ben Jahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "zult wraak nemen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "zult wrok koesteren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van je volk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "van je volk"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "en je zult liefhebben"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "je naaste"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "als jezelf"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:33.065946153Z",
+  "model": "glm-5.3"
+}

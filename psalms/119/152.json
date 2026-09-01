@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Van ouds heb ik ⟨uit⟩ jouw getuigenissen geweten, dat jij ze voor eeuwig gefundeerd hebt.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "van ouds"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "heb ik geweten"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "⟨uit⟩ jouw getuigenissen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "gefundeerd hebt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:38.951071800Z",
+  "model": "glm-5.3"
+}

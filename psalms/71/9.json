@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Werp mij niet weg in de tijd van ouderdom; wanneer mijn kracht ophoudt, verlaat mij niet.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "werp mij weg"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "in de tijd van"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ouderdom"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "wanneer … ophoudt"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mijn kracht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "verlaat mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:40.342078644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 56,
+  "translation": "Zullen zij door hun ongerechtigheid ontkomen? In toorn, o Elohim, werp ⟨de⟩ volken neer.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "door"
+    },
+    {
+      "surface": "און",
+      "gloss": "ongerechtigheid"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ontkomen"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨voor⟩ hen"
+    },
+    {
+      "surface": "באף",
+      "gloss": "in toorn"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "werp neer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:05.799302309Z",
+  "model": "glm-5.3"
+}

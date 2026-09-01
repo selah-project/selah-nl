@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Atalja hoorde ⟨את⟩ het geluid van ⟨de⟩ lopers ⟨en⟩ van het volk, en zij kwam naar het volk, naar het huis van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "en zij hoorde"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het geluid"
+    },
+    {
+      "surface": "קול",
+      "gloss": "het geluid"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "van de lopers"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "en zij kwam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:58.977106733Z",
+  "model": "glm-5.3"
+}

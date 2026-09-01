@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "En aan Jozef werden geboren, in het land Mitsrajim, die Asnat, de dochter van Poti-Fera, priester van On, hem baarde: ⟨את⟩ Menasje en ⟨את⟩ Efraïm.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "En werden geboren"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "aan Jozef"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "baarde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Asnat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "de dochter van"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Poti-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "Fera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priester van"
+    },
+    {
+      "surface": "אן",
+      "gloss": "On"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menasje"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Efraïm"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraïm"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:57.109434072Z",
+  "model": "glm-5.3"
+}

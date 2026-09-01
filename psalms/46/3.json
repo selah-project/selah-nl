@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "Daarom zullen wij niet vrezen bij het wankelen van de aarde, bij het verzinken van bergen in het hart van de zeeën.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "daarom (op)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "zullen wij vrezen"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "bij het wankelen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "en bij het verzinken"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "van bergen"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "in het hart"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van de zeeën"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:01.201453112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Spreek tot de kinderen van Jisraël en zeg tot hen: wanneer jullie ⟨את⟩ de Jarden oversteken, naar het land van Kenaän:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en zeg"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "oversteken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "naar het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "van Kenaän"
+    }
+  ],
+  "timestamp": "2026-08-31T20:19:33.883125654Z",
+  "model": "glm-5.3"
+}

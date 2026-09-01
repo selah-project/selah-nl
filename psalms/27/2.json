@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Bij het naderen van kwaaddoeners over mij, om ⟨את⟩ mijn vlees te eten — mijn benauwers en mijn vijanden ⟨tegen⟩ mij — zij struikelden en vielen.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "bij het naderen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kwaaddoeners"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te eten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn vlees"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mijn vlees"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mijn benauwers"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "en mijn vijanden"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "struikelden"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "en vielen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:48.378974752Z",
+  "model": "glm-5.3"
+}

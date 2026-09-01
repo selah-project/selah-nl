@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En in Sjosjan de burcht doodden en verdelgden de Joden vijfhonderd man.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "en in Sjosjan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "de burcht"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "doodden"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "de Joden"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "en verdelgden"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:37.105303915Z",
+  "model": "glm-5.3"
+}

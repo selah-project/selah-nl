@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "De stem van Jahweh ⟨is⟩ met kracht; de stem van Jahweh ⟨is⟩ met majesteit.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "met kracht"
+    },
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "met majesteit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:31.596756795Z",
+  "model": "glm-5.3"
+}

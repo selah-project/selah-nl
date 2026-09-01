@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "Naar hun onreinheid en naar hun overtredingen heb ik met ⟨את⟩ hen gehandeld, en ik verborg mijn aangezicht voor hen.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "naar hun onreinheid"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "en naar hun overtredingen"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "heb ik gehandeld"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "en ik verborg"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mijn aangezicht"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "voor hen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:51:25.988448243Z",
+  "model": "glm-5.3"
+}

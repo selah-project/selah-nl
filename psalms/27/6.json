@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En nu zal mijn hoofd hoog verheven worden boven mijn vijanden rondom mij; dan zal ik in zijn tent offers van jubelkreten brengen; ik zal zingen en psalmen zingen voor Jahweh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "zal hoog verheven worden"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mijn hoofd"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "rondom mij"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "dan zal ik... offers brengen"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "in zijn tent"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "offers"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "van jubelkreten"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ik zal zingen"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "en psalmen zingen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:32.417674074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Zij ruilden hun kavod ⟨את⟩ voor de gedaante van een os die gras eet.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "en zij ruilden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun kavod"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "hun kavod"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "voor de gedaante"
+    },
+    {
+      "surface": "שור",
+      "gloss": "van een os"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "die eet"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "gras"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:53.213165643Z",
+  "model": "glm-5.3"
+}

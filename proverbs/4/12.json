@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Als je gaat, zal je tred niet worden samengeperst, en als je rent, zul je niet struikelen.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "als je gaat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "zal worden samengeperst"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "je tred"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "je rent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "zul je struikelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:56.062640438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Verhef uw voetstappen naar de eeuwige verwoestingen; al het kwaad heeft de vijand in het heiligdom gedaan.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "verhef"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "uw voetstappen"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "naar de verwoestingen"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "eeuwige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al het"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "de vijand"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in het heiligdom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:44.958548668Z",
+  "model": "glm-5.3"
+}

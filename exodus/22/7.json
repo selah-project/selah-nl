@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Als de dief niet gevonden wordt, wordt de heer des huizes naar Elohim gebracht ⟨om te zweren⟩ of hij zijn hand niet heeft uitgestrekt naar het bezit van zijn naaste.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gevonden wordt"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "de dief"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "wordt gebracht"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "de heer"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des huizes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "heeft uitgestrekt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "naar het bezit"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "van zijn naaste"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:04.776841882Z",
+  "model": "glm-5.3"
+}

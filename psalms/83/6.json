@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "Want zij hebben met het hart tezamen beraad geslagen, tegen u ⟨ zullen zij⟩ een verbond sluiten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "hebben zij beraad geslagen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "met het hart"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tezamen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tegen u"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "een verbond"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "⟨zullen zij⟩ sluiten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:34.404696053Z",
+  "model": "glm-5.3"
+}

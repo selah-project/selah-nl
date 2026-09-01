@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Goed is het voor mij dat ik verdrukt ben geworden — opdat ik uw verordeningen zou leren.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ik verdrukt ben geworden"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "ik zou leren"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "uw verordeningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:48.058115626Z",
+  "model": "glm-5.3"
+}

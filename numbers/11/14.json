@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Ik kan niet — ik alleen — heel dit volk ⟨את⟩ dragen, want het is te zwaar voor mij.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan ik"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "dragen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel dit volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dit volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "te zwaar"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "voor mij"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:55.598979922Z",
+  "model": "glm-5.3"
+}

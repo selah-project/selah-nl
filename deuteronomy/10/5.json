@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En ik keerde ⟨me⟩ om en daalde af van de berg, en ik legde ⟨את⟩ de tafelen in de ark die ik gemaakt had; en zij zijn daar, zoals Jahweh mij geboden had.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "en ik keerde om"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "en daalde af"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "en ik legde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tafelen"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "de tafelen"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "in de ark"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ik gemaakt had"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en zij zijn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "mij geboden had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:58.764612654Z",
+  "model": "glm-5.3"
+}

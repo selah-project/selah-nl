@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Zegt niet: samenzwering, bij alles wat dit volk zal zeggen: samenzwering; en ⟨את⟩ hun schrikken zult gij niet vrezen en hun verschrikking niet sidderen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "Zegt"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "samenzwering"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bij alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zal zeggen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dit volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "samenzwering"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun schrikken"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "hun schrikken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "zult gij vrezen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "zult sidderen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:55.203258886Z",
+  "model": "glm-5.3"
+}

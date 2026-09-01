@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "Omgordeel je zwaard aan ⟨je⟩ dij, machtige; jouw majesteit en jouw pracht",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "omgordeel"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "je zwaard"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "dij"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "machtige"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "jouw majesteit"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "en jouw pracht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:06.725623110Z",
+  "model": "glm-5.3"
+}

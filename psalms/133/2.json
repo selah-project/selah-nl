@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 133,
+  "translation": "Als de goede olie op het hoofd, neerdalend op de baard, de baard van Aharon, die neerdaalt over de rand van zijn gewaden.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Als de olie"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "de goede"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "het hoofd"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "neerdalend"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "de baard"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "de baard"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "die neerdaalt"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de rand"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "van zijn gewaden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:28.051515430Z",
+  "model": "glm-5.3"
+}

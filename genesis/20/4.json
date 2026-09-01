@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Avimelech had zich niet tot haar genaderd, en hij zei: Adonai, zult U ook een rechtvaardig volk doden?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "en Avimelech"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "had zich genaderd"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "tot haar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "zult U het volk"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardig"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "doden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:10.767397546Z",
+  "model": "glm-5.3"
+}

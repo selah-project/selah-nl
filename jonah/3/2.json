@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Sta op, ga naar Ninevé, de grote stad, en roep er ⟨את⟩ de prediking toe die ik tot jou spreek.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "sta op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninevé"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "de grote"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "en roep"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "er toe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de prediking"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "de prediking"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot jou"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:46.027531931Z",
+  "model": "glm-5.3"
+}

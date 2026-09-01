@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Ons water hebben we voor geld gedronken, ons hout komt tegen betaling ⟨bij ons⟩.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "ons water"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "voor geld"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "hebben we gedronken"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "ons hout"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "tegen betaling"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "komt ⟨bij ons⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:28.094559574Z",
+  "model": "glm-5.3"
+}

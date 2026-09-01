@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Hij telt het getal van de sterren, aan alle roept hij namen toe.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Hij telt"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "het getal"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "van de sterren"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "aan alle"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namen"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "roept hij toe"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:21.950493400Z",
+  "model": "glm-5.3"
+}

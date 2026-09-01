@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En Lavan stond vroeg in de morgen op, en kuste zijn zonen en zijn dochters, en zegende ⟨את⟩ hen; en hij ging, en Lavan keerde terug naar zijn plaats.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "stond vroeg op"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "en kuste"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "en zijn dochters"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en zegende"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en keerde terug"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "naar zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:13.745363188Z",
+  "model": "glm-5.3"
+}

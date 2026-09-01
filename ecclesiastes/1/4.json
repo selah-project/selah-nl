@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Een geslacht gaat en een geslacht komt, maar de aarde staat ⟨er⟩ tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "een geslacht"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gaat"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "en een geslacht"
+    },
+    {
+      "surface": "בא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "maar de aarde"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "staat"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:39.808930853Z",
+  "model": "glm-5.3"
+}

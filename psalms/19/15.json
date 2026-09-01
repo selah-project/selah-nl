@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Mogen de woorden van mijn mond en de overdenking van mijn hart ⟨zijn⟩ tot welbehagen voor Uw aangezicht, Jahweh, mijn Rots en mijn Verlosser.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mogen ⟨zijn⟩"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "tot welbehagen"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "פי",
+      "gloss": "van mijn mond"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "en de overdenking"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "van mijn hart"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor Uw aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mijn Rots"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "en mijn Verlosser"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:18.681405065Z",
+  "model": "glm-5.3"
+}

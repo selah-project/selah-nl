@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 84,
+  "translation": "Zij gaan van kracht tot kracht; ⟨elk van hen⟩ verschijnt voor Elohim in Tsiyon.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "zij gaan"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "van kracht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kracht"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hij verschijnt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:36.740476832Z",
+  "model": "glm-5.3"
+}

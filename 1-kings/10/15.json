@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "buiten ⟨dat⟩ van de rondtrekkende handelaars en de handel van de kooplui, en van alle koningen van het gemengde ⟨volk⟩ en de stadhouders van het land.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "van de mannen van"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "de rondtrekkers"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "en de handel van"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "de kooplui"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "koningen van"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "het gemengde volk"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "en de stadhouders van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:17.349147237Z",
+  "model": "glm-5.3"
+}

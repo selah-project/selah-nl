@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En de man van Elohim zeide tot de koning: Al geeft u mij ⟨את⟩ de helft van uw huis, ik ga niet met u mee, en ik eet geen brood en ik drink geen water op deze plaats.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zeide"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Al"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de helft van uw huis"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "de helft"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "van uw huis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ik ga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met u mee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ik eet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ik drink"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "op"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:04.504615684Z",
+  "model": "glm-5.3"
+}

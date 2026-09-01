@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 100,
+  "translation": "Weet dat Jahweh ⟨is⟩ Elohim; ⟨hij⟩ heeft ons gemaakt, en niet ⟨wij⟩ ⟨ons⟩; ⟨wij zijn⟩ zijn volk en de kudde van zijn weide.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hij⟩"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "heeft ons gemaakt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wij"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "en de kudde"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "van zijn weide"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:07.460163147Z",
+  "model": "glm-5.3"
+}

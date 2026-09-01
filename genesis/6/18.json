@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En ik richt mijn verbond op ⟨את⟩ met jou; en jij zult de ark binnengaan, jij en je zonen en je vrouw en de vrouwen van je zonen ⟨את⟩ met jou.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "En ik richt op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verbond"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met jou"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "en jij zult binnengaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "en je zonen"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "en je vrouw"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "en de vrouwen van"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "je zonen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met jou"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:59.482797319Z",
+  "model": "glm-5.3"
+}

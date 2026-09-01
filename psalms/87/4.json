@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 87,
+  "translation": "Ik doe Rachaav en Bavel gedenken aan wie mij kennen; zie, Peléshet en Tsoor, met Koesh: deze is daar geboren.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Ik doe gedenken"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rachaav"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "en Bavel"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "aan wie kennen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peléshet"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "en Tsoor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Koesh"
+    },
+    {
+      "surface": "זה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "is geboren"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:25.470489248Z",
+  "model": "glm-5.3"
+}

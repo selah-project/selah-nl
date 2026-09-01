@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "En Yosef bracht ⟨את⟩ Jaakov, zijn vader, binnen en stelde hem vóór Par'o; en Jaakov zegende ⟨את⟩ Par'o.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij bracht binnen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov, zijn vader"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "en stelde hem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vóór"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en hij zegende"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Par'o"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:25.664876476Z",
+  "model": "glm-5.3"
+}

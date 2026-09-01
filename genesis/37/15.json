@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En een man vond hem, en zie, hij dwaalde rond op het veld; en de man vroeg hem, zeggend: wat zoek je?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "en een man vond hem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "hij dwaalde rond"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "en … vroeg hem"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "zoek je"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:28.548532343Z",
+  "model": "glm-5.3"
+}

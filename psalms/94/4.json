@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Ze laten opwellen, ze spreken ⟨onbeschaamdheid⟩, alle daders van onrecht verheffen zich.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "ze laten opwellen"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ze spreken"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "onbeschaamde taal"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "verheffen zich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "daders van"
+    },
+    {
+      "surface": "און",
+      "gloss": "onrecht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:17.922442495Z",
+  "model": "glm-5.3"
+}

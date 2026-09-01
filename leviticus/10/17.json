@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 10:17",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Waarom hebben jullie ⟨את⟩ de zondeoffer niet gegeten op de plaats van het heilige, want ⟨het is⟩ heilig der heiligen, en ⟨את⟩ haar heeft hij jullie gegeven om de schuld van de vergadering te dragen, om voor hen verzoening te doen voor het aangezicht van Jahweh?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "hebben jullie gegeten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zondeoffer"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "de zondeoffer"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "op de plaats"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van het heilige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "der heiligen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨het is⟩"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en ⟨את⟩",
+      "marks": "haar (de zondeoffer)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "heeft hij gegeven"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "om te dragen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de schuld"
+    },
+    {
+      "surface": "עון",
+      "gloss": "de schuld"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "van de vergadering"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "om verzoening te doen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:45.660112781Z",
+  "model": "glm-5.3"
+}

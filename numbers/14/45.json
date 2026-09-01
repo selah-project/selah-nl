@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 14:45",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Toen daalde de Amalekiet en de Knaäniet, die in dat gebergte woonde, af, en zij sloegen hen en versloegen hen ⟨את⟩, tot Chorma toe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "en hij daalde af"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "de Amalekiet"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "en de Knaäniet"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "die woonde"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "in het gebergte"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "en zij sloegen hen"
+    },
+    {
+      "surface": "ויכתום",
+      "gloss": "en versloegen hen",
+      "marks": "hen (Israël)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "החרמה",
+      "gloss": "Chorma"
+    }
+  ],
+  "timestamp": "2026-09-01T00:04:37.928977144Z",
+  "model": "glm-5.3"
+}

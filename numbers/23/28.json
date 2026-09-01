@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En Balak nam ⟨את⟩ Bilam naar de top van de Peor, die uitziet over de vlakte van de woestijn.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "top"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "de Peor"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "die uitziet over"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "פני",
+      "gloss": "de vlakte\/het aanschijn van"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "de woestijn"
+    }
+  ],
+  "timestamp": "2026-08-31T20:15:51.278012858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Zij bedierven ⟨zich⟩ — ⟨het⟩ is niet zijn kinderen ⟨aangedaan⟩, ⟨het is⟩ hun smet: een generatie krom en verdraaid.",
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "bedierven"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨zich⟩ (ten opzichte van hem)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn kinderen"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "hun smet"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generatie"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "krom"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "en verdraaid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:03.925595614Z",
+  "model": "glm-5.3"
+}

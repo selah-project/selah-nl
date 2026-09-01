@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 95,
+  "translation": "Veertig jaar werd Ik weerzin gewaar bij die geslacht ⟨en⟩ Ik zeide: ⟨een⟩ volk dat afdwaalt in ⟨zijn⟩ hart, zij ⟨zijn⟩ het, en zij hebben Mijn wegen niet gekend.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "werd Ik weerzin gewaar"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "bij dat geslacht"
+    },
+    {
+      "surface": "ו אמר",
+      "gloss": "en Ik zeide"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "dat afdwaalt"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zij"
+    },
+    {
+      "surface": "והם",
+      "gloss": "en zij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "hebben gekend"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "Mijn wegen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:51.363018325Z",
+  "model": "glm-5.3"
+}

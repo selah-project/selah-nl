@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En dit zijn hun namen: Ben-Chur, in het bergland van Efrajim.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit zijn"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "hun namen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "in het bergland van"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:44.442904898Z",
+  "model": "glm-5.3"
+}

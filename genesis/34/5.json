@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "En Jaäkov hoorde dat ⟨את⟩ Dina, zijn dochter, ontreinigd was — en zijn zonen waren met ⟨את⟩ zijn vee in het veld — en Jaäkov zweeg tot zij kwamen.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "En Jaäkov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoorde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ontreinigd was"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "zijn dochter"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en zijn zonen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "את",
+      "gloss": "met ⟨את⟩",
+      "marks": "zijn vee"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "zijn vee"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in het veld"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "en zweeg"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "באם",
+      "gloss": "zij kwamen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:49.437914337Z",
+  "model": "glm-5.3"
+}

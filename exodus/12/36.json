@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Jahweh gaf ⟨את⟩ genade van het volk in de ogen van de Mitsrieten, zodat zij het hun gaven; en zij plunderden ⟨את⟩ Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "En Jahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "genade"
+    },
+    {
+      "surface": "חן",
+      "gloss": "genade"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in de ogen van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitsrieten"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "zodat zij het hen gaven"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "en zij plunderden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:19.570399117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "En Jahweh was ⟨את⟩ Jozef, en hij werd een man die voorspoed had, en hij was in het huis van zijn heer, de Mitsrietr.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En hij was"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en hij werd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "die voorspoed had"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en hij was"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis van"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "zijn heer"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "de Mitsrietr"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:32.135429664Z",
+  "model": "glm-5.3"
+}

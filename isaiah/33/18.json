@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Je hart overdweilt de schrik: waar is de schrijver? Waar is de weger? Waar is hij die ⟨את⟩ de torens telde?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "je hart"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "overdweilt"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "de schrik"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar is"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "de schrijver"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar is"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "de weger"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar is"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "hij die telde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de torens"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "de torens"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:57.441808288Z",
+  "model": "glm-5.3"
+}

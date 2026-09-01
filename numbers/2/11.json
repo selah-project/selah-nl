@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En zijn leger, en zijn getelden: zes en veertig ⟨duizend⟩ en vijfhonderd.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "en zijn leger"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "en zijn getelden"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "zes"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "en veertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "⟨duizend⟩"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "en vijf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:29.220580095Z",
+  "model": "glm-5.3"
+}

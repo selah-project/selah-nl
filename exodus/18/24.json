@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Mosjee luisterde naar de stem van zijn schoonvader en deed alles wat hij had gezegd.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en luisterde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "naar de stem van"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "zijn schoonvader"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en deed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hij had gezegd"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:41.879481012Z",
+  "model": "glm-5.3"
+}

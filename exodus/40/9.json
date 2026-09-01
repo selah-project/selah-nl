@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En u zult de zalfolie nemen en de mishkan zalven, en ⟨את⟩ alles wat erin is, en u zult het heiligen met al zijn gerei, en het zal heilig zijn.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "en u zult nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zalfolie"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "de zalving"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "en u zult zalven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "de mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "erin"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "en u zult heiligen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ het",
+      "marks": "het (de mishkan)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al zijn gerei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zijn gerei"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en het zal zijn"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:46.109936359Z",
+  "model": "glm-5.3"
+}

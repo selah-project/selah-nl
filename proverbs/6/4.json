@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "geef geen slaap aan je ogen en geen dommel aan je oogleden.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "slaap"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "aan je ogen"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "en geen dommel"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "aan je oogleden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:22.663702855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Jehosjoea gebood ⟨את⟩ de priesters, zeggend: Gaat op uit de Jarden.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en hij gebood"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de priesters"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "gaat op"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:04.067071344Z",
+  "model": "glm-5.3"
+}

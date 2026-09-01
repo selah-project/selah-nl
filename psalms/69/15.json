@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Ruk mij uit het slijk, zodat ik niet zink; laat mij gered worden van wie mij haten, en uit de diepten van de wateren.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ruk mij"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "uit het slijk"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en laat niet"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "ik zink"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "laat mij gered worden"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "van wie mij haten"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "en uit de diepten van"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wateren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:30.964692567Z",
+  "model": "glm-5.3"
+}

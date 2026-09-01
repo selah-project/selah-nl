@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Jahweh stelde een vaste tijd, zeggend: Morgen zal Jahweh dit woord doen in het land.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en stelde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "een vaste tijd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zal doen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dit woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:10.442152318Z",
+  "model": "glm-5.3"
+}

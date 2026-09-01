@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Bij zijn gericht ga hij als schuldige uit, en zijn gebed zij tot zonde.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "bij zijn gericht"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ga uit"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "als schuldige"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "en zijn gebed"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "tot zonde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:33.540471275Z",
+  "model": "glm-5.3"
+}

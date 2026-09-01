@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Want als rook zijn mijn dagen verteerd, en mijn beenderen zijn als een vuurhaard verbrand.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "zijn verteerd"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "als rook"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mijn dagen"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "en mijn beenderen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "קד",
+      "gloss": "een vuurhaard"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "zijn verbrand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:07.437935276Z",
+  "model": "glm-5.3"
+}

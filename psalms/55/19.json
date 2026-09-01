@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Hij heeft in vrede mijn nefesj verlost van wie mij nabij ⟨was⟩; want er waren velen met mij.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Hij heeft verlost"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in vrede"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "van wie nabij"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "velen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "er waren"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "met mij"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:56.504387969Z",
+  "model": "glm-5.3"
+}

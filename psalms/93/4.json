@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 93,
+  "translation": "Meer dan de stemmen van vele wateren, machtiger dan de brandingen van de zee — machtig in de hoogte ⟨is⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "meer dan de stemmen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wateren"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "machtiger dan"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "de brandingen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "van de zee"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "machtig"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "in de hoogte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:18.180149012Z",
+  "model": "glm-5.3"
+}

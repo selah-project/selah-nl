@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En hij ging en hij deed naar het woord van Jahweh; en hij ging en hij woonde aan de beek Kerit, die aan de overzijde van de Jarden ⟨ligt⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en hij deed"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "naar het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hij woonde"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "aan de beek"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "de overzijde"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:34.601909279Z",
+  "model": "glm-5.3"
+}

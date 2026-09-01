@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 36:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "vorst Korach, vorst Gaëtam, ⟨en⟩ vorst Amalek — dit zijn de vorsten van Elifaz in het land Edom; dit zijn de zonen van Ada.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "vorst"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "vorst"
+    },
+    {
+      "surface": "געתם",
+      "gloss": "Gaëtam"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "vorst"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dit zijn"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "de vorsten"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "van Elifaz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dit zijn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "van Ada"
+    }
+  ],
+  "timestamp": "2026-08-31T23:14:03.749520047Z",
+  "model": "glm-5.3"
+}

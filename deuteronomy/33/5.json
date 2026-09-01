@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En er ⟨was⟩ een koning in Jisjoeroon, bij het zich verzamelen van de hoofden van ⟨het⟩ volk, tezamen de stammen van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en er was"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "in Jisjoeroon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "een koning"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "bij het zich verzamelen"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "de hoofden"
+    },
+    {
+      "surface": "עם",
+      "gloss": "van ⟨het⟩ volk"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tezamen"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "de stammen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:32.315975773Z",
+  "model": "glm-5.3"
+}

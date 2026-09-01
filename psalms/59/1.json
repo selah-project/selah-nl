@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Voor de koorleider, op ⟨de wijs van⟩ Al-tasjchet. Van David, een michtam, toen Sjaoel ⟨mensen⟩ stuurde en zij het huis in de gaten hielden om hem te doden.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op ⟨de wijs van⟩"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Al-tasjchet (verderf niet)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "een michtam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "toen ⟨Sjaoel⟩ stuurde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "en zij in de gaten hielden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "om hem te doden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:19.265661951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "En hij verhief ⟨את⟩ zijn stem met geween; en Mitsrajim hoorde ⟨het⟩, en het huis van Par'o hoorde ⟨het⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en hij verhief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn stem"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "zijn stem"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "met geween"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "en zij hoorden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "en hij hoorde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Par'o"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:19.091754640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Vanwege de winter ploegt de luiaard niet; hij vraagt ⟨om⟩ in de oogst — en er ⟨is⟩ niets.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "vanwege de winter"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "de luiaard"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ploegt"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "hij vraagt"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "in de oogst"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is niets"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:11.600349853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En het zal gebeuren: als zij jou niet geloven en niet luisteren naar de stem van het eerste teken, dan zullen zij geloven naar de stem van het laatste teken.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En het zal gebeuren"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "zij geloven"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "zij luisteren"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "האת",
+      "gloss": "van het teken"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "eerste"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "dan zullen zij geloven"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "האת",
+      "gloss": "van het teken"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "laatste"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:51.471819151Z",
+  "model": "glm-5.3"
+}

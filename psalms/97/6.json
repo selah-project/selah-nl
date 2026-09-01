@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 97,
+  "translation": "De hemelen verkondigden zijn recht, en alle volken zagen zijn kavod ⟨heerlijkheid⟩.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "verkondigden"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "zijn recht"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "en zagen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "zijn kavod ⟨heerlijkheid⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:24.744336243Z",
+  "model": "glm-5.3"
+}

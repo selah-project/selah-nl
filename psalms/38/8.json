@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Want mijn lendenen zijn vol brandwonden, en er is geen gezondheid in mijn vlees.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "mijn lendenen"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "zijn vol"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "brandwonden"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is geen"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "gezondheid"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "in mijn vlees"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:28.522337744Z",
+  "model": "glm-5.3"
+}

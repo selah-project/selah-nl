@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Zij omringden mij, ja, zij omringden mij; in de Naam van Jahweh — ja, ik hak ze af.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "zij omringden mij"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "zij omringden mij"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in de Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ik hak ze af"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:08.578511460Z",
+  "model": "glm-5.3"
+}

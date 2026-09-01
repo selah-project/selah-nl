@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En zij voegde ⟨eraan toe⟩ en baarde nog een zoon, en zij riep zijn naam Sjelah; en hij was in Kezib toen zij hem baarde.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "en zij voegde eraan toe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en baarde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "en zij riep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Sjelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en hij was"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "in Kezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "toen zij baarde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:42:46.808975031Z",
+  "model": "glm-5.3"
+}

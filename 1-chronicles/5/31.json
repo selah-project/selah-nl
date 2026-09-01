@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Avishoea verwekte ⟨את⟩ Bukki, en Bukki verwekte ⟨את⟩ Uzzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "En Avishoea"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "en Bukki"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzzi"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:13.811704454Z",
+  "model": "glm-5.3"
+}

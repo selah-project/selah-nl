@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Zorg in het hart van een man buigt het neer, maar een goed woord maakt het blij.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "zorg"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "in het hart"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van een man"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "buigt het neer"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "maar een woord"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "maakt het blij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:40.449088356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Zijn uw dagen als de dagen van een sterveling, of uw jaren als ⟨die⟩ van een man?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "als de dagen van"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "een sterveling"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "uw dagen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "uw jaren"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "als die van"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "een man"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:10.101323587Z",
+  "model": "glm-5.3"
+}

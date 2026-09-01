@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Vrees ⟨את⟩ Jahweh, mijn zoon, en de koning; meng u niet onder ⟨hen die wisselen⟩.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "Vrees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "en de koning"
+    },
+    {
+      "surface": "עם",
+      "gloss": "onder"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "hen die wisselen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "meng u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:01.065671974Z",
+  "model": "glm-5.3"
+}

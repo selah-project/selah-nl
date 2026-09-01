@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En je zult ⟨את⟩ de tafel naar binnen brengen en ⟨את⟩ zijn ordening ordenen; en je zult ⟨את⟩ de kandelaar naar binnen brengen en ⟨את⟩ zijn lampen doen opgaan.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "en je zult brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "de tafel"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "en je zult ordenen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn ordening"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "zijn ordening"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "en je zult brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kandelaar"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "de kandelaar"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "en je zult doen opgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn lampen"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "zijn lampen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:21.455291749Z",
+  "model": "glm-5.3"
+}

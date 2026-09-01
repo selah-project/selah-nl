@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Wee, zondig natie, volk zwaar van ongerechtigheid, nageslacht van kwaaddoeners, zonen die verderven! Zij hebben Jahweh verlaten, ⟨את⟩ de Heilige van Israël hebben zij gesmaad, ⟨zij⟩ zijn achteruit geweken.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "wee"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "natie"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "zondig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "zwaar"
+    },
+    {
+      "surface": "עון",
+      "gloss": "van ongerechtigheid"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslacht"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "van kwaaddoeners"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "die verderven"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "zij hebben verlaten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "hebben zij gesmaad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Heilige van Israël"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "de Heilige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "zij zijn geweken"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "achteruit"
+    }
+  ],
+  "timestamp": "2026-08-31T21:13:02.274383335Z",
+  "model": "glm-5.3"
+}

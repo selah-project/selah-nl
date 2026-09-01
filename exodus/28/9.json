@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En u zult ⟨את⟩ twee sjoham-stenen nemen, en u zult op hen de namen van de zonen van Jisraël graveren",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "en u zult nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twee sjoham-stenen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "stenen"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "sjoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "en u zult graveren"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hen"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "de namen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:30.693931501Z",
+  "model": "glm-5.3"
+}

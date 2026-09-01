@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Want uw dienaren hebben welbehagen in haar stenen ⟨את⟩, en ⟨את⟩ haar stof zullen zij gunstig bejegenen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "hebben welbehagen in"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "uw dienaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar stenen"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "haar stenen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haar stof"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "haar stof"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "zullen zij gunstig bejegenen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:49.213835025Z",
+  "model": "glm-5.3"
+}

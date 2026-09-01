@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Want ik ben Jahweh, die jullie ⟨את⟩ uit het land Mitsrajim heb laten opgaan, om voor jullie tot Elohim te zijn; en jullie zullen heilig zijn, want heilig ben ik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "die … heb laten opgaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "jullie ⟨את⟩",
+      "marks": "jullie"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "להית",
+      "gloss": "om te zijn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot Elohim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "en jullie zullen zijn"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben ik"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:55.944805892Z",
+  "model": "glm-5.3"
+}

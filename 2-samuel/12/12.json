@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Want jij hebt het in het verborgene gedaan, maar ik zal ⟨את⟩ deze zaak doen tegenover heel Israël en tegenover de zon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hebt gedaan"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in het verborgene"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "maar ik"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zal doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze zaak"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "deze zaak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "נגד",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "en tegenover"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    }
+  ],
+  "timestamp": "2026-08-31T20:53:09.227105167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Met lengte van dagen zal Ik hem verzadigen en hem Mijn jeshoea laten zien.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "lengte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dagen"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "zal Ik hem verzadigen"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "en hem laten zien"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "Mijn jeshoea (redding\/heil)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:14.395163800Z",
+  "model": "glm-5.3"
+}

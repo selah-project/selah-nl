@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ⟨את⟩ Esav heb ik gehaat, en ik heb ⟨את⟩ zijn bergen tot verwoesting gemaakt en ⟨את⟩ zijn erfdeel ⟨voor⟩ jakhalzen van de woestijn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "heb ik gehaat"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "en ik heb gemaakt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn bergen"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "zijn bergen"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tot verwoesting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn erfdeel"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "zijn erfdeel"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "voor jakhalzen"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "van de woestijn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:03.509842621Z",
+  "model": "glm-5.3"
+}

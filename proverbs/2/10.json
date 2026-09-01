@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Want wijsheid komt in je hart, en kennis is je nefesj ⟨aangenaam⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "in je hart"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "en kennis"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "je nefesj"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "⟨is⟩ aangenaam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:46.555256840Z",
+  "model": "glm-5.3"
+}

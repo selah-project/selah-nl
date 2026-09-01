@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Maar een damp steeg op uit de aarde en drenkte ⟨את⟩ heel het oppervlak van de aardbodem.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "maar een damp"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "steeg op"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "en drenkte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel het oppervlak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het oppervlak (aangezicht)"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van de aardbodem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:25.102774639Z",
+  "model": "glm-5.3"
+}

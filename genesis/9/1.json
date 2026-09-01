@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Elohim zegende ⟨את⟩ Noach en ⟨את⟩ zijn zonen, en Hij zei tot hen: Wees vruchtbaar en vermenigvuldig en vul ⟨את⟩ de aarde.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "en zegende"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en Hij zei"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "wees vruchtbaar"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "en vermenigvuldig"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "en vul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:48.353981686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "want uw dienaar is borg geworden voor ⟨את⟩ de jongen bij mijn vader, zeggend: als ik hem niet naar u breng, dan zal ik tegen mijn vader zondigen alle dagen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "is borg geworden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de jongen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "de jongen"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "ik hem breng"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "naar u"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "dan zal ik zondigen"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "tegen mijn vader"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:50.065662358Z",
+  "model": "glm-5.3"
+}

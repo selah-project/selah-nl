@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Mijn huid is zwart geworden op mij, en mijn beenderen gloeien van ⟨de⟩ hitte.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "mijn huid"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "is zwart geworden"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "op mij"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "en mijn beenderen"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "gloeien"
+    },
+    {
+      "surface": "מני",
+      "gloss": "van"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "⟨de⟩ hitte"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:20.485760375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En beter dan beide is hij die tot nu toe niet bestaan heeft, die het slechte werk dat onder de zon gedaan wordt niet gezien heeft.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "en beter"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "dan beide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hij die tot nu toe niet bestaan heeft"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "tot nu toe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bestaan heeft"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gezien heeft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het slechte werk"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "het werk"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "slechte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "gedaan wordt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:03.560301900Z",
+  "model": "glm-5.3"
+}

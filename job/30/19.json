@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 30:19",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Hij heeft mij in het slijk geworpen, en ik ben geworden als stof en as.",
+  "tokens": [
+    {
+      "surface": "הרני",
+      "gloss": "Hij heeft mij geworpen"
+    },
+    {
+      "surface": "לחמer",
+      "gloss": "in het slijk"
+    },
+    {
+      "surface": "ואתמשל",
+      "gloss": "en ik ben geworden"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "als stof"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "en as"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:24.765781922Z",
+  "model": "glm-5.3"
+}

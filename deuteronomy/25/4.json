@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Je zult een os niet muilkorven terwijl hij dorspt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "zullen muilkorven"
+    },
+    {
+      "surface": "שור",
+      "gloss": "een os"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "terwijl hij dorspt"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:00.081755105Z",
+  "model": "glm-5.3"
+}

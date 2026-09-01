@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Daarom zul je struikelen overdag, en ook een profeet zal met jou struikelen in de nacht; en ik vernietig je moeder.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "daarom zul je struikelen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "overdag"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "en struikelt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "een profeet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met jou"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in de nacht"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "en ik vernietig"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "je moeder"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:29.170202793Z",
+  "model": "glm-5.3"
+}

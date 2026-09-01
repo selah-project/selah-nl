@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En als hij hem met een werktuig van ijzer geslagen heeft en hij sterft ⟨als⟩ moordenaar ⟨is⟩ hij; stervende zal de moordenaar gedood worden.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "met een werktuig"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "van ijzer"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "hij heeft hem geslagen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hij sterft"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "moordenaar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij ⟨is⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "stervende"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal gedood worden"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "de moordenaar"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:32.401065382Z",
+  "model": "glm-5.3"
+}

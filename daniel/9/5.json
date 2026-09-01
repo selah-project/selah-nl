@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Wij hebben gezondigd en onrecht gedaan, wij hebben goddeloos gehandeld en zijn opstandig geweest, en wij hebben ons afgekeerd van uw geboden en van uw verordeningen.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "wij hebben gezondigd"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "en onrecht gedaan"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "goddeloos gehandeld"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "opstandig geweest"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ons afgekeerd"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "van uw geboden"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "en van uw verordeningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:49:02.711752828Z",
+  "model": "glm-5.3"
+}

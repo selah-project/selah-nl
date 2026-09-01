@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij wachtte nog zeven andere dagen, en hij zond opnieuw ⟨את⟩ de duif uit de ark.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "en hij wachtte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andere"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "en hij voegde toe \/ opnieuw"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hij zond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de duif"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "de duif"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "de ark"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:33.375425364Z",
+  "model": "glm-5.3"
+}

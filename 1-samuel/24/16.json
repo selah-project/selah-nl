@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Moge Jahweh ⟨tot rechter zijn⟩ en rechtspreken tussen mij en u, en ⟨het⟩ zien, en mijn rechtszaak ⟨את⟩ bepleitten, en mij vrijspreken uit uw hand.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "moge ⟨zijn⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "tot rechter"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "en rechtspreken"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen mij"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "en tussen u"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en ⟨het⟩ zien"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "en bepleitten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn rechtszaak"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "mijn rechtszaak"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "en mij vrijspreken"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "uit uw hand"
+    }
+  ],
+  "timestamp": "2026-09-01T00:07:09.222994093Z",
+  "model": "glm-5.3"
+}

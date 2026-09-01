@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Wie is dit, die ⟨de⟩ raad verduistert met woorden zonder kennis?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "is dit"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "verduistert"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "⟨de⟩ raad"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "met woorden"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:04.857460283Z",
+  "model": "glm-5.3"
+}

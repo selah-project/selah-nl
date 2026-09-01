@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Alleen, zoals de gazelle en de hertenbok gegeten mag worden, zo mag je die eten; de onreine en de reine mogen die samen eten.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "gegeten mag worden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gazelle"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "de gazelle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de hertenbok"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "de hertenbok"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "mag je die eten"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "de onreine"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "en de reine"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "samen"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "mogen die eten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:10.581392971Z",
+  "model": "glm-5.3"
+}

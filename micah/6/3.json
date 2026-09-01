@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Mijn volk, wat heb ik jou gedaan? Waarin heb ik je vermoeid? Antwoord mij!",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Mijn volk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "heb ik gedaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Waarin"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "heb ik je vermoeid"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Antwoord"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:45.511318377Z",
+  "model": "glm-5.3"
+}

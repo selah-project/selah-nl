@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Toen verhief David en het volk dat ⟨את⟩ bij hem was hun stem, en zij weenden tot zij geen kracht meer hadden om te wenen.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Toen verhief"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "en het volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bij hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun stem"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "hun stem"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "en zij weenden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er geen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in hen"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kracht"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "om te wenen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:17.816755799Z",
+  "model": "glm-5.3"
+}

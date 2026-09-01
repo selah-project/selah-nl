@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En ⟨את⟩ Aharon en ⟨את⟩ zijn zonen zult gij doen naderen tot de ingang van de tent van samenkomst, en gij zult ⟨את⟩ hen wassen met water.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "zult gij doen naderen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "de ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "van de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    },
+    {
+      "surface": "וורחצת",
+      "gloss": "en gij zult wassen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen"
+    },
+    {
+      "surface": "במים",
+      "gloss": "met water"
+    }
+  ],
+  "timestamp": "2026-08-31T23:42:51.858440623Z",
+  "model": "glm-5.3"
+}

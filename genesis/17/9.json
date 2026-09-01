@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En Elohim zei tot Avraham: wat jou betreft, jij zult ⟨את⟩ mijn verbond bewaren, jij en jouw nakomelingen na jou, voor hun geslachten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wat jou betreft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verbond"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "zul je bewaren"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "en jouw nakomelingen"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "voor hun geslachten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:33.100149765Z",
+  "model": "glm-5.3"
+}

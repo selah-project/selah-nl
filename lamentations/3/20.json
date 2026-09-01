@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Gedenkend, steeds gedenkt ⟨mijn nefesj het⟩, en zij zinkt in mij neer.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Gedenkend"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "steeds gedenkt"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "en zij zinkt neer"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "in mij"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:41:11.217287842Z",
+  "model": "glm-5.3"
+}

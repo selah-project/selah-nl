@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Want wie in ⟨de⟩ wolkenhoeveelheid kan zich meten met Jahweh, wie gelijkt op Jahweh onder de zonen van de machtigen?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "in de wolken"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "kan zich meten"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "met Jahweh"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "wie gelijkt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "onder de zonen"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "van de machtigen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:05.999145963Z",
+  "model": "glm-5.3"
+}

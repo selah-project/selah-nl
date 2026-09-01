@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 9:12",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "opdat zij ⟨את⟩ de rest van Edom in bezit nemen, en alle volken over wie mijn naam is uitgeroepen, luidt het orakel van Jahweh, die dit doet.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "zij in bezit nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de rest van Edom"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "de rest"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "van Edom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "over wie"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "is uitgeroepen"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mijn naam"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over hen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "luidt het orakel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "die doet"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-08-31T21:57:55.101588087Z",
+  "model": "glm-5.3"
+}

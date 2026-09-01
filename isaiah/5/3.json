@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En nu, bewoner van Jeroesjalajim en man van Jehoeda, oordeelt toch tussen mij en mijn wijngaard.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bewoner"
+    },
+    {
+      "surface": "יירושלם",
+      "gloss": "van Jeroesjalajim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "oordeelt"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen mij"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "mijn wijngaard"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:17.724968450Z",
+  "model": "glm-5.3"
+}

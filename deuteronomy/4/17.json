@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "de gedaante van enig vee dat op ⟨de⟩ aarde ⟨is⟩, de gedaante van enige gevleugelde vogel die vliegt in de hemelen,",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "de gedaante"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enig"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "vee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op ⟨de⟩ aarde ⟨is⟩"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "de gedaante"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "vogel"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "gevleugelde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "vliegt"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemelen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:26.228818671Z",
+  "model": "glm-5.3"
+}

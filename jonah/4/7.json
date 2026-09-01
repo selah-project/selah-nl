@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En ⟨de⟩ Elohim beschikte een worm bij het opgaan van de dageraad de volgende ⟨dag⟩, en zij trof ⟨את⟩ de kikajon, en deze verdorde.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "en … beschikte"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "een worm"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "bij het opgaan"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "van de dageraad"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "de volgende dag"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "en zij trof"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kikajon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "de kikajon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "en … verdorde"
+    }
+  ],
+  "timestamp": "2026-08-31T21:59:50.648824459Z",
+  "model": "glm-5.3"
+}

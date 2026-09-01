@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Maar Jahweh versterkte ⟨את⟩ het hart van Par'o, en hij zond ⟨את⟩ de zonen van Israël niet weg.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "versterkte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hart"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zond weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zonen van Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:42.769431215Z",
+  "model": "glm-5.3"
+}

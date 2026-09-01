@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En de koning van Jisraël zei: Neem Michajahoe en breng hem terug naar Amon, de overste van de stad, en naar Joasj, de zoon van de koning.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Michajahoe"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Michajahoe"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "en breng hem terug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "de overste"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en naar"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joasj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:25.799762495Z",
+  "model": "glm-5.3"
+}

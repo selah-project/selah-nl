@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En David hoorde het, en hij zond ⟨את⟩ Joav en ⟨את⟩ heel het leger, de helden.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hij hoorde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "heel het leger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "het leger"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "de helden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:51:59.236797231Z",
+  "model": "glm-5.3"
+}

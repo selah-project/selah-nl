@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Het brood van zijn Elohim, van de allerheiligste ⟨dingen⟩ en van de heilige ⟨dingen⟩, mag hij eten.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "het brood"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "van zijn Elohim"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "van de allerheiligste"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "dingen"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "de heilige"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mag hij eten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:33.891844778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En hij wast ⟨את⟩ zijn lichaam met water op een heilige plaats, en trekt ⟨את⟩ zijn klederen aan, en gaat naar buiten, en bereidt ⟨את⟩ zijn brandoffer en ⟨את⟩ het brandoffer van het volk, en doet verzoening voor zichzelf en voor het volk.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "en wast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn lichaam"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "zijn lichaam"
+    },
+    {
+      "surface": "במים",
+      "gloss": "met water"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "op een plaats"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "en trekt aan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn klederen"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zijn klederen"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en gaat naar buiten"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en bereidt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn brandoffer"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "zijn brandoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het brandoffer van het volk"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "het brandoffer"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "en doet verzoening"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "voor zichzelf"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "en voor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:53.518615863Z",
+  "model": "glm-5.3"
+}

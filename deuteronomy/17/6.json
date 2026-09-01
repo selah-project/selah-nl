@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Op ⟨de⟩ mond van twee getuigen of drie getuigen zal hij die moet sterven gedood worden; op ⟨de⟩ mond van één getuige zal hij niet gedood worden.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mond van"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "getuigen"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "getuigen"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal gedood worden"
+    },
+    {
+      "surface": "המת",
+      "gloss": "hij die moet sterven"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal gedood worden"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mond van"
+    },
+    {
+      "surface": "עד",
+      "gloss": "getuige"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:13.067141896Z",
+  "model": "glm-5.3"
+}

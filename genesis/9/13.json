@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "⟨את⟩ Mijn boog heb ik in de wolk gegeven, en hij zal tot teken zijn van ⟨de⟩ verbond tussen mij en tussen de aarde.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mijn boog"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "Mijn boog"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "heb ik gegeven"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "in de wolk"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "en hij zal zijn"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "tot teken"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "van verbond"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen mij"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:56.539324945Z",
+  "model": "glm-5.3"
+}

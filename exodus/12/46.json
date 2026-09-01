@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "In één huis zal het gegeten worden; je mag niets van het vlees uit het huis naar buiten brengen, en je mag geen bot ervan breken.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "in één huis"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zal gegeten worden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "je mag brengen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "naar buiten"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "en geen bot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "jullie mogen breken"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ervan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:04.414053474Z",
+  "model": "glm-5.3"
+}

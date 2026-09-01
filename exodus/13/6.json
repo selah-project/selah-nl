@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Zeven dagen zul je mazzot eten, en op de zevende dag ⟨is⟩ een feest voor Jahweh.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Zeven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "zul je eten"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "mazzot"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "en op de dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "de zevende"
+    },
+    {
+      "surface": "חג",
+      "gloss": "een feest"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:01.310182387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Gij zult hen verbrijzelen met een staf van ijzer; als een vat van een pottebakker zult gij hen stukslaan.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "zult gij hen verbrijzelen"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "met een staf"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "van ijzer"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "als een vat"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "van een pottebakker"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "zult gij hen stukslaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:27.870905032Z",
+  "model": "glm-5.3"
+}

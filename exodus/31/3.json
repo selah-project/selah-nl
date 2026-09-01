@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "en Ik heb hem gevuld met ⟨את⟩ de roeach van Elohim, in wijsheid en in inzicht en in kennis en in allerlei vakwerk:",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "en Ik heb gevuld"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "de roeach van Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "in wijsheid"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "en in inzicht"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "en in kennis"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en in allerlei"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "vakwerk"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:35.580614465Z",
+  "model": "glm-5.3"
+}

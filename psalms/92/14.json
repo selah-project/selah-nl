@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "Geplant in het huis van Jahweh, in de voorhoven van onze Elohim zullen zij bloeien.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "geplant"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "in de voorhoven"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "van onze Elohim"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "zullen zij bloeien"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.140538812Z",
+  "model": "glm-5.3"
+}

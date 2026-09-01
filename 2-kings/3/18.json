@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En dit ⟨is⟩ gering in de ogen van Jahweh, en hij zal ⟨את⟩ Moav in jullie hand geven.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "en gering zal het zijn"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in de ogen van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en hij zal geven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in jullie hand"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:00.859503407Z",
+  "model": "glm-5.3"
+}

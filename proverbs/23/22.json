@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Luister naar je vader — deze heeft je verwekt — en veracht je moeder niet, want zij is oud geworden.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "naar je vader"
+    },
+    {
+      "surface": "זה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "heeft je verwekt"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "veracht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "oud geworden is"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "je moeder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:28.754710140Z",
+  "model": "glm-5.3"
+}

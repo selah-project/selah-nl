@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Zie, vuur daalde neer van de hemel en verteerde ⟨את⟩ de twee hoofden van de vijftig, de eersten, en ⟨את⟩ hun vijftig; en nu — moge mijn leven kostbaar zijn in uw ogen.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "daalde neer"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "en verteerde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de twee hoofden van de vijftig, de eersten"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de twee"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hoofden"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "van de vijftig"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "de eersten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun vijftig"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "hun vijftig"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "moge kostbaar zijn"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn leven"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in uw ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:10.941773451Z",
+  "model": "glm-5.3"
+}

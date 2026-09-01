@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "Stuur uw licht en uw waarheid; zíj zullen mij leiden, zij zullen mij brengen tot uw heilige berg en tot uw woningen.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Stuur"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "uw licht"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "en uw waarheid"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zíj"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "zullen mij leiden"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "zij zullen mij brengen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הר",
+      "gloss": "⟨uw⟩ berg"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "uw woningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:25.641641158Z",
+  "model": "glm-5.3"
+}

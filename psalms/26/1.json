@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Van David. Doe mij recht, Jahweh, want ik heb in mijn onschuld gewandeld, en op Jahweh heb ik vertrouwd, ik zal niet wankelen.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "doe mij recht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "in mijn onschuld"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "heb ik gewandeld"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "en op Jahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "heb ik vertrouwd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "zal ik wankelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:22.220868888Z",
+  "model": "glm-5.3"
+}

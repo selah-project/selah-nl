@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En ik zeide: nadat zij al deze dingen gedaan had, ⟨zal zij⟩ tot mij terugkeren — maar zij keerde niet terug. En haar trouweloze zuster Jehoeda zag het.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ik zeide"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "zij gedaan had"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al deze dingen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "deze dingen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "zij zal terugkeren"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "zij keerde terug"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "trouweloze"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "haar zuster"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T21:27:35.612075996Z",
+  "model": "glm-5.3"
+}

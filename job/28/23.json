@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Elohim doorgrondt haar weg, en hij kent ⟨את⟩ haar plaats.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "doorgrondt"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "haar weg"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ken(t)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar plaats"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "haar plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:10.547874958Z",
+  "model": "glm-5.3"
+}

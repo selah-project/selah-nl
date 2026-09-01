@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En Jisraël brak op en sloeg zijn tent op ⟨aan de andere kant van⟩ Migdal-Eder.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "en brak op"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "en sloeg op"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "zijn tent"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "aan de andere kant van"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "Migdal"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Eder"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:00.629088673Z",
+  "model": "glm-5.3"
+}

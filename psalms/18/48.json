@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "De El die vergeldingen aan mij geeft, en volken onder mij doet neerbuigen.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "de El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "die geeft"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "vergeldingen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan mij"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "en doet neerbuigen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "onder mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:03.365958464Z",
+  "model": "glm-5.3"
+}

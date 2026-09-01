@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En de priester zal ⟨את⟩-hen doen roken op het altaar, een vuuroffer aan Jahweh; het is een schuldoffer.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "en zal doen roken"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-hen",
+      "marks": "hen (de vettdelen en organen)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op het altaar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "een vuuroffer"
+    },
+    {
+      "surface": "ליהוָה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "schuldoffer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:00.260701852Z",
+  "model": "glm-5.3"
+}

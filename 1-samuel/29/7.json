@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Keer nu terug en ga in vrede, zodat jij geen kwaad doet in de ogen van de vorsten van de Filistijmen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "en ga"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in vrede"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "zodat... niet"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "jij doet"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in de ogen"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "van de vorsten"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van de Filistijmen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:37.198222973Z",
+  "model": "glm-5.3"
+}

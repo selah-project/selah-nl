@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En Betoeël verwekte ⟨את⟩ Rivka — deze acht baarde Milka aan Nachor, de broeder van Avraham.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "En Betoeël"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "acht"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "baarde"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "aan Nachor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broeder van"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:24.943203811Z",
+  "model": "glm-5.3"
+}

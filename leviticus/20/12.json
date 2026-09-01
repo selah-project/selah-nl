@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En een man die ligt met ⟨את⟩ zijn schoondochter — beiden zullen zeker gedood worden: vermenging hebben zij gemaakt; hun bloed ⟨is⟩ op hen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "En een man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ligt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn schoondochter"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "zijn schoondochter"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "zullen gedood worden"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "beiden"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "vermenging"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hebben gemaakt"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "hun bloed"
+    },
+    {
+      "surface": "בם",
+      "gloss": "op hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:45.835153041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En u zult ⟨את⟩ het volk een grens stellen rondom, zeggende: Hoedt u voor het opgaan op de berg en het aanraken van zijn rand; ieder die de berg aanraakt zal zeker gedood worden.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "En u zult een grens stellen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Hoedt u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "het opgaan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op de berg"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "en het aanraken"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "van zijn rand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "die aanraakt"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal gedood worden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:25.202202804Z",
+  "model": "glm-5.3"
+}

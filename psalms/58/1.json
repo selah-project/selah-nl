@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 58,
+  "translation": "Voor de koorleider: Al tasjchet ⟨verderf niet⟩. Van David, een michtam ⟨gedicht⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Al"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tasjchet ⟨verderf niet⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "een michtam ⟨gedicht⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:06.068943289Z",
+  "model": "glm-5.3"
+}

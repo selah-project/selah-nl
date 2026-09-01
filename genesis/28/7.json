@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En ⟨dat⟩ Jaakob naar zijn vader en naar zijn moeder geluisterd had, en naar Paddan-Aram gegaan was.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en geluisterd had"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en naar"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "zijn moeder"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en gegaan was"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:12.837656321Z",
+  "model": "glm-5.3"
+}

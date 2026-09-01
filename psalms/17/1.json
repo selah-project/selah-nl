@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Een gebed van Dawid. Hoor, Jahweh, ⟨het⟩ recht, neig uw oor naar mijn geschreeuw, luister naar mijn gebed — ⟨het komt⟩ niet uit lippen van bedrog.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "een gebed"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "recht"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "neig uw oor"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "naar mijn geschreeuw"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "luister"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "naar mijn gebed"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "uit lippen"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "van bedrog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:25.474354412Z",
+  "model": "glm-5.3"
+}

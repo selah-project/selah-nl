@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Op die dag zal Adonai ⟨את⟩ de pronk wegnemen: de enkelringen en de geborduurde banden en de halssieraden als maansikkels.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "zal wegnemen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de pronk"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "de pronk"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "de enkelringen"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "en de geborduurde banden"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "en de maansikkels"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:35.545597957Z",
+  "model": "glm-5.3"
+}

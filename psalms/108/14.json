@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 108,
+  "translation": "In Elohim zullen wij kracht doen, en híj zal onze verdrukkers vertrappen.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "In Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "zullen wij doen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kracht"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en híj"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "zal vertrappen"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "onze verdrukkers"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:04.903565480Z",
+  "model": "glm-5.3"
+}

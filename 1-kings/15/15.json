@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En hij bracht ⟨את⟩ de heilige dingen van zijn vader en zijn eigen gewijde gaven ⟨in⟩ het huis van Jahweh: zilver en goud en voorwerpen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij bracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de heilige dingen van zijn vader"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "de heilige dingen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van zijn vader"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "en zijn eigen gewijde gaven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "en voorwerpen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:54.956672960Z",
+  "model": "glm-5.3"
+}

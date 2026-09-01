@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Ik zal hen slaan met de pest en hen onterven, en ik zal ⟨את⟩ jou maken tot een volk, groot en machtiger dan het.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "ik zal hen slaan"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "met de pest"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "en hen onterven"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "en ik zal maken"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tot een volk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "en machtig"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dan het"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:43.642412625Z",
+  "model": "glm-5.3"
+}

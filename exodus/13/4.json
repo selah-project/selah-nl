@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Vandaag gaan jullie uit, in de maand van de Aviev.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "vandaag"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "gaan uit"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "in de maand"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "van de Aviev"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:13.120937940Z",
+  "model": "glm-5.3"
+}

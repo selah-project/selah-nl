@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Jahweh zei tot Sjemoeël: luister naar de stem van het volk, naar alles wat zij tot jou zeggen; want niet jou hebben zij verworpen, maar mij hebben zij verworpen, ⟨door⟩ niet over hen te regeren.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemooël"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "naar alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "zij zeggen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jij"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "hebben zij verworpen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mij"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "hebben zij verworpen"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "te regeren"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:34.704470219Z",
+  "model": "glm-5.3"
+}

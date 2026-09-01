@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En jullie zullen er zorg voor dragen te doen ⟨את⟩ alle verordeningen en ⟨את⟩ de rechtsregels die ik vandaag voor jullie gezicht stel.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "En jullie zullen er zorg voor dragen"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "te doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle verordeningen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "verordeningen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de rechtsregels"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "de rechtsregels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "stel"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "voor jullie gezicht"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandaag"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:53.276697289Z",
+  "model": "glm-5.3"
+}

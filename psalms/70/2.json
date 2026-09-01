@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 70,
+  "translation": "Elohim, ⟨om⟩ mij te redden; Jahweh, tot mijn hulp — haast U!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "om mij te redden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "tot mijn hulp"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "haast U"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:49.337975727Z",
+  "model": "glm-5.3"
+}

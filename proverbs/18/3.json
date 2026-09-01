@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Bij het komen van ⟨de⟩ rasja komt ook verachting, en met schande smaad.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "bij het komen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de rasja (goddeloze)"
+    },
+    {
+      "surface": "בא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "verachting"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "schande"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "smaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:41.062200785Z",
+  "model": "glm-5.3"
+}

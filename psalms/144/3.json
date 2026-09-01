@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 144,
+  "translation": "Jahweh, wat ⟨is⟩ de mens dat u hem kent, de zoon van de sterveling dat u op hem let?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "dat u hem kent"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "van de sterveling"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "dat u op hem let"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:47.982327980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En hij legde ⟨את⟩ zijn lijk in zijn graf, en zij klaagden over hem ⟨zeggend⟩: Ach, mijn broeder!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "en hij legde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn lijk"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "zijn lijk"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "in zijn graf"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "en zij klaagden"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over hem"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ach"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mijn broeder"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:20.290110012Z",
+  "model": "glm-5.3"
+}

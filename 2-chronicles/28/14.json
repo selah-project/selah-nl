@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Toen lieten de gewapende mannen ⟨את⟩ de gevangenen en ⟨את⟩ de buit achter voor de ogen van de vorsten en heel de vergadering.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "en lieten achter"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "de gewapende mannen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gevangenen"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "de gevangenen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de buit"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "de buit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor de ogen van"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "de vorsten"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "de vergadering"
+    }
+  ],
+  "timestamp": "2026-08-31T23:10:00.008053134Z",
+  "model": "glm-5.3"
+}

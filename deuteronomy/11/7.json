@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "want het zijn jullie ogen die heel het grote werk van Jahweh gezien hebben, dat hij gedaan heeft;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "jullie ogen"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "gezien hebben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel het grote werk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "het grote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hij gedaan heeft"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:48.770470207Z",
+  "model": "glm-5.3"
+}

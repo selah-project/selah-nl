@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "En hun hoofd zullen zij niet kaalscheren, en ⟨hun⟩ haar zullen zij niet los laten groeien; scheren zullen zij hun hoofden scheren ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "En hun hoofd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "zullen zij kaalscheren"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "en ⟨hun⟩ haar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "zullen zij los laten groeien"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "scheren"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "zullen zij scheren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun hoofden"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "hun hoofden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:53:15.547307678Z",
+  "model": "glm-5.3"
+}

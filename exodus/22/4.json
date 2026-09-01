@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Als een man een veld of een wijngaard laat afgrazen en ⟨את⟩ zijn vee loslaat en het laat weiden in ⟨het⟩ veld van een ander — van het beste van zijn veld en van het beste van zijn wijngaard zal hij vergoeden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Als"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "laat afgrazen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "een veld"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "een wijngaard"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "en loslaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vee"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "zijn vee"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "en laat weiden"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in ⟨het⟩ veld"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "van een ander"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "van het beste"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "van zijn veld"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "en van het beste"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "van zijn wijngaard"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zal hij vergoeden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:05.742284809Z",
+  "model": "glm-5.3"
+}

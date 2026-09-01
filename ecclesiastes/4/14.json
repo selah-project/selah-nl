@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Want uit het huis van de gevangenen ging hij uit om koning te worden; want ook in zijn koninkrijk werd hij als arme geboren.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit het huis"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "van de gevangenen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ging hij uit"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "om koning te worden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "in zijn koninkrijk"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "werd geboren"
+    },
+    {
+      "surface": "רש",
+      "gloss": "als arme"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:41.907030603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Toen gingen Mosjee en Aäron en zij vergaderden ⟨את⟩ alle oudsten van de kinderen van Jisraël.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aäron"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "en zij verzamelden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle oudsten van de kinderen van Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oudsten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:54.856862905Z",
+  "model": "glm-5.3"
+}

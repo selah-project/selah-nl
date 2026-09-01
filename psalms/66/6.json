@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "Hij keerde de zee om tot droog land; door de rivier trokken zij te voet; daar verheugden wij ons in Hem.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Hij keerde om"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "tot droog land"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "door de rivier"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "trokken zij"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "te voet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "verheugden wij ons"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in Hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:01.703533022Z",
+  "model": "glm-5.3"
+}

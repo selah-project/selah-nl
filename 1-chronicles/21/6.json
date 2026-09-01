@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Maar Levi en Binjamin telde hij niet in hun midden, want het woord van de koning ⟨was⟩ een gruwel voor Joav.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "maar Levi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "en Binjamin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "telde"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "in hun midden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "een gruwel was"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:50.018879088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En ⟨את⟩ Jehoe, zoon van Nimsji, zul je zalfen tot koning over Jisraël; en ⟨את⟩ Elisa, zoon van Sjafat, uit Avel-Mechola, zul je zalfen tot profeet in jouw plaats.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoe"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehoe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "van Nimsji"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "zul je zalfen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tot koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elisa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "van Sjafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "uit Avel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "-Mechola"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "zul je zalfen"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "tot profeet"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "in jouw plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:18.090564760Z",
+  "model": "glm-5.3"
+}

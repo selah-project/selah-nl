@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij zond ⟨את⟩ de duif van ⟨את⟩-hem uit, om te zien of de wateren licht geworden waren van het oppervlak van de aardbodem.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "En hij zond uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de duif"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "de duif"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "van ⟨את⟩-hem"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "of licht geworden waren"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het oppervlak"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van de aardbodem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:49.582576596Z",
+  "model": "glm-5.3"
+}

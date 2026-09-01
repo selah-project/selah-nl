@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Ruk mijn nefesj weg van het zwaard, van de poot van de hond mijn enige.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "ruk weg"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "van het zwaard"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "van de poot"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "van de hond"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "mijn enige"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:46.189007023Z",
+  "model": "glm-5.3"
+}

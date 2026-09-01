@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik heb uw getuigenissen als erfdeel ontvangen voor altijd, want ⟨ze zijn⟩ de vreugde van mijn hart.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "ik heb als erfdeel ontvangen"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "uw getuigenissen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor altijd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "de vreugde"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "van mijn hart"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ze"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:56.859048138Z",
+  "model": "glm-5.3"
+}

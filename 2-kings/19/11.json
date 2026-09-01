@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Zie, jij hebt gehoord ⟨את⟩ wat de koningen van Asjoer gedaan hebben aan alle landen, om hen te verbanden — en jij, jij zult gered worden?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hebt gehoord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat de koningen van Asjoer gedaan hebben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gedaan hebben"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "de koningen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Asjoer"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan alle"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "landen"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "om hen te verbanden"
+    },
+    {
+      "surface": "וואתה",
+      "gloss": "en jij"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "jij zult gered worden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:35.009944173Z",
+  "model": "glm-5.3"
+}

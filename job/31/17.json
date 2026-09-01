@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Of ik mijn hap ⟨brood⟩ alleen at, en de wees at niet ⟨ervan⟩;",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "of ik at"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "mijn hap ⟨brood⟩"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "at"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "de wees"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "⟨ervan⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:29.476512237Z",
+  "model": "glm-5.3"
+}

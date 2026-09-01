@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Hun getelden, voor de stam Gad: vijf en veertig ⟨duizend⟩ en zeshonderd en vijftig.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "hun getelden"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "voor de stam"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "en veertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "⟨duizend⟩"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en zes"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "en vijftig"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:16.831474846Z",
+  "model": "glm-5.3"
+}

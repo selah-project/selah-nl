@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En jullie zullen mijn verordeningen in acht nemen en ⟨את⟩ mijn rechtsregels, die de mens zal doen en daarin zal leven; ik ben Jahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en jullie zullen in acht nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verordeningen"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mijn verordeningen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mijn rechtsregels"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mijn rechtsregels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zal doen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "de mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "en zal leven"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:33.914072966Z",
+  "model": "glm-5.3"
+}

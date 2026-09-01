@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Avraham besneed zijn zoon Jitschak, ⟨את⟩ Jitschak, op de leeftijd van acht dagen, zoals Elohim hem geboden had ⟨את⟩ hem.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "besneed"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "op de leeftijd van"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "acht"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboden had"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:44.878494573Z",
+  "model": "glm-5.3"
+}

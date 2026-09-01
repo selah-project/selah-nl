@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 2:3",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Als een appeltapeer onder de bomen van het woud, zo ⟨is⟩ mijn lief onder de zonen; in zijn schaduw heb ik verlangd gezeten, en zijn vrucht is zoet voor mijn gehemelte.",
+  "tokens": [
+    {
+      "surface": "כתפוח",
+      "gloss": "Als een appeltapeer"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "onder de bomen"
+    },
+    {
+      "surface": "היער",
+      "gloss": "van het woud"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mijn lief"
+    },
+    {
+      "surface": "בין",
+      "gloss": "onder"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "de zonen"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "in zijn schaduw"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "heb ik verlangd"
+    },
+    {
+      "surface": "וישבתי",
+      "gloss": "gezeten"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "en zijn vrucht"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "zoet"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "voor mijn gehemelte"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:51.766582501Z",
+  "model": "glm-5.3"
+}

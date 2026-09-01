@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "En hij deed zijn volk ⟨את⟩ zeer vruchtbaar worden, en maakte het machtiger dan zijn onderdrukkers.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "En deed... vruchtbaar worden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "en maakte het machtiger"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "dan zijn onderdrukkers"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:24.116269772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "en Jahweh heeft jullie geen hart gegeven om te weten, en geen ogen om te zien, en geen oren om te horen, tot op deze dag.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "heeft gegeven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "לב",
+      "gloss": "een hart"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "om te weten"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "en ogen"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "en oren"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "om te horen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "היום",
+      "gloss": "op deze dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:44.938141959Z",
+  "model": "glm-5.3"
+}

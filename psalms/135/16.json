@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Een mond hebben zij, maar zij spreken niet; ogen hebben zij, maar zij zien niet.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "een mond"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hebben zij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "zij spreken"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ogen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hebben zij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "zij zien"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:49.155011237Z",
+  "model": "glm-5.3"
+}

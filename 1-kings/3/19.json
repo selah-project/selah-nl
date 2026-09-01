@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En de zoon van deze vrouw stierf in de nacht, omdat zij erop gelegen had.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "en hij stierf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "van de vrouw"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in de nacht"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "zij had gelegen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "erop"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:11.694202373Z",
+  "model": "glm-5.3"
+}

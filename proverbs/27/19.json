@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Als in water het gezicht ⟨staat⟩ tegenover het gezicht, zo ⟨staat⟩ het hart van de mens tegenover de mens.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "als in water"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "het gezicht"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "tegenover het gezicht"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "tegenover de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:29.198571157Z",
+  "model": "glm-5.3"
+}

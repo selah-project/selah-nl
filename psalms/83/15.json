@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "Zoals vuur het woud doet branden, en zoals een vlam de bergen doet ontvlammen,",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "zoals vuur"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "doet branden"
+    },
+    {
+      "surface": "יער",
+      "gloss": "het woud"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "en zoals een vlam"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "doet ontvlammen"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "de bergen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:08.826616533Z",
+  "model": "glm-5.3"
+}

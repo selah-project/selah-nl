@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Jarobam bouwde ⟨את⟩ Sjechem op het gebergte van Efrajim en woonde daar; en hij ging van daar uit en bouwde ⟨את⟩ Penuël.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjechem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjechem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op het gebergte"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "van Efrajim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en woonde"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en hij ging uit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuël"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:44.602163801Z",
+  "model": "glm-5.3"
+}

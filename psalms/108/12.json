@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 108,
+  "translation": "Zult U, Elohim, ons niet hebben verworpen? En U, Elohim, trekt niet uit met onze heirlegers ⟨uit⟩?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Zult U niet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ons verworpen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "trekt uit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "met onze heirlegers"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:18.214561148Z",
+  "model": "glm-5.3"
+}

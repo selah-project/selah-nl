@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "De zonen van Jehoeda: Perets, Chetsron, Karmi, en Chur, en Sjowal.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "De zonen van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "en Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "en Chur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "en Sjowal"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:32.405359528Z",
+  "model": "glm-5.3"
+}

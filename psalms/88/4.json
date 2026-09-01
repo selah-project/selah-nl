@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "Want verzadigd met kwaad ⟨is⟩ mijn nefesj, en mijn leven heeft Sjeool bereikt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "verzadigd"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "met kwaad"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "en mijn leven"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sjeool"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "heeft bereikt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:14.297970648Z",
+  "model": "glm-5.3"
+}

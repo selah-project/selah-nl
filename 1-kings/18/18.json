@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En hij zeide: Ik heb Israël niet in verwarring gebracht, maar jij en het huis van je vader, doordat jullie ⟨את⟩ de geboden van Jahweh verlaten hebben en de Baäls gevolgd hebt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zeide"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "heb ik in verwarring gebracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "en het huis"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van je vader"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "doordat jullie verlaten hebben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de geboden"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "de geboden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "en gevolgd hebt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "de Baäls"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:51.794362106Z",
+  "model": "glm-5.3"
+}

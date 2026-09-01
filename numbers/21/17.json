@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Toen zong Israël ⟨את⟩ dit lied: — Stijg op, o bron, antwoordt haar!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Toen"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "zong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit lied"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "het lied"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Stijg op"
+    },
+    {
+      "surface": "באר",
+      "gloss": "o bron"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "antwoordt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "haar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:14:56.736185638Z",
+  "model": "glm-5.3"
+}

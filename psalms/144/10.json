@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 144,
+  "translation": "Die ⟨de⟩ overwinning geeft aan koningen, die ⟨את⟩ Dawid, zijn dienaar, verlost van het kwaad ⟨van het⟩ zwaard.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "die geeft"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "overwinning"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "aan koningen"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "die verlost"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "zijn dienaar"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "van het zwaard"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:11.619061494Z",
+  "model": "glm-5.3"
+}

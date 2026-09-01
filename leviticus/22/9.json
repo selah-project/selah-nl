@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En zij zullen ⟨את⟩ mijn hoed bewaken, en zij zullen geen zonde daarvoor dragen en er niet in sterven, wanneer zij het ontheiligen; ik ben Jahweh, die hen heiligt.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "en zij zullen bewaken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn hoed"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "mijn hoed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "zij zullen dragen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ervoor"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "zonde"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "en sterven"
+    },
+    {
+      "surface": "בו",
+      "gloss": "erin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "zij het ontheiligen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "die hen heiligt"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:27.801332260Z",
+  "model": "glm-5.3"
+}

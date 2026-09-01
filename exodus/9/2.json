@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Want als jij weigert ⟨את⟩ ⟨hen⟩ te laten gaan en jij hen nog vasthoudt,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "weigert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "te laten gaan"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "en jij nog"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "vasthoudt"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:25.375756261Z",
+  "model": "glm-5.3"
+}

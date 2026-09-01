@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En mijn tong zal uw gerechtigheid uitspreken, de hele dag uw lof.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "en mijn tong"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "zal uitspreken"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "uw gerechtigheid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "uw lof"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:31.518039542Z",
+  "model": "glm-5.3"
+}

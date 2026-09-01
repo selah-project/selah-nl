@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En zij gedachten dat Elohim hun rots was, en El Eljon hun losser.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "en zij gedachten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "hun rots"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "hun losser"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:04.229025158Z",
+  "model": "glm-5.3"
+}

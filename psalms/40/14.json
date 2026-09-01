@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Laat het U behagen, Jahweh, mij te redden; Jahweh, haast U tot mijn hulp.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "laat het behagen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "mij te redden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "tot mijn hulp"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "haast U"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:13.985530363Z",
+  "model": "glm-5.3"
+}

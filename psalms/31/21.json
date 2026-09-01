@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Gij verbergt hen in het verborgene van Uw aangezicht, voor de samenzweringen van de mens; Gij verstopt hen in een hut, voor de twist der tongen.",
+  "tokens": [
+    {
+      "surface": "תסתירם",
+      "gloss": "verbergt Gij hen"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in het verborgene"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "van Uw aangezicht"
+    },
+    {
+      "surface": "מרכסי",
+      "gloss": "voor de samenzweringen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "תצפנם",
+      "gloss": "verstopt Gij hen"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "in een hut"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "voor de twist"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "der tongen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:06.377903927Z",
+  "model": "glm-5.3"
+}

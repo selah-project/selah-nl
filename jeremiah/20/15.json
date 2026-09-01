@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Vervloekt ⟨is⟩ de man die ⟨את⟩ mijn vader de boodschap bracht, zeggend: er is u een zoon, een mannelijke geboren — hij maakte hem zeer blij!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Vervloekt"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "de boodschap bracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn vader"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "geboren"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mannelijke"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "blij maakte"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "hem zeer"
+    }
+  ],
+  "timestamp": "2026-08-31T21:31:57.582317660Z",
+  "model": "glm-5.3"
+}

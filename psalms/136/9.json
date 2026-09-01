@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "⟨את⟩ de maan en ⟨את⟩ de sterren om te heersen over de nacht, want tot in eeuwigheid ⟨duurt⟩ zijn chesed.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de maan"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "de maan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "en de sterren"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "om te heersen"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "over de nacht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:10.270674358Z",
+  "model": "glm-5.3"
+}

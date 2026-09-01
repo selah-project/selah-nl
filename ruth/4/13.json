@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 4:13",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Boaz nam ⟨את⟩ Ruth, en zij werd hem tot vrouw; en hij ging bij haar in, en Jahweh gaf haar zwangerschap, en zij baarde een zoon.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ruth"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Ruth"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en zij werd"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "tot vrouw"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hij ging in"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "bij haar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en gaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "הריון",
+      "gloss": "zwangerschap"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en zij baarde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:56.953468219Z",
+  "model": "glm-5.3"
+}

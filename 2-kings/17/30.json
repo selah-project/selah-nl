@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En de mannen van Bavel maakten ⟨את⟩ Sukkot-Benot, en de mannen van Kut maakten ⟨את⟩ Nergal, en de mannen van Chamat maakten ⟨את⟩ Ashima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "en de mannen van"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maakten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "en de mannen van"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maakten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "en de mannen van"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maakten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:30.249062085Z",
+  "model": "glm-5.3"
+}

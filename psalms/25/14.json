@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "De sod van Jahweh is voor wie Hem vrezen, en zijn verbond om hun ⟨die⟩ te doen kennen.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "de sod (raadsbesluit)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "is voor wie Hem vrezen"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "en zijn verbond"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "om hun te doen kennen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:07.362193278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En hij maakte in het huis van het heilige der heiligen twee cherubs, beeldhouwwerk, en hij overtrok ⟨את⟩ hen met goud.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "van het heilige"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "der heiligen"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "cherubs"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "van beeldhouwwerk"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "en hij overtrok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen (de twee cherubs)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "met goud"
+    }
+  ],
+  "timestamp": "2026-08-31T23:04:41.540355789Z",
+  "model": "glm-5.3"
+}

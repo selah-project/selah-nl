@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "En de man bracht de mannen het huis van Joesef binnen, en hij gaf water, en zij wasten hun voeten, en hij gaf voer voor hun ezels.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij bracht binnen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mannen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "het huis in"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "van Joesef"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij gaf"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "en zij wasten"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "hun voeten"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij gaf"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "voer"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "voor hun ezels"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:03.575660346Z",
+  "model": "glm-5.3"
+}

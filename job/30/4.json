@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 30:4",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Die zeekruid plukken bij ⟨de⟩ struik, en de wortel van brem hun brood ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "הקטפים",
+      "gloss": "die plukken"
+    },
+    {
+      "surface": "מלוח",
+      "gloss": "zeekruid"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bij"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "struik"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "en de wortel"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "van brem"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "hun brood"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:25.087554417Z",
+  "model": "glm-5.3"
+}

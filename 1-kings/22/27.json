@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En je zult zeggen: Zo zegt de koning: Zet ⟨את⟩ deze in het gevangenhuis, en laat hem brood van benauwdheid eten en water van benauwdheid, totdat ik in vrede terugkom.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "En je zult zeggen"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Zet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze"
+    },
+    {
+      "surface": "זה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "van gevangenis"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "en laat hem eten"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "van benauwdheid"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "en water"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "van benauwdheid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ik terugkom"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in vrede"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:25.799938998Z",
+  "model": "glm-5.3"
+}

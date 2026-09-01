@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Ik zal U loven in een grote vergadering, onder een machtig volk zal ik U prijzen.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ik zal U loven"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in een vergadering"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grote"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "onder een volk"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "machtig"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "zal ik U prijzen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:23.781933381Z",
+  "model": "glm-5.3"
+}

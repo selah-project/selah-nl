@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "esther 2:19",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En toen de maagden zich voor de tweede keer verzameld werden, zat Mordechai in ⟨de⟩ poort van de koning.",
+  "tokens": [
+    {
+      "surface": "ובהקבץ",
+      "gloss": "en toen ... verzameld werden"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "de maagden"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "voor de tweede keer"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "zat"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in de poort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:54.110065280Z",
+  "model": "glm-5.3"
+}

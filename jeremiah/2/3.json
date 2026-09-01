@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Heilig is Jisraël voor Jahweh, eersteling van zijn opbrengst; allen die het eten, zullen schuldig worden — kwaad zal over hen komen, luidt het orakel van Jahweh.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Heilig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "is Jisraël"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "eersteling"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "van zijn opbrengst"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "die het eten"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "zullen schuldig worden"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "zal komen"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "over hen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "luidt het orakel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:27:12.380172225Z",
+  "model": "glm-5.3"
+}

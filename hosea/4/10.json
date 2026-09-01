@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En zij zullen eten en niet verzadigd worden; zij hebben gehoereerd en niet ⟨vermeerderd⟩; want ⟨את⟩ Jahweh hebben zij verlaten om te bewaren.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "En zij zullen eten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "verzadigd worden"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "hebben gehoereerd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "⟨vermeerderd⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "hebben zij verlaten"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te bewaren"
+    }
+  ],
+  "timestamp": "2026-08-31T21:53:47.806116009Z",
+  "model": "glm-5.3"
+}

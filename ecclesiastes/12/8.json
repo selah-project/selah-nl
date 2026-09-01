@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Hevel der hevels, zei de Qohelet, het hele ⟨is⟩ hevel.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "der hevels"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "de Qohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "het hele"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:48.397336850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 140,
+  "translation": "Zeker, de rechtvaardigen zullen uw naam loven; de oprechten zullen vóór ⟨את⟩ uw aangezicht wonen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Zeker"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rechtvaardigen"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "zullen loven"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zullen wonen"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de oprechten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw aangezicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:06.684635518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En zij riepen tot Lot en zeiden tot hem: Waar zijn de mannen die deze nacht tot jou gekomen zijn? Breng hen naar buiten tot ons, opdat wij hen kennen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "en zij riepen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zeiden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gekomen zijn"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot jou"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "deze nacht"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "Breng hen naar buiten"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "tot ons"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "opdat wij kennen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:07.314173042Z",
+  "model": "glm-5.3"
+}

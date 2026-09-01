@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Jahweh deed een tegenstander opstaan tegen Shelomo: ⟨את⟩ Hadad de Edomiet, van het zaad van de koning — hij was in Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "En Hij deed opstaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "een tegenstander"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "tegen Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad de Edomiet"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "de Edomiet"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "van het zaad"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "in Edom"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:33.541143162Z",
+  "model": "glm-5.3"
+}

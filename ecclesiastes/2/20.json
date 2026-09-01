@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En ik wendde mij om, ik, om mijn hart te doen wanhopen over al het geamal waarin ik gearbeid heb onder de zon.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "En ik wendde mij om"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "om te doen wanhopen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn hart"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "het geamal"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "waarin ik gearbeid heb"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:58.110989160Z",
+  "model": "glm-5.3"
+}

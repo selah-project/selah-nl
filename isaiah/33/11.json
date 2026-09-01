@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "U verwacht ⟨een⟩ dwaling, u baart stoppelen; uw adem, ⟨een⟩ vuur, zal u verslinden.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "U verwacht"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "dwaling"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "u baart"
+    },
+    {
+      "surface": "קש",
+      "gloss": "stoppelen"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "uw adem"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "zal u verslinden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:06.381615285Z",
+  "model": "glm-5.3"
+}

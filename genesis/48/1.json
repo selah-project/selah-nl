@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "En het gebeurde na deze dingen dat er ⟨iemand⟩ tegen Joesef gezegd werd: Zie, uw vader is ziek. En hij nam zijn twee zonen met zich mee, ⟨את⟩ Menasjeh en ⟨את⟩ Efrajim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "deze dingen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "gezegd werd"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "tegen Joesef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uw vader"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "is ziek"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "En hij nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn twee zonen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zonen van hem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menasjeh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasjeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Efrajim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:37.690986367Z",
+  "model": "glm-5.3"
+}

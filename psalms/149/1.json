@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 149,
+  "translation": "Hallelujah — looft Jah, zingt voor Jahweh een nieuw lied, zijn lof in ⟨de⟩ gemeente van de chasidim.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "looft"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "zingt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nieuw"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "zijn lof"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in ⟨de⟩ gemeente"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "van de chasidim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:01.772396385Z",
+  "model": "glm-5.3"
+}

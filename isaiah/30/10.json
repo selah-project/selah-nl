@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "die tot de zieners zeggen: Ziet niet, en tot de schouwers: Schouwt voor ons niet wat recht is; spreekt voor ons gladde dingen, schouwt begoochelingen.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "zeggen"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "tot de zieners"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ziet"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "en tot de schouwers"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "schouwt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "wat recht is"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "spreekt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "gladde dingen"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "schouwt"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "begoochelingen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:24.915521954Z",
+  "model": "glm-5.3"
+}

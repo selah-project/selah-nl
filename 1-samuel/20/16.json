@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Toen sneed Jihonatan een verbond met het huis van David, ⟨zeggende⟩: moge Jahweh het zoeken uit de hand van de vijanden van David.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "toen sneed"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jihonatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "moge... zoeken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "van de vijanden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van David"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:03.585211061Z",
+  "model": "glm-5.3"
+}

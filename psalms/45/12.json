@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "En de koning zal uw schoonheid begeren, omdat hij uw Adonai is — buig u voor hem neer.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "zal begeren"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "uw schoonheid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "uw Adonai"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "buig u neer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:43.676806923Z",
+  "model": "glm-5.3"
+}

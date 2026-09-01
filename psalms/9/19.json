@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Want niet voor eeuwig wordt de behoeftige vergeten; de verwachting van de ootmoedigen zal niet vergaan tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "wordt vergeten"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "de behoeftige"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "de verwachting"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "van de ootmoedigen"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "zal vergaan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "tot in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:00.723394850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Chiram zond aan de koning honderd en twintig kikkar goud.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en zond"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan de koning"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikkar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:00.172504637Z",
+  "model": "glm-5.3"
+}

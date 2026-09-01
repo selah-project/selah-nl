@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Sjelomo had ⟨את⟩ Jahweh lief, om te wandelen in de choqqim van David zijn vader; alleen op de bamot slachtte hij en liet hij reukwerk opgaan.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "En ... had lief"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te wandelen"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "in de choqqim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "רק",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "op de bamot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "slachtte"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "en liet reukwerk opgaan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:16.773686257Z",
+  "model": "glm-5.3"
+}

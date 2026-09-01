@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "En mogen zij weten dat U — Uw naam ⟨is⟩ Jahweh — alleen U de Allerhoogste ⟨bent⟩ over heel de aarde.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "En mogen zij weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Uw naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "alleen U"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "de Allerhoogste"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:18.495337699Z",
+  "model": "glm-5.3"
+}

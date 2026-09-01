@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Kenaän verwekte ⟨את⟩ Tsidon, zijn eerstgeborene, en ⟨את⟩ Chet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "En Kenaän"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "zijn eerstgeborene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Chet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:21.789551416Z",
+  "model": "glm-5.3"
+}

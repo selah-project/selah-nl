@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En alle oudsten van Jisraël kwamen, en de Levieten hieven ⟨את⟩ de ark op.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en kwamen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oudsten van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "en hieven op"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "de Levieten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "de ark"
+    }
+  ],
+  "timestamp": "2026-08-31T23:05:26.289913813Z",
+  "model": "glm-5.3"
+}

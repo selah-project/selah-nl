@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Hij deed ⟨de⟩ pijlen van zijn koker in mijn nieren doordringen.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "Hij deed doordringen"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "in mijn nieren"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de pijlen"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "van zijn koker"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:55.978701047Z",
+  "model": "glm-5.3"
+}

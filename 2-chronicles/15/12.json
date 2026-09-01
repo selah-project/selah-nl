@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En zij gingen ⟨את⟩ de verbondsbinding in om Jahweh, de Elohim van hun vaderen, te zoeken met heel hun hart en met heel hun nefesj.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en zij gingen in"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "de verbondsbinding in"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "om te zoeken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh, de Elohim van hun vaderen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "van hun vaderen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met heel"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "hun hart"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en met heel"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hun nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T23:07:18.759362976Z",
+  "model": "glm-5.3"
+}

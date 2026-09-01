@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "Zal u voor de doden een wonder doen? Zullen de refaïm opstaan, zullen zij u loven? Sela.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "voor de doden"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zal u doen"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "een wonder"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zal"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "de refaïm"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "opstaan"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "zij zullen u loven"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:01.388535750Z",
+  "model": "glm-5.3"
+}

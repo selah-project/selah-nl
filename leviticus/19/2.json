@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Spreek tot de gehele vergadering van de zonen van Jisraël en zeg hun: heilig zult gij zijn, want heilig ben ik, Jahweh, uw Elohim.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gehele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en zeg"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "zult gij zijn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uw Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:50.665291736Z",
+  "model": "glm-5.3"
+}

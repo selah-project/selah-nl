@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Je kleding is niet versleten ⟨van⟩ je ⟨af⟩, en je voet is niet gaan zwellen, dit veertig jaar.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "je kleding"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "is versleten"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "van je af"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "en je voet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "is gaan zwellen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    }
+  ],
+  "timestamp": "2026-08-31T23:55:19.568077931Z",
+  "model": "glm-5.3"
+}

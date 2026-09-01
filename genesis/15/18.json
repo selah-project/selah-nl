@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Op die dag sneed Jahweh ⟨את⟩ Avram een verbond, zeggend: aan jouw nageslacht heb Ik ⟨את⟩ dit land gegeven, van de rivier van Mitsrajim tot aan de grote rivier, de rivier Perat:",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sneed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "een verbond"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "aan jouw nageslacht"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "heb Ik gegeven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dit land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "van de rivier"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "de rivier"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "de grote"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "de rivier"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:27.325729713Z",
+  "model": "glm-5.3"
+}

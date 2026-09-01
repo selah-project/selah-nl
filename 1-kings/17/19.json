@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 17:19",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En hij zei tegen haar: geef mij ⟨את⟩ jouw zoon. En hij nam hem van haar schoot, en hij bracht hem omhoog naar het bovenvertrek waar hij daar verbleef, en hij legde hem op zijn eigen bed.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "tegen haar"
+    },
+    {
+      "surface": "תני",
+      "gloss": "geef"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw zoon"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jouw zoon"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "en hij nam hem"
+    },
+    {
+      "surface": "מחיקה",
+      "gloss": "van haar schoot"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "en hij bracht hem omhoog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "het bovenvertrek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "verbleef"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "וישכבהו",
+      "gloss": "en hij legde hem"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "zijn bed"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:26.940709180Z",
+  "model": "glm-5.3"
+}

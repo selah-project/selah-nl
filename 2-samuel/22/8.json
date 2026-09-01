@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 22:8",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Toen wankelde en beefde de aarde; de fundamenten van de hemelen trilden en werden geschud, want het brandde in hem ⟨van toorn⟩.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "en wankelde"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "en beefde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "de fundamenten"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van de hemelen"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "trilden"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "en werden geschud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "het brandde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "in hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:43.785190081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En uw dienstmaagd had twee zonen, en de twee twistten op het veld, en er was geen redder tussen hen; en de ene sloeg ⟨את⟩ de andere, en hij stierf.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "en uw dienstmaagd"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "twistten"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de twee"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er was geen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "redder"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "tussen hen"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en sloeg"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de andere"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de andere"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hij stierf"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-31T20:53:25.215483095Z",
+  "model": "glm-5.3"
+}

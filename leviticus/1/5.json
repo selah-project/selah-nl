@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij zal ⟨את⟩ het rund(slacht)dier slachten voor het aangezicht van Jahweh; en de zonen van Aharon, de priesters, zullen ⟨את⟩ het bloed aanbieden en ⟨את⟩ het bloed rondom tegen het altaar sprenkelen, dat ⟨is⟩ bij de ingang van de tent van samenkomst.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "en hij zal slachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het rund(slacht)dier"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "en zij zullen aanbieden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "en zij zullen sprenkelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "de ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:59.889185826Z",
+  "model": "glm-5.3"
+}

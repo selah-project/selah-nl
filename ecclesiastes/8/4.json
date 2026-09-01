@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Waar het woord van een koning is, ⟨daar is⟩ heerschappij, en wie zal tegen hem zeggen: wat doet gij?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van een koning"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "heerschappij"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zal zeggen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tegen hem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "doet gij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:34.960305684Z",
+  "model": "glm-5.3"
+}

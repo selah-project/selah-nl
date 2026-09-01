@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Wanneer een plaag van tsara'at aan een mens ⟨zal⟩ zijn, dan zal hij gebracht worden naar de kohen toe;",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "een plaag"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "van tsara'at"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "aan een mens"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "dan zal hij gebracht worden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de kohen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:01.268232846Z",
+  "model": "glm-5.3"
+}

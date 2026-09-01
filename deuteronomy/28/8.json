@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Jahweh zal met jou ⟨את⟩ de zegen gebieden in je graanzolders en in alles wat je hand onderneemt, en hij zal jou zegenen in het land dat Jahweh, jouw Elohim, jou geeft.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "zal gebieden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zegen"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "de zegen"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "in je graanzolders"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en in alles"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "wat (je hand) onderneemt"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "je hand"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "en hij zal jou zegenen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:00.942804568Z",
+  "model": "glm-5.3"
+}

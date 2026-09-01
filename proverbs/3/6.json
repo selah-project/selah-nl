@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Ken Hem op al je wegen, dan ⟨zal⟩ Hij je paden recht maken.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "op al"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "je wegen"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "Ken Hem"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en Hij"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "recht maken ⟨zal⟩"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "je paden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:53.019848056Z",
+  "model": "glm-5.3"
+}

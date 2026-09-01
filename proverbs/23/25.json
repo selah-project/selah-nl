@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Laat je vader en je moeder zich verheugen, en laat zij die je gebaard heeft jubelen.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "laat ... zich verheugen"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "je vader"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "en je moeder"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "en laat ... jubelen"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "zij die je gebaard heeft"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:31.752744271Z",
+  "model": "glm-5.3"
+}

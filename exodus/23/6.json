@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Gij zult het recht van uw arme niet buigen in zijn geschil.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "zult gij buigen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "het recht"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "van uw arme"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "in zijn geschil"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:22.035975057Z",
+  "model": "glm-5.3"
+}

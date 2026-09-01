@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 52,
+  "translation": "Stem van uw wachters! ⟨Zij⟩ heffen ⟨hun⟩ stem, samen zullen zij jubelen, want oog aan oog zullen zij ⟨het⟩ zien: bij de terugkeer van Jahweh naar Tsiyon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "stem"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "van uw wachters"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "heffen zij"
+    },
+    {
+      "surface": "קול",
+      "gloss": "stem"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "samen"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "zullen zij jubelen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "aan oog"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "zullen zij zien"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "bij de terugkeer van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:40.143373063Z",
+  "model": "glm-5.3"
+}

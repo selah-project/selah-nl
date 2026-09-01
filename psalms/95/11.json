@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 95,
+  "translation": "waarover Ik zwoor in Mijn toorn: zij zullen zeker niet komen tot Mijn rustplaats!",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "waarover"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "zwoor Ik"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "in Mijn toorn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zeker niet"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "zij zullen komen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "Mijn rustplaats"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:51.363152921Z",
+  "model": "glm-5.3"
+}

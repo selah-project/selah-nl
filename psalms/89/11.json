@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Jij vermorzelde Rahab als een verslagene; met de arm van jouw kracht verstrooide jij je vijanden.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Jij"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "vermorzelde"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "als een verslagene"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "met de arm"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "van jouw kracht"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "verstrooide"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "je vijanden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:13.919159826Z",
+  "model": "glm-5.3"
+}

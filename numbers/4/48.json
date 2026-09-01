@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hun getelden waren achtduizend vijfhonderd en tachtig.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "En zij waren"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "hun getelden"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "acht"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "vijfhonderd"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "en tachtig"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:14.603631382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Behoed mij als de pupil, dochter van het oog; in de schaduw van uw vleugels verberg mij.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "behoed mij"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "als de pupil"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "עין",
+      "gloss": "van het oog"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "in de schaduw"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "van uw vleugels"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "verberg mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:11.602161747Z",
+  "model": "glm-5.3"
+}

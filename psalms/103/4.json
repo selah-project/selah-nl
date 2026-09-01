@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Die jouw leven loskoopt uit de put, die jou kroont met chesed (liefdevolle goedheid) en erbarming.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Die loskoopt"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "uit de put"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "jouw leven"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "die jou kroont"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "en erbarming"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:03.144818729Z",
+  "model": "glm-5.3"
+}

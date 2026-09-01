@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Gedenkt zijn wonderdaden die hij gedaan heeft, zijn tekenen en ⟨את⟩ de rechtsregelen van zijn mond.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Gedenkt"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "zijn wonderdaden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hij gedaan heeft"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "zijn tekenen"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "en de rechtsregelen"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "van zijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:24.402124751Z",
+  "model": "glm-5.3"
+}

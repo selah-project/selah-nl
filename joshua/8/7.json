@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En jullie zullen opstaan uit de hinderlaag en de stad in bezit nemen, en Jahweh, jullie Elohim, zal haar in jullie hand geven.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "en jullie"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "zullen opstaan"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "uit de hinderlaag"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "en zult in bezit nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "en zal geven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in jullie hand"
+    }
+  ],
+  "timestamp": "2026-08-31T20:30:33.459634736Z",
+  "model": "glm-5.3"
+}

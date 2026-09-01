@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En een man die echtbreuk pleegt met ⟨את⟩ de vrouw van een man — die echtbreuk pleegt met ⟨את⟩ de vrouw van zijn naaste — zal zeker gedood worden: de echtbreker en de echtbreekster.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "En een man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "echtbreuk pleegt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vrouw van een man"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van een man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "echtbreuk pleegt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vrouw van zijn naaste"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "van zijn naaste"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal gedood worden"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "de echtbreker"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "en de echtbreekster"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:45.834780547Z",
+  "model": "glm-5.3"
+}

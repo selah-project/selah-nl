@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Hoorklinkt de stem van mijn smekingen, wanneer ik schreeuw tot U, wanneer ik mijn handen hef naar ⟨Uw⟩ heiligdom ⟨het allerheiligste⟩.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hoorklinkt"
+    },
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "van mijn smekingen"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "wanneer ik schreeuw"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "wanneer ik hef"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mijn handen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "heiligdom"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "van Uw heiligheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:39.417498843Z",
+  "model": "glm-5.3"
+}

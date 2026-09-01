@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "En zij zullen ⟨את⟩ het lam bereiden, en ⟨את⟩ het spijsoffer, en ⟨את⟩ de olie, morgen na morgen, ⟨als⟩ een voortdurend brandoffer.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "en zij zullen bereiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het lam"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "het lam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het spijsoffer"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "het spijsoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de olie"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "de olie"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na morgen"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:10.882950948Z",
+  "model": "glm-5.3"
+}

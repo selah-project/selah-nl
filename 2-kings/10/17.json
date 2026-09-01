@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En hij kwam in Shomron en sloeg ⟨את⟩ alle overgeblevenen van Achav in Shomron, tot hij ⟨hem⟩ volkomen vernietigd had, overeenkomstig het woord van Jahweh dat Hij tot Elia gesproken had.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "En hij kwam"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "in Shomron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en sloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle overgeblevenen van Achav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "overgeblevenen"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "van Achav"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Shomron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "hij hem vernietigd had"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "overeenkomstig het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Hij gesproken had"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:36.081942616Z",
+  "model": "glm-5.3"
+}

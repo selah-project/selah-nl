@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 81,
+  "translation": "Voor de koorleider, op ⟨de⟩ Gittith, van Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "⟨de⟩ Gittith"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:24.042636707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "In u, Jahweh, heb ik mijn toevlucht gezocht; laat mij niet eeuwig beschaamd worden.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "in u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "heb ik mijn toevlucht gezocht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "word ik beschaamd"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:43.930122086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En er was wederom oorlog van de Plisjtim tegen ⟨את⟩ Jisraël, en Dawid daalde af, en zijn dienaren met hem, en zij streden tegen ⟨את⟩ de Plisjtim; en Dawid werd moe.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "en er was"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wederom"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "oorlog"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "van de Plisjtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "en hij daalde af"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "en zijn dienaren"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "en zij streden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Plisjtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Plisjtim"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "en hij werd moe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:58.654706953Z",
+  "model": "glm-5.3"
+}

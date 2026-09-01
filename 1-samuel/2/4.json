@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "De bogen van helden zijn gebroken, en de struikelenden hebben zich met kracht omgord.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "de bogen"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "van helden"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "zijn gebroken"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "en de struikelenden"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "hebben zich omgord"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "met kracht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:41:35.295581087Z",
+  "model": "glm-5.3"
+}

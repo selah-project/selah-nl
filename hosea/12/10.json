@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Ik ben Jahweh, uw Elohim, vanaf het land Mitsrajim; nog zal Ik u doen wonen in tenten, als in de dagen van het feest.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "en Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "vanaf het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "zal Ik u doen wonen"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "in tenten"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "als in de dagen van"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "het feest"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:08.074873042Z",
+  "model": "glm-5.3"
+}

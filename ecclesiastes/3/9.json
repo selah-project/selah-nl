@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Wat voor winst heeft de dader in dat waarin hij zich aftobt?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "winst"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "de dader"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "in dat waarin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zich aftobt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:40.437055511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En wij veroverden ⟨את⟩ al zijn steden in die tijd; er was geen stad die wij niet van ⟨את⟩ hen namen — zestig steden, heel het gebied van Argov, het koninkrijk van Og in ⟨de⟩ Basjan.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "en wij veroverden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al zijn steden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "zijn steden"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die tijd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "er was"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "stad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "wij namen"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "van ⟨את⟩ hen"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "zestig"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "steden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "het gebied"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "van Argov"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "het koninkrijk van"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "in Basjan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:44.170792476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Noach deed overeenkomstig alles wat Jahweh hem geboden had.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij deed"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "overeenkomstig alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hem geboden had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:41.829521289Z",
+  "model": "glm-5.3"
+}

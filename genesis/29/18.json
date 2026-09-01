@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En Jaäkov beminde ⟨את⟩ Rachel, en hij zei: Ik zal je dienen zeven jaar, ⟨voor⟩ Rachel, je jongste dochter.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "en hij beminde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "ik zal je dienen"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "voor Rachel"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "je dochter"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "de jongste"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:57.474497876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Verbroken is de stad van chaos; elk huis is gesloten ⟨voor⟩ binnengaan.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "verbroken is"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "de stad van"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "chaos"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "gesloten is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "⟨voor⟩ binnengaan"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:59.680981341Z",
+  "model": "glm-5.3"
+}

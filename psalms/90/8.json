@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 90,
+  "translation": "Gij hebt onze ongerechtigheden voor U gesteld, ons verborgene ⟨aan⟩ het licht van Uw aangezicht.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Gij hebt gesteld"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "onze ongerechtigheden"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "voor U"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "ons verborgene"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "aan het licht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "van Uw aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:04.981408904Z",
+  "model": "glm-5.3"
+}

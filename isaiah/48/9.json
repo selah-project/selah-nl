@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 48:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Om Mijns naams wil stel ik Mijn toorn uit, en ⟨voor⟩ Mijn loof houd ik Mijn⟨zelf⟩ voor U in, om U niet af te kappen.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "om ... wil"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Mijns naams"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "stel ik uit"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "Mijn toorn"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "en Mijn loof"
+    },
+    {
+      "surface": "אחטם",
+      "gloss": "houd ik in (bezwoer ik)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor U"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "om niet"
+    },
+    {
+      "surface": "הכריתך",
+      "gloss": "U af te kappen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:53.409282785Z",
+  "model": "glm-5.3"
+}

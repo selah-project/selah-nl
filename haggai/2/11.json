@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Zo zegt Jahweh Tseva'ot: Vraag toch ⟨את⟩ de priesters ⟨om⟩ tora, zeggende:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseva'ot"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Vraag"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de priesters"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:56.167012196Z",
+  "model": "glm-5.3"
+}

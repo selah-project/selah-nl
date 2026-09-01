@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En hij maakte voor hen een feestmaal, en zij aten en dronken.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "En hij maakte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "een feestmaal"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "en zij aten"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "en dronken"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:50.338952879Z",
+  "model": "glm-5.3"
+}

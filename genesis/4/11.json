@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En nu: vervloekt ben jij, van de aardbodem af, die haar mond heeft opengesperd om ⟨את⟩ het bloed van je broeder uit jouw hand te ontvangen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "vervloekt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de aardbodem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "heeft opengesperd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar mond"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "haar mond"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "om te ontvangen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bloed van je broeder"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "van je broeder"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "uit jouw hand"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:34.677955184Z",
+  "model": "glm-5.3"
+}

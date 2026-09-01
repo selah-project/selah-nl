@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "Dan zal ik gaan naar het altaar van Elohim, naar El, ⟨de⟩ blijdschap van mijn gejuich; en ik zal U loven met de lier, o Elohim, mijn Elohim.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Dan zal ik gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "⟨de⟩ blijdschap"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "van mijn gejuich"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "en ik zal U loven"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "met de lier"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:25.641771005Z",
+  "model": "glm-5.3"
+}

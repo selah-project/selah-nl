@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Jahweh antwoorde u op de dag van benauwdheid; de naam van de Elohim van Jaäkov verheffe u ⟨hoog⟩.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "antwoorde u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "van benauwdheid"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "verheffe u ⟨hoog⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "van de Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkov"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:28.522216874Z",
+  "model": "glm-5.3"
+}

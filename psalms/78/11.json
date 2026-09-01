@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En zij vergaten zijn daden en zijn wonderen, die hij hun getoond had.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "En zij vergaten"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "zijn daden"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "en zijn wonderen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "hij hun getoond had"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:48.090990184Z",
+  "model": "glm-5.3"
+}

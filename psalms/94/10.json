@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Die de naties tuchtigt, zou ⟨Hij⟩ niet corrigeren? ⟨Hij⟩ die de mens kennis leert, ⟨zou Hij niet weten?⟩",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "die tuchtigt"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "de naties"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "zou niet"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "corrigeren"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "die leert"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:02.291645447Z",
+  "model": "glm-5.3"
+}

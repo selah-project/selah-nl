@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 96,
+  "translation": "Voor het aangezicht van Jahweh, want hij komt, want hij komt om ⟨את⟩ de aarde te oordelen; hij zal ⟨את⟩ de wereld oordelen in gerechtigheid en ⟨את⟩ de volken in zijn trouw.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "om te oordelen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hij zal oordelen"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "de wereld"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "in gerechtigheid"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "en de volken"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "in zijn trouw"
+    }
+  ],
+  "timestamp": "2026-09-01T00:11:59.356038290Z",
+  "model": "glm-5.3"
+}

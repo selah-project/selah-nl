@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Toen Jaakob klaar was met het gebieden ⟨aan⟩ ⟨את⟩ zijn zonen, trok hij zijn voeten samen op het bed, en blies hij de laatste adem uit, en hij werd verzameld tot zijn volk.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "toen klaar was"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "met het gebieden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "trok hij samen"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "zijn voeten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "het bed"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "blies hij de laatste adem uit"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "werd hij verzameld"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "zijn volk"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:35.014534719Z",
+  "model": "glm-5.3"
+}

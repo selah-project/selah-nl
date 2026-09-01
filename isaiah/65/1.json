@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 65:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "Ik ben nagevraagd door wie ⟨niet⟩ vroegen, ik ben gevonden door wie mij niet zochten; ik zei: Zie mij, zie mij, tegen een natie die mijn naam niet aanriep.",
+  "tokens": [
+    {
+      "surface": "נדרשתי",
+      "gloss": "Ik ben nagevraagd"
+    },
+    {
+      "surface": "ללוא",
+      "gloss": "door wie ⟨niet⟩"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "vroegen"
+    },
+    {
+      "surface": "נמצאתי",
+      "gloss": "ik ben gevonden"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "door wie niet"
+    },
+    {
+      "surface": "בקשני",
+      "gloss": "mij zochten"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ik zei"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Zie mij"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "zie mij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "een natie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "aanriep"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "mijn naam"
+    }
+  ],
+  "timestamp": "2026-08-31T21:27:03.723484050Z",
+  "model": "glm-5.3"
+}

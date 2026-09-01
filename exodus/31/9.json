@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "en ⟨את⟩ het altaar van het brandoffer en ⟨את⟩ al zijn gerei, en ⟨את⟩ het bekken en ⟨את⟩ zijn voetstuk,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het altaar van het brandoffer"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "van het brandoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al zijn gerei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zijn gerei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het bekken"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "het bekken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn voetstuk"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "zijn voetstuk"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:39.575020133Z",
+  "model": "glm-5.3"
+}

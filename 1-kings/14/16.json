@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En hij zal Jisraël prijsgeven omwille van de zonden van Jerobeam, die hij bedreef en waarmee hij Jisraël deed zondigen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en prijsgeven zal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "omwille van"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "de zonden van"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hij bedreef"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en waarmee"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "hij deed zondigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:52.506713543Z",
+  "model": "glm-5.3"
+}

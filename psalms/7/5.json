@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "als ik kwaad heb vergolden aan hem die vrede met mij had, en ⟨heb ik⟩ degene die mij zonder reden vijandig is, beroofd;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "heb vergolden"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "hem die vrede met mij had"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "en ⟨heb⟩ beroofd"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "die mij vijandig is"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "zonder reden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:44.990036405Z",
+  "model": "glm-5.3"
+}

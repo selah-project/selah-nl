@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Jahweh zei tot Mosjee: Zeg tot Aharon: Strek ⟨את⟩ uw staf uit en sla ⟨את⟩ het stof van de aarde, en het zal tot luizen worden in heel het land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Zeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Strek uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw staf"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "uw staf"
+    },
+    {
+      "surface": "והך",
+      "gloss": "en sla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het stof van de aarde"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "het stof"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en het zal worden"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "tot luizen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in heel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:06.430068222Z",
+  "model": "glm-5.3"
+}

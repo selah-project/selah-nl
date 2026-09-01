@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Middernachts sta ik op om U te danken over ⟨de⟩ verordeningen van uw gerechtigheid.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "middernachts"
+    },
+    {
+      "surface": "לילה",
+      "gloss": ""
+    },
+    {
+      "surface": "אקום",
+      "gloss": "sta ik op"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "om te danken"
+    },
+    {
+      "surface": "לך",
+      "gloss": "U"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "verordeningen"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "van uw gerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:35.850410652Z",
+  "model": "glm-5.3"
+}

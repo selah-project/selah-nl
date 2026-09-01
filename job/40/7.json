@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 40:7",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Omgord nu als een man je heupen; ik zal je vragen, en jij ⟨zult⟩ mij doen weten.",
+  "tokens": [
+    {
+      "surface": "אזר",
+      "gloss": "omgord"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "als een man"
+    },
+    {
+      "surface": "חלציך",
+      "gloss": "je heupen"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ik zal je vragen"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "en ⟨zult⟩ mij doen weten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:37:29.345552724Z",
+  "model": "glm-5.3"
+}

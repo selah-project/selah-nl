@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Zeg niet tot uw naaste: Ga en kom terug, en morgen geef ik ⟨het⟩ — terwijl ⟨het⟩ ⟨את⟩ bij u is.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "zeg"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "tot uw naaste"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "en kom terug"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "en morgen"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "geef ik"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "terwijl er is"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bij u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:19.487923943Z",
+  "model": "glm-5.3"
+}

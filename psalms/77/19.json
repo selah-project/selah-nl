@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 77,
+  "translation": "De stem van uw donder ⟨was⟩ in de wervelwind; bliksemen verlichtten ⟨de⟩ wereld; ⟨de⟩ aarde beefde en schudde.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "stem"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "van uw donder"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "in de wervelwind"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "verlichtten"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "bliksemen"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "wereld"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "beefde"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "en schudde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:33.305375677Z",
+  "model": "glm-5.3"
+}

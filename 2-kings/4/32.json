@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Elisa kwam het huis binnen, en zie, de jongen was dood, liggend op zijn bed.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "het huis binnen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "de jongen"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dood"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "liggend"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "zijn bed"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:34.383948629Z",
+  "model": "glm-5.3"
+}

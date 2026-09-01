@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 111,
+  "translation": "Spijs heeft Hij gegeven aan wie Hem vrezen; voor eeuwig zal Hij ⟨zich⟩ zijn verbond herinneren.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "spijs"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "heeft gegeven"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "aan wie Hem vrezen"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "zal hij herinneren"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "zijn verbind"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:31.086127662Z",
+  "model": "glm-5.3"
+}

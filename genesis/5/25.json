@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Metoesjelach leefde honderd twee­entachtig jaar en zeven jaar, en hij verwekte ⟨את⟩ Lemek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "en hij leefde"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metoesjelach"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "en tachtig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "en honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hij verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:35.961329756Z",
+  "model": "glm-5.3"
+}

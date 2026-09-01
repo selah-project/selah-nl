@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Elohim hoorde ⟨dit⟩ en werd verbolgen, en Hij verwierp Israël zeer ⟩",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hoorde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "en werd verbolgen"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "en verwierp"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:55.486838234Z",
+  "model": "glm-5.3"
+}

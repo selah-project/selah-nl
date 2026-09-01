@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Alle dingen zijn vermoeiend; een mens kan ⟨ze⟩ niet uitspreken; het oog wordt niet verzadigd door te zien, en het oor wordt niet gevuld door te horen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dingen"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "zijn vermoeiend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een mens"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "uitspreken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "wordt verzadigd"
+    },
+    {
+      "surface": "עין",
+      "gloss": "het oog"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "door te zien"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "wordt gevuld"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "het oor"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "door te horen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:55.735700574Z",
+  "model": "glm-5.3"
+}

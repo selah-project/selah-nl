@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 121,
+  "translation": "Een lied voor de trapsgewijze pelgrimsreizen. Ik hef mijn ogen op naar de bergen — van waar zal mijn hulp komen?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "voor de trapsgewijze pelgrimsreizen"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ik hef op"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn ogen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "van waar"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "zal komen"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "mijn hulp"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:15.973558875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En u zult ⟨את⟩ de mantel van de efod maken, geheel van blauwpurper.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "En u zult maken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mantel van de efod"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "de mantel"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "van de efod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "geheel"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "van blauwpurper"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:29.857415460Z",
+  "model": "glm-5.3"
+}

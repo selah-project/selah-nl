@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Laat mij toch oversteken en zien ⟨את⟩ het goede land dat aan de overzijde van de Jarden ⟨is⟩, dit goede bergland en de Levanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "laat mij oversteken"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "en zien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het goede land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "goede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "aan de overzijde van"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dit bergland"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "goede"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "en de Levanon"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:48.874452757Z",
+  "model": "glm-5.3"
+}

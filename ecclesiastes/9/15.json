@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En er werd in haar een man gevonden, arm en wijs; en hij redde ⟨את⟩ de stad door zijn wijsheid — maar geen mens gedacht ⟨את⟩ die arme man.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "en er werd gevonden"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in haar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "arm"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wijs"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "en hij redde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "door zijn wijsheid"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "maar ⟨geen⟩ mens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gedacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die arme man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "de arme"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:45.443919602Z",
+  "model": "glm-5.3"
+}

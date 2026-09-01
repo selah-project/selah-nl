@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Een maskil van Asaf. Waarom, Elohim, hebt Gij ⟨voor ons⟩ voor eeuwig verstoten? Waarom rookt uw toorn tegen de kudde van uw weide?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "een maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "hebt Gij verstoten"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "rookt"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "uw toorn"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "tegen de kudde"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "van uw weide"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:44.958138453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Gezegend zij Jahweh, Elohim van Jisraël, van eeuwigheid en tot ⟨de⟩ eeuwigheid. Amen en amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gezegend"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "van eeuwigheid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "⟨de⟩ eeuwigheid"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "en amen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:42.722940542Z",
+  "model": "glm-5.3"
+}

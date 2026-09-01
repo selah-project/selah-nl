@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Avraham bad tot ⟨de⟩ Elohim, en Elohim genas ⟨את⟩ Avimelech en ⟨את⟩ zijn vrouw en zijn dienstmaagden, en zij baarden ⟨kinderen⟩.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "en bad"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "en genas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vrouw"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "en zijn dienstmaagden"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "en zij baarden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:29.540391770Z",
+  "model": "glm-5.3"
+}

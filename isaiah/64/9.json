@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 64,
+  "translation": "Uw heilige steden zijn een woestijn geworden, Tsiyon is een woestijn geworden, Jeroesjalajim ⟨is⟩ een verwoesting.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "steden"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "uw heilige"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zijn geworden"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "een woestijn"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "een woestijn"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "is geworden"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "een verwoesting"
+    }
+  ],
+  "timestamp": "2026-08-31T21:26:33.726021985Z",
+  "model": "glm-5.3"
+}

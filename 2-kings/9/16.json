@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 9:16",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Toen reed Jehoe en ging naar Jizre'el, want Joram lag daar ziek; en Achazja, koning van Jehoeda, was afgedaald om ⟨את⟩ Joram te zien.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "Toen reed"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehoe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en ging"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "naar Jizre'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lag"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ואחזיה",
+      "gloss": "en Achazja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "was afgedaald"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:55.328513054Z",
+  "model": "glm-5.3"
+}

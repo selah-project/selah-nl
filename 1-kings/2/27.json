@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 2:27",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Sjelomo verdreef ⟨את⟩ Evjatar, ⟨om⟩ priester voor Jahweh te zijn, om ⟨את⟩ het woord van Jahweh te vervullen, dat hij gesproken had over het huis van Eli in Silo.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "en hij verdreef"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Evjatar"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evjatar"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "van het zijn"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priester"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "om te vervullen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het woord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hij gesproken had"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "in Silo"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:09.360211468Z",
+  "model": "glm-5.3"
+}

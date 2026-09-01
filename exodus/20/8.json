@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Gedenk ⟨את⟩ de dag van de sjabbat, om hem te heiligen.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "gedenk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dag van de sjabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "van de sjabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "om hem te heiligen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:10.840342776Z",
+  "model": "glm-5.3"
+}

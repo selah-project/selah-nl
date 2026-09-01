@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "en de vader van het jonge meisje zal tot de oudsten zeggen: ⟨את⟩ mijn dochter heb ik aan deze man gegeven tot vrouw, en hij is gaan haten —",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en zal zeggen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "de vader van"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "het jonge meisje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "de oudsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn dochter"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mijn dochter"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "heb ik gegeven"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan deze man"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "tot vrouw"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "en hij is gaan haten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:39.133405833Z",
+  "model": "glm-5.3"
+}

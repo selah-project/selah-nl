@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "U zult opstaan, u zult zich ontfermen over Tsiyon, want het is de tijd ⟨om⟩ haar genade te betonen, want de vastgestelde tijd is gekomen.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "zult opstaan"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "zult zich ontfermen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "over Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עת",
+      "gloss": "het is de tijd"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "⟨om⟩ haar genade te betonen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בא",
+      "gloss": "is gekomen"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "de vastgestelde tijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:49.213647974Z",
+  "model": "glm-5.3"
+}

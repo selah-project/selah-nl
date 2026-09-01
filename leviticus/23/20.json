@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En de priester zal ze ⟨את⟩ bewegen, bij het brood van de eerstelingen, een beweegoffer voor het aangezicht van Jahweh, bij de twee lammeren; heilig zullen ze zijn voor Jahweh, voor de priester.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "en hij zal bewegen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ze — de twee lammeren en het brood der eerstelingen"
+    },
+    {
+      "surface": "על",
+      "gloss": "bij"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "het brood"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "van de eerstelingen"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "een beweegoffer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "bij"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "lammeren"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zullen ze zijn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "voor de priester"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:29.019822769Z",
+  "model": "glm-5.3"
+}

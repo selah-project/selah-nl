@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Voor deze jongen bad ik, en Jahweh heeft mij ⟨את⟩ mijn verzoek gegeven dat ik van Hem gevraagd heb.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "voor"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "deze jongen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "bad ik"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en heeft gegeven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verzoek"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "mijn verzoek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ik gevraagd heb"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "van Hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:38.495781808Z",
+  "model": "glm-5.3"
+}

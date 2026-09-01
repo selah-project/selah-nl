@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Eenenveertig jaar regeerde hij in Jeroesjalajim; en de naam van zijn moeder was Maächa, dochter van Avisjalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "en eenenveertig"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "één"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regeerde"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeroesjalajim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en de naam"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "van zijn moeder"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maächa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avisjalom"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:39.779067449Z",
+  "model": "glm-5.3"
+}

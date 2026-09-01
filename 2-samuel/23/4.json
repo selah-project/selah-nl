@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En als het licht van de morgen, als de zon opgaat, een morgen zonder wolken — door het stralen, door de regen, jong gras ⟨komt⟩ uit de aarde.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "en als het licht"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "van de morgen"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "gaat op"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "een morgen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "wolken"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "door het stralen"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "door de regen"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "jong gras"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:51.479276796Z",
+  "model": "glm-5.3"
+}

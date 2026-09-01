@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En de zonen van Elifaz waren: Teman, Omar, Tsefo, Gatam en Kenaz.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "En ... waren"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Teman"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "Omar"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "Tsefo"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "en Gatam"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "en Kenaz"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:57.910044491Z",
+  "model": "glm-5.3"
+}

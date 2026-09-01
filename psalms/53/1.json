@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 53,
+  "translation": "Voor de koorleider, op ⟨de wijs van⟩ Machalat, een masjkiel van David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "een masjkiel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:44.392751279Z",
+  "model": "glm-5.3"
+}

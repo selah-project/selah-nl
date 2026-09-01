@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "De wijze vreest en wijkt van het kwaad, maar de dwaas raast en is zorgeloos vertrouwend.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "de wijze"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vreest"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "en wijkt"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "van het kwaad"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "maar de dwaas"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "raast"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "is zorgeloos vertrouwend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:46.142196823Z",
+  "model": "glm-5.3"
+}

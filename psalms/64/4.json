@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 64,
+  "translation": "die hun tong geslepen hebben als een zwaard, ⟨en⟩ hun pijl gericht — een bitter woord.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "geslepen hebben"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "als een zwaard"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "hun tong"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "gericht"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "hun pijl"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "een woord"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bitter"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:57.781877147Z",
+  "model": "glm-5.3"
+}

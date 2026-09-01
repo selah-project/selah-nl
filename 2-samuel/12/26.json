@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Joav streed tegen Rabbat van de kinderen van Ammon, en hij nam de stad van het koninkrijk in.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "en hij streed"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "tegen Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "en hij nam in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stad"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "van het koninkrijk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:53:02.199213719Z",
+  "model": "glm-5.3"
+}

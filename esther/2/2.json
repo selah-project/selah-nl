@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Toen zeiden de jonge dienaren van de koning, die hem bedienden: men zoeke voor de koning jonge meisjes, maagden, schoon van aanblik.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "toen zeiden"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "de jonge dienaren"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "die hem bedienden"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "men zoeke"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "voor de koning"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "jonge meisjes"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "maagden"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "schoon"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "van aanblik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:01.890718350Z",
+  "model": "glm-5.3"
+}

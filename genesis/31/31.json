@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 31:31",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En Jaäkov antwoordde en zei tot Lavan: Omdat ik vreesde, want ik zei: misschien zou jij je dochters gewelddadig van mij wegrukken.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en hij antwoordde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "tot Lavan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ik vreesde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ik zei"
+    },
+    {
+      "surface": "פן",
+      "gloss": "misschien \/ opdat niet"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "zou jij wegrukken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je dochters"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "je dochters"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "van mij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:23.233615490Z",
+  "model": "glm-5.3"
+}

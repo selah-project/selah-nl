@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Joav antwoordde en zei: Verre zij het, verre zij het van mij, dat ik zou verslinden of verwoesten.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "En antwoordde"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Verre zij het"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "verre zij het"
+    },
+    {
+      "surface": "לי",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ik zou verslinden"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "of"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "verwoesten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:54:59.231708779Z",
+  "model": "glm-5.3"
+}

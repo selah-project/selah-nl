@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Lengte van dagen is in haar rechterhand, in haar linker rijkdom en eer.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "lengte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dagen"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "in haar rechterhand"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "in haar linker"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rijkdom"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "en eer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:53.454069138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Jahweh, laat mij niet beschaamd worden, want ik heb u aangeroepen; laat de goddelozen beschaamd worden, laat zij verstommen tot ⟨de⟩ Sjeool.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "laat mij beschaamd worden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ik heb u aangeroepen"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "laat … beschaamd worden"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "laat zij verstommen"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "tot ⟨de⟩ Sjeool"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:21.654249985Z",
+  "model": "glm-5.3"
+}

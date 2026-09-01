@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 85,
+  "translation": "Voorzeker, Jahweh zal ⟨את⟩ het goede geven, en ons land zal zijn opbrengst geven.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "voorzeker"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "zal geven"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "en ons land"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zal geven"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "zijn opbrengst"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:54.595097614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Jullie moeten ⟨את⟩ met mij geen goden van zilver maken, en goden van goud moeten jullie jezelf niet maken.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "moeten jullie maken"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ met mij"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "goden"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "van zilver"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "en goden"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "moeten jullie maken"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jezelf"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:41.807683068Z",
+  "model": "glm-5.3"
+}

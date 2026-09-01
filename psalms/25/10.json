@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Alle paden van Jahweh ⟨zijn⟩ chesed en waarheid, voor wie zijn verbond en zijn getuigenissen bewaren.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "paden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "en waarheid"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "voor wie bewaren"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "zijn verbond"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "en zijn getuigenissen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:05.214199436Z",
+  "model": "glm-5.3"
+}

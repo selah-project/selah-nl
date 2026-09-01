@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Want ⟨את⟩ heel het land dat je ziet — aan jou zal Ik het geven, en aan jouw nageslacht, tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel het land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "je"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ziet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "zal Ik het geven"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "en aan jouw nageslacht"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:11.692543601Z",
+  "model": "glm-5.3"
+}

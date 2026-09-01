@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 111,
+  "translation": "Groot zijn de werken van Jahweh, doorzocht door allen die ⟨erin⟩ behagen vinden.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "groot"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "de werken van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "doorzocht"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "door allen"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "die er behagen in vinden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:43.482507484Z",
+  "model": "glm-5.3"
+}

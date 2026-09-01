@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "en de deuren gesloten worden aan de straat, wanneer het geluid van het malmen verstomt, en men opstaat bij het geluid van de vogel, en alle dochters van de zang zich buigen;",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "en gesloten worden"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "de deuren"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "aan de straat"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "wanneer verstomt"
+    },
+    {
+      "surface": "קול",
+      "gloss": "het geluid van"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "het malmen"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "en men opstaat"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "bij het geluid van"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "de vogel"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "en zich buigen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dochters van"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "de zang"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:44.082162812Z",
+  "model": "glm-5.3"
+}

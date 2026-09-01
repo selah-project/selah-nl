@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Daar werden zij gegrepen door angst, want Elohim ⟨is⟩ in de geslachte van de rechtvaardige.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "werden gegrepen"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "door angst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "in de geslachte"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van de rechtvaardige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:52.157728380Z",
+  "model": "glm-5.3"
+}

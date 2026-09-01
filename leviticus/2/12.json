@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Als korban van eerstelingen mogen jullie ⟨את⟩ hen aan Jahweh naderbrengen, maar op het altaar mogen zij niet opkomen tot een aangename reuk.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "korban (offer)"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "eerstelingen"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "mogen jullie naderbrengen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "mogen zij opkomen"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "tot een reuk"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "aangename (rust gevende)"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:42.760385388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "Want jij bent ⟨de⟩ Elohim van mijn vesting — waarom heb je mij verstoten? Waarom ga ik somber gekleed rond, onder de druk van een vijand?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨de⟩ Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "van mijn vesting"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "heb je mij verstoten"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "sombere gekleed"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ga ik rond"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "onder de druk"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "van een vijand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:25.641499017Z",
+  "model": "glm-5.3"
+}

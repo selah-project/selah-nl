@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En het water vloeide rondom het altaar, en ook ⟨את⟩ de greppel vulde hij met water.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "en het vloeide"
+    },
+    {
+      "surface": "המים",
+      "gloss": "het water"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de greppel"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "de greppel"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vulde"
+    },
+    {
+      "surface": "מים",
+      "gloss": "met water"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:00.741251684Z",
+  "model": "glm-5.3"
+}

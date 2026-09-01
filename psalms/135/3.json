@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Looft Jah, want Jahweh ⟨is⟩ goed; zingt voor zijn naam, want ⟨hij is⟩ liefelijk.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Looft"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zingt"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "voor zijn naam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "liefelijk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:50.409111833Z",
+  "model": "glm-5.3"
+}

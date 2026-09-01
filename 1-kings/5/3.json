@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "tien gemeste runderen, en twintig runderen uit de weiden, en honderd kleinvee, apart van herten en gazellen en reebokken en gemest ⟨gevogelte⟩.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "runderen"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "gemeste"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "runderen"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "uit de weiden"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "en honderd"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kleinvee"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "apart van"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "herten"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "en gazellen"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "en reebokken"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "en gemest"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "⟨gevogelte⟩ (gemest)"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:41.606243615Z",
+  "model": "glm-5.3"
+}

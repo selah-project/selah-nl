@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En het gebeurde, toen David en zijn mannen in Tsiklag kwamen op de derde dag, dat de Amalekieten waren uitgevallen naar de Negév en naar Tsiklag, en zij sloegen ⟨את⟩ Tsiklag en staken het in brand met vuur.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "toen ... kwamen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "en zijn mannen"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "in Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "de derde"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "dat de Amalekieten"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "waren uitgevallen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "de Negév"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en naar"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en zij sloegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "en staken in brand"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "het (Tsiklag)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:17.816184449Z",
+  "model": "glm-5.3"
+}

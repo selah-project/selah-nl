@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "En zij brachten ⟨את⟩ de mishkan naar Mosjee: ⟨את⟩ de tent en ⟨את⟩ al zijn gerei, zijn krammen, zijn planken, zijn grendels, zijn zuilen en zijn voetstukken.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "en zij brachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "de mishkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tent"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al zijn gerei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zijn gerei"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "zijn krammen"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "zijn planken"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "zijn grendels"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "en zijn zuilen"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "en zijn voetstukken"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:22.114821183Z",
+  "model": "glm-5.3"
+}

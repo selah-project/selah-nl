@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Voor de koorleider, een masjkil ⟨van⟩ de zonen van Korach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "een masjkil"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:22.879348428Z",
+  "model": "glm-5.3"
+}

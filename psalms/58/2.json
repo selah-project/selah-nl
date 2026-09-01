@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 58,
+  "translation": "Spreken jullie ⟨werkelijk⟩ ⟨in⟩ stilte gerechtigheid? Oordelen jullie rechtdoorzaam, zonen van Adam?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "werkelijk"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "in stilte"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "gerechtigheid"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "spreken jullie"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "rechtdoorzaam"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "oordelen jullie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:06.069213736Z",
+  "model": "glm-5.3"
+}

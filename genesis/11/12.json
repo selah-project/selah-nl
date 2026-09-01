@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Arpachsjad leefde vijfendertig jaar, en hij verwekte ⟨את⟩ Sjelach.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "En Arpachsjad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leefde"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "endertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hij verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Sjelach"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:07.271623977Z",
+  "model": "glm-5.3"
+}

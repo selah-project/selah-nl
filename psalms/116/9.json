@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "Ik zal wandelen voor het aangezicht van Jahweh, in de landen van het leven.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "ik zal wandelen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "in de landen"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "van het leven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:04.467643592Z",
+  "model": "glm-5.3"
+}

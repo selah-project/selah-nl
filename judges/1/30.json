@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Zevuloen verdreef ⟨את⟩ de bewoners van Kitron en ⟨את⟩ de bewoners van Nachalol niet, en de Kanaäniet woonde in zijn midden, en zij werden tot dwangarbeid.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zevuloen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "verdreef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bewoners van Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "de bewoners"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "van Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de bewoners van Nachalol"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "de bewoners"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "van Nachalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en woonde"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "de Kanaäniet"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in zijn midden"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en zij werden"
+    },
+    {
+      "surface": "למס",
+      "gloss": "tot dwangarbeid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:34:54.640941026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "en ⟨את⟩ de Jevusiet en ⟨את⟩ de Emoriet en ⟨את⟩ de Girgasjiet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Jevusiet"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "de Jevusiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Emoriet"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de Emoriet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Girgasjiet"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "de Girgasjiet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:21.789745521Z",
+  "model": "glm-5.3"
+}

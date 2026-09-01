@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "En uw gerechtigheid, o Elohim, ⟨reikt⟩ tot in de hoogte; ⟨Gij⟩ die grote dingen gedaan hebt — Elohim, wie ⟨is⟩ gelijk aan U?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "en uw gerechtigheid"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "in de hoogte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gedaan hebt"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "grote dingen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "gelijk aan U"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:21.615399996Z",
+  "model": "glm-5.3"
+}

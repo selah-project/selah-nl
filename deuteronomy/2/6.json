@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Voedsel zult gij bij hen ⟨את⟩ voor zilver kopen en eten; ook water zult gij bij hen ⟨את⟩ voor zilver kopen en drinken.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "voedsel"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "zult kopen"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "bij ⟨את⟩ hen"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "voor zilver"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "en zult eten"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "zult kopen"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "bij ⟨את⟩ hen"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "voor zilver"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "en zult drinken"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:43.802712570Z",
+  "model": "glm-5.3"
+}

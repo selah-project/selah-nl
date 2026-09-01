@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 121,
+  "translation": "Jahweh zal jouw uitgaan en jouw ingaan bewaren, van nu aan en tot ⟨in⟩ eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "zal bewaren"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "jouw uitgaan"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "en jouw ingaan"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "van nu aan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:19.740451376Z",
+  "model": "glm-5.3"
+}

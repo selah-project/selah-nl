@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Gedenk toch ⟨את⟩ het woord dat U Mosjee, Uw dienaar, geboden hebt, zeggend: ú, wanneer gij overtreedt, ík zal ⟨את⟩ u verstrooien onder de volken —",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "gedenk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "U geboden hebt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosjee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "Uw dienaar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ú"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "wanneer gij overtreedt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ík"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "zal ik verstrooien"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "onder de volken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:53:59.868027394Z",
+  "model": "glm-5.3"
+}

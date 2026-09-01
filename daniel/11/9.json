@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En hij zal komen in het koninkrijk van de koning van het zuiden, maar hij zal terugkeren naar zijn eigen grond.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "En hij zal komen"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "in het koninkrijk"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "van het zuiden"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "maar hij zal terugkeren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "zijn eigen grond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:50:17.226751334Z",
+  "model": "glm-5.3"
+}

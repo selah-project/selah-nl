@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En de raven brachten hem brood en vlees in de morgen, en brood en vlees in de avond; en uit de beek dronk hij.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "en de raven"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "brachten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "en vlees"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "en brood"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "en vlees"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in de avond"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en uit"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "de beek"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "dronk hij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:34.602185105Z",
+  "model": "glm-5.3"
+}

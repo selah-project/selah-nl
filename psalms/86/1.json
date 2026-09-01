@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 86,
+  "translation": "Een gebed van David. Neig, Jahweh, uw oor, antwoord mij, want arm en behoeftig ben ik.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "een gebed"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "neig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "uw oor"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en behoeftig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:26.808236998Z",
+  "model": "glm-5.3"
+}

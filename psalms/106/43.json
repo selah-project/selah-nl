@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 106:43",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Veel malen redde hij hen, maar zij waren opstandig in hun raad, en zij werden neergebracht door hun ongerechtigheid.",
+  "tokens": [
+    {
+      "surface": "פעמים",
+      "gloss": "malen"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "veel"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "hij redde hen"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "maar zij"
+    },
+    {
+      "surface": "ימרו",
+      "gloss": "waren opstandig"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "in hun raad"
+    },
+    {
+      "surface": "וימכו",
+      "gloss": "en zij werden neergebracht"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "door hun ongerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:38.765183446Z",
+  "model": "glm-5.3"
+}

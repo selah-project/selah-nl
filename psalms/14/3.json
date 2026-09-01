@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Allen zijn zij afgeweken, tezamen zijn zij verdorven; er is niemand die goed doet, er is zelfs niet één.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "סר",
+      "gloss": "zijn afgeweken"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tezamen"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "zijn verdorven"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doener"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zelfs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "niet één"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:15.341849940Z",
+  "model": "glm-5.3"
+}

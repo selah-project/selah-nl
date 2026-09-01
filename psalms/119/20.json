@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Gebroken is mijn nefesj van verlangen naar uw misjpatim, te aller tijd.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Gebroken is"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "van verlangen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "uw misjpatim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "te aller"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:23.530510215Z",
+  "model": "glm-5.3"
+}

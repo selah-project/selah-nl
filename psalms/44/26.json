@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Want gezonken tot het stof is onze nefesj (ziel), gekleefd aan de aarde is onze buik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "gezonken"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "tot het stof"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "onze nefesj (ziel)"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "gekleefd"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "aan de aarde"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "onze buik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:33.942536406Z",
+  "model": "glm-5.3"
+}

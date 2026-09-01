@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 17:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "In die dag zal de mens ⟨zich wenden tot⟩ zijn Maker, en zijn ogen zullen zien naar de Heilige van Israël.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "In die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "zal ⟨zich wenden tot⟩ (aanschouwen)"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "על",
+      "gloss": "op (naar)"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "zijn Maker"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "en zijn ogen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "de Heilige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "zullen zien"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:25.891095009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "maar hiervoor heb ik jou laten staan, om jou mijn macht te tonen ⟨את⟩, en om mijn naam te laten vertellen op heel ⟨de⟩ aarde.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "maar"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "hiervoor"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "heb ik jou laten staan"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "om"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "jou te tonen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn macht"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mijn macht"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "en om"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "te laten vertellen"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mijn naam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "op heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:09.421171785Z",
+  "model": "glm-5.3"
+}

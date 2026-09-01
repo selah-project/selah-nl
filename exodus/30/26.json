@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En u zult daarmee zalven ⟨את⟩ de tent van ontmoeting, en ⟨את⟩ de ark van de getuigenis.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "en u zult zalven"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tent van ontmoeting"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van de getuigenis"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "van de getuigenis"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:27.947022386Z",
+  "model": "glm-5.3"
+}

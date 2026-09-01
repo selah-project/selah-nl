@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Vrees hen niet, want Jahweh, jullie Elohim, ⟨is⟩ hij die voor jullie strijdt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "vrees hen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "die strijdt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:16.714749931Z",
+  "model": "glm-5.3"
+}

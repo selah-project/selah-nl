@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 48:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "de mal'ach die mij verlost ⟨את⟩ van alle kwaad — hij zal de jongens zegenen ⟨את⟩, en mijn naam worde over hen genoemd, en de naam van mijn vaders, Avraham en Jitschak, en zij zullen tot een menigte uitgroeien in het midden van het land.",
+  "tokens": [
+    {
+      "surface": "המלאך",
+      "gloss": "de mal'ach"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "die verlost"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mij"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van alle"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "hij zal zegenen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de jongens"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "de jongens"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en worde genoemd"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "over hen"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mijn naam"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en de naam"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "van mijn vaders"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "en Jitschak"
+    },
+    {
+      "surface": "וידגו",
+      "gloss": "en zij zullen uitgroeien"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "tot een menigte"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:42.470268616Z",
+  "model": "glm-5.3"
+}

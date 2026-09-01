@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 21:21",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En alle mannen van zijn stad zullen hem stenigen met stenen, en hij zal sterven; en jij zult het kwaad uit je midden wegdoen, en heel Jisraël zal het horen en vrezen.",
+  "tokens": [
+    {
+      "surface": "ורגמהו",
+      "gloss": "en zij zullen hem stenigen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "van zijn stad"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "met stenen"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "en hij zal sterven"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "en jij zult wegdoen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "het kwaad"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "uit je midden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "zal het horen"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "en vrezen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:51.106219022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "om ogen van blinden te openen, om ⟨de⟩ gevangene uit ⟨de⟩ kerker te laten gaan, uit het huis van opsluiting wie in duisternis zitten —",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "om te openen"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ogen"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "van blinden"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "om te laten gaan"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "uit de kerker"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "de gevangene"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit het huis"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "van opsluiting"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wie zitten"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "in duisternis"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:49.981796694Z",
+  "model": "glm-5.3"
+}

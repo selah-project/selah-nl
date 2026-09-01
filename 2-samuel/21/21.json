@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En hij smaadde ⟨את⟩ Israël, en Jehonatan, zoon van Sim'i, de broer van Dawid, sloeg hem.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "en hij smaadde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "en sloeg hem"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Sim'i"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "de broer van"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:54:49.927067704Z",
+  "model": "glm-5.3"
+}

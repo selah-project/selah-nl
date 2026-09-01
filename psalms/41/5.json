@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Ik zei: Jahweh, wees mij genadig, genees mijn nefesj, want ik heb gezondigd tegen U.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "wees mij genadig"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "genees"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "heb ik gezondigd"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tegen U"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:10.746784783Z",
+  "model": "glm-5.3"
+}

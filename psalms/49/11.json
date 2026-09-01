@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Want hij ziet ⟨dat⟩ wijzen sterven; samen met de dwaas en de domme vergaan zij, en zij laten hun rijkdom achter voor anderen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hij ziet"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wijzen"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "sterven"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "samen"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "de dwaas"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "en de domme"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "vergaan zij"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "en zij laten achter"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "voor anderen"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "hun rijkdom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:56.839409116Z",
+  "model": "glm-5.3"
+}

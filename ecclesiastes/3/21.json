@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Wie weet ⟨of⟩ de roeach van de mensenkinderen omhoog stijgt naar boven, en de roeach van het vee neerdaalt naar beneden, naar de aarde?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de roeach"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de kinderen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "stijgt"
+    },
+    {
+      "surface": "היא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "naar boven"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en ⟨de⟩ roeach"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "van het vee"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "neerdaalt"
+    },
+    {
+      "surface": "היא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "naar beneden"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "naar de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:30.001569176Z",
+  "model": "glm-5.3"
+}

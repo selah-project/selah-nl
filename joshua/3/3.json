@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "en zij gebooden het volk ⟨את⟩ en zeiden: wanneer jullie de ark zien, ⟨את⟩ de ark van het verbond van Jahweh jullie Elohim, en de kohaniem, de Leviieten, hem dragend, dan moeten jullie opbrekken van jullie plaats en achter hem aan gaan.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "en zij gebooden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "wanneer jullie zien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "van het verbond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "en de kohaniem"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "de Leviieten"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "dragend"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "zullen opbreken"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "van jullie plaats"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "en gaan"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "achter hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:22.070490992Z",
+  "model": "glm-5.3"
+}

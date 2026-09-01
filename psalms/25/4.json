@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Uw wegen, Jahweh, maak mij bekend; uw paden, leer mij.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "uw wegen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "maak mij bekend"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "uw paden"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "leer mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:07.820434577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "De Geprezene roep ik aan: Jahweh, en van mijn vijanden word ik gered.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "De Geprezene"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "roep ik aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "word ik gered"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:25.719082715Z",
+  "model": "glm-5.3"
+}

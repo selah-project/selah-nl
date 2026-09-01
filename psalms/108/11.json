@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 108,
+  "translation": "Wie brengt mij naar de vestingstad? Wie leidt mij tot ⟨in⟩ Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "brengt mij"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "vesting"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "leidt mij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:18.214408532Z",
+  "model": "glm-5.3"
+}

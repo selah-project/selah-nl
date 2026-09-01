@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "Zij worden binnengeleid in blijdschap en gejuich; zij komen binnen in ⟨het⟩ paleis van ⟨de⟩ koning.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "zij worden binnengeleid"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "in blijdschap"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "en gejuich"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "zij komen binnen"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "in ⟨het⟩ paleis"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van ⟨de⟩ koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:58.776735936Z",
+  "model": "glm-5.3"
+}

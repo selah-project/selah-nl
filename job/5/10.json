@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Die regen geeft op het oppervlak van de aarde, en water zendt op het oppervlak van de buitenplaatsen.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Die geeft"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "regen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het oppervlak van"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "en zendt"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het oppervlak van"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "buitenplaatsen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:12.842202826Z",
+  "model": "glm-5.3"
+}

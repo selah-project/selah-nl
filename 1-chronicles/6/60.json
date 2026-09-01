@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En ⟨את⟩ Chukkok en ⟨את⟩ zijn weivelden, en ⟨את⟩ Rechov en ⟨את⟩ zijn weivelden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Chukkok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Chukkok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn weivelden"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "zijn weivelden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Rechov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn weivelden"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "zijn weivelden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:59:23.190631981Z",
+  "model": "glm-5.3"
+}

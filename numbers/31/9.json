@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En de zonen van Jisraël namen gevangen ⟨את⟩ de vrouwen van Midjan en ⟨את⟩ hun kinderen, en ⟨את⟩ al hun vee, en ⟨את⟩ al hun vee-have, en ⟨את⟩ al hun have plunderden zij.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "en namen gevangen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vrouwen van Midjan"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "de vrouwen van"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hun kinderen"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "hun kinderen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al hun vee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "hun vee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al hun vee-have"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "hun vee-have"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al hun have"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "hun have"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "plunderden zij"
+    }
+  ],
+  "timestamp": "2026-08-31T20:18:11.739658610Z",
+  "model": "glm-5.3"
+}

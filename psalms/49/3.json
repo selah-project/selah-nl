@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Zowel zonen van adam als zonen van isj, samen, rijk en arm.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "zowel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "als"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isj"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "samen"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rijk"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en arm"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:10.898274520Z",
+  "model": "glm-5.3"
+}

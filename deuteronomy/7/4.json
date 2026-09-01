@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "want hij zal uw zoon ⟨את⟩ van achter Mij afwenden, en zij zullen andere eloheim dienen, en de neus van Jahweh zal tegen u ontbranden, en Hij zal u spoedig verdelgen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "hij zal afwenden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw zoon"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "uw zoon"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "van achter Mij"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "en zij zullen dienen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "eloheim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andere"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "en zal ontbranden"
+    },
+    {
+      "surface": "אף",
+      "gloss": "de neus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "tegen u"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "en Hij zal u verdelgen"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "spoedig"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:42.622388842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En Jaakob stond op, en hij zette zijn zonen en zijn vrouwen op de kamelen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en hij stond op"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "en hij zette (tilde op)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn vrouwen"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "zijn vrouwen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "de kamelen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:11.988900243Z",
+  "model": "glm-5.3"
+}

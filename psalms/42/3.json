@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Mijn nefesj dorst naar Elohim, naar ⟨de⟩ El chai — wanneer kom ik en verschijn ik voor het aangezicht van Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "dorst"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "naar Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "naar El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "chai (levend)"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kom ik"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "en verschijn ik"
+    },
+    {
+      "surface": "פני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:22.879799155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "En Jahweh was ⟨את⟩ Jozef gunstig gezind, en hij boog chesed (liefdestrouw) naar hem toe, en gaf hem genade in de ogen van de overste van het gevangenhuis.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en hij was"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "en hij boog"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naar hem toe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en gaf"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "genade"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in de ogen van"
+    },
+    {
+      "surface": "שר",
+      "gloss": "overste"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "van de gevangenis"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:01.664190549Z",
+  "model": "glm-5.3"
+}

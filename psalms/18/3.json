@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Jahweh ⟨is⟩ mijn rots en mijn burcht en mijn bevrijder; mijn El, mijn rots, bij Hem schuil ik; mijn schild en de hoorn van mijn heil, mijn hoogteveste.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mijn rots"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "en mijn burcht"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "en mijn bevrijder"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mijn El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mijn rots"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "schuil ik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bij Hem"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mijn schild"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "en de hoorn"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "van mijn heil"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mijn hoogteveste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:25.718970331Z",
+  "model": "glm-5.3"
+}

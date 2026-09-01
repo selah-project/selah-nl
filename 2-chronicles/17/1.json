@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En Jehosjoea's zoon Jehosjafat werd koning in zijn plaats, en hij versterkte zich tegen Israël.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "werd koning"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "en hij versterkte zich"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:07:26.090984322Z",
+  "model": "glm-5.3"
+}

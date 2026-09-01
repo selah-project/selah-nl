@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En Mosjee schreef ⟨את⟩ alle woorden van Jahweh op, en hij stond vroeg in de morgen op en bouwde een altaar onder aan de berg, en twaalf zuilstenenen voor de twaalf stammen van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "en hij schreef"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle woorden van Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "woorden van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "en hij stond vroeg op"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "en bouwde"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "een altaar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder aan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "en twaalf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "zuilstenen"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "voor de twaalf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "stammen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:10.471807158Z",
+  "model": "glm-5.3"
+}

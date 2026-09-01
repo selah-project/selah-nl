@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij nam ongeveer vijfduizend man en stelde ⟨את⟩ hen als hinderlaag tussen Beit-El en Ha-Ai, ten westen van de stad.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "En hij nam"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "ongeveer vijf"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en stelde"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hen (als hinderlaag)"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "als hinderlaag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ha-Ai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ten westen"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "van de stad"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:53.553376918Z",
+  "model": "glm-5.3"
+}

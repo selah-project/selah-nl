@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 122,
+  "translation": "Om mijn broeders en mijn metgezellen wil zal ik toch spreken: sjalom zij in jou.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "om ... wil"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mijn broeders"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "en mijn metgezellen"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "zal ik spreken"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in jou"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:31.888595692Z",
+  "model": "glm-5.3"
+}

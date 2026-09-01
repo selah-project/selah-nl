@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "dat hij altijd zou leven, eeuwig door, de groeve niet zou zien.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dat hij zou leven"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "altijd"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "eeuwig door"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "zou zien"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "de groeve"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:56.839226674Z",
+  "model": "glm-5.3"
+}

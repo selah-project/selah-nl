@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Wees niet ver van mij, want benauwdheid is nabij, want er is geen helper.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "wees ver"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "benauwdheid"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "is nabij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is niet"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "een helper"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:04.761956127Z",
+  "model": "glm-5.3"
+}

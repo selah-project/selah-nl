@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Jahweh jouw Elohim zal haar in jouw hand geven, en jij zult ⟨את⟩ al haar mannelijken ⟨met⟩ de scherpte van het zwaard slaan.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "en zal geven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jouw hand"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "en jij zult slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al haar mannelijken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "haar mannelijken"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "⟨met⟩ de scherpte"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van het zwaard"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:16.238367301Z",
+  "model": "glm-5.3"
+}

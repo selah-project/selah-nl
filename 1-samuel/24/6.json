@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En het gebeurde daarna, dat het hart van Dawid ⟨את⟩ hem sloeg, omdat hij ⟨את⟩ de slip had afgesneden die van Sjaoel was.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ויך",
+      "gloss": "sloeg"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "hij had gesneden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de slip"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "de slip"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "van Sjaoel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:44.052098098Z",
+  "model": "glm-5.3"
+}

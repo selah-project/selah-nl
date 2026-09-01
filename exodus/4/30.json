@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Aäron sprak ⟨את⟩ alle woorden die Jahweh tot Mosjee gesproken had, en hij deed de tekenen voor de ogen van het volk.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en hij sprak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aäron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle woorden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en hij deed"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "de tekenen"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "voor de ogen van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:54.857181197Z",
+  "model": "glm-5.3"
+}

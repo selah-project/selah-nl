@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 53,
+  "translation": "Wij allen dwaalden als schapen, ieder van ons wendde zich naar zijn eigen weg; en Jahweh heeft op hem ⟨את⟩ de ongerechtigheid van ons allen doen neerkomen.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "wij allen"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "als schapen"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "dwaalden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "naar zijn eigen weg"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "wendde zich"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "heeft doen neerkomen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ongerechtigheid"
+    },
+    {
+      "surface": "עון",
+      "gloss": "de ongerechtigheid"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "van ons allen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:57.622195212Z",
+  "model": "glm-5.3"
+}

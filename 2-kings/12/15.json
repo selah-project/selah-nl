@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Want aan de uitvoerders van het werk gaven zij het, en zij herstelden ermee ⟨את⟩ het huis van Jahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "aan de uitvoerders van"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "het werk"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "gaven zij het"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "en zij herstelden"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ermee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:57.512784966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "O, dat uit Tsisjon de verlossing van Jisraël kwam! Als Jahweh de gevangenschap van zijn volk doet terugkeren, zal Jaakov zich verheugen, zal Jisraël zich verblijden.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "O, dat"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "uit Tsisjon"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "de verlossing"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Als … doet terugkeren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "de gevangenschap"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "van zijn volk"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "zal zich verheugen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "zal zich verblijden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:52.158167438Z",
+  "model": "glm-5.3"
+}

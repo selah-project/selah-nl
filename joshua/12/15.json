@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "de koning van Livna, één; de koning van Adullam, één;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "van Livna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "van Adullam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T20:31:36.916597205Z",
+  "model": "glm-5.3"
+}

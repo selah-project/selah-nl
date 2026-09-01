@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Zo roeide Jehu ⟨את⟩ de Baäl uit Israël uit.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "Zo roeide uit"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Baäl"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "de Baäl"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "uit Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:22.938246013Z",
+  "model": "glm-5.3"
+}

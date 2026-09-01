@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Mijn ogen zijn ten einde gekomen ⟨door te wachten⟩ op uw woord, ⟨en ik zeg⟩: wanneer troost u mij?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "zijn ten einde gekomen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn ogen"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "op uw woord"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨en ik zeg⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "troost u mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:48.049496963Z",
+  "model": "glm-5.3"
+}

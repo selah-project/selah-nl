@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Hij zendt zijn bevel ⟨op⟩ de aarde; heel snel loopt zijn woord.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "hij zendt"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "zijn bevel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heel"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "snel"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "loopt"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "zijn woord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:22.755064889Z",
+  "model": "glm-5.3"
+}

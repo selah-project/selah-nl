@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Afhouwen zal Jahweh alle lippen van vleiende gladheid, ⟨elke⟩ tong die grote dingen spreekt.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "afhouwen zal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lippen"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "van vleiende gladheid"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "⟨elke⟩ tong"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "die spreekt"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "grote dingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:49.194036810Z",
+  "model": "glm-5.3"
+}

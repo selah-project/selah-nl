@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En het gebeurde, toen heel Jisraël hoorde dat Jerav'am teruggekeerd was, dat zij ⟨hem⟩ boden sturen en hem tot de vergadering riepen, en zij maakten hem koning over heel Jisraël; niemand volgde het huis van Dawid, behalve de stam Jehoeda alleen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toen … hoorde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שב",
+      "gloss": "teruggekeerd was"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerav'am"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "dat zij boden sturen"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "en riepen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem (tot de vergadering)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "en zij maakten koning"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem (over heel Jisraël)"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niemand"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "volgde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis van"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "behalve"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "de stam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:32.610010924Z",
+  "model": "glm-5.3"
+}

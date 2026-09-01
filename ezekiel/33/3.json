@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "en hij ziet ⟨את⟩ het zwaard komen over het land, en hij blaast in de sjofar en waarschuwt ⟨את⟩ het volk,",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "en hij ziet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het zwaard"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "het zwaard"
+    },
+    {
+      "surface": "באה",
+      "gloss": "komen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "en hij blaast"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "in de sjofar"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "en waarschuwt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:49:36.944788631Z",
+  "model": "glm-5.3"
+}

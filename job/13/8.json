@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 13:8",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Zijn aangezicht zult gij opheffen, ⟨alsof⟩ gij voor El twist zou voeren?",
+  "tokens": [
+    {
+      "surface": "הפניו",
+      "gloss": "zijn aangezicht"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "zult gij opheffen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨alsof⟩ \/ of"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "voor El"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "zou twist voeren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:23.694195683Z",
+  "model": "glm-5.3"
+}

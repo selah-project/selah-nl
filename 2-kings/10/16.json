@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En hij zei: Kom ⟨את⟩ met mij en zie mijn ijver voor Jahweh. En zij deden hem rijden in zijn wagen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ met mij"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "mijn ijver"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "En zij deden rijden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "in zijn wagen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:58.717140816Z",
+  "model": "glm-5.3"
+}

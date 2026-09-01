@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En een man die bij een man ligt, ⟨את⟩ een man, bij het liggen met een vrouw — een gruwel hebben zij beide gedaan; dood zullen zij gedood worden, hun bloed is op hen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "En een man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ligt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "een man"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "een man (mannelijke)"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "bij het liggen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "met een vrouw"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "een gruwel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hebben gedaan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "zij beide"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "zullen gedood worden"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "hun bloed"
+    },
+    {
+      "surface": "בם",
+      "gloss": "is op hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:59.736158434Z",
+  "model": "glm-5.3"
+}

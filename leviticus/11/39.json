@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 11:39",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En wanneer ⟨er⟩ van het vee, dat jullie ⟨tot⟩ spijze ⟨dient⟩, ⟨eéntje⟩ sterft — wie het kadaver ervan aanraakt, is onrein tot de avond.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "En wanneer"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sterft"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨het⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "⟨tot⟩ spijste"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wie aanraakt"
+    },
+    {
+      "surface": "בנבלתה",
+      "gloss": "het kadaver ervan"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "is onrein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "de avond"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:07.733571842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij slachtte ⟨hem⟩, en Mosjee sprenkelde ⟨את⟩ het bloed op het altaar rondom.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "en hij slachtte"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "en sprenkelde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:09.065591812Z",
+  "model": "glm-5.3"
+}

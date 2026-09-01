@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 4:15",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij zei tot mij: Zie, ik geef jou rundermest in plaats van mensenmest, en je zult daarop je brood bereiden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ik geef"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rundermest"
+    },
+    {
+      "surface": "צפועי",
+      "gloss": "rundermest"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "van het rund"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "גללי",
+      "gloss": "mest"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en je zult bereiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je brood"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "je brood"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "daarop"
+    }
+  ],
+  "timestamp": "2026-08-31T21:42:08.265628843Z",
+  "model": "glm-5.3"
+}

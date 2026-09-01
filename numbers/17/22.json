@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En Mosjee legde ⟨את⟩ de staven neer voor het aangezicht van Jahweh, in de tent van de getuigenis.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "en legde neer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de staven"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "de staven"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in de tent"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "van de getuigenis"
+    }
+  ],
+  "timestamp": "2026-08-31T20:13:41.959068765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "en ⟨את⟩ de dochter van de struisvogel, en ⟨את⟩ de nachtzwaluw, en ⟨את⟩ de meeuw, en ⟨את⟩ de havik naar zijn soort,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de dochter van de struisvogel"
+    },
+    {
+      "surface": "בת",
+      "gloss": "de dochter"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "van de struisvogel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de nachtzwaluw"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "de nachtzwaluw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de meeuw"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "de meeuw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de havik"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "de havik"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "naar zijn soort"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:07.936071220Z",
+  "model": "glm-5.3"
+}

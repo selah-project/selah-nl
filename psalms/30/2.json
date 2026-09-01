@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Jahweh, ik verhef U, want U hebt mij omhooggehaald, en mijn vijanden hebt U geen vreugde doen smaken over mij.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "ik verhef U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "U hebt mij omhooggehaald"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "hebt U vreugde doen smaken"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "לי",
+      "gloss": "over mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:26.834210651Z",
+  "model": "glm-5.3"
+}

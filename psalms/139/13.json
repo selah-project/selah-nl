@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "Want jij hebt mijn nieren geschapen, jij hebt mij geweven in de schoot van mijn moeder.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "heb je geschapen"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "mijn nieren"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "heb je geweven"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "in de schoot"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "van mijn moeder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:24.277000207Z",
+  "model": "glm-5.3"
+}

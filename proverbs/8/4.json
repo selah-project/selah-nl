@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Tot ú, mannen, roep ik, en mijn stem is tot de mensenkinderen",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "tot ú"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "roep ik"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "en mijn stem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:59.470435731Z",
+  "model": "glm-5.3"
+}

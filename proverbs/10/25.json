@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Als ⟨een⟩ stormwind voorbijgaat en de slechte ⟨is er⟩ niet meer, maar de rechtvaardige ⟨is⟩ een eeuwige fundering.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "als het voorbijgaan"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "stormwind"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en ⟨is er⟩ niet"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de slechte"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "maar de rechtvaardige"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "een fundering"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:16.362789330Z",
+  "model": "glm-5.3"
+}

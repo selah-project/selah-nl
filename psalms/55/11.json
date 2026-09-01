@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Overdag en nacht omringen zij haar, op haar muren, en onrecht en verdrukking ⟨zijn⟩ in haar binnenste.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "overdag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en nacht"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "omringen zij haar"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "haar muren"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "en onrecht"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "en verdrukking"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "in haar binnenste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:43.773729151Z",
+  "model": "glm-5.3"
+}

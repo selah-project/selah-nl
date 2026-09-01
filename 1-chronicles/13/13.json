@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Dawid verwijderde ⟨את⟩ de ark niet naar zich toe, naar de stad van Dawid, maar hij wendde haar af naar het huis van Oved-Edom de Gittiet.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "verwijderde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naar zich toe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "maar hij wendde haar af"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "de Gittiet"
+    }
+  ],
+  "timestamp": "2026-08-31T23:00:27.158299650Z",
+  "model": "glm-5.3"
+}

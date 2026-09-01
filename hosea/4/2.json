@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Vloeken en liegen, en moorden en stelen, en echtbreuk plegen — ⟨zij⟩ breken uit, en bloed raakt aan bloed.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Vloeken"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "en liegen"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "en moorden"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "en stelen"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "en echtbreuk plegen"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "breken uit"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "en bloed"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "aan bloed"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "raakt"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:43.882401967Z",
+  "model": "glm-5.3"
+}

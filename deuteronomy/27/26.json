@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Vervloekt ⟨is⟩ wie de woorden van deze Torah niet bevestigt om ze te doen; en heel het volk zal zeggen: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Vervloekt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "bevestigt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de woorden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "van deze Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "van deze Torah"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "ze (⟨את⟩ + verwijzing naar de woorden)"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en zal zeggen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:38.721188677Z",
+  "model": "glm-5.3"
+}

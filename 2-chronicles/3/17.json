@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En hij richtte ⟨את⟩ de zuilen op, vóór de tempel, één rechts en één links; en hij noemde de naam van de rechtse Jachin, en de naam van de linkse Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en hij richtte op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zuilen"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "de zuilen"
+    },
+    {
+      "surface": "על",
+      "gloss": "vóór"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht van"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "de tempel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "rechts"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "en één"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "links"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij noemde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "van de rechtse"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Jachin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en de naam"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "van de linkse"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-31T23:04:30.809809770Z",
+  "model": "glm-5.3"
+}

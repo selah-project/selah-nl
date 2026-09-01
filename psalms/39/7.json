@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "Slechts als een schim wandelt de mens; slechts ijdel ⟨is⟩ hun geraas; hij stapelt op en weet niet wie ⟨ze⟩ verzamelen zal.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Slechts"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "als een schim"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "wandelt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "אך",
+      "gloss": "slechts"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ijdel"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "hun geraas"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "hij stapelt op"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "ze verzamelen zal"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:16.794850347Z",
+  "model": "glm-5.3"
+}

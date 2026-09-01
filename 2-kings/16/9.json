@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En de koning van Assjoer luisterde naar hem; en de koning van Assjoer trok op naar Damasjek, en nam ⟨את⟩ haar in, en voerde ⟨את⟩ haar ⟨bevolking⟩ weg naar Kir, en Retsin doodde hij.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en luisterde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naar hem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assjoer"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en trok op"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assjoer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasjek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "en nam haar in"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "en voerde weg"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "naar Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "doodde hij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:09.604973476Z",
+  "model": "glm-5.3"
+}

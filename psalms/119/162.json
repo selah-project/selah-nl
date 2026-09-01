@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik verblijd mij over uw woord, als ⟨iemand⟩ die grote buit vindt.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ik verblijd mij"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "uw woord"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "als ⟨iemand⟩ die vindt"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "buit"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grote"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:41.184630752Z",
+  "model": "glm-5.3"
+}

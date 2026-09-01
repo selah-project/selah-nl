@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Zoals de volken die Jahweh ⟨voor⟩ jullie ⟨aangezicht⟩ doet vergaan, zo zullen jullie vergaan, omdat jullie niet luisteren naar de stem van Jahweh jullie Elohim.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "Zoals de volken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "doet vergaan"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "⟨voor⟩ jullie ⟨aangezicht⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "zullen jullie vergaan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "jullie luisteren"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:33.612897922Z",
+  "model": "glm-5.3"
+}

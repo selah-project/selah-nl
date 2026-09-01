@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Als volstrekt weigert haar vader haar aan hem te geven, zal hij zilver afwegen naar de bruidsprijs van de jongedochters.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "volstrekt weigert"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "weigert"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "haar vader"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "haar te geven"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hem"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "zal hij afwegen"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "naar de bruidsprijs"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "van de jongedochters"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:36.366246308Z",
+  "model": "glm-5.3"
+}

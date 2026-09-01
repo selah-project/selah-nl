@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Dezen zijn de zonen van Cham, naar hun geslachten, naar hun tongen, in hun landen, in hun natiën.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dezen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "naar hun geslachten"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "naar hun tongen"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "in hun landen"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "in hun natiën"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:25.501541583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Jericho was gesloten en afgesloten vanwege de kinderen van Israël — niemand ging eruit en niemand kwam erin.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "En Jericho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "was gesloten"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "en afgesloten"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niemand"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ging eruit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en niemand"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwam erin"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:46.211996582Z",
+  "model": "glm-5.3"
+}

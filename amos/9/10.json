@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 9:10",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Door het zwaard zullen sterven alle zondaars van mijn volk, die zeggen: Het kwaad zal niet naderen en ons niet treffen.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "door het zwaard"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "zullen sterven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "zondaars"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "van mijn volk"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "die zeggen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגיש",
+      "gloss": "zal naderen"
+    },
+    {
+      "surface": "ותקדים",
+      "gloss": "en zal treffen"
+    },
+    {
+      "surface": "בעדינו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "het kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T21:57:55.101215873Z",
+  "model": "glm-5.3"
+}

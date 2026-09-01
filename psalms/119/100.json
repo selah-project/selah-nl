@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Van oudsten ben ik beter van inzicht, want uw foekoedim heb ik bewaard.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "dan oudsten"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ben ik beter van inzicht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "uw foekoedim"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "heb ik bewaard"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:52.668296077Z",
+  "model": "glm-5.3"
+}

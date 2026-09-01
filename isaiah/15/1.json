@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Last van Moav: omdat in één nacht verwoest is Ar van Moav, ⟨is⟩ het verstomd; omdat in één nacht verwoest is Kir van Moav, ⟨is⟩ het verstomd.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Last"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "in één nacht"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "verwoest is"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "verstomd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "in één nacht"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "verwoest is"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "verstomd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:09.022763102Z",
+  "model": "glm-5.3"
+}

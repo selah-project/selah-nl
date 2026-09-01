@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Want vanwege de stem van Jahweh wordt Asjoer neergeveld; met de staf slaat hij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "vanwege de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "wordt neergeveld"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asjoer"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "met de staf"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "slaat hij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:48.026027168Z",
+  "model": "glm-5.3"
+}

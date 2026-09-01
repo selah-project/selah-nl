@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Par'o zei: Zie, talrijk is nu het volk van het land, en jullie laten ⟨את⟩ hen ophouden met hun zware arbeid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "הן",
+      "gloss": "zie"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "talrijk"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "en jullie laten ophouden"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "met hun zware arbeid"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:40.023332566Z",
+  "model": "glm-5.3"
+}

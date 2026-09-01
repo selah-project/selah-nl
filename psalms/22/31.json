@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Een nakomeling zal hem dienen; over Adonai zal ⟨het⟩ verteld worden aan het komende geslacht.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "een nakomeling"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "zal hem dienen"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "zal verteld worden"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "over Adonai"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "aan het geslacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:33.736370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Een volmaakt dier ⟨van de kudde⟩, een mannetje, zoon van een jaar, zal het voor jullie zijn; uit de schapen of uit de geiten zullen jullie het nemen.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "een dier ⟨van de kudde⟩"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "volmaakt"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mannetje"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "van een jaar"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal het zijn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "de schapen"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "of uit"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "de geiten"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "zullen jullie nemen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:40.063030609Z",
+  "model": "glm-5.3"
+}

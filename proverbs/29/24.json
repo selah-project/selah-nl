@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Wie deelt met een dievenbende haat zijn eigen nefesj; ⟨zelfs⟩ als hij een vloekzweer hoort, zegt hij niets.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "wie deelt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "een dief"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "haat"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn nefesj"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "een vloekzweer"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hoort"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "verkondigt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:40.813759197Z",
+  "model": "glm-5.3"
+}

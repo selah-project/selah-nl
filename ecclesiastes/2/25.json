@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Want wie zal eten, en wie zal zich verheugen, buiten mij om?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zal eten"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "zal zich verheugen"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mij om"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:28.345363102Z",
+  "model": "glm-5.3"
+}

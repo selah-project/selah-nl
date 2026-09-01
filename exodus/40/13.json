@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En gij zult ⟨את⟩ Aharon kleden ⟨את⟩ met de heilige klederen, en gij zult ⟨את⟩ hem zalven en ⟨את⟩ hem heiligen, en hij zal voor Mij het priesterambt vervullen.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "en gij zult kleden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ met"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "de klederen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van de heiligheid"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "en gij zult zalven"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "en gij zult heiligen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "en hij zal priester dienen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor Mij"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:05.450605961Z",
+  "model": "glm-5.3"
+}

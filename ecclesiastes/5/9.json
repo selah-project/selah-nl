@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Die zilver liefheeft, wordt van zilver niet verzadigd, en wie overvloed liefheeft — ⟨er is⟩ geen opbrengst; ook dit is hevel (ijdelheid).",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "liefheeft"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "wordt verzadigd"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "van zilver"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liefheeft"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "overvloed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "opbrengst"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel (ijdelheid)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:38.877123537Z",
+  "model": "glm-5.3"
+}

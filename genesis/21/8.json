@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En het kind groeide en werd gespeend, en Avraham maakte een groot drinkgelag op de dag dat Jitschak werd gespeend ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "En groeide"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "het kind"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "en werd gespeend"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en maakte"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "een drinkgelag"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "dat gespiend werd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:13.805310059Z",
+  "model": "glm-5.3"
+}

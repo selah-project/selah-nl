@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En zij namen ⟨את⟩ hun beenderen en begroeven ⟨ze⟩ onder de esjel in Javesj, en zij vastten zeven dagen.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "en zij namen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun beenderen"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "hun beenderen"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "en begroeven"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "de esjel"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "in Javesj"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "en zij vastten"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:46.679073003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Mogen alle mijn vijanden beschaamd worden en hevig ontsteld; moge⟨n⟩ ⟨zij⟩ omkeren, in een oogwenk beschaamd worden.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "beschaamd worden"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "en ontsteld"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hevig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "omkeren"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "beschaamd worden"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "in een oogwenk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:12.554070851Z",
+  "model": "glm-5.3"
+}

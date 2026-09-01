@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 97,
+  "translation": "Licht is gezaaid voor de tsaddiek, en voor de oprechten van hart ⟨is⟩ vreugde.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "licht"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "is gezaaid"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "voor de tsaddiek (rechtvaardige)"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "en voor de oprechten"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "vreugde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:43.687857352Z",
+  "model": "glm-5.3"
+}

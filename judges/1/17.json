@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 1:17",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jehudah ging ⟨את⟩ met Sjim'on, zijn broeder, en zij sloegen de Kna'ani, bewoner van Tsefat, en zij wijdden ⟨את⟩ haar aan de ban, en hij noemde de naam van de stad Chorma.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ met",
+      "marks": "Sjim'on (prepositie 'met', geen DOM)"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Sjim'on"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broeder"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en zij sloegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Kna'ani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "de Kna'ani"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bewoner van"
+    },
+    {
+      "surface": "צפת",
+      "gloss": "Tsefat"
+    },
+    {
+      "surface": "ויחרימו",
+      "gloss": "en zij wijdden aan de ban"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ haar",
+      "marks": "haar (Tsefat)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij noemde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de naam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Chorma"
+    }
+  ],
+  "timestamp": "2026-08-31T20:35:10.516028847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "omdat zij niet geloofden in Elohim en niet vertrouwden op zijn verlossing.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "zij geloofden"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "(zij) vertrouwden"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "op zijn verlossing"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:45.521869444Z",
+  "model": "glm-5.3"
+}

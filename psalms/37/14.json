@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Een zwaard hebben de goddelozen ontbloot en hun boog gespannen, om de arme en de behoeftige te doen vallen, om de oprechten van de weg te slachten.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "een zwaard"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ontbloot"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddelozen"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "gespannen (letterlijk: getreden)"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "hun boog"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "te doen vallen"
+    },
+    {
+      "surface": "עני",
+      "gloss": "de arme"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "de behoeftige"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "om te slachten"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "de oprechten"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "van de weg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:29.923252640Z",
+  "model": "glm-5.3"
+}

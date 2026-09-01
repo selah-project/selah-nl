@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Alleen, in jouw dagen zal ik het niet doen, om Dawid, jouw vader, ⟨wil⟩; uit de hand van jouw zoon zal ik het scheuren.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Alleen"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "in jouw dagen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "zal ik het doen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "jouw vader"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "van jouw zoon"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "zal ik het scheuren"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:34.179197985Z",
+  "model": "glm-5.3"
+}

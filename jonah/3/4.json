@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Jonah begon de stad binnen te gaan, een dagreis, en hij riep en zei: nog veertig dagen en Ninevé wordt omgekeerd.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "en hij begon"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonah"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "binnen te gaan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "een reisafstand"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij riep"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "en Ninevé"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "wordt omgekeerd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:46.027841003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En zij weten niet het rechte te doen, luidt het ⟨woord⟩ van Jahweh — zij die geweld en roof ophopen in hun burchten.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "En niet"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "weten zij"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "te doen"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "het rechte"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "luidt het ⟨woord⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "zij die ophopen"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "en roof"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "in hun burchten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:49.099081347Z",
+  "model": "glm-5.3"
+}

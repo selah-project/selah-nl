@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 9:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En de wachter meldde zeggende: Hij is tot bij hen gekomen en keerde niet terug; en het rijden ⟨is⟩ als het rijden van Jehoe, zoon van Nimsi, want in waanzin rijdt hij.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "En hij meldde"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "de wachter"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hij is gekomen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "bij hen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שב",
+      "gloss": "keerde terug"
+    },
+    {
+      "surface": "והמנהג",
+      "gloss": "en het rijden"
+    },
+    {
+      "surface": "כמנהג",
+      "gloss": "als het rijden"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "van Jehoe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "in waanzin"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "rijdt hij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:39.472740747Z",
+  "model": "glm-5.3"
+}

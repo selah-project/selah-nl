@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Een psalm, een lied bij ⟨de⟩ inwijding van ⟨het⟩ huis, van David.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lied"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "inwijding"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:26.833994960Z",
+  "model": "glm-5.3"
+}

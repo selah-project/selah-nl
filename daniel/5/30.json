@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "In díe nacht werd Belshatsar, de koning van de Chaldeeuwen, gedood.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "in die"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "nacht"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "werd gedood"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Belshatsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "van de Chaldeeuwen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:47:08.893345833Z",
+  "model": "glm-5.3"
+}

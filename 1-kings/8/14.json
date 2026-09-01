@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En de koning wendde zijn gezicht en zegende ⟨את⟩ heel de vergadering van Israël, en heel de vergadering van Israël stond.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "en hij wendde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn gezicht"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zijn gezicht"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en zegende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel de vergadering van Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stond"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:39.389531910Z",
+  "model": "glm-5.3"
+}

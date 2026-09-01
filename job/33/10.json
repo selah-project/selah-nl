@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 33:10",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Zie, ⟨hij⟩ vindt aanklachten tegen mij, hij rekent mij ⟨als⟩ vijand voor zich.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "תנואות",
+      "gloss": "aanklachten"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "vindt"
+    },
+    {
+      "surface": "יחשבני",
+      "gloss": "hij rekent mij"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "⟨als⟩ vijand"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor zich"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:03.080879352Z",
+  "model": "glm-5.3"
+}

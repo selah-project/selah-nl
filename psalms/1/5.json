@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Daarom zullen de reflaatsen niet opstaan in het gericht, noch de zondaars in de gemeente van de rechtvaardigen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "daarom (om)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "zullen opstaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de reflaatsen"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in het gericht"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "noch de zondaars"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "in de gemeente van"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rechtvaardigen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:11.490542604Z",
+  "model": "glm-5.3"
+}

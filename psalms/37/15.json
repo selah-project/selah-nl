@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Hun zwaard zal in hun eigen hart komen, en hun bogen zullen gebroken worden.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "hun zwaard"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "zal komen"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "in hun hart"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "en hun bogen"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "zullen gebroken worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:29.923405328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Onderwijs mij, Jahweh, de weg van uw verordeningen, en ik zal die bewaren tot het einde.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "onderwijs mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "van uw verordeningen"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "en ik zal die bewaren"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tot het einde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:25.566044339Z",
+  "model": "glm-5.3"
+}

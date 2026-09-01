@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 149,
+  "translation": "om wraak te doen aan de naties, bestraffingen aan de volken;",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "wraak"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "aan de naties"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "bestraffingen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "de volken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:14.843461387Z",
+  "model": "glm-5.3"
+}

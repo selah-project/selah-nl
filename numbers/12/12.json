@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 12:12",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Laat haar toch niet zijn als ⟨een⟩ dode, van wie bij zijn uitgang uit de moederschoot de helft van zijn vlees is verteerd.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "laat...zijn"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "als ⟨een⟩ dode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "van wie"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "bij zijn uitgang"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "uit de moederschoot"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "van zijn moeder"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "is verteerd"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "de helft"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "van zijn vlees"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:29.361392570Z",
+  "model": "glm-5.3"
+}

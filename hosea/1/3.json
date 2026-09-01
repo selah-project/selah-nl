@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij ging en nam ⟨את⟩ Gomer, dochter van Diblajim; en zij werd zwanger en baarde hem een zoon.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblajim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "en zij werd zwanger"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en zij baarde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:38.965107630Z",
+  "model": "glm-5.3"
+}

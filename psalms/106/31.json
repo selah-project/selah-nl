@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En het werd hem gerechtigheid toegerekend, van geslacht tot geslacht, tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "en het werd toegerekend"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "als gerechtigheid"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "van geslacht"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "tot geslacht"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:51.800697386Z",
+  "model": "glm-5.3"
+}

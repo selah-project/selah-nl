@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 57,
+  "translation": "Ik zal U loven onder de volken, Adonai; ik zal U een zang laten horen onder ⟨de⟩ natiën.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ik zal U loven"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "onder de volken"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ik zal U een zang laten horen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "onder"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "de natiën"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:21.903472237Z",
+  "model": "glm-5.3"
+}

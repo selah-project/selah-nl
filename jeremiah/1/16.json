@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Ik zal mijn oordelen uitspreken over ⟨את⟩ hen, over al hun kwaad, dat zij Mij verlaten hebben en rookoffers gebracht hebben aan andere elohim, en zich gebogen hebben voor het werk van hun handen.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "en Ik zal uitspreken"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mijn oordelen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hen (over wie de oordelen gaan)"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "hun kwaad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "zij Mij verlaten hebben"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "en rookoffers gebracht"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andere"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "en zich gebogen"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "voor het werk"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "van hun handen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:27:09.414628625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 14:32",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Door zijn eigen boosheid wordt de goddeloze weggeduwd, maar de rechtvaardige vindt ⟨een⟩ toevlucht in zijn dood.",
+  "tokens": [
+    {
+      "surface": "ברעתו",
+      "gloss": "door zijn eigen boosheid"
+    },
+    {
+      "surface": "ידחה",
+      "gloss": "wordt weggeduwd"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "maar vindt toevlucht"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "in zijn dood"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de rechtvaardige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:31.132817764Z",
+  "model": "glm-5.3"
+}

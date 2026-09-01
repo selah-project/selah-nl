@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Jahweh zag dat hij was afgeweken om te zien, en Elohim riep naar hem uit het midden van de struik, en hij zei: Mosjee, Mosjee. En hij zei: Zie ik ⟨ben⟩ hier.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hij zag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "סר",
+      "gloss": "hij was afgeweken"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en riep"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naar hem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit het midden van"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "de struik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Zie ik ⟨ben⟩ hier"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:40.759071217Z",
+  "model": "glm-5.3"
+}

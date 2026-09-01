@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En ik zal het nageslacht van David ⟨את⟩ om deze ⟨zaak⟩ vernederen — maar niet alle dagen.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "en ik zal vernederen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het nageslacht van David"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslacht"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "אך",
+      "gloss": "maar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:39.395980932Z",
+  "model": "glm-5.3"
+}

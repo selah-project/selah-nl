@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 117,
+  "translation": "Looft Jahweh, alle natiën; prijs Hem, alle volken!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Looft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "natiën"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "prijs Hem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "volken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:59.355917983Z",
+  "model": "glm-5.3"
+}

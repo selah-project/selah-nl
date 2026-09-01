@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Mogen ze worden uitgewist uit het boek der levenden, en met de rechtvaardigen mogen ze niet worden geschreven.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "mogen worden uitgewist"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "uit het boek"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "der levenden"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rechtvaardigen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "mogen worden geschreven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:51.163836614Z",
+  "model": "glm-5.3"
+}

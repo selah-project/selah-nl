@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "U bent een schuilplaats voor mij, van benauwdheid bewaart U mij; met jubelzangen van verlossing omringt U mij. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "schuilplaats"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "van benauwdheid"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "bewaart U mij"
+    },
+    {
+      "surface": "רני",
+      "gloss": "met jubelzangen"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "van verlossing"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "omringt U mij"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:31.441963664Z",
+  "model": "glm-5.3"
+}

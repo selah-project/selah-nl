@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En zij ging door met baren: ⟨את⟩ zijn broer, ⟨את⟩ Hevel. En Hevel werd herder van kleinvee, en Kajin werd bewerker van de grond.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "en zij ging door"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "met baren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn broer"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en hij werd"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "herder van"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kleinvee"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "en Kajin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "werd"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "bewerker van"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "de grond"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:11.544202004Z",
+  "model": "glm-5.3"
+}

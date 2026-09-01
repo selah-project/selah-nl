@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 99,
+  "translation": "Laten zij Uw naam loven — groot en ontzagwekkend, heilig ⟨is⟩ Hij.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "laten zij loven"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Uw naam"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "en ontzagwekkend"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:49.793834573Z",
+  "model": "glm-5.3"
+}

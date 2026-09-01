@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Dawid wist dat Jahweh hem bevestigd had als koning over Israël, en dat hij zijn koninkrijk verhoogd had omwille van zijn volk Israël.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "en wist"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "bevestigd had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "als koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "en dat"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "verhoogd had"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "zijn koninkrijk"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "omwille van"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:51:15.228287181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En Ijob stierf, oud en verzadigd van dagen.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "en stierf"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "oud"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "en verzadigd"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:21.139419350Z",
+  "model": "glm-5.3"
+}

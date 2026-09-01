@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 123,
+  "translation": "Overvloedig is verzadigd ⟨met verachting⟩ onze nefesj — ⟨door⟩ het gespot van de zorgelozen, de verachting van de hoogmoetigen.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Overvloedig"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "is verzadigd"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨met verachting⟩"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "onze nefesj"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "het gespot"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "van de zorgelozen"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "de verachting"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "van de hoogmoetigen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:59.432504036Z",
+  "model": "glm-5.3"
+}

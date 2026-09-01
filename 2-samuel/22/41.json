@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "2-samuel 22:41",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Mijn vijanden gaf je mij ⟨de⟩ nek ⟨aan⟩; wie mij haten — ik roei ze uit.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "תתה",
+      "gloss": "gaf je"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nek"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "wie mij haten"
+    },
+    {
+      "surface": "ואצמיתם",
+      "gloss": "ik roei ze uit"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:32.927098366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "De rechtvaardige kent het recht van de armen, de goddeloze verstaat geen kennis.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de rechtvaardige"
+    },
+    {
+      "surface": "דין",
+      "gloss": "het recht"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "van de armen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "verstaat"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:37.730349737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "En hij rukte Par'o en zijn leger om in de Zee van Soef, ja voor eeuwig ⟨duurt⟩ zijn chesed (trouw-liefde).",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "en hij rukte om"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "en zijn leger"
+    },
+    {
+      "surface": "בים",
+      "gloss": "in de Zee"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "van Soef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:15.144308233Z",
+  "model": "glm-5.3"
+}

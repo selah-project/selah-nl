@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En zij zeiden: Laat ons het jonge meisje roepen en ⟨את⟩ haar mond vragen.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "En zij zeiden"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "laat ons roepen"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "het jonge meisje"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "en laten wij vragen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar mond"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "haar mond"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:45.876957638Z",
+  "model": "glm-5.3"
+}

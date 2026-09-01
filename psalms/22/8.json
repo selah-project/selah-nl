@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Allen die mij zien, bespotten mij; zij vertrekken ⟨de⟩ lip, zij schudden ⟨het⟩ hoofd.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "die mij zien"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "bespotten zij"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "vertrekken zij"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "de lip"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "schudden zij"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "het hoofd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:01.725649760Z",
+  "model": "glm-5.3"
+}

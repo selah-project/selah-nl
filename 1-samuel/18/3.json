@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Jehonatan en David sneden een verbond, omdat hij ⟨את⟩ hem liefhad als zijn eigen nefesj.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "En hij sneed"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "en David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "een verbond"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "omdat hij liefhad"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "als zijn eigen nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T20:46:42.967423704Z",
+  "model": "glm-5.3"
+}

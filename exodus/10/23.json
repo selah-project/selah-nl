@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Geen man zag ⟨את⟩ zijn broeder, en geen man stond op van zijn plaats, drie dagen; maar voor alle kinderen van Jisraël was er licht in hun woonplaatsen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "zij zagen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn broeder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broeder"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "stonden op"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "van onder zichzelf"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "en voor alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was er"
+    },
+    {
+      "surface": "אור",
+      "gloss": "licht"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "in hun woonplaatsen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:39.392302977Z",
+  "model": "glm-5.3"
+}

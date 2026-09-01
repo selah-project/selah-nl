@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Tucht is een kwelling voor wie de weg verlaat; wie terechtwijzing haat, zal sterven.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "tucht"
+    },
+    {
+      "surface": "רע",
+      "gloss": "een kwelling"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "voor wie verlaat"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "wie haat"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "terechtwijzing"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zal sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:57.094445387Z",
+  "model": "glm-5.3"
+}

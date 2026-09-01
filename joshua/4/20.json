@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En ⟨את⟩ die twaalf stenen, die zij uit de Jarden genomen hadden, richtte Jehosjoea op in Gilgal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die twaalf stenen"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twaalf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(twee)-(tien)"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "de stenen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "die"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "genomen hadden"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "richtte op"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "in Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:04.067972871Z",
+  "model": "glm-5.3"
+}

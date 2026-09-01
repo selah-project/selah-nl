@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "Een psalm, een lied, voor de dag van de sjabbat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "een psalm"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "voor de dag van"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "de sjabbat"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:08.916162693Z",
+  "model": "glm-5.3"
+}

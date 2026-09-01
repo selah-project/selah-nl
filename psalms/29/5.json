@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "De stem van Jahweh breekt ceders, ja, Jahweh breekt ⟨את⟩ de ceders van de Libanon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "breekt"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ceders"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ja, breekt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ceders van de Libanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "de ceders van"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "de Libanon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:19.663818273Z",
+  "model": "glm-5.3"
+}

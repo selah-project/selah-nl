@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Laat Elohim opstaan, laat ⟨zijn⟩ vijanden verstrooid worden, en laat wie Hem haten vluchten voor Zijn aangezicht.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "laat opstaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "laat verstrooid worden"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "zijn vijanden"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "en laat vluchten"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "wie Hem haten"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "voor Zijn aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.200983005Z",
+  "model": "glm-5.3"
+}

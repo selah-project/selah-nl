@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Niet gezuurd moet het gebakken worden; als hun deel heb ik het gegeven ⟨את⟩ ⟨het⟩ uit mijn vuuroffers; het is heilig der heiligen, zoals het zondoffer en zoals het schuldoffer.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "moet het gebakken worden"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "gezuurd"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "als hun deel"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "heb ik gegeven"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "het (uit mijn vuuroffers)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "uit mijn vuuroffers"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "der heiligen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "zoals het zondoffer"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "en zoals het schuldoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:43.487325307Z",
+  "model": "glm-5.3"
+}

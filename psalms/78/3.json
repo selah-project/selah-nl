@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "die wij gehoord en gekend hebben, en onze vaders hebben ze ons verteld.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "wij gehoord hebben"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "en gekend"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "en onze vaders"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "hebben verteld"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:56.872075015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "ook duisternis verduistert niet voor u, en de nacht straalt als de dag; zoals duisternis, zo ⟨is⟩ het licht.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "verduistert"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en de nacht"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "als de dag"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "straalt"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "zoals duisternis"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "zo het licht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:17.429372801Z",
+  "model": "glm-5.3"
+}

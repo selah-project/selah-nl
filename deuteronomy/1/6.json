@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Jahweh, onze Elohim, heeft tot ons gesproken in Chorev, zeggende: genoeg ⟨is het⟩ voor u, ⟨om⟩ te verblijven op dit gebergte;",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "heeft gesproken"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "tot ons"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "in Chorev"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "רב",
+      "gloss": "genoeg"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "te verblijven"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op dit gebergte"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:26.899105488Z",
+  "model": "glm-5.3"
+}

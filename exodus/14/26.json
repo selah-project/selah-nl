@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En Jahweh zei tot Mosjee: Strek ⟨את⟩ uw hand uit over de zee, en laten de wateren terugkeren over Mitsrajim, over zijn ruiters en over zijn paarden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "strek uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uw hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "en laten terugkeren"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "zijn ruiters"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en over"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "zijn paarden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:31.987422112Z",
+  "model": "glm-5.3"
+}

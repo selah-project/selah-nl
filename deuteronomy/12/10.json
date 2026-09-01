@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En jullie zullen oversteken ⟨את⟩ de Jarden, en jullie zullen wonen in het land dat Jahweh, jullie Elohim, jullie ⟨את⟩ doet erven; en ⟨Hij⟩ zal jullie rust geven van al jullie vijanden rondom, en jullie zullen in veiligheid wonen.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "en jullie zullen oversteken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "en jullie zullen wonen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "doet erven"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jullie"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "en ⟨Hij⟩ zal rust geven"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van alle"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "jullie vijanden"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "en jullie zullen wonen"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "in veiligheid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:05.760602360Z",
+  "model": "glm-5.3"
+}

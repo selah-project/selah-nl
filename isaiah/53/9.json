@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 53,
+  "translation": "En men gaf ⟨את⟩ de goddelozen zijn graf, en ⟨את⟩ de rijke bij zijn dood — om ⟨dat⟩ hij geen geweld gedaan had en geen bedrog in zijn mond was.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en men gaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de goddelozen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "zijn graf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de rijke"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "de rijke"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "bij zijn dood"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedaan had"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrog"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "in zijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:37.706434033Z",
+  "model": "glm-5.3"
+}

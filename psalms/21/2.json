@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Jahweh, in uw kracht verheugt zich de koning, en in uw heil — hoe juicht hij ⟨maar⟩ zeer!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "in uw kracht"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "verheugt zich"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "en in uw heil"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "juicht hij"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:46.033531084Z",
+  "model": "glm-5.3"
+}

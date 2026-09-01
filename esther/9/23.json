@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En de Joden namen ⟨את⟩ aan wat zij begonnen waren te doen, en ⟨את⟩ wat Mordechai tot hen geschreven had",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "En namen aan"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "de Joden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat zij begonnen waren te doen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "begonnen waren"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "te doen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "wat Mordechai geschreven had"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "geschreven had"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tot hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:58.203922353Z",
+  "model": "glm-5.3"
+}

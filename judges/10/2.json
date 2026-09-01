@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En hij richtte ⟨את⟩ Israël drieëntwintig jaar; toen stierf hij en werd begraven in Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "en hij richtte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "en drie"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hij stierf"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en werd begraven"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "in Shamir"
+    }
+  ],
+  "timestamp": "2026-08-31T20:38:02.776739856Z",
+  "model": "glm-5.3"
+}

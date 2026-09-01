@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En u zult ⟨את⟩ de planken maken voor de mishkan: acacia-hout, staande ⟨rechtop⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en u zult maken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de planken"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "de planken"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "voor de mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia's"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "staande"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:46.276321732Z",
+  "model": "glm-5.3"
+}

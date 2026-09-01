@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Dit zijn de namen van de zonen van Aharon, de gezalfde priesters, wier hand hij vulde ⟨om⟩ als priester te dienen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "de gezalfden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wier"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vulde"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hun hand"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "om als priester te dienen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:59.272834599Z",
+  "model": "glm-5.3"
+}

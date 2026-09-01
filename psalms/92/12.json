@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "En mijn oog ziet ⟨het lot van⟩ mijn belagers: bij wie tegen mij opstaan, de boosdoeners — mijn oren horen ⟨het⟩.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "en ziet"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn oog"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "mijn belagers"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "bij wie opstaan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "de boosdoeners"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "horen"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "mijn oren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:49.935241531Z",
+  "model": "glm-5.3"
+}

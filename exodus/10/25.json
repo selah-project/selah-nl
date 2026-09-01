@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 10:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Mosjee zei: ook jij zult in onze hand geven slachtoffers en brandoffers, en wij zullen ⟨dat⟩ doen voor Jahweh onze Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zult geven"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "in onze hand"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "slachtoffers"
+    },
+    {
+      "surface": "ועלות",
+      "gloss": "en brandoffers"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "en wij zullen doen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:16.303348078Z",
+  "model": "glm-5.3"
+}

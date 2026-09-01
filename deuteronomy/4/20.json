@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En ⟨את⟩ jullie heeft Jahweh genomen en jullie uitgeleid uit de ijzeren smeltoven, uit Mitsrajim, om voor hem tot een volk van erfdeel te zijn, als op deze dag.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "en ⟨את⟩ jullie",
+      "marks": "genomen (jullie als object van Jahweh)"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "genomen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "en uitgeleid"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "uitgeleid (jullie als object)"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "uit de oven"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "van ijzer"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "om te zijn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tot een volk"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "van erfdeel"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "als op"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze dag"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:26.229542424Z",
+  "model": "glm-5.3"
+}

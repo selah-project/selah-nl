@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En zij zullen een ark van acacia-hout maken: twee el en een half zijn lengte, en een el en een half zijn breedte, en een el en een half zijn hoogte.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "en zij zullen maken"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "een ark"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "van hout"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia's"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "twee el"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en een half"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "zijn lengte"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en een el"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en een half"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "zijn breedte"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en een el"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en een half"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "zijn hoogte"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:25.599528176Z",
+  "model": "glm-5.3"
+}

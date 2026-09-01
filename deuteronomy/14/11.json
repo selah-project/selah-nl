@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Elke reine vogel mag jullie eten.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "vogel"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "reine"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag jullie eten"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:23.149963438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En Jahweh redde op die dag ⟨את⟩ Jisraël uit de hand van Mitsrajim; en Jisraël zag ⟨את⟩ Mitsrajim dood op de rand van de zee.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "En redde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dood"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "de rand"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van de zee"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:36.098017180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "En Joesef noemde de naam van de eerstgeborene Menasje, want Elohim heeft mij ⟨את⟩ al mijn gezwoeg en ⟨את⟩ heel het huis van mijn vader doen vergeten.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij noemde"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de naam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "van de eerstgeborene"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "heeft mij doen vergeten"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al mijn gezwoeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "mijn gezwoeg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "heel het huis van mijn vader"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "van mijn vader"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:48.741472364Z",
+  "model": "glm-5.3"
+}

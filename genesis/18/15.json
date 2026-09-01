@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Maar Sarah loog ⟨en⟩ zei: Ik heb niet gelachen — want zij was bevreesd. En hij zei: Niet zo, jij hebt wél gelachen.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "Maar loog"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "heb ik gelachen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "was bevreesd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "heb jij gelachen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:04.988223075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Dit is het geslacht van hen die Hem zoeken, die Uw aangezicht zoeken, ⟨jachob⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "דור",
+      "gloss": "is het geslacht"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "die Hem zoeken"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "die ... zoeken"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Uw aangezicht"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:18.671172435Z",
+  "model": "glm-5.3"
+}

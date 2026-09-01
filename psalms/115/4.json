@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 115,
+  "translation": "Hun beelden ⟨zijn⟩ zilver en goud, maaksel van mensenhanden.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "hun beelden"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "maaksel"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "van handen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van mens(en)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:43.002574569Z",
+  "model": "glm-5.3"
+}

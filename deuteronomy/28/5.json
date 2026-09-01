@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Gezegend ⟨zij⟩ jouw mand en jouw deegschaal.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gezegend"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "jouw mand"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "en jouw deegschaal"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:00.942059916Z",
+  "model": "glm-5.3"
+}

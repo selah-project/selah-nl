@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Zie, ik verlang naar uw bevelen; in uw gerechtigheid maak mij levend.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "ik verlang"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "naar uw bevelen"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "in uw gerechtigheid"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "maak mij levend"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:08.013673554Z",
+  "model": "glm-5.3"
+}

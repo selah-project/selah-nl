@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Het lied der liederen, dat van Sjelomo is.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "lied"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "der liederen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "van Sjelomo is"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:45.154126673Z",
+  "model": "glm-5.3"
+}

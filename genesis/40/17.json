@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 40:17",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "en in de bovenste mand allerlei voedsel voor Par'o, werk van een bakker; en de vogel at ⟨את⟩ hen uit de mand, van boven af op mijn hoofd.",
+  "tokens": [
+    {
+      "surface": "ובסל",
+      "gloss": "en in de mand"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "de bovenste"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "allerlei"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "voedsel"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "van een bakker"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "en de vogel"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "at"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen (het voedsel voor Par'o)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הסל",
+      "gloss": "de mand"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van boven af op"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mijn hoofd"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:28.562662622Z",
+  "model": "glm-5.3"
+}

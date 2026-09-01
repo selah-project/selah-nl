@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 2:1",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En ⟨er was⟩ voor Naomi een bekende van haar man, een man, machtig in kracht, uit de familie van Elimelech — en zijn naam was Boaz.",
+  "tokens": [
+    {
+      "surface": "ולנעמי",
+      "gloss": "En voor Naomi"
+    },
+    {
+      "surface": "מידע",
+      "gloss": "een bekende"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "van haar man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "machtig"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "in kracht"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "uit de familie van"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelech"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "en zijn naam"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:38.226807281Z",
+  "model": "glm-5.3"
+}

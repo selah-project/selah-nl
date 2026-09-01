@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En de priester sprenkelt ⟨את⟩ het bloed op het altaar van Jahweh, aan de ingang van de tent van ontmoeting, en hij doet het vet roken als rustgevende reuk voor Jahweh.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "en sprenkelt"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "het altaar van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aan de ingang van"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "en hij doet roken"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "het vet"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "als reuk"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "rustgevende"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:42.825605256Z",
+  "model": "glm-5.3"
+}

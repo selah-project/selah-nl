@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "dan zal Ik ⟨את⟩ mijn verbond met Jaakov gedenken, en ook ⟨את⟩ mijn verbund met Jitschak, en ook ⟨את⟩ mijn verbund met Avraham zal Ik gedenken, en het land zal Ik gedenken.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "dan zal Ik gedenken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verbond met Jaakov"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "met Jaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verbond met Jitschak"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "met Jitschak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verbond met Avraham"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "met Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "zal Ik gedenken"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "en het land"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "zal Ik gedenken"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:40.835689442Z",
+  "model": "glm-5.3"
+}

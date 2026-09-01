@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim zag ⟨את⟩ het licht, dat het goed was; en Elohim scheidde tussen het licht en tussen de duisternis.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het licht"
+    },
+    {
+      "surface": "האור",
+      "gloss": "het licht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "en scheidde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "האור",
+      "gloss": "het licht"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "de duisternis"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:29.288602537Z",
+  "model": "glm-5.3"
+}

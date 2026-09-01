@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "ook daar zal uw hand mij leiden, en uw rechterhand mij vasthouden.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uw hand"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "zal mij leiden"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "en mij vasthouden"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "uw rechterhand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:17.429026918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jahweh antwoordde ⟨את⟩ de malach die in mij sprak woorden, goede woorden, woorden van troost.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en antwoordde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de malach"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "de malach"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die sprak"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in mij"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "goede"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "van troost"
+    }
+  ],
+  "timestamp": "2026-08-31T22:02:56.614809282Z",
+  "model": "glm-5.3"
+}

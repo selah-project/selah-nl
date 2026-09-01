@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 143,
+  "translation": "Doe mij in de morgen uw chesed horen, want op u heb ik vertrouwd. Doe mij de weg kennen die ik gaan zal, want tot u heb ik mijn nefesj opgeheven.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "doe mij horen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בך",
+      "gloss": "op u"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "heb ik vertrouwd"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "doe mij kennen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "זו",
+      "gloss": "die"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ik gaan zal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "heb ik opgeheven"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:45.943561268Z",
+  "model": "glm-5.3"
+}

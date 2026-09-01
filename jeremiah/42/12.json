@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En Ik zal jullie barmhartigheid geven, en hij zal ⟨את⟩ jullie zich ontfermen en ⟨את⟩ jullie doen terugkeren naar jullie grondgebied.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "en Ik zal geven"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "barmhartigheid"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "en hij zal zich ontfermen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "en doen terugkeren"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "jullie grondgebied"
+    }
+  ],
+  "timestamp": "2026-08-31T21:38:44.217744567Z",
+  "model": "glm-5.3"
+}

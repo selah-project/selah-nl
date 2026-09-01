@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 62,
+  "translation": "Alleen om ⟨hem⟩ van zijn hoogte te stoten beraadslagen zij; zij hebben behagen in leugen; met hun mond zegenen zij, en in hun binnenste vervloeken zij. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "zijn hoogte"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "beraadslagen zij"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "om te stoten"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "zij hebben behagen"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "in leugen"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "met hun mond"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "zegenen zij"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "en in hun binnenste"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "vervloeken zij"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:47.305526357Z",
+  "model": "glm-5.3"
+}

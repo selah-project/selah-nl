@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 93,
+  "translation": "Uw getuigenissen zijn zeer bevestigd; ⟨het⟩ heilige past ⟨bij⟩ uw huis, Jahweh, voor de lengte van dagen.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "Uw getuigenissen"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "zijn bevestigd"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "⟨bij⟩ uw huis"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "past"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "het heilige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "voor de lengte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:42.188462013Z",
+  "model": "glm-5.3"
+}

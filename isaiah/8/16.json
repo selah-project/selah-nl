@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Bind het getuigenis in, verzegel de tora bij mijn leerlingen.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "bind in"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "het getuigenis"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "verzegel"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "de tora"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "bij mijn leerlingen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:56.788182988Z",
+  "model": "glm-5.3"
+}

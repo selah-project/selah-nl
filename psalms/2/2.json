@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Koningen van de aarde stellen zich op, en machthebbers beraadslagen samen, tegen Jahweh en tegen zijn Masjiach",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "stellen zich op"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Koningen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "en machthebbers"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "beraadslagen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "samen"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en tegen"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "zijn Masjiach"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:48.042753234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En hij deed hun ⟨zo⟩, en hij redde ⟨את⟩ hen uit de hand van de zonen van Jisraël, en zij doodden hen niet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij deed"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨zo⟩"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "en hij redde"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "doodden zij hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:30:14.508677617Z",
+  "model": "glm-5.3"
+}

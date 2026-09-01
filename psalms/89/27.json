@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Hij zal tot mij roepen: jij bent mijn Vader, mijn El en de rots van mijn heil.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "zal tot mij roepen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn Vader"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij bent"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mijn El"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "en de rots"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "van mijn heil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:09.891391484Z",
+  "model": "glm-5.3"
+}

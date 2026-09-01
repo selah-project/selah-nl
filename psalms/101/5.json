@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 101,
+  "translation": "Wie in het verborgene zijn naaste belastert, hem roei ik uit; wie hoog van ogen en breed van hart is, hem kan ik niet ⟨verdragen⟩.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "wie... belastert"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in het verborgene"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zijn naaste"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "roei ik uit"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "hoog"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "van ogen"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "en breed"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:15.365749397Z",
+  "model": "glm-5.3"
+}

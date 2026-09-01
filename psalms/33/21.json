@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Want in Hem verheugt zich ons hart, want op zijn heilige ⟨naam⟩ hebben wij vertrouwd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in Hem"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "verheugt zich"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ons hart"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "op...naam"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "zijn heilige"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "hebben wij vertrouwd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:56.581270084Z",
+  "model": "glm-5.3"
+}

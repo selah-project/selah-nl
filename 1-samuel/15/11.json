@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Het berouwt Mij dat Ik Sjaoel ⟨את⟩ tot koning heb gemaakt, want hij heeft zich van achter Mij afgewend en mijn woorden ⟨את⟩ niet gestandgedaan; en het brandde in Sjemoeël, en hij riep tot Jahweh de hele nacht.",
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "Het berouwt Mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "Ik … heb gemaakt tot koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjaoel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tot koning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שב",
+      "gloss": "heeft zich afgewend"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "van achter Mij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mijn woorden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mijn woorden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "gestandgedaan"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "en het brandde"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "in Sjemoeël"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "en hij riep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nacht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:44:58.816126386Z",
+  "model": "glm-5.3"
+}

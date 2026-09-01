@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Dit zijn de nakomelingen van Sjem: Sjem was honderd jaar ⟨oud⟩, en hij verwekte ⟨את⟩ Arpachsjad, twee jaar na de vloed.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "de nakomelingen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "van Sjem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sjem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨was⟩ een zoon van"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hij verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpachsjad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpachsjad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "twee jaar"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "na"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "de vloed"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:07.271339351Z",
+  "model": "glm-5.3"
+}

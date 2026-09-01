@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En je zitten en je uitgaan en je binnengaan heb ik gekend, en ⟨את⟩ je woede tegen mij.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "En je zitten"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "en je uitgaan"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "en je binnengaan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "heb ik gekend"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "je woede tegen mij"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "je woede"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tegen mij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:20:37.429270828Z",
+  "model": "glm-5.3"
+}

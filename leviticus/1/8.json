@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de zonen van Aharon, de priesters, zullen ⟨את⟩ de stukken, ⟨את⟩ de kop en ⟨את⟩ het vet op het hout schikken dat op het vuur is, dat op het altaar is.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "en zij zullen schikken"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stukken"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "de stukken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kop"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "de kop"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het vet"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "het vet"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "het hout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האש",
+      "gloss": "het vuur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:59.892641991Z",
+  "model": "glm-5.3"
+}

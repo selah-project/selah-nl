@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 6:7",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Voor zijn vader en voor zijn moeder, voor zijn broer en voor zijn zuster zal hij zich bij hun dood niet onrein maken, want de afzondering van zijn Elohim is op zijn hoofd.",
+  "tokens": [
+    {
+      "surface": "לאביו",
+      "gloss": "voor zijn vader"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "en voor zijn moeder"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "voor zijn broer"
+    },
+    {
+      "surface": "ולאחתו",
+      "gloss": "en voor zijn zuster"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "zal hij onrein maken"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zich (voor hen)"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "bij hun dood"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "de afzondering"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "van zijn Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "zijn hoofd"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:28.145608161Z",
+  "model": "glm-5.3"
+}

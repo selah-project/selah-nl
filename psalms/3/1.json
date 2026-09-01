@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Een mizmor van David, toen hij vluchtte voor het aangezicht van Avsjalom, zijn zoon.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "toen hij vluchtte"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsjalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:38.780657635Z",
+  "model": "glm-5.3"
+}

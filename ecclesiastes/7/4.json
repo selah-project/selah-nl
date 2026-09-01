@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Het hart van wijzen ⟨is⟩ in het huis van rouw, en het hart van dwazen in het huis van vreugde.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "van wijzen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "van rouw"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "en het hart"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "van dwazen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "van vreugde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:36.615560857Z",
+  "model": "glm-5.3"
+}

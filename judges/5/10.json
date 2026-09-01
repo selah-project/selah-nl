@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 5:10",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Gij die op witte ezelinnen rijdt, gij die op dekkleden zit, en gij die op de weg gaat — spreekt ⟨ervan⟩!",
+  "tokens": [
+    {
+      "surface": "רכבי",
+      "gloss": "gij die rijdt"
+    },
+    {
+      "surface": "אתנות",
+      "gloss": "op ezelinnen"
+    },
+    {
+      "surface": "צחרות",
+      "gloss": "witte"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gij die zit"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "dekkleden"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "en gij die gaat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "spreekt"
+    }
+  ],
+  "timestamp": "2026-08-31T20:36:02.588344896Z",
+  "model": "glm-5.3"
+}

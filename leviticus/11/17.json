@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ de steenuil, en ⟨את⟩ de aalscholver, en ⟨את⟩ de oehoe;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de steenuil"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "de steenuil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de aalscholver"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "de aalscholver"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de oehoe"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "de oehoe"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:12.763265149Z",
+  "model": "glm-5.3"
+}

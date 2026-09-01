@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En het gebeurde, toen Par'o het volk had laten gaan, dat Elohim hen niet leidde langs ⟨את⟩ de weg van het land van de Filistijnen, want die was nabij; want Elohim zei: anders zou het volk bij het zien van een oorlog berouw krijgen en terugkeren naar Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "toen had laten gaan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "leidde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "langs de weg"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van de Filistijnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nabij"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "die was"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "zou berouw krijgen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "bij het zien"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "van een oorlog"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "en terugkeren"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "naar Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:03.064145048Z",
+  "model": "glm-5.3"
+}

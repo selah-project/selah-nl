@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "En hij heerst van zee tot zee, en van de Rivier tot aan de einden van ⟨de⟩ aarde.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "en hij heerst"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van zee"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ים",
+      "gloss": "zee"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "en van de Rivier"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "de einden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:04.686365738Z",
+  "model": "glm-5.3"
+}

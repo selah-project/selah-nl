@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "en ⟨את⟩ de geweven kleden, en ⟨את⟩ de heilige kleden voor Aharon de priester, en ⟨את⟩ de kleden van zijn zonen om te dienen als priester,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de geweven kleden"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "de kleden"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "geweven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de heilige kleden"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "de kleden"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "voor Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de kleden van zijn zonen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "de kleden"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "van zijn zonen"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "om te dienen als priester"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:39.575281430Z",
+  "model": "glm-5.3"
+}

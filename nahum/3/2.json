@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Geluid van de zweep, en geluid van gedreun van ⟨een⟩ wiel, en ⟨een⟩ paard dat draaft, en ⟨een⟩ strijdwagen die springt",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "geluid"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "van de zweep"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "en geluid"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "van gedreun"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "van ⟨een⟩ wiel"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "en ⟨een⟩ paard"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "dat draaft"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "en ⟨een⟩ strijdwagen"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "die springt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:47.646324032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En de Filistijnen werden bevreesd, want zij zeiden: Elohim ⟨is⟩ naar het kamp gekomen. En zij zeiden: wee ons, want zoiets is gisteren en eergisteren niet voorgekomen!",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "en zij werden bevreesd"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "de Filistijnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "zij zeiden"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekomen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "het kamp"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "wee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "is voorgekomen"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "zoiets"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "gisteren"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "en eergisteren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:45.542945463Z",
+  "model": "glm-5.3"
+}

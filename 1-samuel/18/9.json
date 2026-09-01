@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Sjaoel was ⟨met afgunstige blikken⟩ op ⟨את⟩ David, vanaf die dag en verder ⟨voortaan⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En was"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "עון",
+      "gloss": "⟨met afgunstige blikken⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "vanaf die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "en verder"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:47.244703692Z",
+  "model": "glm-5.3"
+}

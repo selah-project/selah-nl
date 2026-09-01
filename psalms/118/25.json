@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Ach toch, Jahweh, red toch; ach toch, Jahweh, geef welslagen toch!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "ach toch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "red"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "ach toch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "geef welslagen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:11.770690572Z",
+  "model": "glm-5.3"
+}

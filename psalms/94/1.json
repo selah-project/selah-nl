@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "El van de wraak is Jahweh, El van de wraak, ⟨treed⟩ naar voren ⟨en⟩ straal.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "van de wraak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "van de wraak"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "straal naar voren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:17.921752892Z",
+  "model": "glm-5.3"
+}

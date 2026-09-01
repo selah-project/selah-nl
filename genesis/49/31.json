@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "daar hebben zij ⟨את⟩ Avraham begraven en ⟨את⟩ Sarai, zijn vrouw; daar hebben zij ⟨את⟩ Jitschak begraven en ⟨את⟩ Ribka, zijn vrouw; en daar heb ik ⟨את⟩ Lea begraven.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "hebben zij begraven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sarai"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "hebben zij begraven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Ribka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "en daar"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "heb ik begraven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:59.954374678Z",
+  "model": "glm-5.3"
+}

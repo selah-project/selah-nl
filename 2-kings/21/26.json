@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En men begroef hem ⟨את⟩ in zijn graf, in de hof van Oeza; en Jehosjía zijn zoon werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "En men begroef"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "in zijn graf"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "in de hof"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "van Oeza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en werd koning"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jehosjía"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:05.809521405Z",
+  "model": "glm-5.3"
+}

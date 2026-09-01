@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En ik zal ⟨את⟩ het huis van Achav maken als het huis van Jeravam, zoon van Nevat, en als het huis van Ba'esa, zoon van Achija.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en ik zal maken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Achav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "van Achav"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "als het huis"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "van Jeravam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "van Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "en als het huis"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "van Ba'esa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "van Achija"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:31.549107186Z",
+  "model": "glm-5.3"
+}

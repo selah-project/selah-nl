@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 29:23",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "en één rond brood, en één koek van brood met olie, en één vlakke koek, uit de mand van de mazot die voor het aangezicht van Jahweh ⟨staat⟩;",
+  "tokens": [
+    {
+      "surface": "וככר",
+      "gloss": "en één rond brood"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "één"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "en één koek"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "van brood"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "met olie"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "één"
+    },
+    {
+      "surface": "ורקיק",
+      "gloss": "en één vlakke koek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "מסל",
+      "gloss": "uit de mand"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "van de mazot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:02.165738442Z",
+  "model": "glm-5.3"
+}

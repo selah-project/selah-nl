@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Toen nam Chanun ⟨את⟩ de dienaren van David, en hij schoor hen, en hij hakte ⟨את⟩ hun klederen in tweeën, tot aan het schaamdeel, en zond hen weg.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "toen nam"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dienaren van David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "de dienaren"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "en hij schoor hen"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "en hij hakte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun klederen"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "hun klederen"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "in tweeën"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "het schaamdeel"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "en zond hen weg"
+    }
+  ],
+  "timestamp": "2026-08-31T23:02:08.497819935Z",
+  "model": "glm-5.3"
+}

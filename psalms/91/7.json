@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Duizend zullen vallen aan jouw zijde, en tienduizend aan jouw rechterhand; bij jou zal het niet naderen.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "zullen vallen"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "aan jouw zijde"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "en tienduizend"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "aan jouw rechterhand"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bij jou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "zal naderen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:16.036678056Z",
+  "model": "glm-5.3"
+}

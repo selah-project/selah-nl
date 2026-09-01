@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En alle wijzen die heel het werk van het heiligdom maakten, kwamen, ieder afzonderlijk ⟨ van ⟩ zijn werk dat zij aan het maken waren.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kwamen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "de wijzen"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "die maakten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel het werk van het heiligdom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "het werk"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van het heiligdom"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "afzonderlijk"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "van zijn werk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "aan het maken waren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:24.992844457Z",
+  "model": "glm-5.3"
+}

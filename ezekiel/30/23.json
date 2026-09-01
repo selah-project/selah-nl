@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En ik zal ⟨את⟩ Mitsrajim verstrooien onder de naties, en hen verspreiden door de landen.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "en ik zal verstrooien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder de naties"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "en hen verspreiden"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "door de landen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:48:58.133134754Z",
+  "model": "glm-5.3"
+}

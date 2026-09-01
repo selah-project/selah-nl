@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Wees mij genadig, Jahweh; zie mijn ellende ⟨aan⟩, ⟨geleden⟩ van mijn haters; jij die mij opricht uit de poorten van de dood —",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "wees mij genadig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mijn ellende"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "van mijn haters"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "die mij opricht"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "uit de poorten"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van de dood"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:59.158264791Z",
+  "model": "glm-5.3"
+}

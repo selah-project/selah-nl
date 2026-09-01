@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Want zie, de verdorvenen spannen ⟨de⟩ boog, zij leggen hun pijl ⟨op⟩ de pees, om te schieten in duisternis op de oprechten van hart.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "de verdorvenen"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "spannen"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "boog"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "zij leggen klaar"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "hun pijl"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "de pees"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "om te schieten"
+    },
+    {
+      "surface": "במו",
+      "gloss": "in"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "op de oprechten"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:22.100917652Z",
+  "model": "glm-5.3"
+}

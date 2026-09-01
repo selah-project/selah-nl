@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Goed is wijsheid bij een erfdeel, en ⟨een⟩ voordeel voor wie de zon zien.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "goed"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "is wijsheid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "een erfdeel"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "en een voordeel"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "voor wie zien"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:17.560484112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 129,
+  "translation": "Mogen zij beschaamd worden en terugwijken, allen die Tsijon haten.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mogen zij beschaamd worden"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "en terugwijken"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "achteruit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "die haten"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:33.039394853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 30:23",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "onder een gehate vrouw, wanneer zij ⟨getrouwd⟩ wordt, en onder een dienstmaagd, wanneer zij de plaats van haar meesteres inneemt.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "een gehate vrouw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תבעל",
+      "gloss": "⟨getrouwd⟩ wordt"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "en een dienstmaagd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "de plaats inneemt"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "van haar meesteres"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:04.600516050Z",
+  "model": "glm-5.3"
+}

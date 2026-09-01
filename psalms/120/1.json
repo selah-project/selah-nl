@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 120,
+  "translation": "Een lied van de stijgingen. Tot Jahweh riep ik in mijn benauwdheid, en Hij antwoordde mij.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Een lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van de stijgingen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "in mijn benauwdheid"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "riep"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "en Hij antwoordde mij"
+    }
+  ],
+  "timestamp": "2026-08-31T23:45:47.872203714Z",
+  "model": "glm-5.3"
+}

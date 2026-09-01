@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 134,
+  "translation": "Hef uw handen ⟨heilig⟩ omhoog en zegen Jahweh!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "hef"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "uw handen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨heilig⟩"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "en zegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:20.189133419Z",
+  "model": "glm-5.3"
+}

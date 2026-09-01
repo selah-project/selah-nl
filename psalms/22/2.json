@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Mijn El, mijn El, waarom hebt U mij verlaten, ⟨ver⟩ van mijn verlossing, de woorden van mijn brullen?",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "mijn El"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mijn El"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "hebt U mij verlaten"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "ver"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "van mijn verlossing"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de woorden van"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "mijn brullen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:31.502425496Z",
+  "model": "glm-5.3"
+}

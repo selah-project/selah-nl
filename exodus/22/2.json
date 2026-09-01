@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Als de zon over hem is opgegaan — bloedschuld ⟨rust⟩ op hem; vergoeden zal hij vergoeden; als hij ⟨niets⟩ heeft, dan wordt hij verkocht voor zijn diefstal.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "is opgegaan"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over hem"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "bloedschuld"
+    },
+    {
+      "surface": "לו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "vergoeden"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zal hij vergoeden"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hij ⟨niets⟩ heeft"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "dan wordt hij verkocht"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "voor zijn diefstal"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:05.741964142Z",
+  "model": "glm-5.3"
+}

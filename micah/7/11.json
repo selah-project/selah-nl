@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Een dag ⟨voor⟩ het bouwen van jouw muren; die dag zal de grens ver verwijderd worden.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "een dag"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "om te bouwen"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "jouw muren"
+    },
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "zal ver verwijderd worden"
+    },
+    {
+      "surface": "חק",
+      "gloss": "de grens\/bepaling"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:13.710078664Z",
+  "model": "glm-5.3"
+}

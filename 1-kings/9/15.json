@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En dit is de zaak van de belasting die koning Shelomo oplegde, om te bouwen ⟨את⟩ het huis van Jahweh en ⟨את⟩ zijn huis en ⟨את⟩ de Millo en ⟨את⟩ de muur van Jeroesjalajim, en ⟨את⟩ Chatsor en ⟨את⟩ Megiddo en ⟨את⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "de zaak"
+    },
+    {
+      "surface": "המס",
+      "gloss": "van de belasting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "oplegde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "om te bouwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn huis"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "de Millo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de muur van Jeroesjalajim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "de muur van"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chatsor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Megiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:00.172751477Z",
+  "model": "glm-5.3"
+}

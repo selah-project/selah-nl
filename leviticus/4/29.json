@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij zal ⟨את⟩ zijn hand op de kop van het zondoffer leggen, en hij zal ⟨את⟩ het zondoffer slachten op de plaats van het brandoffer.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "en hij zal leggen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "de kop"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van het zondoffer"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "en hij zal slachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het zondoffer"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "het zondoffer"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "op de plaats"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "van het brandoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:26.502261025Z",
+  "model": "glm-5.3"
+}

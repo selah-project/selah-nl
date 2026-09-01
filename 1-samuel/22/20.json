@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En één zoon van Achimelech, zoon van Achitov, ontkwam — zijn naam was Awjatar — en hij vluchtte achter Dawid aan.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "en hij ontkwam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "van Achimelech"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Achitov"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Awjatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "en hij vluchtte"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:48:02.472655141Z",
+  "model": "glm-5.3"
+}

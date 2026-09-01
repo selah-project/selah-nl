@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En ⟨את⟩ zijn zonen zult gij doen naderen, en gij zult ⟨את⟩ hen kleden met tunieken.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "zult gij doen naderen"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "en gij zult kleden"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "met tunieken"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:05.451450760Z",
+  "model": "glm-5.3"
+}

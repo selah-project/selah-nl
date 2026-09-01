@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 16:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En er zal bij jou geen zuurdesem gezien worden in heel jouw gebied, zeven dagen; en er zal niets overnachten van het vlees dat je slacht op de avond van de eerste dag, tot de morgen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "En niet"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "zal gezien worden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bij jou"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "zuurdesem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in heel"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "jouw gebied"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "zal overnachten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "je slacht"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "op de avond"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "van de dag"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "de eerste"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "tot de morgen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:50.699290084Z",
+  "model": "glm-5.3"
+}

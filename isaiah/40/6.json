@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Een stem zegt: Roep! En hij zegt: Wat zal ik roepen? Alle vlees is gras, en heel zijn chesed is als de bloem van het veld.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "een stem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Roep!"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en hij zegt"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zal ik roepen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gras"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "als de bloem"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van het veld"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:46.293623543Z",
+  "model": "glm-5.3"
+}

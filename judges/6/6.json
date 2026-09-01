@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 6:6",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Jisraël werd zeer verarmd door de aanwezigheid van Midjan, en de zonen van Jisraël riepen tot Jahweh.",
+  "tokens": [
+    {
+      "surface": "וידל",
+      "gloss": "werd verarmd"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "door de aanwezigheid van"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "en riepen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:36:22.629381025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En hij sloeg zijn ogen op en zag ⟨את⟩ de vrouwen en ⟨את⟩ de kinderen, en hij zei: Wie zijn deze ⟨voor⟩ jou? En hij zei: ⟨Zij zijn⟩ de kinderen die Elohim jouw dienaar genadig geschonken heeft ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "en hij sloeg op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn ogen"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "zijn ogen"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vrouwen"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "de vrouwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de kinderen"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "zijn deze"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "genadig geschonken heeft"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw dienaar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jouw dienaar"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:22.342096340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "De naaktheid van de zuster van uw vader zult u niet onthullen: zij is vlees van uw vader.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "de naaktheid"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "zuster"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van uw vader"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "zult u onthullen"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van uw vader"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zij ⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:17.443085340Z",
+  "model": "glm-5.3"
+}

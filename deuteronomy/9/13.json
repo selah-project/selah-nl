@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Jahweh sprak tot mij, zeggende: Ik heb ⟨את⟩ dit volk gezien, en zie, het is een hardnekkelig volk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ik heb gezien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "een volk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hard"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:19.229323343Z",
+  "model": "glm-5.3"
+}

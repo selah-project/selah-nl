@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En het drinken was volgens de wet: geen dwang, want zo had de koning het bepaald over alle groten van zijn huis, om te doen naar het verlangen van ieder afzonderlijk.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "en het drinken"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "volgens de wet"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "dwang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "had bepaald"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "רב",
+      "gloss": "groten"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "van zijn huis"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "naar het verlangen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van ieder"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "afzonderlijk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:43.108525700Z",
+  "model": "glm-5.3"
+}

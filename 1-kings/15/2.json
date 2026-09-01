@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Drie jaar regeerde hij in Jeroesjalajim, en de naam van zijn moeder ⟨was⟩ Maächa, dochter van Avisjalom.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regeerde hij"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeroesjalajim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en de naam"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "van zijn moeder"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maächa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "van Avisjalom"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:19.972566431Z",
+  "model": "glm-5.3"
+}

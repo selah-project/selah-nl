@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 77,
+  "translation": "Zal Adonai ⟨tot⟩ in eeuwen verwerpen, en geen welgevallen meer tonen?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "tot in eeuwen"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "zal verwerpen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "meer (toevoegen)"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "welgevallen tonen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:29.369463150Z",
+  "model": "glm-5.3"
+}

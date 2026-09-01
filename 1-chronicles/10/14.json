@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En hij vroeg ⟨het⟩ niet aan Jahweh, daarom doodde Hij hem en deed Hij ⟨את⟩ het koningschap overgaan naar Dawid, de zoon van Jisjai.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "En niet"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "vroeg ⟨het⟩ aan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "doodde Hij hem"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "deed Hij overgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het koningschap"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "het koningschap"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "naar Dawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisjai"
+    }
+  ],
+  "timestamp": "2026-08-31T22:59:37.200179713Z",
+  "model": "glm-5.3"
+}

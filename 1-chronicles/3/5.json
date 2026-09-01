@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En deze werden hem geboren in Jeroesjalajim: Sjiméa, en Sjovav, en Natan, en Sjelomo, vier, van Bat-Sjoea, dochter van Ammiël.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En deze"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "werden geboren"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "in Jeroesjalajim"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Sjiméa"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "en Sjovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "en Sjelomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "van ⟨de dochter⟩"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bat-Sjoea"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiël"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:57.554668876Z",
+  "model": "glm-5.3"
+}

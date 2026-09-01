@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Want u zult hen ⟨de⟩ rug toewenden ⟨door⟩ uw boogpezen, ⟨boog⟩ gespannen op hun aangezicht.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "u zult hen plaatsen"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "rug (schouderpartij)"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "⟨door⟩ uw boogpezen"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "gespannen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "hun aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:56.299452451Z",
+  "model": "glm-5.3"
+}

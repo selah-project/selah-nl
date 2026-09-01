@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Onze huid is als een oven verzengd ⟨door⟩ de brandende gloed van de honger.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "onze huid"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "als een oven"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "is verzengd"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "door"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "de brandende gloed"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "van de honger"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:17.822154659Z",
+  "model": "glm-5.3"
+}

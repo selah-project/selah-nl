@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "maar met ⟨את⟩ wie hier vandaag met ons staat voor het aangezicht van Jahweh onze Elohim, en met ⟨את⟩ wie hier vandaag niet met ons is",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wie hier staat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "er is"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "met ons"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "staat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandaag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wie niet hier is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "niet is"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "met ons"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandaag"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:16.426022497Z",
+  "model": "glm-5.3"
+}

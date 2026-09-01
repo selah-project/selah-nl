@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Maakt jezelf niet tot gruwel door enig gewemel dat wemelt, en maak jezelf niet onrein daarmee, zodat je daardoor onrein wordt.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "maakt tot gruwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jezelf (nefesjotéchem)"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jezelf (jullie nefesj)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "door enig"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "gewemel"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "wemelt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "maak onrein"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "zodat je onrein wordt"
+    },
+    {
+      "surface": "בם",
+      "gloss": "daardoor"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:42.151342859Z",
+  "model": "glm-5.3"
+}

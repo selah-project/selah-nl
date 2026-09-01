@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Schatten van onrecht baten niet, maar tsedaqa redt uit ⟨de⟩ dood.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "baten"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "schatten"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van onrecht"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "maar tsedaqa"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "redt"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "uit de dood"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:11.963848326Z",
+  "model": "glm-5.3"
+}

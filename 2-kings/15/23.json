@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 15:23",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "In het vijftigste jaar van Azarja, koning van Jehoeda, werd Pekachja, zoon van Menachem, koning over Israël in Sjomron — twee jaar.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "In het jaar"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vijftigste"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "לעזריה",
+      "gloss": "van Azarja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "werd koning"
+    },
+    {
+      "surface": "פקחיה",
+      "gloss": "Pekachja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "van Menachem"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Sjomron"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "twee jaar"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:43.655370911Z",
+  "model": "glm-5.3"
+}

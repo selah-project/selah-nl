@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 115,
+  "translation": "Zoals zij ⟨zijn⟩, zo zullen hun makers worden — allen die op hen vertrouwen.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "zoals zij"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zullen worden"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "hun makers"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertrouwen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "op hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:44.666224320Z",
+  "model": "glm-5.3"
+}

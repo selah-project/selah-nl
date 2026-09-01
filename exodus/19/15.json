@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En hij zei tot het volk: weest gereed voor de derde dag, nadert geen vrouw.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "היו",
+      "gloss": "weest"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "gereed"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "voor de drie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "nadert"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "een vrouw"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:25.001371008Z",
+  "model": "glm-5.3"
+}

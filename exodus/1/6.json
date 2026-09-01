@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jozef stierf, en al zijn broers, en heel die generatie.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "En … stierf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "die generatie"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:17.239585979Z",
+  "model": "glm-5.3"
+}

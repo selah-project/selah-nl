@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Ik zeg tegen Jahweh: mijn toevlucht en mijn burcht, mijn Elohim, op hem vertrouw ik.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ik zeg"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tegen Jahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mijn toevlucht"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "en mijn burcht"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "vertrouw ik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "op hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:24.607267824Z",
+  "model": "glm-5.3"
+}

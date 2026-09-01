@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "Toen hij streed tegen ⟨את⟩ Aram Naharajim en ⟨את⟩ Aram Tsova, keerde Joav terug en versloeg ⟨את⟩ Edom in het Zoutdal, twaalfduizend ⟨man⟩.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "toen hij streed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram Naharajim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Aram Tsova"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en keerde terug"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en versloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "in het dal"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "zout"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:37.015879711Z",
+  "model": "glm-5.3"
+}

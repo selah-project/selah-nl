@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Want op U, Jahweh, heb ik gewacht; U zult antwoorden, Adonai, mijn Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "heb ik gewacht"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "zult antwoorden"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:59.959251858Z",
+  "model": "glm-5.3"
+}

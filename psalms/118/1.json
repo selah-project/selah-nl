@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Looft Jahweh, want ⟨Hij is⟩ goed, want tot in eeuwigheid ⟨duurt⟩ zijn chesed (trouw-liefde).",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Looft"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:13.475273358Z",
+  "model": "glm-5.3"
+}

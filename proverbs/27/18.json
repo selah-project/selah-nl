@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 27:18",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Wie een vijgenboom bewaart, eet zijn vrucht, en wie zijn heer behoedt, zal geëerd worden.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "bewaart"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "een vijgenboom"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "zijn vrucht"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "en wie behoedt"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "zijn heer"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "zal geëerd worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:29.198187137Z",
+  "model": "glm-5.3"
+}

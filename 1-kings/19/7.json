@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En de mal'ach van Jahweh keerde terug, voor de tweede maal, en raakte hem aan en zei: sta op, eet, want de weg is te zwaar voor jou.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en hij keerde terug"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "de mal'ach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "voor de tweede maal"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "en raakte aan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "קום",
+      "gloss": "sta op"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רב",
+      "gloss": "te zwaar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "de weg"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:50.348413064Z",
+  "model": "glm-5.3"
+}

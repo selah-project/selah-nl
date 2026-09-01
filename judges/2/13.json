@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En zij verlieten ⟨את⟩ Jahweh en dienden de Ba'al en de Asjtarot.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "en zij verlieten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "en zij dienden"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "de Ba'al"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "en de Asjtarot"
+    }
+  ],
+  "timestamp": "2026-08-31T20:34:45.850102052Z",
+  "model": "glm-5.3"
+}

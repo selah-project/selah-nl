@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 21:20",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Achav zei tot Elia: hebt gij mij gevonden, mijn vijand? En hij zei: ik heb ⟨u⟩ gevonden, omdat gij uzelf hebt verkocht om het kwaad te doen in de ogen van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "המצאתני",
+      "gloss": "hebt gij mij gevonden"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijand"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ik heb gevonden"
+    },
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "התמכרך",
+      "gloss": "gij uzelf hebt verkocht"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "het kwaad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in de ogen van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:24.447051364Z",
+  "model": "glm-5.3"
+}

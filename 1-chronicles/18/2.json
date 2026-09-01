@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En hij versloeg ⟨את⟩ Moav, en de Moabieten werden dienaren van Dawid, dragers van mincha.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "en hij versloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en zij werden"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moabieten"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "dienaren"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "dragers van"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha (tribuutgeschenk)"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:55.952633097Z",
+  "model": "glm-5.3"
+}

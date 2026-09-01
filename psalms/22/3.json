@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Mijn Elohim, ik roep overdag en U antwoordt niet, en 's nachts en er is geen stilte voor mij.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ik roep"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "overdag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "U antwoordt"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en 's nachts"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "stilte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:31.502584467Z",
+  "model": "glm-5.3"
+}

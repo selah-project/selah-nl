@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En Jahweh antwoordde Ijjov ⟨את⟩ uit de stormwind en zei:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en antwoordde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijjov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijjov"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "uit"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "de stormwind"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    }
+  ],
+  "timestamp": "2026-08-31T22:37:29.345419805Z",
+  "model": "glm-5.3"
+}

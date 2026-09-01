@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Ga, zeg hun: keer terug naar jullie tenten.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zeg"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨voor jullie⟩"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "naar jullie tenten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:04.242023694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Als de slang bijt zonder bespreking, dan is er geen voordeel voor de meester van de tong.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "bijt"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "de slang"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "bespreking"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "voordeel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan is er geen"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "voor de meester"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "van de tong"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:18.787866725Z",
+  "model": "glm-5.3"
+}

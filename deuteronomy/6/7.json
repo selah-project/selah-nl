@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En gij zult ze uw kinderen indrukken, en erover spreken wanneer gij in uw huis zit, en wanneer gij op weg gaat, en wanneer gij neerligt, en wanneer gij opstaat.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "en gij zult indrukken"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "aan uw kinderen"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "en gij zult spreken"
+    },
+    {
+      "surface": "בם",
+      "gloss": "erover"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "wanneer gij zit"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in uw huis"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "en wanneer gij gaat"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op weg"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "en wanneer gij neerligt"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "en wanneer gij opstaat"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:51.402477715Z",
+  "model": "glm-5.3"
+}

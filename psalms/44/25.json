@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Waarom verbergt u uw aangezicht, vergeet u onze ellende en onze verdrukking?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "verbergt u"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "vergeet u"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "onze ellende"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "en onze verdrukking"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:33.942297247Z",
+  "model": "glm-5.3"
+}

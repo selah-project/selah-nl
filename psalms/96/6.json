@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 96,
+  "translation": "Hoogheid en heerlijkheid ⟨zijn⟩ voor zijn aangezicht, kracht en glans in zijn heiligdom.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "hoogheid"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "en heerlijkheid"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor zijn aangezicht"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kracht"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "en glans"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "in zijn heiligdom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:05.133818769Z",
+  "model": "glm-5.3"
+}

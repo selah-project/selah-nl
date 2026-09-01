@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En ik ging naar beneden naar het huis van de pottenbakker, en ziet, hij was een werk aan het maken op ⟨de⟩ schijven.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "en ik ging naar beneden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "naar het huis"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "van de pottenbakker"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "en ziet, hij"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aan het maken"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "een werk"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "de schijven"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:17.457736337Z",
+  "model": "glm-5.3"
+}

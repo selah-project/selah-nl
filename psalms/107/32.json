@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "En moge men Hem verhogen in de vergadering van ⟨het⟩ volk, en in de zitplaats der oudsten prijzen.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "en moge men Hem verhogen"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in de vergadering"
+    },
+    {
+      "surface": "עם",
+      "gloss": "van ⟨het⟩ volk"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "en in de zitplaats"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "der oudsten"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "prijzen zij Hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:07.999272060Z",
+  "model": "glm-5.3"
+}

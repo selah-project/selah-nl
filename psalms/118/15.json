@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Een stem van gejubel en heil ⟨is⟩ in de tenten van de rechtvaardigen: de rechterhand van Jahweh handelt machtig.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "een stem"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "van gejubel"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "en heil"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "in de tenten van"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rechtvaardigen"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "de rechterhand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "handelt"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "machtig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:11.130967708Z",
+  "model": "glm-5.3"
+}

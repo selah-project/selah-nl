@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Spreek tot Aharon en zeg tot hem: wanneer jij de lampen opsteekt, naar het aangezicht van de menora toe, zullen de zeven lampen schijnen.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en jij zult zeggen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "wanneer jij opsteekt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de lampen"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "de lampen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מול",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "van de menora"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "zij zullen schijnen"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "de zeven"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lampen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:07.901772110Z",
+  "model": "glm-5.3"
+}

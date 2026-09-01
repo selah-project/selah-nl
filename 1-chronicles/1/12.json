@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ⟨את⟩ de Patrusiërs, en ⟨את⟩ de Kasluchiërs — van daaruit gingen de Pelishtiërs uit — en ⟨את⟩ de Kaftoriërs.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "En ⟨את⟩",
+      "marks": "de Patrusiërs"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "de Patrusiërs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Kasluchiërs"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "de Kasluchiërs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "van wie"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "uitgingen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daaruit"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Pelishtiërs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Kaftoriërs"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "de Kaftoriërs"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:20.396101639Z",
+  "model": "glm-5.3"
+}

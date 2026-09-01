@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 77,
+  "translation": "In de zee ⟨was⟩ uw weg, en uw paden in vele wateren; en uw voetsporen werden niet gekend.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "in de zee"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "uw weg"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "en uw paden"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele wateren"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "en uw voetsporen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "werden gekend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:33.305518725Z",
+  "model": "glm-5.3"
+}

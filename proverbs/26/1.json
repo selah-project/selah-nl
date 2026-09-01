@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Als sneeuw in de zomer en als regen bij de oogst, zo past eer niet aan een dwaas.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "als sneeuw"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "in de zomer"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "en als regen"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "bij de oogst"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "past"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "aan een dwaas"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "eer"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:18.065168038Z",
+  "model": "glm-5.3"
+}

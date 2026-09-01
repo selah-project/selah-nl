@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 110,
+  "translation": "Van David, een mizmor. Het oracle van Jahweh aan mijn Adonai: „Zet u aan mijn rechterhand, totdat ik uw vijanden ⟨tot⟩ een voetenbank voor uw voeten leg.”",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "het oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "aan mijn Adonai"
+    },
+    {
+      "surface": "שב",
+      "gloss": "zet u"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "aan mijn rechterhand"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ik leg"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "uw vijanden"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "een voetenbank"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "voor uw voeten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:31.042292893Z",
+  "model": "glm-5.3"
+}

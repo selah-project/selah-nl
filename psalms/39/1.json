@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "Voor de koorleider, voor Jedutun; een psalm van David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "voor Jedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:13.539341281Z",
+  "model": "glm-5.3"
+}

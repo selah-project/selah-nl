@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Slap hangen de benen van de verlamde, zo ⟨hangt⟩ een spreuk in de mond van dwazen.",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "Slap hangen"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "de benen"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "van de verlamde"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "en ⟨hangt⟩ een spreuk"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "in de mond van"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dwazen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:15.474909722Z",
+  "model": "glm-5.3"
+}

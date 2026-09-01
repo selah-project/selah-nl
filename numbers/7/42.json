@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Op de zesde dag ⟨was⟩ de vorst van de kinderen van Gad: Eljasaf, zoon van Deüel.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "de zesde"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "de vorst"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van de kinderen"
+    },
+    {
+      "surface": "גד",
+      "gloss": "van Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Eljasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deüel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:42.853745271Z",
+  "model": "glm-5.3"
+}

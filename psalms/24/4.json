@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Onschuldig van handpalmen, en zuiver van hart, die zijn nefesj niet heeft opgeheven naar leegheid, en niet heeft gezworen tot bedrog.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "onschuldig"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "van handpalmen"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "en zuiver"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "heeft opgeheven"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "naar leegheid"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "zijn nefesj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "heeft gezworen"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "tot bedrog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:17.371633213Z",
+  "model": "glm-5.3"
+}

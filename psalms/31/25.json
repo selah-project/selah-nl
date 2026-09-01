@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Weest sterk, en Hij zal uw hart sterken, alle gp die op Jahweh wachten.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Weest sterk"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "en Hij zal sterken"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "uw hart"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "die wachten"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "op Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:52.357812783Z",
+  "model": "glm-5.3"
+}

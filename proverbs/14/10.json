@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Het hart kent de bitterheid van zijn nefesj, en in zijn vreugde mengt zich geen vreemde.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Het hart"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "de bitterheid"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "van zijn nefesj"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "en in zijn vreugde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "mengt zich"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vreemde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:21.717725124Z",
+  "model": "glm-5.3"
+}

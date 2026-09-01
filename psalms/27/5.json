@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Want Hij verbergt mij in zijn hutten op de dag van kwaad; Hij verbergt mij in de verborgenheid van zijn tent; op een rots richt Hij mij op.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "verbergt mij"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "in zijn hutten"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "verbergt Hij mij"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in de verborgenheid"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "van zijn tent"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "op een rots"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "richt Hij mij op"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:32.417232774Z",
+  "model": "glm-5.3"
+}

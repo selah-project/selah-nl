@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 2:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En vele volken zullen gaan en zeggen: Kom, laten wij opgaan naar de berg van Jahweh, naar het huis van de Elohim van Jaäkov, zodat hij ons zijn wegen leert en wij wandelen in zijn paden. Want uit Tsion zal uitgaan de tora, en het woord van Jahweh uit Jeroesjalajim.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "en zullen gaan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "en zeggen"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "laten wij opgaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "van de Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkov"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "zodat hij ons leert"
+    },
+    {
+      "surface": "מדרכיו",
+      "gloss": "zijn wegen"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "en wij wandelen"
+    },
+    {
+      "surface": "בארחתיו",
+      "gloss": "in zijn paden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "uit Tsion"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "zal uitgaan"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "de tora"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "en het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "uit Jeroesjalajim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:13:12.316688800Z",
+  "model": "glm-5.3"
+}

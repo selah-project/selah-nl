@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim noemde het uitspansel Sjamajim; en het was avond en het was morgen, dag twee.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "En noemde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "het uitspansel"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Sjamajim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het was"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "avond"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het was"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:35.588436333Z",
+  "model": "glm-5.3"
+}

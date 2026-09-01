@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 5:16",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En ⟨את⟩ wat hij gezondigd heeft aan het heilige vergoedt hij, en ⟨את⟩ het vijfde deel daarvan voegt hij erboven toe, en geeft het aan de priester; en de priester doet verzoening voor hem met de ram van het schuldoffer, en het wordt hem vergeven.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wat hij gezondigd heeft aan het heilige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hij gezondigd heeft"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "het heilige"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "vergoedt hij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het vijfde deel daarvan"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "het vijfde deel"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "voegt hij toe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "erboven"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en geeft"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ het",
+      "marks": "het (aan de priester)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "aan de priester"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "en de priester"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "doet verzoening"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "met de ram"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "van het schuldoffer"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "en het wordt vergeven"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:24.801365608Z",
+  "model": "glm-5.3"
+}

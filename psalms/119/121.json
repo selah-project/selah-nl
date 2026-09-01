@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik heb recht en gerechtigheid gedaan; geef mij niet over aan mijn onderdrukkers.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Ik heb gedaan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "recht"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "en gerechtigheid"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "geef mij over"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "aan mijn onderdrukkers"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:05.542927478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Peleg leefde dertig jaar, en verwekte ⟨את⟩ Re'u.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "en leefde"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Re'u"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Re'u"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:28.530342142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 38:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Zij die mijn nefesj najagen, spannen strikken; zij die mijn kwaad zoeken, spreken verderfspullen en bedrogsmiddelen fluisteren zij de hele dag.",
+  "tokens": [
+    {
+      "surface": "וינקשו",
+      "gloss": "spannen strikken"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "die najagen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "die zoeken"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mijn kwaad"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "spreken"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "verderspspullen"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "bedrogsmiddelen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "fluisteren zij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:59.958569305Z",
+  "model": "glm-5.3"
+}

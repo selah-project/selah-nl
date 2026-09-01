@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Moge uw hand mij te hulp zijn, want uw verordeningen heb ik gekozen.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "moge zijn"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uw hand"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "mij te hulp"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "uw verordeningen"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "heb ik gekozen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:50.511789087Z",
+  "model": "glm-5.3"
+}

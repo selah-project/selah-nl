@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "Ellendig ben ik en stervende vanaf mijn jeugd; ik heb uw verschrikkingen gedragen, ik ben verslagen.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "Ellendig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "en stervende"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "vanaf mijn jeugd"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ik heb gedragen"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "uw verschrikkingen"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ik ben verslagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:12.443146481Z",
+  "model": "glm-5.3"
+}

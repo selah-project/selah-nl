@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En de zonen van Cham: Koesj, en Mitsrajim, en Poet, en Kena'an.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "en de zonen van"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Koesj"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "en Mitsrajim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "en Poet"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "en Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:05.878820695Z",
+  "model": "glm-5.3"
+}

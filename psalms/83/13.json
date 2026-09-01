@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "die gezegd hebben: laten wij voor onszelf in bezit nemen ⟨את⟩ de weiden van Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "gezegd hebben"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "in bezit nemen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor onszelf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de weiden"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "weiden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:57.847269621Z",
+  "model": "glm-5.3"
+}

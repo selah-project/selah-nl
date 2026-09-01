@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "Want u hebt mijn nefesj uit de dood gered, ⟨את⟩ mijn oog uit ⟨de⟩ tranen, ⟨את⟩ mijn voet uit het struikelen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "u hebt gered"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "uit de dood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn oog"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn oog"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "de tranen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn voet"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mijn voet"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "uit het struikelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:15.456997346Z",
+  "model": "glm-5.3"
+}

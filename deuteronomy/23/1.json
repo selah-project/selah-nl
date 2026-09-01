@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Een man mag ⟨את⟩ de vrouw van zijn vader niet nemen, en hij mag de slip van zijn vader niet ontbloten.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mag nemen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vrouw van zijn vader"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van zijn vader"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "mag ontbloten"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "de slip"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van zijn vader"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:14.446635875Z",
+  "model": "glm-5.3"
+}

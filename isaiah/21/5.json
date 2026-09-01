@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Richt ⟨de⟩ tafel aan, beslaat het ⟨belag⟩; eet, drink! Sta op, gij vorsten, zalf het schild.",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "richt aan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "de tafel"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "beslaat"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "het belag"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "eet"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "drink"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "sta op"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "gij vorsten"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "zalf"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "het schild"
+    }
+  ],
+  "timestamp": "2026-08-31T23:21:34.598772467Z",
+  "model": "glm-5.3"
+}

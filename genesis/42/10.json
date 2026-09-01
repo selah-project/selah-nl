@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Maar zij zeiden tot hem: Nee, adoni! Uw dienaren zijn gekomen om voedsel te kopen.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "adoni"
+    },
+    {
+      "surface": "ו עבדיך",
+      "gloss": "uw dienaren"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zijn gekomen"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "om te kopen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "voedsel"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:43.558930353Z",
+  "model": "glm-5.3"
+}

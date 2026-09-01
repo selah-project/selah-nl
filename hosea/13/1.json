@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Toen Efrájim sprak, ⟨was er⟩ bevending; hij verhief zich in Israël, maar toen hij schuldig werd aan de Ba'al, stierf hij.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "toen … sprak"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrájim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "bevending"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "verhief"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Israël"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "werd schuldig"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "aan de Ba'al"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "stierf"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:50.088546451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 126,
+  "translation": "Keer om, Jahweh, ⟨את⟩ onze gevangenschap, als beken in de Neguev!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Keer om"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onze gevangenschap"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "onze gevangenschap"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "als beken"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "in de Neguev"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:44.564978737Z",
+  "model": "glm-5.3"
+}

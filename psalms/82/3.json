@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 82,
+  "translation": "Richt ⟨de zaak van⟩ de zwakke en de wees, rechtvaardig ⟨de⟩ verdrukte en de arme.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Richt"
+    },
+    {
+      "surface": "דל",
+      "gloss": "de zwakke"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "en de wees"
+    },
+    {
+      "surface": "עני",
+      "gloss": "verdrukte"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "en de arme"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "rechtvaardig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:23.700719044Z",
+  "model": "glm-5.3"
+}

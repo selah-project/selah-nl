@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij zei tot mij, zeggende: Weet jij niet wat deze ⟨zijn⟩? En ik zei: Nee, mijn heer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Weet... niet"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "jij weet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "En ik zei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn heer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:02:41.135001624Z",
+  "model": "glm-5.3"
+}

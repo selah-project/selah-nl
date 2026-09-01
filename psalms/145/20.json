@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Jahweh bewaart ⟨את⟩ allen die hem liefhebben, maar ⟨את⟩ alle goddelozen zal hij verdelgen.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "bewaart"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allen die hem liefhebben"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "die hem liefhebben"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle goddelozen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "goddelozen"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "zal hij verdelgen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:17.634276524Z",
+  "model": "glm-5.3"
+}

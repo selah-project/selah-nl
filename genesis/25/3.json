@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En Joksjan verwekte ⟨את⟩ Sjeva en ⟨את⟩ Dedan; en de zonen van Dedan waren ⟨de⟩ Asjurim, en ⟨de⟩ Letusjim, en ⟨de⟩ Le-ummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "En Joksjan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjeva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sjeva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en de zonen van"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Asjurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "en Letusjim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "en Le-ummim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:16.640181808Z",
+  "model": "glm-5.3"
+}

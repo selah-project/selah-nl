@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "En ik zei: Wie geeft mij een vleugel als ⟨de⟩ duif — ik zou wegvliegen en wonen ⟨in rust⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ik zei"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "een vleugel"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "als de duif"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "ik zou wegvliegen"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "en wonen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:33.083255199Z",
+  "model": "glm-5.3"
+}

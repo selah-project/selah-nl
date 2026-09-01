@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Het huis van de goddelozen wordt verwoest, maar de tent van de oprechten bot uit ⟨en bloeit⟩.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Het huis"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "wordt verwoest"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "maar de tent"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "van de oprechten"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "bot uit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:21.717983279Z",
+  "model": "glm-5.3"
+}

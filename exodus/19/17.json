@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En Mosjee bracht ⟨את⟩ het volk tegemoet aan ⟨de⟩ Elohim, uit het kamp, en zij stelden zich op aan de onderzijde van de berg.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "en hij bracht uit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "tegemoet aan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "het kamp"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "en zij stelden zich op"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "aan de onderzijde"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "van de berg"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:23.099435823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 90,
+  "translation": "Verblijd ons naar de dagen dat U ons verdrukt hebt, ⟨en⟩ de jaren dat wij kwaad gezien hebben.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Verblijd ons"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "naar de dagen"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "dat U ons verdrukt hebt"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "de jaren"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "dat wij gezien hebben"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:03.342040462Z",
+  "model": "glm-5.3"
+}

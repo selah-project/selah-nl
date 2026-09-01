@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 108,
+  "translation": "Opdat uw geliefden bevrijd worden; red met uw rechtshand en antwoord mij.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "bevrijd worden"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "uw geliefden"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "red"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "met uw rechtshand"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "en antwoord mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:34.295623469Z",
+  "model": "glm-5.3"
+}

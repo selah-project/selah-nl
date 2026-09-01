@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Tel ⟨את⟩ de zonen van Levi, naar hun vaderlijke huizen, naar hun geslachten: alle mannen vanaf een maand oud en daarboven moet jij hen tellen.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "tel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zonen van Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "van Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "naar de huizen"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "hun vaderlijke"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "naar hun geslachten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "vanaf een"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "maand"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "en daarboven"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "moet jij hen tellen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:42.356687956Z",
+  "model": "glm-5.3"
+}

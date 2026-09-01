@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En Sjaoel herkende de stem van David en zei: Is dit uw stem, mijn zoon David? En David zei: ⟨Het is⟩ mijn stem, mijn Adonai de koning.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "en hij herkende"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stem"
+    },
+    {
+      "surface": "קול",
+      "gloss": "stem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "uw stem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mijn stem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn Adonai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:19.568987403Z",
+  "model": "glm-5.3"
+}

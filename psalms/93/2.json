@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 93,
+  "translation": "Vast staat ⟨Uw⟩ troon vanouds; van eeuwigheid ⟨zijt⟩ U.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "vast staat"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "Uw troon"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "vanouds"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "van eeuwigheid"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:18.179821707Z",
+  "model": "glm-5.3"
+}

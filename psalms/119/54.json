@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Uw verordeningen zijn mij liederen geweest in het huis van mijn vreemdelingschap.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "liederen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zijn geweest"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "uw verordeningen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis van"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "mijn vreemdelingschap"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:25.264673816Z",
+  "model": "glm-5.3"
+}

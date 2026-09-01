@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Ontbreekt het mij aan waanzinnigen, dat jullie deze ⟨את⟩ hebben gebracht om zich waanzinnig te gedragen tegenover mij? Zou deze mijn huis binnengaan?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "ontbreekt"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "waanzinnigen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "het mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "jullie hebben gebracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze"
+    },
+    {
+      "surface": "זה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "om zich waanzinnig te gedragen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegenover mij"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "zou deze"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "binnengaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mijn huis"
+    }
+  ],
+  "timestamp": "2026-08-31T23:19:14.935974552Z",
+  "model": "glm-5.3"
+}

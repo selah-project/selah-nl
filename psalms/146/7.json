@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 146,
+  "translation": "die recht doet voor de verdrukten, die brood geeft aan de hongerigen; Jahweh maakt de gevangenen los;",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "doet"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "recht"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "voor de verdrukten"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "aan de hongerigen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "maakt los"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "de gevangenen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:29.229488709Z",
+  "model": "glm-5.3"
+}

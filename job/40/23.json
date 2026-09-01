@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 40:23",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Zie, al slaat een rivier over ⟨hem⟩ heen, hij haast zich niet weg; hij blijft gerust, al stroomt de Jarden tegen zijn muil.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "zie"
+    },
+    {
+      "surface": "יעשק",
+      "gloss": "al slaat over"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "een rivier"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יחפוז",
+      "gloss": "haast hij zich weg"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "hij blijft gerust"
+    },
+    {
+      "surface": "כי",
+      "gloss": "al"
+    },
+    {
+      "surface": "יגיח",
+      "gloss": "stroomt"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "zijn muil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:37:31.106823353Z",
+  "model": "glm-5.3"
+}

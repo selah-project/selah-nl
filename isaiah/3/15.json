@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Wat ⟨betekent het⟩ dat gij mijn volk verplettert, en het aangezicht van de armen vermaalt? — een uitspraak van Adonai Jahweh Tsevaot.",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "wat ⟨betekent het⟩"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "verplettert gij"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "en het aangezicht"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "van de armen"
+    },
+    {
+      "surface": "תטחנu",
+      "gloss": "vermaalt"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "een uitspraak van"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:34.484688943Z",
+  "model": "glm-5.3"
+}

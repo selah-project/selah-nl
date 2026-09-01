@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 76,
+  "translation": "Toen Elohim opstond ⟨tot⟩ ⟨het⟩ gericht, om te redden alle zachtmoedigen van ⟨de⟩ aarde. Sela.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "bij het opstaan van \/ toen opstond"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "⟨tot⟩ ⟨het⟩ gericht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "om te redden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "zachtmoedigen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van ⟨de⟩ aarde"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:28.349902200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Hoort dit, alle volken; neigt ⟨het⟩ oor, alle bewoners van de wereld.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hoort"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "neigt het oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bewoners"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "van de wereld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:10.898149213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "De vreze van Jahweh is rein, zij staat vast voor eeuwig; de rechtsregelen van Jahweh zijn waarheid, rechtvaardig tezamen.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "vreze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "rein"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "staat vast"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "rechtsregelen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waarheid"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "rechtvaardig"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tezamen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:05.718109689Z",
+  "model": "glm-5.3"
+}

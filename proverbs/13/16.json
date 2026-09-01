@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Alle schranderen handelen met kennis, maar een dwaas breedt ⟨zijn⟩ dwaasheid uit.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "schranderen"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "handelen"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "met kennis"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "maar een dwaas"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "breidt uit"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "dwaasheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:43.266677369Z",
+  "model": "glm-5.3"
+}

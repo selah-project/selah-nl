@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "Mijn oog verkwijnt van ellende; ik roep u aan, Jahweh, elke dag, ik spreid mijn handen naar u uit.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mijn oog"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "verkwijnt"
+    },
+    {
+      "surface": "מני",
+      "gloss": "van"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ellende"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ik roep u aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "ik spreid uit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "naar u"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mijn handen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:01.388373494Z",
+  "model": "glm-5.3"
+}

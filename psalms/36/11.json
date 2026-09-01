@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "Rek uw chesed uit naar hen die U kennen, en uw gerechtigheid naar de oprechten van hart.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "rek uit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "naar hen die U kennen"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "en uw gerechtigheid"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "naar de oprechten"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:12.257958464Z",
+  "model": "glm-5.3"
+}

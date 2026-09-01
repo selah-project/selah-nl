@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "Hij doet oorlogen ophouden tot ⟨het⟩ uiteinde der aarde; de boog breekt Hij, en Hij hakt de spies stuk, ⟨de⟩ strijdwagens verbrandt Hij in het vuur.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "doet ophouden"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "oorlogen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "uiteinde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der aarde"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "de boog"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "breekt Hij"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "en Hij hakt stuk"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "de spies"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "strijdwagens"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "verbrandt Hij"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in het vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:59.085149963Z",
+  "model": "glm-5.3"
+}

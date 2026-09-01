@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "In Uw naam verheugen zij zich de gehele dag, en in Uw gerechtigheid worden zij verhoogd.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "in Uw naam"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "verheugen zij zich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gehele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "en in Uw gerechtigheid"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "worden zij verhoogd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:29.312122235Z",
+  "model": "glm-5.3"
+}

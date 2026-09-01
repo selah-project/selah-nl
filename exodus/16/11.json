@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Jahweh sprak tot Mosjee, zeggende:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en Hij sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:05.530363656Z",
+  "model": "glm-5.3"
+}

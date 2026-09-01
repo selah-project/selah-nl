@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "De schrandere zag ⟨het⟩ kwaad en verborg zich, maar de argelozen gingen door en werden gestraft.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "de schrandere"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "en verborg zich"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "maar de argelozen"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gingen door"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "en werden gestraft"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:54.874670046Z",
+  "model": "glm-5.3"
+}

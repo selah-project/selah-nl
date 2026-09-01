@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Hoe vele ⟨zijn⟩ de dagen van uw dienaar? Wanneer doet u recht aan mijn achtervolgers?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "hoe vele"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de dagen"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "van uw dienaar"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "doet u"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "aan mijn achtervolgers"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "recht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:48.049741708Z",
+  "model": "glm-5.3"
+}

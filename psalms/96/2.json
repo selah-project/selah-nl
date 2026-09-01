@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 96,
+  "translation": "Zing voor Jahweh, zegen zijn naam, verkondig van dag tot dag zijn heil.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "zing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "zegen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "verkondig"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "van dag"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "tot dag"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "zijn heil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:04.981162063Z",
+  "model": "glm-5.3"
+}

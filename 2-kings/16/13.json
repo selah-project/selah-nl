@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En hij liet ⟨את⟩ zijn brandoffer in rook opgaan en ⟨את⟩ zijn graanoffer, en hij goot ⟨את⟩ zijn plengoffer uit, en hij sprenkelde ⟨את⟩ het bloed van zijn vredesoffers die voor hem waren, op ⟨het⟩ altaar.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "en hij liet in rook opgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn brandoffer"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "zijn brandoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn graanoffer"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "zijn graanoffer"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "en hij goot uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn plengoffer"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "zijn plengoffer"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "en hij sprenkelde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bloed van zijn vredesoffers"
+    },
+    {
+      "surface": "דם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "van zijn vredesoffers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem waren"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:15.914067411Z",
+  "model": "glm-5.3"
+}

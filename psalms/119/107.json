@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik ben buitengewoon diep neergedrukt; Jahweh, maak mij levend overeenkomstig Uw woord.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "Ik ben neergedrukt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "buitengewoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "maak mij levend"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "overeenkomstig Uw woord"
+    }
+  ],
+  "timestamp": "2026-08-31T23:45:40.664984803Z",
+  "model": "glm-5.3"
+}

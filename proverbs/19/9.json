@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Een leugengetuige zal niet ongestraft blijven, en wie leugens uitademt, zal vergaan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "een getuige"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "van leugens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "zal ongestraft blijven"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "en wie uitademt"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "leugens"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "zal vergaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:56.256915045Z",
+  "model": "glm-5.3"
+}

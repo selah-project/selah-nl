@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En zij verzamelden het ⟨את⟩ morgen aan morgen, ieder naar de mate van zijn eten; en de zon werd heet en het smolt weg.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "en zij verzamelden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ het",
+      "marks": "het (het manna)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "naar de mate van"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "zijn eten"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "en werd heet"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "en het smelt weg"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:26.685226775Z",
+  "model": "glm-5.3"
+}

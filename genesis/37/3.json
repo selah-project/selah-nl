@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En Jisraël had ⟨את⟩ Jozef lief meer dan al zijn zonen, want hij was hem een zoon van de ouderdom; en hij maakte voor hem een tuniek van pas.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "en Jisraël"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "had lief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "meer dan al"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "van de ouderdom"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "een tuniek"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "van pas"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:33.845560929Z",
+  "model": "glm-5.3"
+}

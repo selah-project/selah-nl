@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Ga en verzamel ⟨את⟩ de oudsten van Jisraël, en zeg tot hen: Jahweh, de Elohim van uw vaders, is mij verschenen — de Elohim van Avraham, van Jitschak en van Jaäkov — ⟨zeggende⟩: Bezoekend heb ik ⟨את⟩ u bezocht, ⟨en ook⟩ ⟨את⟩ wat u in Mitsrajim aangedaan is.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "en verzamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de oudsten van Jisraël"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de oudsten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en je zult zeggen"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "van uw vaders"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "is verschenen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aan mij"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "van Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "van Jitschak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "en van Jaäkov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "bezoekend"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "heb ik bezocht"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u",
+      "marks": "u (oudsten van Jisraël)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wat u aangedaan is"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "wat gedaan is"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "u"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:22.909091264Z",
+  "model": "glm-5.3"
+}

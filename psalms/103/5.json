@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Die jouw verlangen verzadigt met goed, zodat je jeugd zich vernieuwt als ⟨die van⟩ de nesjer.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "die verzadigt"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "met goed"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "jouw verlangen"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "zich vernieuwt"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "als de nesjer"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "je jeugd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:42.755800797Z",
+  "model": "glm-5.3"
+}

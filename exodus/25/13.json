@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En u zult draagstangen maken van acacia-hout, en u zult ze overtrekken ⟨את⟩ met goud.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en u zult maken"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "draagstangen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "en u zult overtrekken"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ze"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    }
+  ],
+  "timestamp": "2026-08-31T23:55:19.041085890Z",
+  "model": "glm-5.3"
+}

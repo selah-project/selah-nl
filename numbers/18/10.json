@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "In het heiligste der heiligen zult gij het eten; alle mannelijke mag het ⟨את⟩ eten; heilig zal het voor u zijn.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "In het heiligste der"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "heiligen"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "zult gij het eten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mannelijke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mag eten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor u"
+    }
+  ],
+  "timestamp": "2026-08-31T20:14:05.312344968Z",
+  "model": "glm-5.3"
+}

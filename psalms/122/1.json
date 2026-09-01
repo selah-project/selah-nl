@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 122,
+  "translation": "Een lied van de opgangen, van David. Ik verblijdde mij toen ⟨zij⟩ tegen mij zeiden: naar het huis van Jahweh zullen wij gaan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van de opgangen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "verblijdde ik mij"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "toen ⟨zij⟩ zeiden"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "zullen wij gaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:41.246606376Z",
+  "model": "glm-5.3"
+}

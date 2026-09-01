@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Jojada verwekte ⟨את⟩ Jonatan, en Jonatan verwekte ⟨את⟩ Jadúa.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "En Jojada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "en Jónatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jadúa"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Jadúa"
+    }
+  ],
+  "timestamp": "2026-08-31T22:56:24.217754756Z",
+  "model": "glm-5.3"
+}

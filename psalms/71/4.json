@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Mijn Elohim, ontruk mij uit de hand van de goddeloze, uit de klauw van de verdrukker en geweldenaar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ontruk mij"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van de goddeloze"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "uit de klauw"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "van de verdrukker"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "en geweldenaar"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:43.930699446Z",
+  "model": "glm-5.3"
+}

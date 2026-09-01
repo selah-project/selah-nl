@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En het werd Sjaoel verteld dat David naar Gat gevlucht ⟨was⟩, en hij zocht hem niet meer weer.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "en het werd verteld"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "aan Sjaoel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "gevlucht"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "naar Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "voegde hij toe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "hem te zoeken"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:21.389533112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Mosjee nam ⟨את⟩ de zalfolie en zalfde ⟨את⟩ de tabernakel en ⟨את⟩ alles wat erin was, en hij heiligde ⟨את⟩ hen.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "En Mosjee nam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zalfolie"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "de zalf"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "en zalfde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tabernakel"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "de tabernakel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "erin"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "en hij heiligde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:59.360318578Z",
+  "model": "glm-5.3"
+}

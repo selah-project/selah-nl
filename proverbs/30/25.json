@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "De mieren — een volk niet sterk — en zij bereiden in de zomer hun brood.",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "de mieren"
+    },
+    {
+      "surface": "עם",
+      "gloss": "een volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "en zij bereiden"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "in de zomer"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "hun brood"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:50.680032860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 95,
+  "translation": "waar jullie vaderen Mij op de proef stelden, Mij beproefden, ook al zagen zij Mijn werk.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "stelden Mij op de proef"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "jullie vaderen"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "beproefden Mij"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook al"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "zij zagen"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "Mijn werk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:51.362689204Z",
+  "model": "glm-5.3"
+}

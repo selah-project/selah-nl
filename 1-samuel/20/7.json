@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Als hij zo zegt: Het is goed — ⟨dan is er⟩ vrede voor je dienaar; maar als het hem zeer ontstemt, weet dan dat het kwaad bij hem volbracht ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hij zegt"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het is goed"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "voor je dienaar"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "maar als"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ontstemt"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "het hem zeer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "דע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "volbracht is"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "het kwaad"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "bij hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:05.032817797Z",
+  "model": "glm-5.3"
+}

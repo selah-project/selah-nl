@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Ik heb ingezien dat er voor hen geen goed is dan zich te verheugen en goed te doen in zijn leven.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "heb ik ingezien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er … niet is"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "בם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dan"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "zich te verheugen"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "en te doen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "in zijn leven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:40.438011927Z",
+  "model": "glm-5.3"
+}

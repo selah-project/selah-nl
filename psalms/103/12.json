@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Zo ver als het oosten ⟨is⟩ van het westen, zo ver heeft Hij ⟨את⟩ onze overtredingen van ons verwijderd.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "zo ver als"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "het oosten"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "van het westen"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "heeft Hij verwijderd"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van ons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onze overtredingen"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "onze overtredingen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:53.605722507Z",
+  "model": "glm-5.3"
+}

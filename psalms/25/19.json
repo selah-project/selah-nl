@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Zie mijn vijanden, want zij zijn talrijk, en met geweldshaat hebben zij mij gehaat.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "zij zijn talrijk"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "en met haat"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "van geweld"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "hebben zij mij gehaat"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:04.575804200Z",
+  "model": "glm-5.3"
+}

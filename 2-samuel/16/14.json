@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En de koning kwam, en heel het volk dat ⟨את⟩ hem ⟨was⟩, uitgeput, en hij verkwikte zich daar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hem",
+      "marks": "אתו is hier de prepositie 'met hem' (H854), niet de voorwerpsmarker"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "uitgeput"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "en hij verkwikte zich"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:54:07.857658275Z",
+  "model": "glm-5.3"
+}

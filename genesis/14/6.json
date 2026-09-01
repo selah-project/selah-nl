@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En ⟨את⟩ de Horieten op hun berg Seïr, tot bij El-Paran, dat aan de woestijn ⟨ligt⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Horieten"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "de Horieten"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "op hun berg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seïr"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot bij"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "de woestijn"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:59.878590171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En zij speende ⟨את⟩ Lo-Roechamah (geen erbarming), en zij werd zwanger en baarde een zoon.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "en zij speende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Roechamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨geen⟩"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Roechamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "en zij werd zwanger"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en baarde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T23:23:49.579556498Z",
+  "model": "glm-5.3"
+}

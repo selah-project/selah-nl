@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 75,
+  "translation": "En ik, ik verkondig voor eeuwig, ik zing ⟨lof⟩ voor ⟨de⟩ Elohim van Jaäkov.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ik"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ik verkondig"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ik zing ⟨lof⟩"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "voor ⟨de⟩ Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkov"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:14.463222123Z",
+  "model": "glm-5.3"
+}

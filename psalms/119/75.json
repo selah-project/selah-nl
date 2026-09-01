@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik weet, Jahweh, dat uw verordeningen rechtvaardig ⟨zijn⟩, en dat u mij in trouw gekweld hebt.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ik weet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rechtvaardig"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "uw verordeningen"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "en in trouw"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "hebt u mij gekweld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:44.537037543Z",
+  "model": "glm-5.3"
+}

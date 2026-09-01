@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "En tot de goddeloze heeft Elohim gezegd: wat heb jij ⟨ermee⟩ te maken om Mijn verordeningen te vertellen, en Mijn verbond op jouw mond te dragen?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "En tot de goddeloze"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "heb jij"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "om te vertellen"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "Mijn verordeningen"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "en dragen"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Mijn verbond"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "jouw mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:12.524267918Z",
+  "model": "glm-5.3"
+}

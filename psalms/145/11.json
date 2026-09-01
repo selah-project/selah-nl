@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "De kavod van uw koninkrijk zullen zij vertellen, en van uw macht zullen zij spreken.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "De kavod"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "van uw koninkrijk"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "zullen zij vertellen"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "en van uw macht"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "zullen zij spreken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:13.160615571Z",
+  "model": "glm-5.3"
+}

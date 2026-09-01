@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "Van al mijn overtredingen — red mij; maak mij niet tot een smaad van ⟨de⟩ dwaas.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mijn overtredingen"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "een smaad"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "dwaas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "maak mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:58.756050708Z",
+  "model": "glm-5.3"
+}

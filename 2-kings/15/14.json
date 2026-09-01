@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 15:14",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En Menachem, zoon van Gadi, trok op van Tirza en kwam in Sjomron, en hij sloeg Sjalum, zoon van Javesj, in Sjomron ⟨את⟩ en doodde hem, en hij werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "en hij trok op"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menachem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "van Tirza"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en kwam"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Sjomron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en sloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjalum, zoon van Javesj"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Sjalum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Javesj"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Sjomron"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "en doodde hem"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en werd koning"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:28.074360790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "In uw verordeningen zal ik mij verheugen, ik zal uw woord niet vergeten.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "in uw verordeningen"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "zal ik mij verheugen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "zal ik vergeten"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "uw woord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:21.172666576Z",
+  "model": "glm-5.3"
+}

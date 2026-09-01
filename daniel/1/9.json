@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim gaf ⟨את⟩ Daniël voor chesed en voor ontfermingen, voor het aangezicht van de overste van de hofbedienden.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en gaf"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniël"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniël"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "voor chesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "en voor ontfermingen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "שר",
+      "gloss": "de overste"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "van de hofbedienden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:57.310984012Z",
+  "model": "glm-5.3"
+}

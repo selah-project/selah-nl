@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En de koning van Aram voerde oorlog tegen Israël, en hij overlegde met zijn dienaren, zeggende: Op de plaats van zulk-en-zulk zal mijn legerkamp zijn.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "en de koning"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "van Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "voerde oorlog"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "tegen Israël"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "en hij overlegde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "de plaats"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "van zulk-en-zulk"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "zulk-en-zulk"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "mijn legerkamp"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:11.485842193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "En Ik zal hun overtreding bezoeken met de stok, en hun ongerechtigheid met slagen.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "en Ik zal bezoeken"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "met de stok"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "hun overtreding"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "en met slagen"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "hun ongerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:14.700026535Z",
+  "model": "glm-5.3"
+}

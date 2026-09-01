@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En wij namen te dien tijde ⟨את⟩ het land uit de hand van de twee koningen van de Emorieten, die aan de overzijde van de Jarden ⟨woonden⟩, van de beek Arnon tot de berg Chermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "En wij namen"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "te"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dien tijde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand van"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de twee"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "koningen van"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de Emorieten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "aan de overzijde van"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "van de beek"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:01.590515039Z",
+  "model": "glm-5.3"
+}

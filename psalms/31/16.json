@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "In Uw hand ⟨zijn⟩ mijn tijden; ruk mij weg uit de hand van mijn vijanden, en ⟨uit de hand⟩ van mijn achtervolgers.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "in Uw hand"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "mijn tijden"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ruk mij weg"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "en mijn achtervolgers"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:20.783622681Z",
+  "model": "glm-5.3"
+}

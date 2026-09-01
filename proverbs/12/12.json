@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Een goddeloze begeert het net van bozen, maar de wortel van rechtvaardigen geeft ⟨vrucht⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "begeert"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "een goddeloze"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "het net"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "van bozen"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "maar de wortel"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "van rechtvaardigen"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:17.651639784Z",
+  "model": "glm-5.3"
+}

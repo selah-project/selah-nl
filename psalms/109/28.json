@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Mogen zij vloeken — maar jij, jij zult zegenen; zij staan op en worden beschaamd, maar jouw dienaar verblijdt zich.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "Mogen zij vloeken"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "maar jij"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "jij zult zegenen"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "zij staan op"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "en worden beschaamd"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "maar jouw dienaar"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "verblijdt zich"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:24.026900966Z",
+  "model": "glm-5.3"
+}

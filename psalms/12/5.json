@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "die gezegd hebben: Met onze tong zullen wij heersen; onze lippen zijn ⟨את⟩ met ons — wie is heer over ons?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "gezegd hebben"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "met onze tong"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "zullen wij heersen"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "onze lippen"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ met ons"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "heer"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "over ons"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:08.599992813Z",
+  "model": "glm-5.3"
+}

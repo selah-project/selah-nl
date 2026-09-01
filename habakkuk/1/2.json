@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Hoelang, Jahweh, roep ik ⟨om hulp⟩ en Gij hoort niet, schreeuw ik tot U over geweld en Gij redt niet?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hoe(lang)"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hoe lang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "roep ik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hoort Gij"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "schreeuw ik"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "redt Gij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:58.628236136Z",
+  "model": "glm-5.3"
+}

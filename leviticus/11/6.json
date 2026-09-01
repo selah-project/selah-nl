@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En ⟨את⟩ de haas, omdat zij herkauwing ⟨op⟩brengt maar ⟨de⟩ hoef niet gespleten heeft — onrein is zij voor jullie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de haas"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "de haas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "opbrengt"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "herkauwing"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "maar de hoef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "gespleten heeft"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:12.725065942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 90,
+  "translation": "Wie kent de macht van uw gramschap, en naar uw ontzag ⟨zo⟩ uw toorn?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "עז",
+      "gloss": "de macht"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "van uw gramschap"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "en naar uw ontzag"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "⟨zo⟩ uw toorn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:01.407376364Z",
+  "model": "glm-5.3"
+}

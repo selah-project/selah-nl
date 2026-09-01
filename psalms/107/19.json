@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Toen riepen zij tot Jahweh in hun benauwdheid, en uit hun angsten redde hij hen.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Toen riepen zij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in hun benauwdheid"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "uit hun angsten"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "redde hij hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:02.192345323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En het volk dorstte daar naar water, en het volk morde tegen Mosjee, en het zei: Waarom ⟨is⟩ dit, dat jij ons hebt doen opgaan uit Mitsrajim, om mij ⟨את⟩ te doden en ⟨את⟩ mijn zonen en ⟨את⟩ mijn vee met dorst?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "En het volk dorstte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "למים",
+      "gloss": "naar water"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "en het morde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en het zei"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "hebt jij ons doen opgaan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "om te doden"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mij"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mijn zonen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zonen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mijn vee"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "mijn vee"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "met dorst"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:57.473308254Z",
+  "model": "glm-5.3"
+}

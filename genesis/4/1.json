@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En de mens kende ⟨את⟩ Chava, zijn vrouw; en zij werd zwanger en baarde ⟨את⟩ Kajin, en zij zei: ik heb een man verworven ⟨את⟩ met Jahweh.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "En de mens"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chava"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chava"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "en zij werd zwanger"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en baarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kajin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "ik heb verworven"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ met"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:11.543779430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Daarom verstoot ik ⟨mijzelf⟩ en heb ik berouw op stof en as.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "daar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "om"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "verstoot ik"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "en heb ik berouw"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stof"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "en as"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:02.233405506Z",
+  "model": "glm-5.3"
+}

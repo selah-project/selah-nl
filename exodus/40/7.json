@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En u zult ⟨את⟩ het bekken plaatsen tussen de tent van ontmoeting en het altaar, en u zult daar water doen.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "en u zult plaatsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bekken"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "het bekken"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "en u zult doen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:52.522853289Z",
+  "model": "glm-5.3"
+}

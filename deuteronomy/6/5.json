@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En gij zult Jahweh, uw Elohim, liefhebben met uw ganse hart, en met uw ganse nefesj, en met uw ganse vermogen.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "en gij zult liefhebben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh, uw Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met uw ganse"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hart"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en met uw ganse"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefesj"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en met uw ganse"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "vermogen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:51.402064711Z",
+  "model": "glm-5.3"
+}

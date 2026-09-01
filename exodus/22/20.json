@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En een vreemdeling zul je niet verdrukken en hem niet onderdrukken, want jullie waren vreemdelingen in het land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "en een vreemdeling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "zul je verdrukken"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "hem onderdrukken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "vreemdelingen"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "jullie waren"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:41.326031128Z",
+  "model": "glm-5.3"
+}

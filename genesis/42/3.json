@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Toen gingen de tien broers van Joesef omlaag om koren te kopen uit Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "en zij gingen omlaag"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broers van"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "om te kopen"
+    },
+    {
+      "surface": "בר",
+      "gloss": "koren"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:17.913538961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Als ik had gezegd: ik zal zo vertellen — zie, ⟨dan⟩ had ik trouweloos gehandeld ⟨tegenover⟩ het geslacht van uw kinderen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ik had gezegd"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ik zal vertellen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "zo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "דור",
+      "gloss": "het geslacht"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "van uw kinderen"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "had ik trouweloos gehandeld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:18.853910365Z",
+  "model": "glm-5.3"
+}

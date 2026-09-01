@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Zie, een natie die u niet kent, zult u roepen, en een natie die u niet kent, zal naar u toe rennen, omwille van Jahweh, uw Elohim, en omwille van de Heilige van Israël, want Hij heeft u gesierd.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "een natie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "u kent"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "zult u roepen"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "en een natie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "die u niet kent"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "naar u toe"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "zal rennen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "omwille van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "en omwille van de Heilige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "Heeft u gesierd"
+    }
+  ],
+  "timestamp": "2026-08-31T23:22:07.711436635Z",
+  "model": "glm-5.3"
+}

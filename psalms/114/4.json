@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 114,
+  "translation": "De bergen dansten als rammen, de heuvels als lammeren ⟨van⟩ de kudde.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "dansten"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "als rammen"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "de heuvels"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "als lammeren ⟨van⟩"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "de kudde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:41.557318011Z",
+  "model": "glm-5.3"
+}

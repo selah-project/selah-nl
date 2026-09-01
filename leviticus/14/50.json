@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En hij zal ⟨את⟩ de ene vogel slachten in een aarden vat, over levend water.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "en hij zal slachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ene vogel"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "de vogel"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vat"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "aarden"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levend"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:10.015278261Z",
+  "model": "glm-5.3"
+}

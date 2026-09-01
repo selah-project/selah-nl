@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Omdat je gezegd hebt: ⟨Deze⟩ twee volken en ⟨deze⟩ twee landen zullen van mij zijn, en wij zullen ze in bezit nemen — terwijl Jahweh daar ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Omdat"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "je gezegd hebt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Deze twee volken"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deze twee landen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "landen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "zullen zijn"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "en wij zullen ze in bezit nemen"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "terwijl Jahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    }
+  ],
+  "timestamp": "2026-08-31T21:50:12.564245696Z",
+  "model": "glm-5.3"
+}

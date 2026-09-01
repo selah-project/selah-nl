@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 84,
+  "translation": "Door het dal van Bacha gaand maken zij er een bron van; ook zegeningen bedekt de vroege regen het.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "door...gaand"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "het dal"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "van Bacha"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "een bron"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "maken zij het"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "zegeningen"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "bedekt"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "de vroege regen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:36.740332597Z",
+  "model": "glm-5.3"
+}

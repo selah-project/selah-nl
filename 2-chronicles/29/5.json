@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 29:5",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En hij zei tot hen: Hoort mij, Levieten! Heiligt nu uzelf en heiligt ⟨את⟩ het huis van Jahweh, de Elohim van jullie vaderen, en brengt ⟨את⟩ het onreine weg uit het heiligdom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "hoort mij"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levieten"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "heiligt uzelf"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "en heiligt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim van"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "jullie vaderen"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "en brengt weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het onreine"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "het onreine"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "het heiligdom"
+    }
+  ],
+  "timestamp": "2026-08-31T23:10:22.729308328Z",
+  "model": "glm-5.3"
+}

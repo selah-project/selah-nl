@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En zij keerden zich om en trokken het bergland op, en kwamen tot aan het dal van Esjkol, en verkenden het.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "keerden zich om"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "trokken op"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "het bergland"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kwamen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "het dal"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "van Esjkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "verkenden"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "het (land)"
+    }
+  ],
+  "timestamp": "2026-08-31T20:19:54.913437016Z",
+  "model": "glm-5.3"
+}

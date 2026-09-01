@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Hoe mooi ⟨is⟩ je liefde, mijn zuster, ⟨mijn⟩ bruid! Hoe veel beter ⟨is⟩ je liefde dan wijn, en de geur van je oliën dan alle specerijen!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "mooi"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "je liefde"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mijn zuster"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bruid"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "veel beter"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "je liefde"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "dan wijn"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "en de geur"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "van je oliën"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dan alle"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "specerijen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:42.376368855Z",
+  "model": "glm-5.3"
+}

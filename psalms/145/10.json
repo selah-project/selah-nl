@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Loven zullen u, Jahweh, al uw werken, en uw chassidiem zullen u zegenen.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Loven zullen u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "uw werken"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "en uw chassidiem"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "zullen u zegenen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:13.160514572Z",
+  "model": "glm-5.3"
+}

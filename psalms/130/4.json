@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 130,
+  "translation": "Want bij U is vergeving, opdat men U vrezen zal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bij U"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "⟨is⟩ vergeving"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "men U vrezen zal"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:30.413033721Z",
+  "model": "glm-5.3"
+}

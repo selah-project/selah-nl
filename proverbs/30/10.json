@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Belaster geen dienaar bij zijn heer, opdat hij je niet vervloekt en jij schuldig wordt.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "belaster"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "dienaar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "zijn heer"
+    },
+    {
+      "surface": "פן",
+      "gloss": "opdat niet"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "hij je vervloekt"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "en jij schuldig wordt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:45.181967614Z",
+  "model": "glm-5.3"
+}

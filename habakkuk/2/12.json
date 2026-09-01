@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Wee ⟨hem⟩ die een stad bouwt in bloed, en een krijgstad sticht in onrecht!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bouwt"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "een stad"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "in bloed"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "en sticht"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "een krijgstad"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "in onrecht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:18.524255248Z",
+  "model": "glm-5.3"
+}

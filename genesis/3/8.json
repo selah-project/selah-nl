@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En zij hoorden ⟨את⟩ de stem van Jahweh Elohim, die wandelde in de hof bij de wind van de dag; en de mens en zijn vrouw verstopten zich voor het aangezicht van Jahweh Elohim te midden van de bomen van de hof.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "en zij hoorden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stem van Jahweh Elohim"
+    },
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "wandelde"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "in de hof"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "bij de wind"
+    },
+    {
+      "surface": "היום",
+      "gloss": "van de dag"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "en verstopte zich"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "en zijn vrouw"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "te midden van"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bomen"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "van de hof"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:47.448355071Z",
+  "model": "glm-5.3"
+}

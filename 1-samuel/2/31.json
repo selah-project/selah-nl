@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Zie, dagen komen dat ik ⟨את⟩ je arm zal afhouwen en ⟨את⟩ de arm van het huis van je vader, zodat er geen oude ⟨man⟩ in je huis zal zijn.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "באים",
+      "gloss": "komen"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "dat ik zal afhouwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je arm"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "je arm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de arm van het huis van je vader"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "de arm"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van je vader"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "zodat er niet zal zijn"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "een oude (man)"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in je huis"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:07.034070454Z",
+  "model": "glm-5.3"
+}

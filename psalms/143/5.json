@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 143,
+  "translation": "Ik heb dagen vanouds gedacht; ik heb gemompeld over al uw werk, over het werk van uw handen spreek ik ⟨met mijzelf⟩.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "heb ik gedacht"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "vanouds"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "heb ik gemompeld"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "over al"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "uw werk"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "over het werk van"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "uw handen"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "spreek ik ⟨met mijzelf⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:45.942832831Z",
+  "model": "glm-5.3"
+}

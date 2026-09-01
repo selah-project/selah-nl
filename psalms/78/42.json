@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Zij gedachten ⟨את⟩ zijn hand niet, de dag dat hij hen loskocht uit ⟨de macht van⟩ de tegenstander.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "zij gedachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "hen loskocht"
+    },
+    {
+      "surface": "מני",
+      "gloss": "uit"
+    },
+    {
+      "surface": "צר",
+      "gloss": "de tegenstander"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:04.112901344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Jahweh, jouw Elohim, zul je vrezen, en ⟨את⟩-hem zul je dienen, en bij zijn naam zul je zweren.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh, jouw Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "zul je vrezen"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "en ⟨את⟩-hem",
+      "marks": "hem — verwijst naar Jahweh"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "zul je dienen"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "en bij zijn naam"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "zul je zweren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:06.897960078Z",
+  "model": "glm-5.3"
+}

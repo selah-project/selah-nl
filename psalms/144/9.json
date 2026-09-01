@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 144,
+  "translation": "Elohim, een nieuw lied wil ik voor u zingen, op een navel van tien snaren wil ik voor u psalteren.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nieuw"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "wil ik zingen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "op een navel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "van tien snaren"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "wil ik psalteren"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:11.618691304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En de dagen van Adam nadat hij ⟨את⟩ Sjet verwekt had, waren achthonderd jaar, en hij verwekte zonen en dochters.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "En zij waren"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de dagen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hij verwekt had"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sjet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "acht"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hij verwekte"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "en dochters"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:09.502627583Z",
+  "model": "glm-5.3"
+}

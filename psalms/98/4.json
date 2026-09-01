@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 98,
+  "translation": "Juich voor Jahweh, heel de aarde; barst los, jubel en zing met snarenspel.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "juich"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "barst los"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "en jubel"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "en zing met snarenspel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:06.981065868Z",
+  "model": "glm-5.3"
+}

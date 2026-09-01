@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "een slaaf wanneer hij koning wordt, en een dwaas wanneer hij verzadigd wordt ⟨met⟩ brood;",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "⟨om⟩"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "een slaaf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "hij koning wordt"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "en een dwaas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "hij verzadigd wordt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:28.215103855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Niet in de hemel ⟨is⟩ zij, zodat je zou zeggen: Wie zal voor ons naar de hemel opstijgen en haar voor ons nemen en haar ons laten horen ⟨את⟩, zodat wij haar doen?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zodat je zou zeggen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "zal opstijgen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "naar de hemel"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "en haar nemen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "en haar ons laten horen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (de mitswa)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "zodat wij haar doen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:07.568602613Z",
+  "model": "glm-5.3"
+}

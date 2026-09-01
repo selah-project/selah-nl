@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "In de eerste strijdwagen ⟨waren⟩ rode paarden, en in de tweede strijdwagen ⟨waren⟩ zwarte paarden.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "In de eerste"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "strijdwagon eerste"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "paarden"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "rode"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "en in de tweede"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "strijdwagon tweede"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "paarden"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "zwarte"
+    }
+  ],
+  "timestamp": "2026-08-31T22:03:23.105350312Z",
+  "model": "glm-5.3"
+}

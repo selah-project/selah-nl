@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "De beelden van de naties ⟨zijn⟩ zilver en goud, het maaksel van de handen van de mens.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "beelden"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "van de naties"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "maaksel"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "van de handen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:49.154859528Z",
+  "model": "glm-5.3"
+}

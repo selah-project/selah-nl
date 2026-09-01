@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En de koning zei: stervend zult je sterven, Achimelech, jij en heel het huis van je vader.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "מות",
+      "gloss": "stervend"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "zult je sterven"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelech"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van je vader"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:39.395838955Z",
+  "model": "glm-5.3"
+}

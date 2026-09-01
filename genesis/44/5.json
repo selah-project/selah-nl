@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Is dit niet ⟨dat⟩ waarin mijn heer drinkt, en waarmee hij waarzeggend waarzegt? Kwaad hebben jullie gedaan door wat jullie gedaan hebben.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "is... niet"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "drinkt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn heer"
+    },
+    {
+      "surface": "בו",
+      "gloss": "waarin"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "waarzeggend"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "waarzegt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "kwaad hebben jullie gedaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "door"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "wat jullie gedaan hebben"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:27.065039704Z",
+  "model": "glm-5.3"
+}

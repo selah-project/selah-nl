@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Want de zoon onteert ⟨de⟩ vader, de dochter staat op tegen haar moeder, de schoondochter tegen haar schoonmoeder; de vijanden van een man ⟨zijn⟩ de mannen van zijn huis.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "onteert"
+    },
+    {
+      "surface": "אב",
+      "gloss": "vader"
+    },
+    {
+      "surface": "בת",
+      "gloss": "de dochter"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "staat op"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "tegen haar moeder"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "de schoondochter"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "tegen haar schoonmoeder"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "de vijanden van"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "de mannen van"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:41.145372448Z",
+  "model": "glm-5.3"
+}

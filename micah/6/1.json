@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Hoor toch wat Jahweh zegt: Sta op, voer ⟨את⟩ je rechtszaak ⟨את⟩ met de bergen, en laat de heuvels jouw stem horen.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Jahweh zegt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Sta op"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "voer je rechtszaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ met"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "en laat horen"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "de heuvels"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "jouw stem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:45.510817715Z",
+  "model": "glm-5.3"
+}

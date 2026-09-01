@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Salmón verwekte ⟨את⟩ Boaz, en Boaz verwekte ⟨את⟩ Oved.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "En Salmón"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "en Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:36.517616763Z",
+  "model": "glm-5.3"
+}

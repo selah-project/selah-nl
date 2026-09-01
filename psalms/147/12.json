@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Lof, Jeroesjalajim, aan Jahweh ⟨את⟩; loof je Elohim, Tsiyon.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Lof"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "loof"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "je Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:02.347248296Z",
+  "model": "glm-5.3"
+}

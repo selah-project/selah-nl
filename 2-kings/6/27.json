@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 6:27",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En hij zei: Moge Jahweh jou redden — waarvandaan zou ik jou redden? Uit de dorsvloer of uit de wijnpers?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יושעך",
+      "gloss": "moge ⟨Jahweh⟩ jou redden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "waarvandaan"
+    },
+    {
+      "surface": "אושיעך",
+      "gloss": "zou ik jou redden"
+    },
+    {
+      "surface": "המן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "de dorsvloer"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "de wijnpers"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:23.014375758Z",
+  "model": "glm-5.3"
+}

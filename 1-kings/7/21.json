@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En hij richtte ⟨את⟩ de zuilen op voor de voorhal van de tempel; en hij richtte ⟨את⟩ de rechterzuil op en noemde ⟨את⟩ zijn naam Jachin, en hij richtte ⟨את⟩ de linkerzuil op en noemde ⟨את⟩ zijn naam Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en hij richtte op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zuilen"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "de zuilen"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "voor de voorhal"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "van de tempel"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "en hij richtte op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de rechterzuil"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "de zuil"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "de rechter"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij noemde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Jachin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "en hij richtte op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de linkerzuil"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "de zuil"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "de linker"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij noemde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:29.708013136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Kijk neer vanuit ⟨jouw⟩ heilige woning, vanuit ⟨de⟩ hemel, en zegen ⟨את⟩ jouw volk, ⟨את⟩ Jisraël, en ⟨את⟩ de grond die jij ons gegeven hebt, zoals jij gezworen hebt aan onze vaders: een land vloeiend van melk en honing.",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "kijk neer"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "vanuit woning"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "jouw heilige"
+    },
+    {
+      "surface": "מן",
+      "gloss": "vanuit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "en zegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw volk"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jouw volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de grond"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de grond"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "jij gegeven hebt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "jij gezworen hebt"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "aan onze vaders"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "een land"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "vloeiend"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "van melk"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "en honing"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:39.596184360Z",
+  "model": "glm-5.3"
+}

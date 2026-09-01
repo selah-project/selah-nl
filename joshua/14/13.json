@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En Jehosjoea zegende hem, en hij gaf ⟨את⟩ Chebron aan Kalev, zoon van Jefunne, als erfelijk bezit.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "En hij zegende hem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij gaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "aan Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "van Jefunne"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "als erfelijk bezit"
+    }
+  ],
+  "timestamp": "2026-08-31T20:31:30.194987737Z",
+  "model": "glm-5.3"
+}

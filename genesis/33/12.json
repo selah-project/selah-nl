@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En hij zei: Laten we opbreken en laten we gaan, en ik zal gaan vóór jou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "laten we opbreken"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "en laten we gaan"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "en ik zal gaan"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "vóór jou"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:31.995800550Z",
+  "model": "glm-5.3"
+}

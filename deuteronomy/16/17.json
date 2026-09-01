@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Ieder ⟨volgens⟩ de gift van zijn hand, ⟨volgens⟩ de zegen van Jahweh jouw Elohim, die Hij jou gegeven heeft.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "⟨volgens⟩ de gift"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "van zijn hand"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "⟨volgens⟩ de zegen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Hij gegeven heeft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:43.524354826Z",
+  "model": "glm-5.3"
+}

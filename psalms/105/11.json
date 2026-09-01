@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "zeggend: aan jou geef Ik ⟨את⟩ het land Kena'an, het meetlint van jullie erfdeel,",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "geef Ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land Kena'an"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "het meetlint"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "van jullie erfdeel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:24.508536472Z",
+  "model": "glm-5.3"
+}

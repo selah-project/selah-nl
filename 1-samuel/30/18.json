@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En Dawid redde ⟨את⟩ alles wat Amalek genomen had; ook ⟨את⟩ zijn twee vrouwen redde Dawid.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "en redde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "genomen had"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn twee vrouwen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "zijn vrouwen"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "redde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:21.928900497Z",
+  "model": "glm-5.3"
+}

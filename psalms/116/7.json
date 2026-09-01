@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "Keer terug, mijn nefesj, naar uw rust, want Jahweh heeft u welgedaan.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Keer terug"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "naar uw rust"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "heeft welgedaan"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:15.456828525Z",
+  "model": "glm-5.3"
+}

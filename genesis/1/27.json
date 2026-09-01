@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim schiep ⟨את⟩ de mens in zijn beeld; in het beeld van Elohim schiep hij ⟨את⟩ hem; mannelijk en vrouwelijk schiep hij ⟨את⟩ hen.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "en schiep"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "in zijn beeld"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "in het beeld"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "schiep"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mannelijk"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "en vrouwelijk"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "schiep"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:27.544589152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En hij zeide tot Hem: Indien uw aangezicht niet meegaat, voer ons dan niet van hier op.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot Hem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "indien"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niet"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "meegaat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "voer ons op"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "van hier"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:23.822021990Z",
+  "model": "glm-5.3"
+}

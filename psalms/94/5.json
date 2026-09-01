@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Uw volk, Jahweh, vertrappen zij, en uw erfdeel onderdrukken zij.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "uw volk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "vertrappen zij"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "en uw erfdeel"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "onderdrukken zij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.585503751Z",
+  "model": "glm-5.3"
+}

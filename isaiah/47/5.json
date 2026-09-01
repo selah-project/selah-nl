@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 47:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "Zit stilzwijgend en ga in ⟨de⟩ duisternis, dochter van Kasdiem, want ⟨men⟩ zal jou niet opnieuw meesteres van koninkrijken noemen.",
+  "tokens": [
+    {
+      "surface": "שבי",
+      "gloss": "Zit"
+    },
+    {
+      "surface": "דומם",
+      "gloss": "stilzwijgend"
+    },
+    {
+      "surface": "ובאי",
+      "gloss": "en ga"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "in ⟨de⟩ duisternis"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "van Kasdiem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "zult opnieuw"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "zal ⟨men⟩ noemen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "meesteres"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "van koninkrijken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:23:35.737657708Z",
+  "model": "glm-5.3"
+}

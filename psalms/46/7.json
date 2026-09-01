@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "Volken zijn in beroering, koninkrijken wankelen; ⟨Hij⟩ verhief zijn stem — de aarde smolt.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "zijn in beroering"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "wankelen"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "koninkrijken"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨Hij⟩ verhief"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "zijn stem"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "smolt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:09.087811714Z",
+  "model": "glm-5.3"
+}

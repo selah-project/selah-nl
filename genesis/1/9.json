@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim zeide: De wateren onder de hemelen verzamelen zich naar één plaats, en het droge ⟨wordt⟩ gezien; en het was zo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zeide"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "verzamelen zich"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "plaats"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "en ⟨wordt⟩ gezien"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "het droge"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het was"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:35.589024374Z",
+  "model": "glm-5.3"
+}

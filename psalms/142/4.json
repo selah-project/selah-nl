@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 142,
+  "translation": "Toen mijn geest zich over mij omhulde, ⟨toen⟩ kende jij mijn pad; op de weg waarop ik wandel hebben zij een strik voor mij verborgen.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "toen zich omhulde"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mijn geest"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "⟨toen⟩ jij"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kende"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "mijn pad"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "זו",
+      "gloss": "waarop"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ik wandel"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "hebben zij verborgen"
+    },
+    {
+      "surface": "פח",
+      "gloss": "een strik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:23.573860973Z",
+  "model": "glm-5.3"
+}

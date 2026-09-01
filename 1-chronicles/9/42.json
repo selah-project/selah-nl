@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Achaz verwekte ⟨את⟩ Jaära, en Jaära verwekte ⟨את⟩ Alemet en ⟨את⟩ Azmavet en ⟨את⟩ Zimri, en Zimri verwekte ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "En Achaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaära"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Jaära"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "en Jaära"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Azmavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "en Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-08-31T22:59:52.281867377Z",
+  "model": "glm-5.3"
+}

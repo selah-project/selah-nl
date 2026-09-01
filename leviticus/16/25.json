@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En ⟨את⟩ het vet van de zondeoffering zal hij laten roken op het altaar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het vet van de zondeoffering"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "het vet"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van de zondeoffering"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "zal hij laten roken"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:51.548098553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Huis van Jaakob, kom, en laten wij gaan in het licht van Jahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaakob"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "en laten wij gaan"
+    },
+    {
+      "surface": "באור",
+      "gloss": "in het licht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:44.439520712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "De zonen van Kehat: Aminadav zijn zoon, Korach zijn zoon, Assir zijn zoon;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "De zonen van"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Assir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:25.960441570Z",
+  "model": "glm-5.3"
+}

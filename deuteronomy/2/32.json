@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Toen trok Sichon uit, ons tegemoet — hij en heel zijn volk — ten strijde bij Jahats.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Toen trok uit"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ons tegemoet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ten strijde"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "bij Jahats"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:22.713302396Z",
+  "model": "glm-5.3"
+}

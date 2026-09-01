@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Avigajil baarde ⟨את⟩ Amasa, en de vader van Amasa ⟨was⟩ Jeter de Jishmaëliet.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "En Avigajil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "baarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "en de vader van"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "de Jishmaëliet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:32.438166700Z",
+  "model": "glm-5.3"
+}

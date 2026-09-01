@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En ⟨את⟩ de vloer van het huis bekleedde hij met goud, van binnen en aan de buitenzijde.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de vloer van het huis"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "de vloer"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "bekleedde hij"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "met goud"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "van binnen"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "en aan de buitenzijde"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:08.642650588Z",
+  "model": "glm-5.3"
+}

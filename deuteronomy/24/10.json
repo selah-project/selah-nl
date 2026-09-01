@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Wanneer jij je naaste enige lening oplegt, mag jij niet zijn huis binnengaan om zijn onderpand ⟨te⟩ nemen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "oplegt"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "je naaste"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "lening"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "enige"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "binnengaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "om … te nemen"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "zijn onderpand"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:39.013311744Z",
+  "model": "glm-5.3"
+}

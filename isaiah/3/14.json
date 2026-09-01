@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Jahweh komt in ⟨het⟩ gericht met de oudsten van zijn volk en zijn vorsten: ⟨gij⟩ hebt de wijngaard kaalgevreten; de roof van de arme is in uw huizen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in gericht"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de oudsten"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "van zijn volk"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "en zijn vorsten"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "gij"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "hebt kaalgevreten"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "de wijngaard"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "de roof"
+    },
+    {
+      "surface": "העני",
+      "gloss": "van de arme"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "in uw huizen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:34.484548551Z",
+  "model": "glm-5.3"
+}

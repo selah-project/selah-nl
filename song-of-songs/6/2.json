@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 6:2",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Mijn liefste is neergedaald naar zijn tuin, naar de kruidenbedden van de balsem, om ⟨zich⟩ te weiden in de tuinen en lelies te plukken.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "mijn liefste"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "is neergedaald"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "naar zijn tuin"
+    },
+    {
+      "surface": "לערוגות",
+      "gloss": "naar de kruidenbedden"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "van de balsem"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "om te weiden"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "in de tuinen"
+    },
+    {
+      "surface": "וללקט",
+      "gloss": "en om te plukken"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "lilies"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:07.893600331Z",
+  "model": "glm-5.3"
+}

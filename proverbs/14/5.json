@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Een getuige van betrouwbaarheid zal niet liegen, maar die leugens uitademt, ⟨is⟩ een getuige van onwaarheid.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "een getuige"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "van betrouwbaarheid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "zal liegen"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "maar die uitademt"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "leugens"
+    },
+    {
+      "surface": "עד",
+      "gloss": "een getuige"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van onwaarheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:53.474426335Z",
+  "model": "glm-5.3"
+}

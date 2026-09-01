@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Mijn schild ⟨is⟩ op Elohim, redder van de oprechten van hart.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "mijn schild"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "redder"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "oprechten"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:48.765301993Z",
+  "model": "glm-5.3"
+}

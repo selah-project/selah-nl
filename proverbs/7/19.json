@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Want de man is niet in zijn huis, hij is gegaan op een verre ⟨weg⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is niet"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in zijn huis"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hij is gegaan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op een weg"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "van verre"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:52.664751884Z",
+  "model": "glm-5.3"
+}

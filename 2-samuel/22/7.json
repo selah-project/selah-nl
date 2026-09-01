@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "In mijn nood riep ik Jahweh, en tot mijn Elohim riep ik; en hij hoorde vanuit zijn heikal mijn stem, en mijn schreeuw ⟨kwam⟩ in zijn oren.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "in mijn nood"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mijn"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "riep ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "riep ik"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "en hij hoorde"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "vanuit zijn heikal"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mijn stem"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "en mijn schreeuw"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "in zijn oren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:43.785033414Z",
+  "model": "glm-5.3"
+}

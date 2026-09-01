@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Naast de poorten, aan de mond van de stad, bij de ingang van de deuren, jubelt zij ⟨luid⟩",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "naast"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "de poorten"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "aan de mond"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "bij de ingang"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "van de deuren"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "jubelt zij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:59.470286887Z",
+  "model": "glm-5.3"
+}

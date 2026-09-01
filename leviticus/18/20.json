@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En tot de vrouw van je naaste zul je je bijligging niet geven als zaad, om ⟨jezelf⟩ ermee te verontreinigen.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "van je naaste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zul je geven"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "je bijligging"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "als zaad"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "om te verontreinigen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ermee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:25.884454014Z",
+  "model": "glm-5.3"
+}

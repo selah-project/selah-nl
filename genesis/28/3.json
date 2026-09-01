@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En El Sjaddai zegene je ⟨את⟩, en make je vruchtbaar en vermenigvuldige je, en je zult worden tot een vergadering van volken.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "En El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "zegene"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ je",
+      "marks": "je"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "make je vruchtbaar"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "vermenigvuldige je"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "je zult worden"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "tot een vergadering"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "van volken"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:29.715727767Z",
+  "model": "glm-5.3"
+}

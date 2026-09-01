@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 148,
+  "translation": "Looft Jahweh ⟨את⟩ vanuit de aarde, zeemonsters en alle diepten,",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "looft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "vanuit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "zeemonsters"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "diepten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:29.589514228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En de mannen van Israël gingen uit van de Mitspa en achtervolgden ⟨את⟩ de Filistijnen, en zij sloegen hen tot onder Beit-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "en gingen uit"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "de mannen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "de Mitspa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "en achtervolgden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Filistijnen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Filistijnen"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "en zij sloegen hen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "כר",
+      "gloss": "-Kar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:34.148282075Z",
+  "model": "glm-5.3"
+}

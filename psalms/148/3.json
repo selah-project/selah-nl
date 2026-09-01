@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 148,
+  "translation": "Looft Hem, zon en maan; looft Hem, alle sterren van licht.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Looft Hem"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "zon"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "en maan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "looft Hem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "sterren"
+    },
+    {
+      "surface": "אור",
+      "gloss": "van licht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:20.174317805Z",
+  "model": "glm-5.3"
+}

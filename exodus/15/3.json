@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Jahweh ⟨is⟩ een man van de oorlog; Jahweh ⟨is⟩ zijn naam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "van de oorlog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:51.820541062Z",
+  "model": "glm-5.3"
+}

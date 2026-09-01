@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En de koning zeide tot de vrouw: Ga naar uw huis, en ik zal aangaande u bevel geven.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en de koning zeide"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "naar uw huis"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "zal bevel geven"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "aangaande u"
+    }
+  ],
+  "timestamp": "2026-08-31T20:53:25.216368268Z",
+  "model": "glm-5.3"
+}

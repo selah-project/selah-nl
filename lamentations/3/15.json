@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Hij heeft mij verzadigd met bitterheden, hij heeft mij gedrenkt met alsem.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "Hij heeft mij verzadigd"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "met bitterheden"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "hij heeft mij gedrenkt"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "met alsem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:55.979193818Z",
+  "model": "glm-5.3"
+}

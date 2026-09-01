@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Dawid wilde de ark van Jahweh niet naar zich toe wegbrengen ⟨naar⟩ de stad van Dawid, en Dawid bracht haar terzijde naar het huis van Oved-Edom de Gittiet.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "wilde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "wegbrengen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naar zich toe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨naar⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "en bracht haar terzijde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "naar het huis"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "de Gittiet"
+    }
+  ],
+  "timestamp": "2026-08-31T20:51:26.189314860Z",
+  "model": "glm-5.3"
+}

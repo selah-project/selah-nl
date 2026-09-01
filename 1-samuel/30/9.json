@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En Dawid ging, hij en zeshonderd man die ⟨את⟩ bij hem waren, en zij kwamen tot aan de beek Besor; en de overgeblevenen bleven staan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en zes"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bij hem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en zij kwamen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "beek"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "en de overgeblevenen"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "bleven staan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:48:47.219946347Z",
+  "model": "glm-5.3"
+}

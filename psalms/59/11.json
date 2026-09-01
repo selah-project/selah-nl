@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Elohim, zijn chesed gaat mij vooruit; Elohim doet mij ⟨het⟩ aanschouwen ⟨over⟩ mijn belagers.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "gaat mij vooruit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "doet mij aanschouwen"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "mijn belagers"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:16.333395711Z",
+  "model": "glm-5.3"
+}

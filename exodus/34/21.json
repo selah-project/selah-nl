@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Zes dagen zul je werken, en op de zevende dag zul je rusten; in de ploegtijd en in de oogsttijd zul je rusten.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "zes"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "zul je werken"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "en op ⟨de⟩ dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "de zevende"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "zul je rusten"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "in de ploegtijd"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "en in de oogsttijd"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "zul je rusten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:49.096463645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "in de zomer bereidt zij haar brood, in de oogst verzamelt zij haar voedsel.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "bereidt zij"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "in de zomer"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "haar brood"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "verzamelt zij"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "in de oogst"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "haar voedsel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:32.122984644Z",
+  "model": "glm-5.3"
+}

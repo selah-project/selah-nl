@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Mijn dagen zijn lichter dan ⟨die van⟩ een weverspoel, en zij zijn verteerd in ⟨het⟩ niets van hoop.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "mijn dagen"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "zijn lichter\/snellere"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "een weverspoel"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "en zij zijn verteerd"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "in het niets"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "van hoop"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:31.476402093Z",
+  "model": "glm-5.3"
+}

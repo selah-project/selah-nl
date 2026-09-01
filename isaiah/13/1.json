@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Last over Bavel, dat Jesjajahoe, zoon van Amots, gezien heeft.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Last"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "gezien heeft"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesjajahoe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-08-31T21:16:34.315771506Z",
+  "model": "glm-5.3"
+}

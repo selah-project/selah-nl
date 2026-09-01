@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En een huis van drinkgelag zult gij niet binnengaan, om met hen te zitten ⟨את⟩, te eten en te drinken.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "En een huis"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "van drinkgelag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "zult gij binnengaan"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "om te zitten"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "te eten en te drinken"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "te eten"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "en te drinken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:30:50.834738305Z",
+  "model": "glm-5.3"
+}

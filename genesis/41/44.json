@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "En Par'o zei tot Jozef: Ik ben Par'o, en zonder jou zal geen man zijn hand ⟨את⟩ of zijn voet ⟨את⟩ heffen in heel het land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o ben"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "en zonder jou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "zal heffen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "geen man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn voet"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "zijn voet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in heel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:30.882984407Z",
+  "model": "glm-5.3"
+}

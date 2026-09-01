@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "een land dat Jahweh, jouw Elohim, steeds zoekt ⟨את⟩ haar; de ogen van Jahweh, jouw Elohim, ⟨zijn⟩ er steeds op, van het begin van het jaar tot het einde van het jaar.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "een land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "zoek\/verlangt naar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (het land)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "steeds"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "de ogen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "er op"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "van het begin"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "van het jaar"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "het einde"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "van het jaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:13.612846704Z",
+  "model": "glm-5.3"
+}

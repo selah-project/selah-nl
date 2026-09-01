@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En nu, stel u op, dan zal ik ⟨את⟩ met u richten voor het aangezicht van Jahweh, ⟨את⟩ alle gerechtigheden van Jahweh, die hij met u en ⟨את⟩ met uw vaders gedaan heeft.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "stel u op"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "dan zal ik richten"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ met u"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle gerechtigheden van Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "gerechtigheden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hij gedaan heeft"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ met u"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩ met"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "uw vaders"
+    }
+  ],
+  "timestamp": "2026-08-31T20:44:09.725453069Z",
+  "model": "glm-5.3"
+}

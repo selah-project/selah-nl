@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Jahweh had berouw dat hij ⟨את⟩ de mens gemaakt had op aarde, en het verdroot hem tot in zijn hart.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "had berouw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gemaakt had"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op aarde"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "het verdroot hem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot in"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zijn hart"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:38.249314969Z",
+  "model": "glm-5.3"
+}

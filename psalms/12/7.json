@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "De woorden van Jahweh zijn zuivere woorden, zilver gelouterd in een smeltkroes van aarde, zevenvoudig gezuiverd.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "De woorden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "zuivere"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "gelouterd"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "in een smeltkroes"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "van aarde"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "gezuiverd"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "zevenvoudig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:08.600416016Z",
+  "model": "glm-5.3"
+}

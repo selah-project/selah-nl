@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Voor de koorleider, op ⟨de wijs van⟩ Ajélet ha-Sjachar; een mizmor van David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ajélet"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ha-Sjachar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:31.502185711Z",
+  "model": "glm-5.3"
+}

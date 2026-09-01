@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Tegen ⟨mijn⟩ rechterhand staat het geboefte op; zij stoten mijn voeten weg, en zij werpen tegen mij hun paden van verderf op.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "rechterhand"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "geboefte"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "staat op"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mijn voeten"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "zij stoten weg"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "en zij werpen op"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "hun paden"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "van verderf"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:57.708104882Z",
+  "model": "glm-5.3"
+}

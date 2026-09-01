@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Ik ben geworden ⟨tot⟩ een spot voor heel mijn volk, ⟨tot⟩ hun spotlied de hele dag.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "Ik ben geworden"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "een spot"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "voor heel"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "hun spotlied"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:55.979006278Z",
+  "model": "glm-5.3"
+}

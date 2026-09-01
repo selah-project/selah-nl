@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En zij opende ⟨het⟩ en zag hem, ⟨את⟩ het kind — en ziet, een jongen die huilde; en zij kreeg medelijden met hem en zei: Van de kinderen van de Hebreeuwen is deze.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "en zij opende"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "en zag hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "het kind"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en ziet"
+    },
+    {
+      "surface": "נער",
+      "gloss": "een jongen"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "die huilde"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "en zij kreeg medelijden"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "van de kinderen"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "van de Hebreeuwen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "is deze"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:26.517914764Z",
+  "model": "glm-5.3"
+}

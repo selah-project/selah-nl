@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "De oprechten zien het en verheugen zich, en alle onrecht sluit zijn mond.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "zien"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de oprechten"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "en verheugen zich"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "onrecht"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "sluit"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "zijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:05.133140193Z",
+  "model": "glm-5.3"
+}

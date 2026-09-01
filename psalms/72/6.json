@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "Hij daalt neer als regen op het gemaaide gras, als druppels die de aarde doorweken.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "hij daalt neer"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "als regen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "גז",
+      "gloss": "het gemaaide gras"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "als druppels"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "die doorweken"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:04.686096545Z",
+  "model": "glm-5.3"
+}

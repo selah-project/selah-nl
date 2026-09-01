@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Boaz verwekte ⟨את⟩ Oved, en Oved verwekte ⟨את⟩ Jisjai.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "En Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "en Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisjai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisjai"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:17.070430005Z",
+  "model": "glm-5.3"
+}

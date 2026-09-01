@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 8:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij slachtte ⟨het⟩; en Mosjee nam ⟨את⟩ het bloed en zette het op de hoornen van het altaar, rondom, met zijn vinger, en hij ontzondigde ⟨את⟩ het altaar; en ⟨את⟩ het bloed goot hij uit aan de voet van het altaar, en hij heiligde het om er verzoening op te doen.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "slachtte"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "zette"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "de hoornen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van het altaar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "met zijn vinger"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "ontzondigde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het altaar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "goot uit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "de voet"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van het altaar"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "heiligde het"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "om verzoening te doen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "erop"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:31.738991762Z",
+  "model": "glm-5.3"
+}

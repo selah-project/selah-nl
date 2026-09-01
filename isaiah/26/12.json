@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Jahweh, U stelt sjalom voor ons vast, want ook al ons ma'asim hebt Ú voor ons verricht.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "stelt U vast"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "onze ma'asim"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "hebt Ú verricht"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:10.547765182Z",
+  "model": "glm-5.3"
+}

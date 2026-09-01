@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "En Joesef nam hen beiden, ⟨את⟩ Efrajim in zijn rechterhand, aan de linkerzijde van Israël, en ⟨את⟩ Menasje in zijn linkerhand, aan de rechterzijde van Israël, en hij bracht hen tot bij hem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hen beiden"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "hen beiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrajim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "in zijn rechterhand"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "aan de linkerzijde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Menasje"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasje"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "in zijn linkerhand"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "aan de rechterzijde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "en hij bracht nabij"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot bij hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:42.469512104Z",
+  "model": "glm-5.3"
+}

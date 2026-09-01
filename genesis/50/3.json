@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "En zij vulden voor hem veertig dagen, want zo vulmen de dagen van het balsemen; en Mitsrajim weende ⟨את⟩ hem zeventig dagen.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "vulden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "vullen"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de dagen"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "van het balsemen"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "weende"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "zeventig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:14.512733958Z",
+  "model": "glm-5.3"
+}

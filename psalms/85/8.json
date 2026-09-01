@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 85,
+  "translation": "Toon ons, Jahweh, uw chesed, en geef ons uw heil.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Toon ons"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "en uw heil"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:00.687794079Z",
+  "model": "glm-5.3"
+}

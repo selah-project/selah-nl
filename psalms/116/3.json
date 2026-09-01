@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "De koorden van de dood omringden mij, en de benauwdheden van Sjeool vonden mij; benauwdheid en verdriet vond ik.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "omringden mij"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "koorden van"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de dood"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "en de benauwdheden van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeool"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "vonden mij"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "benauwdheid"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "en verdriet"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "vond ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:20.957501343Z",
+  "model": "glm-5.3"
+}

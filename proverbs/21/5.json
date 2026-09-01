@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "De plannen van de vlijtige ⟨leiden⟩ slechts tot overvloed, maar al wat haastigt, slechts tot gebrek.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "de plannen"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "van de vlijtige"
+    },
+    {
+      "surface": "אך",
+      "gloss": "slechts"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "tot overvloed"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "maar al wat"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "haastigt"
+    },
+    {
+      "surface": "אך",
+      "gloss": "slechts"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "tot gebrek"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:57.994520196Z",
+  "model": "glm-5.3"
+}

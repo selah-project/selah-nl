@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En de priester zal het schatten, ⟨את⟩ ⟨het dier⟩, tussen goed en tussen slecht; naar jouw schatting, priester, zo zal het zijn.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "en hij zal schatten"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "het (tussen goed en tussen slecht)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slecht"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "naar jouw schatting"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priester"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal het zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:55.560425761Z",
+  "model": "glm-5.3"
+}

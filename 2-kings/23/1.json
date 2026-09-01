@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En de koning zond ⟨om hen te ontbieden⟩, en zij verzamelden bij hem alle oudsten van Jehoeda en van Jeroesjalajim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "En de koning zond"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "en zij verzamelden"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oudsten"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "en van Jeroesjalajim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:59.550920632Z",
+  "model": "glm-5.3"
+}

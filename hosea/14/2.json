@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Keer terug, Israël, tot Jahweh jouw Elohim, want je bent gestruikeld in je ongerechtigheid.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "je bent gestruikeld"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "in je ongerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:39.282684517Z",
+  "model": "glm-5.3"
+}

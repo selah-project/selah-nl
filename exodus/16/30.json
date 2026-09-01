@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En het volk hield rust op de zevende dag.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "en hield rust"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "zevende"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:25.378183978Z",
+  "model": "glm-5.3"
+}

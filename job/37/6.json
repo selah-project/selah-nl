@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Want tot de sneeuw zegt hij: Wees op de aarde; en tot de regen van de stroomregen, en tot de stroomregen van zijn macht.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "tot de sneeuw"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zegt hij"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wees"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "en tot de regen"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "van de stroomregen"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "en tot de regen"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "van stroomregens"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "van zijn macht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:37:22.771162830Z",
+  "model": "glm-5.3"
+}

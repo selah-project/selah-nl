@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "en ⟨את⟩ de Jebusiet, en ⟨את⟩ de Emoriet, en ⟨את⟩ de Girgasjiet",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Jebusiet"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "de Jebusiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Emoriet"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de Emoriet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Girgasjiet"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "de Girgasjiet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:13.413791223Z",
+  "model": "glm-5.3"
+}

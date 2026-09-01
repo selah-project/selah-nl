@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En het geschiedde, toen het volk uit zijn tenten brak op om over ⟨את⟩ de Jarden te trekken, dat de priesters, de dragers van de ark van het verbond, voor het volk uit gingen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het geschiedde"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "toen... brak op"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "uit zijn tenten"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "om over te trekken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "en de priesters"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "de dragers van"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "van het verbond"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor... uit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:30.702703454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Wijk af van de weg, buig ⟨ver⟩ van het pad, doe ⟨de Heilige⟩ van Israël ophouden ⟨⟨את⟩⟩ voor ons aangezicht ⟨weg te gaan⟩.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "wijk af"
+    },
+    {
+      "surface": "מני",
+      "gloss": "van"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "buig"
+    },
+    {
+      "surface": "מני",
+      "gloss": "van"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "het pad"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "doe ophouden"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "voor ons aangezicht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Heilige van Israël"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "de Heilige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:44:25.660052390Z",
+  "model": "glm-5.3"
+}

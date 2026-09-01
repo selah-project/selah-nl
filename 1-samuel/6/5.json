@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 6:5",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En jullie zullen beelden maken van jullie gezwellen en beelden van jullie muizen, die het land verwoesten, en jullie zullen de Elohim van Israël ⟨את⟩ eer geven; misschien verzacht hij ⟨את⟩ zijn hand van jullie, en van jullie elohim, en van jullie land.",
+  "tokens": [
+    {
+      "surface": "וַעֲשִׂיתֶם",
+      "gloss": "en jullie zullen maken"
+    },
+    {
+      "surface": "צַלְמֵי",
+      "gloss": "beelden van"
+    },
+    {
+      "surface": "עפליכם",
+      "gloss": "jullie gezwellen"
+    },
+    {
+      "surface": "וְצַלְמֵי",
+      "gloss": "en beelden van"
+    },
+    {
+      "surface": "עַכְבְּרֵיכֶם",
+      "gloss": "jullie muizen"
+    },
+    {
+      "surface": "הַמַּשְׁחִיתִם",
+      "gloss": "die verwoesten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "eer (naamloos object bij 'geven')"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "וּנְתַתֶּם",
+      "gloss": "en jullie zullen geven"
+    },
+    {
+      "surface": "לֵאלֹהֵי",
+      "gloss": "aan de Elohim van"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כָּבוֹד",
+      "gloss": "eer"
+    },
+    {
+      "surface": "אוּלַי",
+      "gloss": "misschien"
+    },
+    {
+      "surface": "יָקֵל",
+      "gloss": "zal hij verzachten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hand"
+    },
+    {
+      "surface": "יָדוֹ",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "מֵעֲלֵיכֶם",
+      "gloss": "van jullie"
+    },
+    {
+      "surface": "וּמֵעַל",
+      "gloss": "en van"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "jullie elohim"
+    },
+    {
+      "surface": "וּמֵעַל",
+      "gloss": "en van"
+    },
+    {
+      "surface": "אַרְצְכֶם",
+      "gloss": "jullie land"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:45.217280490Z",
+  "model": "glm-5.3"
+}

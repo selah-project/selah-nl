@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "En de hongersnood was zwaar in het land.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "En de hongersnood"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "was zwaar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:17.619077343Z",
+  "model": "glm-5.3"
+}

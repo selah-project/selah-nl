@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 98,
+  "translation": "Hij heeft gedacht aan Zijn chesed en Zijn trouw aan het huis van Israël; ⟨alle⟩ einden der aarde hebben ⟨את⟩ de verlossing van Elohim gezien.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "heeft gedacht aan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Zijn chesed"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "en Zijn trouw"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "aan het huis van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hebben gezien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "einden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "der aarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de verlossing"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "verlossing"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "van Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:06.980929875Z",
+  "model": "glm-5.3"
+}

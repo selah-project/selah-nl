@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En het zal geschieden, wanneer hij tot u zegt: Ik zal niet van u weggaan — omdat hij u liefheeft en ⟨את⟩ uw huis, omdat het goed voor hem is bij u —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en het zal geschieden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hij zegt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "zal ik weggaan"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "van u"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "hij u liefheeft"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uw huis"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "uw huis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het goed is"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bij u"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:29.429628249Z",
+  "model": "glm-5.3"
+}

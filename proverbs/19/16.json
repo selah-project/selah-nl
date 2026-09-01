@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Wie het gebod bewaart, bewaart zijn nefesj; wie zijn wegen veracht, zal sterven.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "bewaart"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "het gebod"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewaart"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn nefesj"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "veracht"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "zijn wegen"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:14.496378669Z",
+  "model": "glm-5.3"
+}

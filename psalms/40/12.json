@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "U, Jahweh — uw ontfermingen houdt u niet van mij terug; uw chesed en uw waarachtigheid bewaken mij voortdurend.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "houdt u tegen"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "uw ontfermingen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "en uw waarachtigheid"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "bewaken mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:08.435538691Z",
+  "model": "glm-5.3"
+}

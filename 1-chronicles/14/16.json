@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En Dawid deed zoals Elohim hem geboden had, en zij sloegen ⟨את⟩ het leger van de Filistijnen, van Giv'on tot Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "En hij deed"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hem geboden had"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en zij sloegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het leger van de Filistijnen"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "het leger"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van de Filistijnen"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "van Giv'on"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-31T23:29:09.282255032Z",
+  "model": "glm-5.3"
+}

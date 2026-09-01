@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En zoet is het licht, en goed voor de ogen om ⟨את⟩ de zon te zien.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "en zoet"
+    },
+    {
+      "surface": "האור",
+      "gloss": "het licht"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "en goed"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "voor de ogen"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zon"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:05.796156053Z",
+  "model": "glm-5.3"
+}

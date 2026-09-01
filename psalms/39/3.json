@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "Ik werd stom ⟨van⟩ stilzwijgen, ik zweeg, zelfs ⟨van⟩ het goede; en mijn pijn werd opgeweld.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ik werd stom"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "stilzwijgen"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ik zweeg"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "van het goede"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "en mijn pijn"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "werd opgeweld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:13.539742766Z",
+  "model": "glm-5.3"
+}

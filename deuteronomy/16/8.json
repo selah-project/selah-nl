@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 16:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Zes dagen zul je mazzot eten, en op de zevende dag ⟨is⟩ een bijeenkomst voor Jahweh jouw Elohim; je zult geen werk doen.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "zes"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "zul je eten"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mazzot"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "en op de dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "de zevende"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "bijeenkomst"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zul je doen"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "werk"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:16.766252500Z",
+  "model": "glm-5.3"
+}

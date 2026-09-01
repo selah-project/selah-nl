@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En jullie ogen zullen ⟨het⟩ zien, en jullie zullen zeggen: Groot is Jahweh ⟨over⟩ de grens van Jisraël!",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "en jullie ogen"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "zullen zien"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en jullie"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "zullen jullie zeggen"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "groot is"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "over"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "de grens van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:03.454615680Z",
+  "model": "glm-5.3"
+}

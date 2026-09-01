@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 150,
+  "translation": "Looft Hem met welluidende cimbalen, looft Hem met cimbalen van jubelgeschal.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Looft Hem"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "met welluidende cimbalen"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "welluidende"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "looft Hem"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "met cimbalen van"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "jubelgeschal"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:59.152360542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "⟨את⟩ wie zal hij kennis leren, en ⟨את⟩ wie zal hij ⟨de⟩ onderwijzing laten verstaan? ⟨Aan⟩ gespenden van de melk, ⟨aan⟩ ontwend van de borsten?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "zal hij leren"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "wie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "zal hij laten verstaan"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "⟨de⟩ onderwijzing"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "gespenden"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "van de melk"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "ontwend"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "van de borsten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:32.559189105Z",
+  "model": "glm-5.3"
+}

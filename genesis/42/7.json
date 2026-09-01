@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En Josef zag ⟨את⟩ zijn broers en hij herkende hen, maar hij deed zich vreemd voor tegenover hen, en hij sprak harde woorden ⟨את⟩ hen; en hij zei tegen hen: Vanwaar bent u gekomen? En zij zeiden: Uit het land Kenaan, om voedsel te kopen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn broers"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "en hij herkende hen"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "hij deed zich vreemd voor"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tegenover hen"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "en hij sprak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "harde woorden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tegen hen"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "vanwaar"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "bent u gekomen"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "om te kopen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "voedsel"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:49.638177849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En ik gaf jou ⟨את⟩ het huis van je heer, en ⟨את⟩ de vrouwen van je heer in je schoot, en ik gaf jou ⟨את⟩ het huis van Israël en Jehoeda; en als ⟨dat⟩ weinig was, zou ik jou hieraan en daaraan toevoegen.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "en ik gaf"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van je heer"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "van je heer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de vrouwen van je heer"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "de vrouwen"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "van je heer"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "in je schoot"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "en ik gaf"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Israël en Jehoeda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "weinig"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "zou ik toevoegen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "hieraan"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "en daaraan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:53:05.872920648Z",
+  "model": "glm-5.3"
+}

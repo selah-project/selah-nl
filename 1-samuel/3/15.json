@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Sjemoeël sliep tot de morgen, en hij opende ⟨את⟩ de deuren van het huis van Jahweh; en Sjemoeël vreesde om ⟨את⟩ het gezicht te verkondigen aan Éli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "en sliep"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "de morgen"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "en hij opende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de deuren"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "de deuren"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "en Sjemoeël"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vreesde"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "om te verkondigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het gezicht"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "het gezicht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Éli"
+    }
+  ],
+  "timestamp": "2026-08-31T23:19:05.136042945Z",
+  "model": "glm-5.3"
+}

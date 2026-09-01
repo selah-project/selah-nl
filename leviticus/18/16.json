@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "De naaktheid van de vrouw van uw broeder zult gij niet ontden; ⟨zij⟩ is de naaktheid van uw broeder.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "de naaktheid"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "van uw broeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "zult gij ontden"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "de naaktheid"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "van uw broeder"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨zij⟩ is"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:09.757682606Z",
+  "model": "glm-5.3"
+}

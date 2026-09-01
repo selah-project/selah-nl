@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Als hij zich niet laat terugbrengen, scherpt ⟨hij⟩ zijn zwaard; zijn boog spant ⟨hij⟩ en richt ⟨hij⟩ die.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "laat terugbrengen"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "zijn zwaard"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "scherpt"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "zijn boog"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "spant"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "en richt die"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:29.078915739Z",
+  "model": "glm-5.3"
+}

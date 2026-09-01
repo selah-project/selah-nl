@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En zijn broers gingen ⟨את⟩ de kudde van hun vader weiden in Sjecom.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "gingen"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "weiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kudde"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "de kudde"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "van hun vader"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "in Sjecom"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:55.586807713Z",
+  "model": "glm-5.3"
+}

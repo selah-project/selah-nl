@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 43:18",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "Gedenkt niet de eerste dingen, en de vroegere dingen — overweegt ⟨ze⟩ niet.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "gedenkt"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "de eerste dingen"
+    },
+    {
+      "surface": "וקדמניות",
+      "gloss": "en de vroegere dingen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתבננו",
+      "gloss": "overweegt ⟨ze⟩ niet"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:10.566030736Z",
+  "model": "glm-5.3"
+}

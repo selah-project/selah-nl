@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Maar ⟨את⟩ het vlees van de stier, en ⟨את⟩ zijn huid en ⟨את⟩ zijn mest zult u verbranden met vuur, buiten het kamp — een zondoffer is het.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "maar ⟨את⟩",
+      "marks": "het vlees van de stier"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "van de stier"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn huid"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "zijn huid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn mest"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "zijn mest"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "zult u verbranden"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "het kamp"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "een zondoffer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is het"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:33.857017665Z",
+  "model": "glm-5.3"
+}

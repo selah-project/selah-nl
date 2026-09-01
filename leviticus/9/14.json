@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En hij waste ⟨את⟩ de ingewanden en ⟨את⟩ de poten, en hij liet ⟨ze⟩ roken op het brandoffer, op het altaar ⟨af⟩.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "en hij waste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ingewanden"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "de ingewanden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de poten"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "de poten"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "en hij liet roken"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "het brandoffer"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "het altaar ⟨af⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:09.595713334Z",
+  "model": "glm-5.3"
+}

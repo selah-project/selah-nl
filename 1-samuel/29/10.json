@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En nu, sta vroeg op in de morgen, jij en de dienaren van je heer die met jou ⟨את⟩ gekomen zijn; en wanneer jullie vroeg opgestaan zijn in de morgen en het ⟨licht⟩ wordt, vertrek dan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "sta vroeg op"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "en de dienaren"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "van je heer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gekomen zijn"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "met jou ⟨את⟩",
+      "marks": "met jou"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "en wanneer jullie vroeg opgestaan zijn"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "en het licht wordt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "vertrek dan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:48:40.185290225Z",
+  "model": "glm-5.3"
+}

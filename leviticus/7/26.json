@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En geen enkel bloed mag u eten, in al uw woonplaatsen, ⟨noch⟩ van het gevogelte noch van het vee.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en geen enkel"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag u eten"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in al"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "uw woonplaatsen"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "van het gevogelte"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "noch van het vee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:20.458353810Z",
+  "model": "glm-5.3"
+}

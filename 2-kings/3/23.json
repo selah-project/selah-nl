@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En zij zeiden: Dit ⟨is⟩ bloed — de koningen zijn zeker onderling verwoest en zij hebben elk ⟨את⟩ zijn naaste geslagen; en nu, Moav, ten buit!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "onderling verwoest"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "zijn verwoest"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "de koningen"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en zij hebben geslagen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naaste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zijn naaste"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "ten buit"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:04.021508537Z",
+  "model": "glm-5.3"
+}

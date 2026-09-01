@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 149,
+  "translation": "Want Jahweh heeft welbehagen in zijn volk, hij tooit de ootmoedigen met heil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "heeft welbehagen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "in zijn volk"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "tooit"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ootmoedigen"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "met heil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:01.772850322Z",
+  "model": "glm-5.3"
+}

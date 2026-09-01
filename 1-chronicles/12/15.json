@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Dezen waren van de zonen van Gad, hoofden van het leger: de kleinste ⟨stond⟩ tegenover honderd, en de grootste tegenover duizend.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dezen"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "van de zonen van"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoofden van"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "het leger"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "tegenover honderd"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "de kleinste"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "en de grootste"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "tegenover duizend"
+    }
+  ],
+  "timestamp": "2026-08-31T23:00:54.092618480Z",
+  "model": "glm-5.3"
+}

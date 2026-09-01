@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Alle handen zullen verslappen, en alle knieën zullen ⟨als⟩ water vloeien.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "handen"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "zullen verslappen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "knieën"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "zullen vloeien"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-31T21:42:15.457841170Z",
+  "model": "glm-5.3"
+}

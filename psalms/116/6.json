@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "Jahweh bewaart de eenvoudigen; ik was verlaagd, en mij heeft hij geholpen.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "bewaart"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "de eenvoudigen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ik was verlaagd"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "en mij"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "heeft hij geholpen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:15.456701054Z",
+  "model": "glm-5.3"
+}

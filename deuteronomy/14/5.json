@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "het hert, en de gazelle, en de reebok, en de wilde geit, en de disjon, en de wilde os, en de zamer.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "het hert"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "en de gazelle"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "en de reebok"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "en de wilde geit"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "en de disjon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "en de wilde os"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "en de zamer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:53.515485750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Zonen van dwazen, zelfs zonen zonder naam — weggeslagen uit het land.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "dwazen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zelfs"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "שם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "weggeslagen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:50.656045849Z",
+  "model": "glm-5.3"
+}

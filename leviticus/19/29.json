@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Ontheilig ⟨את⟩ je dochter niet om haar te laten ontuchten, opdat het land niet ontucht pleegt en het land vol schandelijke plannen (zimma) raakt.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "ontheilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je dochter"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "je dochter"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "om haar te laten ontuchten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "opdat niet"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "ontucht pleegt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "en vol raakt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "schandelijke plannen (zimma)"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:09.608401480Z",
+  "model": "glm-5.3"
+}

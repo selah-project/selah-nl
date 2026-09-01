@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "U hebt hen doen eten brood van tranen, en hen te drinken gegeven tranen in drievoud ⟨maat⟩.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "U hebt hen doen eten"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "van tranen"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "en hen te drinken gegeven"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "tranen"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "in drievoud ⟨maat⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:36.923161384Z",
+  "model": "glm-5.3"
+}

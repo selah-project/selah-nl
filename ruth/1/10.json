@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En zij zeiden tot haar: Voorwaar, ⟨את⟩ met u keren wij terug naar jouw volk.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tot haar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met u"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "keren wij terug"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "naar jouw volk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:03.350247316Z",
+  "model": "glm-5.3"
+}

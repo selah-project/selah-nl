@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Mijn Elohim, op U heb ik vertrouwd; laat mij niet beschaamd worden, laat mijn vijanden over mij niet juichen.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "heb ik vertrouwd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "mij beschaamd worden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "juichen"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "לי",
+      "gloss": "over mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:07.820156162Z",
+  "model": "glm-5.3"
+}

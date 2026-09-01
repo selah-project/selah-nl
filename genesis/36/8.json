@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En Esav woonde in het gebergte Seïr — Esav, dat is Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "En ... woonde"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "in het gebergte"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seïr"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dat is"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:25.045689904Z",
+  "model": "glm-5.3"
+}

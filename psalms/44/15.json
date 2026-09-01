@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Jij maakt ons tot een spreekwoord onder de naties, tot een hoofdschudden onder de volken.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Jij maakt ons"
+    },
+    {
+      "surface": "משל",
+      "gloss": "tot een spreekwoord"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder de naties"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "tot een schudden"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "van het hoofd"
+    },
+    {
+      "surface": "בל",
+      "gloss": "onder"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "de volken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:37.332735580Z",
+  "model": "glm-5.3"
+}

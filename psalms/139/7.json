@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "Waarheen zal ik gaan van uw Geest, en waarheen zal ik vluchten voor uw aangezicht?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "zal ik gaan"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "van uw Geest"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "en waarheen"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "voor uw aangezicht"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "zal ik vluchten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:24.431256547Z",
+  "model": "glm-5.3"
+}

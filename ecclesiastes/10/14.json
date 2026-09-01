@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En de dwaas vermenigvuldigt woorden — de mens weet niet wat ⟨zal⟩ geschieden, en wat na hem zal zijn, wie zal het hem laten weten?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "en de dwaas"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "vermenigvuldigt"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "zal geschieden"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "na hem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "zal laten weten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:19.917538465Z",
+  "model": "glm-5.3"
+}

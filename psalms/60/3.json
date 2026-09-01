@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "Elohim, U heeft ons verstoten, U heeft ons doen breken, U was ontbrand ⟨in toorn⟩ — keer tot ons terug!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "U heeft ons verstoten"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "U heeft ons doen breken"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "U was ontbrand"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tot ons"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:37.016040570Z",
+  "model": "glm-5.3"
+}

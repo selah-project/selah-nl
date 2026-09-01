@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 23:20",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En Benajahu, zoon van Jehojada, zoon van een levend man, groot in daden, uit Kavtseël — hij sloeg ⟨את⟩ twee Ariëls van Moav; en hij daalde af en sloeg ⟨את⟩ de leeuw in het midden van de put op een dag van sneeuw.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "En Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "ייהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levend"
+    },
+    {
+      "surface": "רב",
+      "gloss": "groot"
+    },
+    {
+      "surface": "פעלים",
+      "gloss": "in daden"
+    },
+    {
+      "surface": "מקבצאל",
+      "gloss": "uit Kavtseël"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "sloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twee Ariëls van Moav"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "אראל",
+      "gloss": "Ariëls"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moav"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "daalde af"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "en sloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de leeuw"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "de leeuw"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "de put"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op een dag van"
+    },
+    {
+      "surface": "השלג",
+      "gloss": "sneeuw"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:54.617449130Z",
+  "model": "glm-5.3"
+}

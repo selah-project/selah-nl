@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 1:11",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En zij zeiden tot hem: Wat moeten wij doen ⟨met⟩ jou, zodat de zee bedaart ⟨van⟩ ons? Want de zee ging voort en werd steeds stormachtiger.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "moeten wij doen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "zodat bedaart"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "van ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ging voort"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "en stormachtig werd"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:58.482386806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En het volk hoorde ⟨את⟩ dit slechte woord, en zij rouwden, en niemand legde zijn sieraad op zichzelf.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hoorde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit slechte woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "slechte"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "en zij rouwden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "legde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "niemand (een ieder)"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "zijn sieraad"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op zichzelf"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:11.926242211Z",
+  "model": "glm-5.3"
+}

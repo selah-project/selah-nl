@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En het woord van Jahweh kwam tot Jonah, een tweede keer, zeggende:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het kwam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonah"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "een tweede keer"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:46.027321902Z",
+  "model": "glm-5.3"
+}

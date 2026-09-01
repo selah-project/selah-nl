@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 81,
+  "translation": "Ach, zou mijn volk naar mij luisteren, Israël zou in mijn wegen wandelen!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ach, zou"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "luisteren"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naar mij"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "in mijn wegen"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "zou wandelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:23.449739219Z",
+  "model": "glm-5.3"
+}

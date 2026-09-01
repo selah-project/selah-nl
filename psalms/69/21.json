@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Schande heeft mijn hart gebroken, en ik ben verslagen; ik hoopte op ⟨iemand die⟩ medelijden betoonde, maar er was niemand, en op troosters, maar ik vond er geen.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "schande"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "heeft gebroken"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "en ik ben verslagen"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "en ik hoopte"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "op ⟨iemand die⟩ medelijden betoonde"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maar er was niemand"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "en op troosters"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "vond ik"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:16.132608774Z",
+  "model": "glm-5.3"
+}

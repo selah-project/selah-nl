@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Mijn zoon, vergeet mijn tora niet, en mijn mitswot ⟨zal⟩ je hart bewaren.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "mijn tora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "vergeet"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "en mijn mitswot"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "bewaren"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "je hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:07.603345489Z",
+  "model": "glm-5.3"
+}

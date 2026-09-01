@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Mogen zij verwoest worden om ⟨de vergelding van⟩ hun schande, die tegen mij zeggen: Aha, aha!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "mogen zij verwoest worden"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "als vergelding van"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "hun schande"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "die zeggen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:13.985795156Z",
+  "model": "glm-5.3"
+}

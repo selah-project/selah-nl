@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En zij trokken op en verkenningen ⟨את⟩ het land, van de woestijn Tsin tot Rechov, bij de intocht van Chamath.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "en zij trokken op"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "en verkenningen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "van de woestijn"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "bij de intocht"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamath"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:37.440061989Z",
+  "model": "glm-5.3"
+}

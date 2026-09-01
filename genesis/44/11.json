@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "En zij haastten zich en ieder liet zijn zak ⟨את⟩ neer op de aarde, en ieder opende zijn zak.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "en zij haastten zich"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "en lieten neer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zak"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "zijn zak"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "en openden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "zijn zak"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:25.802832418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Neem je in acht, dat je Jahweh, je Elohim, niet vergeert door ⟨את⟩ zijn geboden, zijn verordeningen en zijn statuten, die ik je heden gebied, niet te bewaren.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "neem je in acht"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dat... niet"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "je vergeert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh, je Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "je Elohim"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "door niet te"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewaren"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "zijn geboden"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "en zijn verordeningen"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "en zijn statuten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "je gebied"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:57.697337808Z",
+  "model": "glm-5.3"
+}

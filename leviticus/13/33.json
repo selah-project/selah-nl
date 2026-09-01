@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En ⟨hij⟩ zal zich scheren, maar ⟨את⟩ de netek zal hij niet scheren; en de kohen zal ⟨את⟩ de netek zeven dagen ⟨lang⟩ opsluiten, voor de tweede keer.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "en hij zal zich scheren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "de netek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "zal scheren"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "en zal opsluiten"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "de netek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "voor de tweede keer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:16.551536698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Israël heeft het goede verstoten; een vijand zal hem achtervolgen.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "heeft verstoten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "een vijand"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "zal hem achtervolgen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:26.697566884Z",
+  "model": "glm-5.3"
+}

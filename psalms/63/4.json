@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 63,
+  "translation": "Want uw chesed is beter dan het leven, mijn lippen zullen u loven.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "is beter"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "dan het leven"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mijn lippen"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "zullen u loven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.331912673Z",
+  "model": "glm-5.3"
+}

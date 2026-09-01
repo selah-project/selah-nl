@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Jahweh trekt uit als een held, als een strijdmans wekt Hij ijver op; Hij schreeuwt, ja, Hij brult over ⟨zijn⟩ vijanden, Hij toont zich machtig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "als een held"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "trekt uit"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "als een strijdman"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "van oorlogen"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "wekt op"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ijver"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "schreeuwt"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "brult"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "zijn vijanden"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "toont zich machtig"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:21.571548645Z",
+  "model": "glm-5.3"
+}

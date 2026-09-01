@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 29:15",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Roede en bestraffing geven wijsheid, maar een jongen die ⟨vrij⟩ gelaten is, brengt zijn moeder tot schande.",
+  "tokens": [
+    {
+      "surface": "שבט",
+      "gloss": "Roede"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "en bestraffing"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geven"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "maar een jongen"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "die ⟨vrij⟩ gelaten is"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "brengt tot schande"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "zijn moeder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:21.770214374Z",
+  "model": "glm-5.3"
+}

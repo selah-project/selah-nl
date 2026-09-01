@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Zij zagen uw optochten, o Elohim, de optochten van mijn El, mijn koning, in het heiligdom.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "zij zagen"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "uw optochten"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "de optochten"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mijn El"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mijn koning"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in het heiligdom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:44.928315624Z",
+  "model": "glm-5.3"
+}

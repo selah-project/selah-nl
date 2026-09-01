@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 15:7",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Wanneer er bij jou een behoeftige is, van een van je broeders, in een van je poorten, in jouw land dat Jahweh, jouw Elohim, je geeft, dan mag je ⟨את⟩ je hart niet verharden en ⟨את⟩ je hand niet sluiten voor je broeder, de behoeftige.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "er is"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bij jou"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "een behoeftige"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "van een van"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "je broeders"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "in een van"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "je poorten"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "in jouw land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je geeft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "mag je verharden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je hart"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "je hart"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תקפץ",
+      "gloss": "sluiten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "je hand"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "voor je broeder"
+    },
+    {
+      "surface": "האביון",
+      "gloss": "de behoeftige"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:51.061849361Z",
+  "model": "glm-5.3"
+}

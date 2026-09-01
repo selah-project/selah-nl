@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Want Elohim zal Tsion verlossen en de steden van Jehoeda herbouwen, en zij zullen daar wonen en het in bezit nemen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "zal verlossen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "en herbouwen"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "de steden van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "en zij zullen wonen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "en het in bezit nemen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:27.419563483Z",
+  "model": "glm-5.3"
+}

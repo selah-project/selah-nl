@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 96,
+  "translation": "Breng aan Jahweh de kavod van zijn naam, draag een mincha aan en komt in zijn voorhoven.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "breng aan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "de kavod"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "van zijn naam"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "draag aan"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "een mincha"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "en komt"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "in zijn voorhoven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:05.134071686Z",
+  "model": "glm-5.3"
+}

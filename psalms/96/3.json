@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 96,
+  "translation": "Vertel onder de natiën zijn kavod, onder alle volken zijn wonderen.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "vertel"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder de natiën"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "zijn kavod"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "onder alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "zijn wonderen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:04.981288836Z",
+  "model": "glm-5.3"
+}

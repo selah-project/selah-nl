@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En hij liet man regenen op hen om te eten, en graan van de hemel gaf hij hun.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "en hij liet regenen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te eten"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "en graan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "van de hemel"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf hij"
+    },
+    {
+      "surface": "למו",
+      "gloss": "hun"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:45.522152397Z",
+  "model": "glm-5.3"
+}

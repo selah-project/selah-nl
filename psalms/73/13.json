@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Voorwaar, tevergeefs heb ik mijn hart gereinigd en mijn handen in onschuld gewassen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "tevergeefs"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "heb ik gereinigd"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "en gewassen"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "in onschuld"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mijn handen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:18.853534864Z",
+  "model": "glm-5.3"
+}

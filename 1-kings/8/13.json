@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Bouwend heb ik een huis gebouwd, een verheven verblijf voor U, een vaste plaats voor Uw wonen tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "bouwend"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "heb ik gebouwd"
+    },
+    {
+      "surface": "בית",
+      "gloss": "een huis"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "verheven verblijf"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor U"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "vaste plaats"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "voor Uw wonen"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "tot in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:39.389304558Z",
+  "model": "glm-5.3"
+}

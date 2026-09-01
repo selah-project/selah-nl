@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En velen zullen daarin struikelen, en vallen en verbrijzeld worden, en verstrikt raken en gevangen worden.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "en zij zullen struikelen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "velen"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "en vallen"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "en verbrijzeld worden"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "en verstrikt raken"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "en gevangen worden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:56.788009767Z",
+  "model": "glm-5.3"
+}

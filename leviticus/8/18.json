@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij bracht ⟨את⟩ de ram van het brandoffer naderbij, en Aharon en zijn zonen legden ⟨את⟩ hun handen op de kop van de ram.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "bracht hij naderbij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ram van het brandoffer"
+    },
+    {
+      "surface": "איל",
+      "gloss": "de ram"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "van het brandoffer"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "legden"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en zijn zonen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun handen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hun handen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "de kop"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "van de ram"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:09.065285813Z",
+  "model": "glm-5.3"
+}

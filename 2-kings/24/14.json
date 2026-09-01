@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 24:14",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En hij voerde ⟨את⟩ heel Jeroesjalajim in ballingschap, en ⟨את⟩ al de vorsten, en ⟨את⟩ alle helden van de strijdkracht — tienduizend in ballingschap — en alle ambachtslieden en de smeden; niemand bleef over, behalve de armsten van het volk van het land.",
+  "tokens": [
+    {
+      "surface": "והגלה",
+      "gloss": "en hij voerde in ballingschap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel Jeroesjalajim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al de vorsten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "de vorsten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle helden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "helden"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "van de strijdkracht"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "in ballingschap"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "ambachtslieden"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "en de smeden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "bleef over"
+    },
+    {
+      "surface": "זולת",
+      "gloss": "behalve"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "de armsten"
+    },
+    {
+      "surface": "עם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:50.680855658Z",
+  "model": "glm-5.3"
+}

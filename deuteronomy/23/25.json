@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Wanneer gij komt in de wijngaard van uw naaste, dan zult gij druiven eten naar ⟨uw⟩ nefesj, ⟨naar⟩ uw verzadiging, maar in uw vat zult gij ⟨niets⟩ geven.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "gij komt"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "in de wijngaard"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "van uw naaste"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "dan zult gij eten"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "druiven"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "naar uw nefesj"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "uw verzadiging"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maar in"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "uw vat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zult gij geven"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:26.654285913Z",
+  "model": "glm-5.3"
+}

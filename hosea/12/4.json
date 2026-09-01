@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "In de schoot greep hij ⟨את⟩ de hiel van zijn broer, en in zijn kracht streed hij met ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "in de schoot"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "greep de hiel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hiel van zijn broer"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broer"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "en in zijn kracht"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "streed hij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:32.842327832Z",
+  "model": "glm-5.3"
+}

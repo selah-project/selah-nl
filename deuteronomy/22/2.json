@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En als je broeder niet dicht bij je is en je hem niet kent, dan moet je ⟨het⟩ meenemen naar binnen in je huis, en het zal bij je zijn tot je broeder het zoekt; dan moet je het aan hem teruggeven.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dichtbij"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "je broeder"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bij je"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "je hem kent"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "en je moet het meenemen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "binnen in"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "je huis"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en het zal zijn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bij je"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "zoekt"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "je broeder"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (aan hem teruggeven)"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "en je moet het teruggeven"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:26.694011975Z",
+  "model": "glm-5.3"
+}

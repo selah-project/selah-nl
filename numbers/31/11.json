@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En zij namen ⟨את⟩ alle buit en ⟨את⟩ alle roofgang, onder de mensen en onder het vee.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "en zij namen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle buit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "buit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alle roofgang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "roofgang"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "onder de mensen"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "en onder het vee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:18:11.740042209Z",
+  "model": "glm-5.3"
+}

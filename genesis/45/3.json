@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "En Josef zei tot zijn broers: Ik ben Josef; leeft mijn vader nog? Maar zijn broers konden hem niet antwoorden, want zij waren ontsteld voor zijn aangezicht.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ben Josef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leeft"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "konden zij"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "antwoorden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "waren ontsteld"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "voor zijn aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:19.091932121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En er was honger in het land, en Avram trok af naar Mitsrajim om daar als vreemdeling te verblijven, want zwaar was de honger in het land.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en er was"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "honger"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "en trok af"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "naar Mitsrajim"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "om als vreemdeling te verblijven"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "zwaar"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "de honger"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:54.065374285Z",
+  "model": "glm-5.3"
+}

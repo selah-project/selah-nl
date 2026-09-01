@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En ⟨zij⟩ zeiden tot het volk: Trek door en ga rond ⟨את⟩ de stad, en de gewapenden zullen doortrekken vóór de ark van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zeiden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "trek door"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "en ga rond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "en de gewapenden"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "zullen doortrekken"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vóór"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:46.736348101Z",
+  "model": "glm-5.3"
+}

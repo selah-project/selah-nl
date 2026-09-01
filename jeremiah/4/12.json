@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Een wind, vol van deze ⟨dingen⟩, zal tot mij komen; nu zal ook ik ⟨tegen⟩ hen rechtsvonnissen spreken ⟨את⟩ hen.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Een wind"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vol"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "van deze"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "zal komen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "zal spreken"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "rechtsvonnissen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:27:58.622474391Z",
+  "model": "glm-5.3"
+}

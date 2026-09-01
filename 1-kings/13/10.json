@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En hij ging via een andere weg, en hij keerde niet terug op de weg waarlangs hij naar Beit-El gekomen was.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "via de weg"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "een andere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שב",
+      "gloss": "hij keerde terug"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarlangs"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hij gekomen was"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarlangs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:30.536153100Z",
+  "model": "glm-5.3"
+}

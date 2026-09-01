@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En het gebeurde, toen koning Chizkijahoe ⟨het⟩ hoorde, dat hij ⟨את⟩ zijn kleren scheurde en zich met zak ⟨bedekte⟩, en hij kwam in het huis van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toen hoorde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahoe"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "dat hij scheurde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn kleren"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zijn kleren"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "en hij bedekte zich"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "met zak"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:26.287374573Z",
+  "model": "glm-5.3"
+}

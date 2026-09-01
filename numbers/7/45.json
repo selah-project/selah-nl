@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "één jonge stier, een zoon van de kudde, één ram, één lam, een zoon van een jaar, voor een brandoffer;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "jonge stier"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon van"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de kudde"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ram"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "lam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon van"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "een jaar"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "voor een brandoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:11:01.435997003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "de hoofdsieraden en de enkelketenen en de gordels en de reukflesjes en de amuletten",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "de hoofdsieraden"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "en de enkelketenen"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "en de gordels"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "en de ... flessen"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "reuk (letterlijk: van de nefesj)"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "en de amuletten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:35.545830548Z",
+  "model": "glm-5.3"
+}

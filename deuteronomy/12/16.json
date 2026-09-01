@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Alleen het bloed mag je niet eten; op de aarde moet je het uitgieten, als water.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag je eten"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "moet je het uitgieten"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "als water"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:23.339580158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Elohim sprak tot Noach, zeggende:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "En sprak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:39.789858988Z",
+  "model": "glm-5.3"
+}

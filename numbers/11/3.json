@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En men riep de naam van die plaats Tav'era, want het vuur van Jahweh had onder hen gebrand.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij riep"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "van de plaats"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tav'era"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "gebrand"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onder hen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:19.754913726Z",
+  "model": "glm-5.3"
+}

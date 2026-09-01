@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Moge hun vesting verlaten zijn, in hun tenten moge geen bewoner ⟨zijn⟩.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Moge zijn"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "hun vesting"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "verlaten"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "in hun tenten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "moge er"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "een bewoner"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:34.428989034Z",
+  "model": "glm-5.3"
+}

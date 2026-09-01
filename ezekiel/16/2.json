@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Mensenkind, doe Jeroesjalajim ⟨את⟩ haar gruwelen kennen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "doe kennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeroesjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar gruwelen"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "haar gruwelen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:23:53.726692014Z",
+  "model": "glm-5.3"
+}

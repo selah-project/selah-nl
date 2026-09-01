@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 77,
+  "translation": "U hebt ⟨de⟩ wimpers van mijn ogen omvat; ik ben ontroerd en kan niet spreken.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "u hebt omvat"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "wimpers"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "van mijn ogen"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "ik ben ontroerd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "spreek"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:29.368895919Z",
+  "model": "glm-5.3"
+}

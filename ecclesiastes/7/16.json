@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Wees niet al te rechtvaardig en maak je niet overdreven wijs — waarom zou je jezelf verwoesten?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "Wees"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardig"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "al te"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "maak je wijs"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "overdreven"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "zou je jezelf verwoesten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:33.199557352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "want in de plaats waarheen zij ⟨את⟩ hem hebben weggevoerd, daar zal hij sterven, en ⟨את⟩ dit land zal hij niet meer zien.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in de plaats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "zij hebben weggevoerd"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zal hij sterven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dit land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dit land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "zal hij zien"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:18.459080660Z",
+  "model": "glm-5.3"
+}

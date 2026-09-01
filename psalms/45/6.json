@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "Uw pijlen ⟨zijn⟩ geslepen — volken vallen onder u — ⟨zij zijn⟩ in het hart van de vijanden van de koning.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "uw pijlen"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "geslepen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "onder u"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "vallen"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "in het hart"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "van de vijanden"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:17.274095244Z",
+  "model": "glm-5.3"
+}

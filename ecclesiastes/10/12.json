@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "De woorden van de mond van een wijze ⟨zijn⟩ genadevol, maar de lippen van een dwaas verslinden hem.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "De woorden"
+    },
+    {
+      "surface": "פי",
+      "gloss": "van de mond"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "van een wijze"
+    },
+    {
+      "surface": "חן",
+      "gloss": "genadevol"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "maar de lippen"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "van een dwaas"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "verslinden hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:18.788018293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 24:10",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En het hart van Dawid sloeg ⟨את⟩ hem nadat hij ⟨את⟩ het volk geteld had; en Dawid zei tot Jahweh: ik heb zeer gezondigd in wat ik gedaan heb; en nu, Jahweh, laat toch ⟨את⟩ de schuld van uw dienaar voorbijgaan, want ik heb zeer dwaas gehandeld.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "en sloeg"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "geteld had"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "heb ik gezondigd"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in wat"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ik gedaan heb"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "laat voorbijgaan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de schuld"
+    },
+    {
+      "surface": "עון",
+      "gloss": "de schuld"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "van uw dienaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "heb ik dwaas gehandeld"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:57.367483974Z",
+  "model": "glm-5.3"
+}

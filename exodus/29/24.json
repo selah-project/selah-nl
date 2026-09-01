@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "en gij zult het geheel leggen op de handpalmen van Aharon en op de handpalmen van zijn zonen, en gij zult ⟨את⟩ hen bewegen als beweegoffer voor het aangezicht van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "en gij zult leggen"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "het geheel"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "de handpalmen van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "de handpalmen van"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "en gij zult bewegen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "als beweegoffer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:02.165921091Z",
+  "model": "glm-5.3"
+}

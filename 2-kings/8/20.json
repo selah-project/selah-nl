@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "In zijn dagen kwam Edom in opstand, ⟨vandaan⟩ onder de hand van Jehoeda, en zij stelden een koning over zich aan.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "in zijn dagen"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "kwam in opstand"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "יד",
+      "gloss": "de hand"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "en zij stelden aan als koning"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over zich"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "een koning"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:50.477979790Z",
+  "model": "glm-5.3"
+}

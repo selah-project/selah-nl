@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 13:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En het zal gebeuren: wanneer Jahweh u brengt in het land van de Kenaäniet, zoals Hij aan u en aan uw vaderen gezworen heeft, en Hij het u geeft —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En het zal gebeuren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יבאך",
+      "gloss": "u brengt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land van"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "de Kenaäniet"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "gezworen heeft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan u"
+    },
+    {
+      "surface": "ולאבתיך",
+      "gloss": "en aan uw vaderen"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "en Het geeft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:54.322157571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Sjemoeël zei tegen de slachter: Geef ⟨את⟩ het deel dat ik u gegeven heb, waarvan ik u gezegd heb: leg ⟨את⟩ het bij u weg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "tegen de slachter"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "geef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het deel"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "het deel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ik gegeven heb"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarvan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ik gezegd heb"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "u"
+    },
+    {
+      "surface": "שים",
+      "gloss": "leg"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "het"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bij u"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:43.055446272Z",
+  "model": "glm-5.3"
+}

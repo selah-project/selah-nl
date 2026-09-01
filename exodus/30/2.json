@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Een el ⟨zal zijn⟩ zijn lengte en een el zijn breedte; vierkant zal het zijn, en twee ellen zijn hoogte; zijn hoornen ⟨moeten⟩ uit hetzelfde ⟨komen⟩.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "een el"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "zijn lengte"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en een el"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "zijn breedte"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "vierkant"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal het zijn"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "en twee ellen"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "zijn hoogte"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "uit hetzelfde"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "zijn hoornen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:49.505990160Z",
+  "model": "glm-5.3"
+}

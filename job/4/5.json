@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Want nu ⟨het⟩ komt tot jou, en jij bent verslagen; het raakt jou, en jij bent ontdaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot jou"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "en jij bent verslagen"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "het raakt"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "en jij bent ontdaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:16.338328562Z",
+  "model": "glm-5.3"
+}

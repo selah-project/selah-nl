@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En hij verbond ⟨את⟩ de vijf voorhangen, de ene aan de ene ⟨andere⟩, en ⟨את⟩ vijf voorhangen verbond hij, de ene aan de ene ⟨andere⟩.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "en hij verbond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vijf voorhangen"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "voorhangen"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "de ene ⟨andere⟩"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "en vijf"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "voorhangen"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "verbond hij"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "de ene ⟨andere⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:52.819421045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En zij gaven aan Kalev ⟨את⟩ Chevron, zoals Mosjee gesproken had; en hij roeide van daar ⟨את⟩ de drie zonen van de Anak uit.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "en zij gaven"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "aan Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "en hij roeide uit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de drie zonen"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "de drie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "de Anak"
+    }
+  ],
+  "timestamp": "2026-08-31T20:35:10.516859264Z",
+  "model": "glm-5.3"
+}

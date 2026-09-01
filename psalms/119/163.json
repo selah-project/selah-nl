@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Leugen heb ik gehaat en verfoeid; uw tora heb ik liefgehad.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "leugen"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "heb ik gehaat"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "en verfoeid"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "uw tora"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "heb ik liefgehad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:41.184760878Z",
+  "model": "glm-5.3"
+}

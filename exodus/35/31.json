@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En hij vulde ⟨את⟩ hem met de roeach van Elohim, in wijsheid, in inzicht en in kennis, en in elk soort werk.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "en hij vulde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (Betsalel)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeach (geest)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "in wijsheid"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "in inzicht"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "en in kennis"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en in elk"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "(soort) werk"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:45.669208873Z",
+  "model": "glm-5.3"
+}

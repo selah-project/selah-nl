@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "De beker van heil zal ik opheffen, en in de naam van Jahweh zal ik aanroepen.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "de beker"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "van heil"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "zal ik opheffen"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "en in de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zal ik aanroepen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:13.901710839Z",
+  "model": "glm-5.3"
+}

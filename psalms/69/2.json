@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Red mij, Elohim, want de wateren zijn gekomen tot ⟨aan⟩ mijn nefesj ⟨leven⟩.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zijn gekomen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wateren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:47.782727826Z",
+  "model": "glm-5.3"
+}

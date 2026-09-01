@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "Niet verborgen was mijn gebeente voor jou, toen ik gemaakt werd in het verborgene, geborduurd in de diepten van de aarde.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "verborgen"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mijn gebeente"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "toen"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ik gemaakt werd"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in het verborgene"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "geborduurd"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "in de diepten"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:24.277438778Z",
+  "model": "glm-5.3"
+}

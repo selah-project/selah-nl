@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Tot in ⟨de⟩ eeuwigheid zal ik jouw zaad vestigen, en ik zal tot geslacht en geslacht jouw troon bouwen. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in eeuwigheid"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "zal ik vestigen"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "jouw zaad"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "en ik zal bouwen"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "tot geslacht"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "en geslacht"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "jouw troon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:05.998712629Z",
+  "model": "glm-5.3"
+}

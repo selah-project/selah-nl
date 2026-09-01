@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Wij — wij zijn overtredelijk geweest en wij zijn opstandig geweest; ú — ú hebt niet vergeven.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "wij"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "zijn overtredelijk geweest"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "en zijn opstandig geweest"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "hebt vergeven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:56.748109097Z",
+  "model": "glm-5.3"
+}

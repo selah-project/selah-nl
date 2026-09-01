@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 5:3",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Ik zelf heb een dwaas wortel zien schieten, en plotseling vloekte ik zijn woning.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik zelf"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "heb zien"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "een dwaas"
+    },
+    {
+      "surface": "משריש",
+      "gloss": "wortel schieten"
+    },
+    {
+      "surface": "ואקוב",
+      "gloss": "en vloekte ik"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "zijn woning"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "plotseling"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:51.852176650Z",
+  "model": "glm-5.3"
+}

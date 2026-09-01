@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Verdroogd is het gras, verwelkt is de bloem, maar het woord van onze Elohim blijft staan voor eeuwig.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "verdroogd is"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "het gras"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "verwelkt is"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "de bloem"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "maar het woord"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "van onze Elohim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "blijft staan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:46.293983675Z",
+  "model": "glm-5.3"
+}

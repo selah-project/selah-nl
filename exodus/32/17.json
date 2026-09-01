@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Jehosjoea hoorde ⟨את⟩ de stem van het volk in zijn geschreeuw, en hij zei tot Mosjee: een stem van oorlog ⟨is⟩ in het kamp.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hij hoorde"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stem"
+    },
+    {
+      "surface": "קול",
+      "gloss": "stem"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "in zijn geschreeuw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "een stem"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "van oorlog"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "in het kamp"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:06.218950075Z",
+  "model": "glm-5.3"
+}

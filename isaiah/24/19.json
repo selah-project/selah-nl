@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Verbroken, geheel verbroken is de aarde; gekraakt, uiteengekraakt ⟨is⟩ de aarde; geschud, wankel geschud ⟨is⟩ de aarde.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "verbroken"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "geheel verbroken"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "is de aarde"
+    },
+    {
+      "surface": "פור",
+      "gloss": "gekraakt"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "uiteengekraakt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "geschud"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "wankel geschud"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:28.415170629Z",
+  "model": "glm-5.3"
+}

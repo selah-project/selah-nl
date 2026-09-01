@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Een wijze zoon ⟨—⟩ de tucht van een vader, maar een spotter hoort geen bestraffing.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wijze"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "de tucht"
+    },
+    {
+      "surface": "אב",
+      "gloss": "van een vader"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "een spotter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoort"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "bestraffing"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:48.326138672Z",
+  "model": "glm-5.3"
+}

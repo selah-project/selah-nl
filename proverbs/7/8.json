@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "overstekend door de straat bij haar hoek, en naar de weg naar haar huis schreed hij voort.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "overstekend"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "door de straat"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "haar hoek"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "en naar de weg"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "naar haar huis"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "schreed hij voort"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:43.380922881Z",
+  "model": "glm-5.3"
+}

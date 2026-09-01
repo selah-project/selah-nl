@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Hoovaardigen hebben mij zeer bespot, ⟨maar⟩ van uw Tora ben ik niet afgeweken.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Hoovaardigen"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "hebben mij bespot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ten zeerste"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "van uw Tora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "ben ik afgeweken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:31.487321898Z",
+  "model": "glm-5.3"
+}

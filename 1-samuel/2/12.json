@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de zonen van Eli waren zonen van Belial; zij kenden Jahweh ⟨את⟩ niet.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "en de zonen van"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "zij kenden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:41:20.218437232Z",
+  "model": "glm-5.3"
+}

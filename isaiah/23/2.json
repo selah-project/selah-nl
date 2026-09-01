@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Wordt stil, bewoners van ⟨het⟩ eiland; ⟨u⟩, koopvaardij van Tsidon, die de zee oversteekt — ⟨ze⟩ hebben u gevuld.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "Wordt stil"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bewoners van"
+    },
+    {
+      "surface": "אי",
+      "gloss": "⟨het⟩ eiland"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "koopvaardij"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "van Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "die oversteekt"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "⟨ze⟩ hebben u gevuld"
+    }
+  ],
+  "timestamp": "2026-09-01T00:07:27.009006213Z",
+  "model": "glm-5.3"
+}

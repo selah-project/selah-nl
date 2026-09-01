@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En de priester doet haar ⟨את⟩ naderen en stelt haar voor het aangezicht van Jahweh",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "En doet naderen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "en stelt haar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:41.952304475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Jahweh alleen leidde hem, en er was geen vreemde El met hem.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "leidde hij hem"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er was geen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vreemde"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:19.594506139Z",
+  "model": "glm-5.3"
+}

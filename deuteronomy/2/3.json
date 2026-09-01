@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Genoeg ⟨is het⟩ voor jullie rond te trekken om ⟨את⟩ dit gebergte; wendt je voor jezelf naar het noorden.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "genoeg"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "סב",
+      "gloss": "rond te trekken om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit gebergte"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "het gebergte"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "wendt je"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jezelf"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "naar het noorden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:11.390955833Z",
+  "model": "glm-5.3"
+}

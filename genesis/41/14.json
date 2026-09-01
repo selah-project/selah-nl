@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 41:14",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Toen zond Par'o ⟨om⟩ Jehosjefa te roepen, en men liet hem haastig uit de kuil komen; en hij schoor zich ⟨en⟩ verwisselde zijn kleren, en hij kwam bij Par'o.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "zond"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "riep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehosjefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jehosjefa"
+    },
+    {
+      "surface": "ויריצהו",
+      "gloss": "liet hem haastig komen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "de kuil"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "schoor zich"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "verwisselde"
+    },
+    {
+      "surface": "שמלתיו",
+      "gloss": "zijn kleren"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:35.777343677Z",
+  "model": "glm-5.3"
+}

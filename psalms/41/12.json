@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Hieraan weet ik dat U ⟨welbehagen⟩ in mij hebt: dat mijn vijand niet over mij juicht.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Hieraan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "weet ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "U welbehagen hebt"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "juicht"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijand"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:59.233730207Z",
+  "model": "glm-5.3"
+}

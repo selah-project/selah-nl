@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 9:10",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "en wij hebben niet geluisterd naar de stem van Jahweh, onze Elohim, om te wandelen in zijn wetten, die hij voor ons aangezicht heeft gegeven door de hand van zijn dienaren, de profeten.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "hebben wij geluisterd"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te wandelen"
+    },
+    {
+      "surface": "בתורתיו",
+      "gloss": "in zijn wetten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hij heeft gegeven"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "voor ons aangezicht"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "van zijn dienaren"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "de profeten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:48:44.144044092Z",
+  "model": "glm-5.3"
+}

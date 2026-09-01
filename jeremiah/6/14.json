@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En zij genazen ⟨את⟩ de breuk van mijn volk achteloos, zeggend: Sjaloom, sjaloom — maar er is geen sjaloom.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "En zij genazen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de breuk van mijn volk"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "de breuk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "van mijn volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "achteloos"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "lichtvaardig"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjaloom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjaloom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maar er is geen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjaloom"
+    }
+  ],
+  "timestamp": "2026-08-31T21:28:46.980859003Z",
+  "model": "glm-5.3"
+}

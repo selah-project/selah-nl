@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Gebied ⟨את⟩ de priesters, de dragers van de ark van de getuigenis, dat zij opklimmen uit de Jarden.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "gebied"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de priesters"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "de dragers van"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark van"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "de getuigenis"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dat zij opklimmen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:02.348739610Z",
+  "model": "glm-5.3"
+}

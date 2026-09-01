@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Neem van hem ⟨את⟩ geen woeker en geen opslag, en vrees je Elohim, zodat je broeder bij jou leeft.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Neem niet"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "van ⟨את⟩ hem"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "woeker"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "en geen opslag"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "en vrees"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "je Elohim"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "zodat leeft"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "je broeder"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bij jou"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:41.515332177Z",
+  "model": "glm-5.3"
+}

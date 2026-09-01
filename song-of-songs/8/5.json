@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Wie is deze, die opkomt uit de woestijn, leunend op haar dodek? Onder de appelboom wekte ik jou, daar baarde je moeder je, daar baarde zij die je baarde.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "opkomt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "de woestijn"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "leunend"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "haar dodek"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "de appelboom"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "wekte ik jou"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "baarde jou"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "je moeder"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "baarde zij"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "die je baarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:44.770395002Z",
+  "model": "glm-5.3"
+}

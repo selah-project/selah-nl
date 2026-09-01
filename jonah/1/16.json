@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Toen vreesden de mannen een grote vreze ⟨voor⟩ ⟨את⟩ Jahweh, en zij slachtten een slachtoffer voor Jahweh en deden geloften.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "toen vreesden"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vreze"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "een grote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "en zij slachtten"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "een slachtoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "en deden"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "geloften"
+    }
+  ],
+  "timestamp": "2026-08-31T21:59:10.437910437Z",
+  "model": "glm-5.3"
+}

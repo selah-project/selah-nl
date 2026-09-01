@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En de bok draagt op zich ⟨את⟩ al hun ongerechtigheden naar een afgescheiden land, en hij zendt de bok weg in de woestijn.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "en draagt"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "de bok"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op zich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al hun ongerechtigheden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "hun ongerechtigheden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "een land"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "afgescheiden"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "en hij zendt weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bok"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "de bok"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:53.518289468Z",
+  "model": "glm-5.3"
+}

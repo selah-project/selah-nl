@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Wees mij genadig, Jahweh, want ik ben in nood; mijn oog is vergaan van ergernis, evenals mijn nefesj en mijn buik.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "wees mij genadig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "צר",
+      "gloss": "in nood"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ik ben"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "is vergaan"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "van ergernis"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn oog"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "en mijn buik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:09.811378929Z",
+  "model": "glm-5.3"
+}

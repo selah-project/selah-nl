@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Jij zult geen vals gerucht opnemen; leg je hand niet samen met ⟨de⟩ schuldige om een gewelddadige getuige te zijn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "zul je dragen\/opnemen"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gerucht"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "vals"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "zul je leggen"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "je hand"
+    },
+    {
+      "surface": "עם",
+      "gloss": "samen met"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "schuldige"
+    },
+    {
+      "surface": "להית",
+      "gloss": "om te zijn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "getuige"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "gewelddadige"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:01.422391196Z",
+  "model": "glm-5.3"
+}

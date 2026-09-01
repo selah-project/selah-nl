@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "als jij een dief zag, dan rende jij met hem mee, en met overspelers was jouw deel.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "jij zag"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "een dief"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "dan rende jij mee"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "overspelers"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "was jouw deel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:08.008241996Z",
+  "model": "glm-5.3"
+}

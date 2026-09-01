@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Sjelomo bouwde ⟨את⟩ het huis en voltooide het.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "en voltooide het"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:20.962178254Z",
+  "model": "glm-5.3"
+}

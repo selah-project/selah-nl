@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Mogen zij Jahweh loven voor zijn chesed (goedertierenheid), en zijn wonderdaden voor de mensenkinderen.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "mogen zij loven"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "en zijn wonderdaden"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "voor de kinderen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:07.999164704Z",
+  "model": "glm-5.3"
+}

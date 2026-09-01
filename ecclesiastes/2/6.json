@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Ik maakte mij waterbassins, om daarmee het jonge bos te bewateren, ⟨bomen⟩ die opgroeien.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Ik maakte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "waterbassins"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water-"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "om te bewateren"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "יער",
+      "gloss": "het bos"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "dat opgroeit"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "bomen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:46.396275726Z",
+  "model": "glm-5.3"
+}

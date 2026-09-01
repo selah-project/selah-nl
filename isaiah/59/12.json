@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Want onze overtredingen zijn velen vóór U, en onze zonden getuigen tegen ons; want onze overtredingen zijn ⟨altijd⟩ ⟨את⟩ bij ons, en onze ongerechtigheden, wij kennen ⟨את⟩ ze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "zijn velen"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "onze overtredingen"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "vóór U"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "en onze zonden"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "getuigen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "tegen ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "onze overtredingen"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bij ons",
+      "marks": "onze overtredingen"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "en onze ongerechtigheden"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "wij kennen ze",
+      "marks": "onze ongerechtigheden"
+    }
+  ],
+  "timestamp": "2026-09-01T00:04:37.927131713Z",
+  "model": "glm-5.3"
+}

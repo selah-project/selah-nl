@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "breuk onder ⟨de⟩ breuk, oog onder ⟨het⟩ oog, tand onder ⟨de⟩ tand; zoals hij een misvorming aan een mens geeft, zo zal aan hem gegeven worden.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "breuk"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder\/in plaats van"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "breuk"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder\/in plaats van"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder\/in plaats van"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hij geeft"
+    },
+    {
+      "surface": "מום",
+      "gloss": "een misvorming"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "aan een mens"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "zal gegeven worden"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aan hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:20.889907655Z",
+  "model": "glm-5.3"
+}

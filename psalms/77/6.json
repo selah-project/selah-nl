@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 77,
+  "translation": "Ik overdacht dagen vanouds, jaren van eeuwen.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "ik overdacht"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "vanouds"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "jaren"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "van eeuwen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:29.369117824Z",
+  "model": "glm-5.3"
+}

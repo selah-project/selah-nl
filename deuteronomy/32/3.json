@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Want de naam van Jahweh zal ik aanroepen; brengt grootheid aan onze Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zal ik aanroepen"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "brengt aan"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "grootheid"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "onze Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:28.326190370Z",
+  "model": "glm-5.3"
+}

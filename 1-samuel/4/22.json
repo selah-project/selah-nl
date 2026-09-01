@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En zij zei: Geweken is de kavod van Jisraël, want de ark van Elohim was weggenomen.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "geweken is"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "de kavod"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "was weggenomen"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:10.938659514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Een man die wijsheid liefheeft, verblijdt zijn vader; maar wie omgang heeft met hoeren, verwoest ⟨zijn⟩ rijkdom.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liefheeft"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "verblijdt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "maar wie weidt\/omgang heeft"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "hoeren"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "verwoest"
+    },
+    {
+      "surface": "הון",
+      "gloss": "rijkdom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:47.427269970Z",
+  "model": "glm-5.3"
+}

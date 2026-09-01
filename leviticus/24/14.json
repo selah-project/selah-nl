@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 24:14",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Breng ⟨את⟩ de gevloekte naar buiten, buiten het kamp, en alle hoorders leggen hun handen op zijn hoofd, en heel de vergadering stenigt ⟨את⟩ hem.",
+  "tokens": [
+    {
+      "surface": "הוצא",
+      "gloss": "breng uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gevloekte"
+    },
+    {
+      "surface": "המקלל",
+      "gloss": "de gevloekte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "het kamp"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "en leggen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "hoorders"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun handen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hun handen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "zijn hoofd"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "en stenigen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "de vergadering"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:42.175783440Z",
+  "model": "glm-5.3"
+}

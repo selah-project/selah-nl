@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En het volk zei tegen Sjemoeël: Wie is hij die gezegd heeft: Zal Sjaoel over ons regeren? Geef de mannen ⟨aan ons over⟩, dan zullen wij hen doden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "is hij die gezegd heeft"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "zal regeren"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over ons"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "geef"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "dan zullen wij hen doden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:37.384394521Z",
+  "model": "glm-5.3"
+}

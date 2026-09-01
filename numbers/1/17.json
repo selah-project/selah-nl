@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Mosjee en Aharon namen ⟨את⟩ deze mannen, die met name waren aangewezen,",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en namen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze mannen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "deze mannen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "aangewezen"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "met name"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:15.020739833Z",
+  "model": "glm-5.3"
+}

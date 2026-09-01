@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En David en zijn mannen kwamen bij de stad, en ziet, ⟨ze⟩ was verbrand met vuur, en hun vrouwen, hun zonen en hun dochters waren weggevoerd.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "En ... kwamen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "en zijn mannen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en ziet"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "⟨ze⟩ was verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "en hun vrouwen"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "hun zonen"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "en hun dochters"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "waren weggevoerd"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:17.816609678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En hij zei: Je hebt iets zwaars gevraagd; als je mij ⟨את⟩ ziet worden weggenomen van ⟨את⟩ jou, zal het jou zo vergaan; maar zo niet, dan zal het niet zo zijn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "Je hebt iets zwaars gevraagd"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "om te vragen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "je ziet"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mij",
+      "marks": "mij wordend weggenomen"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "worden weggenomen"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "van ⟨את⟩ jou",
+      "marks": "van jou"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "zal het zijn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "maar als"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal het zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:21.074876294Z",
+  "model": "glm-5.3"
+}

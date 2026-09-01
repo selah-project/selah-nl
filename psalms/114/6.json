@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 114,
+  "translation": "⟨Jullie⟩ bergen, dat jullie springen als rammen, heuvels, als jongen van ⟨de⟩ kudde?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "springen"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "als rammen"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "heuvels"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "als jongen van"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kudde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:35.535625363Z",
+  "model": "glm-5.3"
+}

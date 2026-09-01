@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Neem in acht voor uzelf ⟨את⟩ wat ik u heden gebied; ziet, ik verdrijf van voor uw aangezicht ⟨את⟩ de Emoriet, en de Kenaäniet, en de Chittiet, en de Periziet, en de Chiviet, en de Jevusiet.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "neem in acht"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor uzelf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat ik u heden gebied"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "u gebied"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ziet, ik"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "verdrijf"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "van voor uw aangezicht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Emoriet"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de Emoriet"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "en de Kenaäniet"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "en de Chittiet"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "en de Periziet"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "en de Chiviet"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "en de Jevusiet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:18.179339497Z",
+  "model": "glm-5.3"
+}

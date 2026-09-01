@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "En volken zullen naar uw licht gaan, en koningen naar de glans van uw dageraad.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "En ... zullen gaan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "naar uw licht"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "en koningen"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "naar de glans"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "van uw dageraad"
+    }
+  ],
+  "timestamp": "2026-08-31T21:26:05.659827514Z",
+  "model": "glm-5.3"
+}

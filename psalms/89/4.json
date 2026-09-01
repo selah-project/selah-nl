@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Ik heb ⟨een⟩ verbond gesneden met mijn uitverkorene; ik heb gezworen aan David, mijn knecht:",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "ik heb gesneden"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "verbond"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "met mijn uitverkorene"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ik heb gezworen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mijn knecht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:26.500732352Z",
+  "model": "glm-5.3"
+}

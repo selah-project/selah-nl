@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En voor hem heeft ⟨hij⟩ gereedschap van de dood bereid; zijn pijlen bewerkt hij voor ⟨hen die⟩ branden ⟨van achtervolging⟩.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "en voor hem"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "heeft bereid"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "gereedschap"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van de dood"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "zijn pijlen"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "voor ⟨hen die⟩ branden"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "bewerkt hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:29.079170959Z",
+  "model": "glm-5.3"
+}

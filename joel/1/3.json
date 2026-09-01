@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Daarover moet u het uw zonen vertellen, en uw zonen ⟨moeten het⟩ hun zonen vertellen, en hun zonen ⟨het⟩ aan een volgende generatie.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "daarover"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "aan uw zonen"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "vertelt"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "en uw zonen"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "aan hun zonen"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "en hun zonen"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "aan een generatie"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "volgende"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:47.577783298Z",
+  "model": "glm-5.3"
+}

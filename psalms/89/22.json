@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Mijn hand zal ⟨met⟩ hem standvastig zijn, ja, mijn arm zal hem versterken",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨met wie⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mijn hand"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "standvastig zal zijn"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "mijn arm"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "zal hem versterken"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:33.149693665Z",
+  "model": "glm-5.3"
+}

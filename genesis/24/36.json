@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 24:36",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En Sarah, de vrouw van mijn heer, heeft een zoon gebaard aan mijn heer na haar ouderdom; en hij heeft hem ⟨את⟩ alles gegeven wat hij heeft.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "en zij heeft gebaard"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "de vrouw van"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn heer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "aan mijn heer"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "זקנתה",
+      "gloss": "haar ouderdom"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij heeft gegeven"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hij heeft"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:17.765003822Z",
+  "model": "glm-5.3"
+}

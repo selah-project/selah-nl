@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En ⟨de⟩ sabbat ⟨van⟩ ⟨het⟩ land zal jullie tot spijziging zijn: voor jou, en voor je slaaf, en voor je slavin, en voor je dagloner, en voor je bijwoner, de vreemdelingen die bij je wonen.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "en zal zijn"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "tot spijziging"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "en voor je slaaf"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "en voor je slavin"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "en voor je dagloner"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "en voor je bijwoner"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "de vreemdelingen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bij je"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:23.937834867Z",
+  "model": "glm-5.3"
+}

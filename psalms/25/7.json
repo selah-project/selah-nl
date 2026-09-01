@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "De zonden van mijn jeugd en mijn overtredingen — gedenk ⟨daaraan⟩ niet; naar uw chesed, gedenk ⟨aan⟩ mij, u, omwille van uw goedheid, Jahweh.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "De zonden"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "van mijn jeugd"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "en mijn overtredingen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "gedenk ⟨daaraan⟩"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "naar uw chesed"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gedenk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨aan⟩ mij"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "למען",
+      "gloss": "omwille van"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "uw goedheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:10.942769687Z",
+  "model": "glm-5.3"
+}

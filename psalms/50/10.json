@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Want van mij is alle wild van het woud, ⟨en⟩ het vee op bergen ⟨met⟩ duizend ⟨stuks⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לי",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "wild"
+    },
+    {
+      "surface": "יער",
+      "gloss": "van het woud"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "op bergen"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:43.706641983Z",
+  "model": "glm-5.3"
+}

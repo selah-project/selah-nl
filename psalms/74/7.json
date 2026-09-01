@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Zij hebben vuur in uw heiligdom gezonden; tot op de aarde hebben zij de woning van uw naam ontheiligd.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "zij hebben gezonden"
+    },
+    {
+      "surface": "באש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "in uw heiligdom"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "tot op de aarde"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "hebben zij ontheiligd"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "de woning"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "van uw naam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:28.354124692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "Die brood geeft aan alle vlees, want tot in eeuwigheid ⟨is⟩ zijn chesed.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Die geeft"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan alle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:06.825135180Z",
+  "model": "glm-5.3"
+}

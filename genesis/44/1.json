@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "En hij gebood ⟨את⟩ hem die over zijn huis was, zeggend: Vul ⟨את⟩ de zakken van de mannen met voedsel, zoveel als zij kunnen dragen, en zet het zilver van ieder ⟨man⟩ in de opening van zijn zak.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en hij gebood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hem die over zijn huis was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zakken"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "de zakken"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "van de mannen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "met voedsel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoveel als"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "zij kunnen"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "dragen"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "en zet"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "het zilver"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van ieder ⟨man⟩"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "in de opening van"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "zijn zak"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:44.648742652Z",
+  "model": "glm-5.3"
+}

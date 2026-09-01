@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Ik vermorzel hen, zodat zij niet kunnen opstaan; zij vallen onder mijn voeten.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "ik vermorzel hen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunnen zij"
+    },
+    {
+      "surface": "קום",
+      "gloss": "opstaan"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "zij vallen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mijn voeten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:10.545027091Z",
+  "model": "glm-5.3"
+}

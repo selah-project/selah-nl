@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En nu, ga, en ik zal met jouw mond zijn, en ik zal je leren wat je moet spreken.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "jouw mond"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "en ik zal je leren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "je moet spreken"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:43.718634369Z",
+  "model": "glm-5.3"
+}

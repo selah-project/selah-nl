@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Kelub, de broer van Sjucha, verwekte ⟨את⟩ Mechir; hij ⟨is⟩ de vader van Esjton.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "en Kelub"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "de broer van"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Sjucha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mechir"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mechir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "de vader van"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Esjton"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:32.904041344Z",
+  "model": "glm-5.3"
+}

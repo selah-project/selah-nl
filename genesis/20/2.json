@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Avraham zei over Sara, zijn vrouw: ⟨Zij is⟩ mijn zuster. Toen zond Avimelech, koning van Gerar, en hij nam ⟨את⟩ Sara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mijn zuster"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "Gerar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:10.766847292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En ik zal je redden uit de hand van de koning van Asjoer, en ⟨את⟩ deze stad; en ik zal deze stad beschermen.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "en uit de hand"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Asjoer"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "zal ik je redden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deze stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "en ik zal beschermen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T21:20:47.164102892Z",
+  "model": "glm-5.3"
+}

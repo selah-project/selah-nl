@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "Loof Jahweh, want hij is goed, want tot in eeuwigheid ⟨duurt⟩ zijn chesed (trouwgoedheid).",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hij is goed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:09.555828326Z",
+  "model": "glm-5.3"
+}

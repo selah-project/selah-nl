@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 125,
+  "translation": "Doe goed, Jahweh, aan de goeden en aan de oprechten in hun hart.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Doe goed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "aan de goeden"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "en aan de oprechten"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "in hun hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:45.997853866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Een vrouw van chen houdt eer vast, en gewelddadigen houden rijkdom vast.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "een vrouw"
+    },
+    {
+      "surface": "חן",
+      "gloss": "van chen"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "houdt vast"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "eer"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "en gewelddadigen"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "houden vast"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rijkdom"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:44.424304123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Noord en zuid — jij hebt ze geschapen; Tavor en Chermon juichen in jouw naam.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Noord"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "en zuid"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "heb je ze geschapen"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "en Chermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "in jouw naam"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "juichen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:20.037106598Z",
+  "model": "glm-5.3"
+}

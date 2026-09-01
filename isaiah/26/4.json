@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Vertrouw op Jahweh tot in eeuwigheid, want in Jah, Jahweh ⟨is⟩ een rots van eeuwen.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "vertrouw"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tot in"
+    },
+    {
+      "surface": "עד",
+      "gloss": "eeuwigheid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "in Jah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צור",
+      "gloss": "een rots"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "van eeuwen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:16.425735971Z",
+  "model": "glm-5.3"
+}

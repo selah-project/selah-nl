@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 76,
+  "translation": "Doet geloften en betaalt ze aan Jahweh, uw Elohim; allen rondom Hem zullen geschenken brengen aan Hem die gevreesd moet worden.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "doet geloften"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "en betaalt ze"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "rondom Hem"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "zullen brengen"
+    },
+    {
+      "surface": "שי",
+      "gloss": "geschenken"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "aan Hem die gevreesd moet worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:28.350172720Z",
+  "model": "glm-5.3"
+}

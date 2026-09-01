@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Want Jahweh heeft Tsiyon gebouwd, hij is verschenen in zijn heerlijkheid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "heeft gebouwd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "is verschenen"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "in zijn heerlijkheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:58.007249750Z",
+  "model": "glm-5.3"
+}

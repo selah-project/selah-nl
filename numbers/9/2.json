@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En de zonen van Israël moeten ⟨את⟩ het Pesach houden in zijn vastgestelde tijd.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "en zij moeten maken\/vieren"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "het Pesach"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "in zijn vastgestelde tijd"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:50.930924623Z",
+  "model": "glm-5.3"
+}

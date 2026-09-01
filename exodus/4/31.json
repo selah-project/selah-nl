@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En het volk geloofde, en zij hoorden dat Jahweh ⟨את⟩ de kinderen van Jisraël had bezocht, en dat Hij ⟨את⟩ hun ellende had gezien; toen bogen zij zich neer en aanbaden.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "en het geloofde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "en zij hoorden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "bezocht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "en dat"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gezien had"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun ellende"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "ellende"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "en zij bogen zich neer"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "en zij aanbaden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:54.857429433Z",
+  "model": "glm-5.3"
+}

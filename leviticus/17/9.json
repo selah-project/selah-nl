@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "en ⟨die⟩ niet brengt ⟨het⟩ naar de ingang van de tent van ontmoeting om het ⟨את⟩-daarvan te bereiden voor Jahweh — die man zal uitgeroeid worden uit zijn volk.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en naar"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "de ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "brengt ⟨het⟩"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te bereiden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (de offergave)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "en zal uitgeroeid worden"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "uit zijn volk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:42.326623370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Een land van tarwe en gerst, en wijnstok en vijgenboom en granaatappel; een land van olijfolie en honing.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "een land"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "van tarwe"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "en gerst"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "en wijnstok"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "en vijgenboom"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "en granaatappel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "een land"
+    },
+    {
+      "surface": "זית",
+      "gloss": "van olijf-"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "en honing"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:22.544141469Z",
+  "model": "glm-5.3"
+}

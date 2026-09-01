@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 34:13",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "En Mosjee gebood ⟨את⟩ de kinderen van Israël, zeggende: Dit is het land dat gij ⟨את⟩ het door het lot als erfdeel zult innemen, dat Jahweh geboden heeft te geven aan negen stammen en de halve stam.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "En gebood"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תתנחלו",
+      "gloss": "gij als erfdeel zult innemen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "het door het lot"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "door het lot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboden heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "te geven"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "aan negen"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "stammen"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en de halve"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "stam"
+    }
+  ],
+  "timestamp": "2026-08-31T20:19:19.264505049Z",
+  "model": "glm-5.3"
+}

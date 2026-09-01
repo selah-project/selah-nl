@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Zijn ongerechtigheden zullen ⟨את⟩ de goddeloze grijpen, en met de touwen van zijn zonde zal hij vastgehouden worden.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "zijn ongerechtigheden"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "zullen grijpen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de goddeloze"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "en met de touwen van"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "zijn zonde"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "zal vastgehouden worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:59.374156234Z",
+  "model": "glm-5.3"
+}

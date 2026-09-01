@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "Voor de koorleider, op ⟨de wijze van⟩ Sjosjanim, voor de zonen van Korach, een maskil, een lied van liefdes",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Sjosjanim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "voor de zonen van"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "een maskil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "van liefdes"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:06.725050149Z",
+  "model": "glm-5.3"
+}

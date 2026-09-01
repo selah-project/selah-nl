@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "dan berekent hij ⟨את⟩ de jaren van zijn verkoop en geeft hij ⟨את⟩ het overschot terug aan de man aan wie hij het verkocht heeft, en hij keert terug naar zijn bezitting.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "dan berekent hij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de jaren van zijn verkoop"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de jaren"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "van zijn verkoop"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "en geeft hij terug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het overschot"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "het overschot"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan de man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "verkocht heeft"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hem"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "en hij keert terug"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "naar zijn bezitting"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:09.719365046Z",
+  "model": "glm-5.3"
+}

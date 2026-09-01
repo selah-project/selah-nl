@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Par'o gebood zijn gehele volk, zeggende: alle zoon die geboren wordt — de Nijl in zult gij hem werpen; en alle dochter zult gij in leven laten.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "En gebood"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan zijn gehele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "volk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "die geboren wordt"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "de Nijl in"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "zult gij hem werpen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "zult gij in leven laten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:06.459430585Z",
+  "model": "glm-5.3"
+}

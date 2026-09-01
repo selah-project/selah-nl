@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Bij gebrek aan hout gaat het vuur uit, en zonder kwaadspreker bedaart de twist.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "bij gebrek aan"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "hout"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "gaat uit"
+    },
+    {
+      "surface": "אש",
+      "gloss": "het vuur"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "en zonder"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "kwaadspreker"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "bedaart"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "de twist"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:11.573807996Z",
+  "model": "glm-5.3"
+}

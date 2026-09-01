@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En jij zult hen heiligen, en zij zullen hoogheilig zijn; al wat hen aanraakt, zal geheiligd worden.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "en jij zult heiligen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen (de voorwerpen van het heiligdom)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "en zij zullen zijn"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heiligheid"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "heiligheden (hoogheilig)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al wat"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "aanraakt"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "zal geheiligd worden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:53.620753798Z",
+  "model": "glm-5.3"
+}

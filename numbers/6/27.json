@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Zo zullen zij ⟨את⟩ mijn naam leggen op de kinderen van Jisraël, en ik zal hen zegenen.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "zo zullen zij leggen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn naam"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mijn naam"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "zal ik hen zegenen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:09.501347293Z",
+  "model": "glm-5.3"
+}

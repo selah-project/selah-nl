@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Dawid legde ⟨את⟩ deze woorden in zijn hart, en hij vreesde zeer voor Avisj, de koning van Gat.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en legde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze woorden"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "in zijn hart"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en hij vreesde"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Avisj"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "גת",
+      "gloss": "van Gat"
+    }
+  ],
+  "timestamp": "2026-09-01T00:07:07.850168266Z",
+  "model": "glm-5.3"
+}

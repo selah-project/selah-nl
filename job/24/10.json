@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Naakt gaan zij zonder kleding, en hongerigen dragen ⟨את⟩ de garve.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "naakt"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gaan zij"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "kleding"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "en hongerigen"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "dragen zij"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "de garve"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:18.623205155Z",
+  "model": "glm-5.3"
+}

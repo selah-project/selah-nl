@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Moge de dag vergaan waarop ik geboren werd, en de nacht waarop gezegd werd: er is een man-kind ontvangen.",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "Moge vergaan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "ik geboren werd"
+    },
+    {
+      "surface": "בו",
+      "gloss": "waarop"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "en de nacht"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gezegd werd"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "ontvangen"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "een man"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:35.198417881Z",
+  "model": "glm-5.3"
+}

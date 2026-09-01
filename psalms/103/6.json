@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Jahweh doet gerechtigheid en rechtshandelingen voor allen die onderdrukt worden.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "doet"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "gerechtigheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "en rechtshandelingen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "voor allen"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "die onderdrukt worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:42.756134179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En gij zult de kruik breken, voor de ogen van de mannen die ⟨את⟩ met u gaan.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "en gij zult breken"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "de kruik"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "voor de ogen van"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "die gaan"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ met u"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:05.409136524Z",
+  "model": "glm-5.3"
+}

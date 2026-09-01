@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Éli riep ⟨את⟩ Sjemoeël en zei: Sjemoeël, mijn zoon. En hij zei: Zie mij hier.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en riep"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Éli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjemoeël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Zie mij hier"
+    }
+  ],
+  "timestamp": "2026-08-31T23:19:05.136288526Z",
+  "model": "glm-5.3"
+}

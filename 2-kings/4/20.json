@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij droeg hem en bracht hem naar zijn moeder, en hij zat op haar knieën tot de middag, en hij stierf.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "en hij droeg hem"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "en bracht hem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "zijn moeder"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hij zat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "haar knieën"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "de middag"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hij stierf"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:21.943503997Z",
+  "model": "glm-5.3"
+}

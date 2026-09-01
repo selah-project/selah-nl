@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Velen zeggen: wie zal ons het goede laten zien? Verhef over ons het licht van Uw aangezicht, Jahweh.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "velen"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "zeggen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "zal laten zien"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "verhef"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over ons"
+    },
+    {
+      "surface": "אור",
+      "gloss": "het licht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "van Uw aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:42.769297450Z",
+  "model": "glm-5.3"
+}

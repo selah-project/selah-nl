@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En nu, zo zegt Jahweh van de legerscharen: Zet ⟨jullie⟩ hart op jullie wegen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "van de legerscharen"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Zet"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "jullie hart"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "jullie wegen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:02:18.199069361Z",
+  "model": "glm-5.3"
+}

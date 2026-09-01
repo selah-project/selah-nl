@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 5:13",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Ephrajim zag ⟨את⟩ zijn ziekte, en Jehoeda ⟨את⟩ zijn wond; en Ephrajim ging naar Asjsoer en zond naar koning Jarév; maar hij zal jullie niet kunnen genezen, en de wond niet van jullie wegdoen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn ziekte"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "zijn ziekte"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn wond"
+    },
+    {
+      "surface": "מזרו",
+      "gloss": "zijn wond"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en ging"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asjsoer"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en zond"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Jarév"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "zal kunnen"
+    },
+    {
+      "surface": "לרפא",
+      "gloss": "genezen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יגהה",
+      "gloss": "wegdoen"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "van jullie"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "de wond"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:03.756719133Z",
+  "model": "glm-5.3"
+}

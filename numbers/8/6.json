@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Neem ⟨את⟩ de Levieten uit het midden van de kinderen van Jisraël, en reinig ⟨את⟩ hen.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Levieten"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "de Levieten"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit het midden van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "en reinig"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:11:40.928090907Z",
+  "model": "glm-5.3"
+}

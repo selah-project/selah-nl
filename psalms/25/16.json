@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Wend U tot mij en wees mij genadig, want eenzaam en arm ben ik.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Wend U"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "en wees mij genadig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "eenzaam"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "en arm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:07.362455767Z",
+  "model": "glm-5.3"
+}

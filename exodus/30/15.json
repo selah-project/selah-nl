@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "De rijke zal niet vermeerderen en de arme zal niet verminderen van ⟨de⟩ halve sjekel, om ⟨את⟩ het hefoffer van Jahweh te geven, om verzoening te doen over jullie levens.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "de rijke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "zal vermeerderen"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "en de arme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "zal verminderen"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "van ⟨de⟩ halve"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "sjekel"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te geven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hefoffer van Jahweh"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "hefoffer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "om verzoening te doen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jullie levens"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:07.640253757Z",
+  "model": "glm-5.3"
+}

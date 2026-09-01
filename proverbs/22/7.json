@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "De rijke heerst over de armen, en wie leent ⟨is⟩ een slaaf van de man die uitleent.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "de rijke"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "over de armen"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "heerst"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "een slaaf"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "wie leent"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "van de man"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "die uitleent"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:22.908928681Z",
+  "model": "glm-5.3"
+}

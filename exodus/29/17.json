@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En ⟨את⟩ de ram zult gij in stukken verdelen naar zijn stukken, en gij zult zijn binnenste wassen en zijn schenken, en gij zult ⟨ze⟩ leggen op zijn stukken en op zijn hoofd.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "de ram"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "zult gij in stukken verdelen"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "naar zijn stukken"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "en gij zult wassen"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "zijn binnenste"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "en zijn schenken"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "en gij zult leggen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "zijn stukken"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "zijn hoofd"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:01.429268762Z",
+  "model": "glm-5.3"
+}

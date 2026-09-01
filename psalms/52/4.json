@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 52,
+  "translation": "Rampen smeedt jouw tong, als een geslepen scheermes, ⟨jij⟩ bedrijver van bedrog.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "rampen"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "smeedt"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "jouw tong"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "als een scheermes"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "geslepen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bedrijver"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "van bedrog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:01.578898033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Loflied van Dawid. Ik zal U verhogen, mijn Eloa, de koning, en ik zal Uw naam zegenen voor eeuwig en altijd.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Loflied"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ik zal U verhogen"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "mijn Eloa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "en ik zal zegenen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Uw naam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en altijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:07.968545938Z",
+  "model": "glm-5.3"
+}

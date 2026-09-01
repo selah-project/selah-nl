@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Groot ⟨is⟩ Jahweh en zeer te loven, in de stad van onze Elohim, ⟨de⟩ berg van zijn heiligdom.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "en te loven"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "van onze Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "van zijn heiligdom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:17.670848864Z",
+  "model": "glm-5.3"
+}

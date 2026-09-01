@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Spreek tot de vergadering, zeggende: Trekt op van rondom de woning van Korach, Datan en Aviram.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "trekt op"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "van rondom"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "de woning van"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "en Aviram"
+    }
+  ],
+  "timestamp": "2026-08-31T20:13:38.787706442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Al valt hij, hij wordt niet neergeworpen, want Jahweh ⟨ondersteunt⟩ zijn hand.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "al"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "valt hij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "wordt hij neergeworpen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "steunt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:46.427765320Z",
+  "model": "glm-5.3"
+}

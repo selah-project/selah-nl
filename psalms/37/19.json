@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "In ⟨de⟩ tijd van kwaad worden zij niet beschaamd, en in dagen van hongersnood worden zij verzadigd.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "worden zij beschaamd"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in ⟨de⟩ tijd"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "en in dagen"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "van hongersnood"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "worden zij verzadigd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:43.784776332Z",
+  "model": "glm-5.3"
+}

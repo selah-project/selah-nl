@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Dient ⟨את⟩ Jahweh met vreze, en juicht met siddering.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "dient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "met vreze"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "en juicht"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "met siddering"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:27.871402412Z",
+  "model": "glm-5.3"
+}

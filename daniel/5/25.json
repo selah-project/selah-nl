@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En dit ⟨is⟩ het geschrift dat geschreven is: MENE, MENE, TEKEL u-PARSIN.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "het geschrift"
+    },
+    {
+      "surface": "די",
+      "gloss": "dat"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "geschreven is"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE (geteld)"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE (geteld)"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL (gewogen)"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "u-PARSIN (en verdeeld)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:47:13.801499473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 25:35",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En Dawid nam uit haar hand ⟨את⟩ wat zij hem gebracht had, en tot haar zei hij: Ga in vrede op naar je huis. Zie, ik heb naar je stem geluisterd en je aangezicht opgeheven.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en nam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "uit haar hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat zij hem gebracht had"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "zij gebracht had"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "en tot haar"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zei hij"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ga op"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "in vrede"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "naar je huis"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "zie"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ik heb geluisterd"
+    },
+    {
+      "surface": "בקולך",
+      "gloss": "naar je stem"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "en opgeheven"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "je aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:48:43.948944313Z",
+  "model": "glm-5.3"
+}

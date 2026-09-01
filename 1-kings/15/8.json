@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En Avijam ging slapen bij zijn vaders, en zij begroeven ⟨את⟩ hem in de stad van David; en Asa zijn zoon werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "En ging slapen"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Avijam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "en zij begroeven"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en werd koning"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:13.146643648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En de koning Achasjverosj legde ⟨een⟩ mas op ⟨het⟩ land en op de eilanden van de zee.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en legde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achasjverosj"
+    },
+    {
+      "surface": "מס",
+      "gloss": "mas"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨het⟩ land"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "en de eilanden"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van de zee"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:42.057020342Z",
+  "model": "glm-5.3"
+}

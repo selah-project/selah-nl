@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 146,
+  "translation": "Ik zal Jahweh loven zolang ik leef, ik zal psalmen zingen voor mijn Elohim zolang ik besta.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Ik zal loven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "zolang ik leef"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ik zal psalmen zingen"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "voor mijn Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "zolang ik besta"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:44.787741154Z",
+  "model": "glm-5.3"
+}

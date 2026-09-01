@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 58,
+  "translation": "Hun gift is als de gift van een slang, als een dove adder die zijn oor toe sluit;",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "hun gift"
+    },
+    {
+      "surface": "למו",
+      "gloss": "hun"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "als"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "gift"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "een slang"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "een adder"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "dove"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "toe sluit"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "zijn oor"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:00.898778382Z",
+  "model": "glm-5.3"
+}

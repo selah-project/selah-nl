@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En ik zal ⟨את⟩ jullie steden tot woestijn maken, en ik zal ⟨את⟩ jullie heiligdommen verwoesten, en ik zal de geur van jullie rustgevende offers niet ruiken.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en ik zal maken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie steden"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "jullie steden"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "tot woestijn"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "en ik zal verwoesten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie heiligdommen"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "jullie heiligdommen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "zal ik ruiken"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "de geur"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "van jullie rustgevende offers"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:34.903945775Z",
+  "model": "glm-5.3"
+}

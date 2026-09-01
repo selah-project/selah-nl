@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Jahweh kwam en stelde Zich op, en riep zoals de ene keer naar de andere keer: Sjemoeël, Sjemoeël! En Sjemoeël zei: Spreek, want ⟨uw⟩ dienaar hoort.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "En kwam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "en stelde Zich op"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en riep"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "zoals de ene keer"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "naar de andere keer"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoort"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨uw⟩ dienaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:24.839533873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Benijd geen man van geweld, en kies geen van zijn wegen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "benijd"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "…man"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "van geweld"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "kies"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "…van"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "zijn wegen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:16.339747899Z",
+  "model": "glm-5.3"
+}

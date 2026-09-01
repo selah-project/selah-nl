@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "De ene drukt zich tegen de andere, en geen adem komt tussen hen.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "tegen de andere"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "drukken zich ⟨aan⟩"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en geen adem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "tussen hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:16.060968223Z",
+  "model": "glm-5.3"
+}

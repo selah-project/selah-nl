@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Mitsrajim verheugde zich bij hun uittocht, want hun angst was op hen gevallen.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "verheugde zich"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "bij hun uittocht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "was gevallen"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "hun angst"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:27.442637582Z",
+  "model": "glm-5.3"
+}

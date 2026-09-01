@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": " omdat zij de woorden van El weerspannig waren, en het raad van El Eljon verachtten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "weerspannig waren"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "de woorden van"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "en het raad van"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Eljon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "verachtten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:30.353831349Z",
+  "model": "glm-5.3"
+}

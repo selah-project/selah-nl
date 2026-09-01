@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 86,
+  "translation": "Onderwijs mij, Jahweh, Uw weg; ik zal wandelen in Uw waarheid; maak mijn hart één om Uw naam te vrezen.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "onderwijs mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "Uw weg"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ik zal wandelen"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "in Uw waarheid"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "maak één"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "om te vrezen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Uw naam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:00.687701531Z",
+  "model": "glm-5.3"
+}

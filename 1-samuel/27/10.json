@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En Akisj zei: Hebben jullie vandaag geen roofgang gemaakt? En David zei: Tegen de Negev van Jehoeda, en tegen de Negev van de Jerachmeëlieten, en tegen de Negev van de Kenieten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akisj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "geen"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "hebben jullie roofgang gemaakt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandaag"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "de Negev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en tegen"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "de Negev"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "de Jerachmeëlieten"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tegen"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "de Negev"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "de Kenieten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:09.241492611Z",
+  "model": "glm-5.3"
+}

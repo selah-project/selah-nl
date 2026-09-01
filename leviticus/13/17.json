@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "en de priester ziet het, en zie, de plage is veranderd in wit, dan verklaart de priester ⟨את⟩ de plage rein — rein is hij.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "en de priester ziet het"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "is veranderd"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "de plague"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "in wit"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "dan verklaart rein"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de plage"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "de plague"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:33.268359353Z",
+  "model": "glm-5.3"
+}

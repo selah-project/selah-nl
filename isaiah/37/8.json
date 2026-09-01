@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En Rav-Sjake keerde terug en vond ⟨את⟩ de koning van Assjoer strijdend tegen Livna, want hij had gehoord dat hij van Lachis was opgebroken.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en keerde terug"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Sjake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "en vond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning van Assjoer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assjoer"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "strijdend"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hij had gehoord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "hij was opgebroken"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "van Lachis"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:10.591861308Z",
+  "model": "glm-5.3"
+}

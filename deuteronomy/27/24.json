@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Vervloekt ⟨is⟩ hij die zijn naaste slaat in het verborgene; en heel het volk zal zeggen: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Vervloekt"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "sla't"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zijn naaste"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in het verborgene"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en zal zeggen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:37.748614856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Gelukkig ⟨is⟩ de natie van wie Jahweh ⟨de⟩ Elohim ⟨is⟩, het volk dat hij zich als erfdeel heeft uitverkoren.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "de natie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "van wie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "zijn Elohim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "heeft uitverkoren"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "als erfdeel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor zich"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:01.010645513Z",
+  "model": "glm-5.3"
+}

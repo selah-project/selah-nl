@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Want zie, de koningen vergaderden zich, zij trokken samen voorbij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "de koningen"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "vergaderden zich"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "trokken voorbij"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "samen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:56.301687674Z",
+  "model": "glm-5.3"
+}

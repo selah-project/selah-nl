@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Ik zal mijn aangezicht tegen jullie keren, en jullie zullen geslagen worden voor ⟨het⟩ aangezicht van jullie vijanden; jullie haters zullen over julli⟨e⟩ heersen, en jullie zullen vluchten zonder dat iemand jullie achtervolgt.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "zal ik keren"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mijn aangezicht"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "tegen jullie"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "zullen jullie geslagen worden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "jullie vijanden"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "zullen heersen"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "over jullie"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "jullie haters"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "zullen jullie vluchten"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "zonder dat er is"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "iemand die achtervolgt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:29.036397500Z",
+  "model": "glm-5.3"
+}

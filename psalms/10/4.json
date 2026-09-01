@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "De goddeloze, naar de hoogte van zijn neusgezicht, zoekt ⟨Hem⟩ helemaal niet; ⟨er is geen⟩ Elohim — al zijn plannen.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "De goddeloze"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "naar de hoogte"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "van zijn neusgezicht"
+    },
+    {
+      "surface": "בל",
+      "gloss": "helemaal niet"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "zoekt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨er is⟩ geen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "zijn plannen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:14.826602380Z",
+  "model": "glm-5.3"
+}

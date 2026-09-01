@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Zie, voor ⟨het⟩ ⟨recht⟩ zal een koning regeren, en vorsten — voor ⟨het⟩ gericht zullen zij heersen.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "voor recht"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "zal regeren"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "een koning"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "en vorsten"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "voor gericht"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "zullen zij heersen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:16.874592157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Een sabbat van volledige rust is zij voor u, en gij zult ⟨את⟩ uw nefesj verootmoedigen — een eeuwige verordening.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "sabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "volledige rust"
+    },
+    {
+      "surface": "היא",
+      "gloss": "is zij"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "en gij zult verootmoedigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie nefesj"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jullie nefesj"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "verordening"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:22.627292844Z",
+  "model": "glm-5.3"
+}

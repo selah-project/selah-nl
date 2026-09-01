@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En ⟨את⟩ al zijn vet zal hij ervan afnemen en het op het altaar laten roken.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al zijn vet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "zijn vet"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "zal hij opheffen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ervan"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "en laten roken"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:59.965098050Z",
+  "model": "glm-5.3"
+}

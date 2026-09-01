@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En jij zult ⟨את⟩ hem overtrekken met zuiver goud; vanbinnen en vanbuiten zult jij hem overtrekken, en jij zult erop een rand van goud maken, rondom.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "en jij zult overtrekken"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (de ark)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "zuiver"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "vanbinnen"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "en vanbuiten"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "zult jij hem overtrekken"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en jij zult maken"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "erop"
+    },
+    {
+      "surface": "זר",
+      "gloss": "een rand"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:25.599686031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 110,
+  "translation": "Uw volk ⟨komt⟩ als vrijwillige gaven op de dag van uw macht, in praalgewaden van heiligheid; uit de schoot van de dageraad is voor u de dauw van uw jeugd.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "uw volk"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "als vrijwillige gaven"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "van uw macht"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "in praalgewaden"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "van heiligheid"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "uit de schoot"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "van de dageraad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "is voor u"
+    },
+    {
+      "surface": "טל",
+      "gloss": "de dauw"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "van uw jeugd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:31.042724898Z",
+  "model": "glm-5.3"
+}

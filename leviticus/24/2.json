@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Gebied ⟨את⟩ de kinderen van Israël, dat zij tot jou brengen olijfolie, zuiver, gestampt, voor de lamp, om voortdurend een licht te doen opgaan.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "gebied"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "dat zij brengen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot jou"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olijf-"
+    },
+    {
+      "surface": "זך",
+      "gloss": "zuiver"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "gestampt"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "voor de lamp"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "om te doen opgaan"
+    },
+    {
+      "surface": "נר",
+      "gloss": "een licht"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:56.919092231Z",
+  "model": "glm-5.3"
+}

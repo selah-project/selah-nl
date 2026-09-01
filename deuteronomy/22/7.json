@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Laten gaan zult u ⟨את⟩ de moeder beslist laten gaan, en ⟨את⟩ de jongen zult u voor u nemen, opdat het u goed gaat en u de dagen verlengt.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "laten gaan"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "zult u laten gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de moeder"
+    },
+    {
+      "surface": "האם",
+      "gloss": "de moeder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de jongen"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "de jongen"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "zult u nemen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "het goed gaat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "en u verlengt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:34.210180714Z",
+  "model": "glm-5.3"
+}

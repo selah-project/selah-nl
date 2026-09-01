@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Hatach ging uit naar Mordechai, naar het plein van de stad dat vóór de poort van de koning ⟨lag⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "en hij ging uit"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "het plein"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vóór"
+    },
+    {
+      "surface": "שער",
+      "gloss": "de poort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:21.453828555Z",
+  "model": "glm-5.3"
+}

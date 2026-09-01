@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "dan gaan jouw oudsten en jouw rechters naar buiten, en zij meten naar de steden die rondom de gedode ⟨liggen⟩.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "gaan naar buiten"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "jouw oudsten"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "en jouw rechters"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "en zij meten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "de steden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "de gedode"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:20.395289791Z",
+  "model": "glm-5.3"
+}

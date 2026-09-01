@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Met hun kleinvee en met hun rundvee zullen zij gaan om ⟨את⟩ Jahweh te zoeken, maar zij zullen ⟨hem⟩ niet vinden; hij heeft zich van hen teruggetrokken.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "met hun kleinvee"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "en met hun rundvee"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "zullen zij gaan"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "om te zoeken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "zullen zij vinden"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "hij heeft zich teruggetrokken"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "van hen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:22.720250156Z",
+  "model": "glm-5.3"
+}

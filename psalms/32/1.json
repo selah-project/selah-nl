@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Van David, een Maskil. O het geluk van hem wiens overtreding gedragen is, wiens zonde bedekt is.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "een Maskil"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "O het geluk van"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "gedragen is"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "overtreding"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "bedekt is"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "zonde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:19.635252564Z",
+  "model": "glm-5.3"
+}

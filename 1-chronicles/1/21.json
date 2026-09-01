@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "en ⟨את⟩ Hadoram en ⟨את⟩ Oezal en ⟨את⟩ Dikla",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hadoram"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Oezal"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Oezal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dikla"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Dikla"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:05.025901598Z",
+  "model": "glm-5.3"
+}

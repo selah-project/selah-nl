@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 137,
+  "translation": "Hoe zouden wij ⟨את⟩ het lied van Jahweh zingen op vreemde bodem?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "zouden wij zingen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het lied van Jahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "het lied"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "bodem"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vreemde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:34.329636645Z",
+  "model": "glm-5.3"
+}

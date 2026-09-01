@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 2:20",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Eli zegende ⟨את⟩ Elkena en ⟨את⟩ zijn vrouw, en hij zei: Moge Jahweh jou nageslacht stellen vanuit deze vrouw, in plaats van het gevraagde dat aan Jahweh gevraagd is. En zij gingen naar hun plaats.",
+  "tokens": [
+    {
+      "surface": "וברך",
+      "gloss": "En hij zegende"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elkena"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn vrouw"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "moge stellen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslacht"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "deze vrouw"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "השאלה",
+      "gloss": "het gevraagde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "gevraagd is"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "En zij gingen"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "naar hun plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T20:41:59.955958346Z",
+  "model": "glm-5.3"
+}

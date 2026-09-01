@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En ook het onschuldige bloed dat hij vergoot — want hij vulde ⟨את⟩ Jeruzalem met onschuldig bloed — en Jahweh wilde niet vergeven.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "דם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "onschuldige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "hij vergoot"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "en hij vulde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalem"
+    },
+    {
+      "surface": "דם",
+      "gloss": "met bloed"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "onschuldig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "wilde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "vergeven"
+    }
+  ],
+  "timestamp": "2026-08-31T21:13:06.984871311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 112,
+  "translation": "Machtig in het land zal zijn zaad zijn; het geslacht van de oprechten zal gezegend worden.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "machtig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zijn zaad"
+    },
+    {
+      "surface": "דור",
+      "gloss": "het geslacht"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "van de oprechten"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "zal gezegend worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:18.097846716Z",
+  "model": "glm-5.3"
+}

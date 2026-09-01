@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Want een gruwel voor Jahweh, je Elohim, ⟨is⟩ iedereen die deze dingen doet, iedereen die onrecht doet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "een gruwel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "je Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iedereen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "die doet"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "deze dingen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iedereen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "die doet"
+    },
+    {
+      "surface": "עול",
+      "gloss": "onrecht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:39.292741735Z",
+  "model": "glm-5.3"
+}

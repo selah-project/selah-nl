@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Beter een handpalm vol rust dan twee vuisten vol zwoegen en najagen van wind.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "beter"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vol"
+    },
+    {
+      "surface": "כף",
+      "gloss": "handpalm"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "rust"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "dan vol"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "twee vuisten"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zwoegen"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "en najagen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van wind"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:57.467000461Z",
+  "model": "glm-5.3"
+}

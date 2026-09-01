@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Scherpt het gehoor, hemelen, en ik zal spreken; en de aarde hore de woorden van mijn mond.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Scherpt het gehoor"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hemelen"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "en ik zal spreken"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "en ⟨zal⟩ horen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "פי",
+      "gloss": "van mijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:28.325754308Z",
+  "model": "glm-5.3"
+}

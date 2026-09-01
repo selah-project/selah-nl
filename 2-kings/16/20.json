@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Achaz ging rusten bij zijn vaders, en hij werd begraven bij zijn vaders in de stad van Dawid, en zijn zoon Chizkijahoe werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "en hij ging rusten"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en hij werd begraven"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en hij werd koning"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahoe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:24.663053419Z",
+  "model": "glm-5.3"
+}

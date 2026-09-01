@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "En gezegend ⟨is⟩ de naam van zijn heerlijkheid voor eeuwig, en moge zijn heerlijkheid ⟨את⟩ heel de aarde vullen; Amen en Amen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "en gezegend"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "van zijn heerlijkheid"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "en moge vullen"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "zijn heerlijkheid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel de aarde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "en Amen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:54.844784762Z",
+  "model": "glm-5.3"
+}

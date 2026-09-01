@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Vanwege uw verbolgenheid en uw grimmigheid, want gij hebt mij opgenomen en weggeworpen.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "uw verbolgenheid"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "en uw grimmigheid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "gij hebt mij opgenomen"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "en weggeworpen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:36.644471548Z",
+  "model": "glm-5.3"
+}

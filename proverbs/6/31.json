@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En wordt hij gevonden, dan vergoedt hij zevenvoud; ⟨את⟩ al het vermogen van zijn huis zal hij geven.",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "en wordt hij gevonden"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "vergoedt hij"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "zevenvoud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al het vermogen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הון",
+      "gloss": "het vermogen"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "van zijn huis"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "zal hij geven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:52.719744732Z",
+  "model": "glm-5.3"
+}

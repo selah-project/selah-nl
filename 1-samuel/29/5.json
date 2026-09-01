@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Is dit niet Dawid, over wie zij hem in de reidansen beantwoordden met de woorden: Sjaoel sloeg zijn duizenden en Dawid zijn tienduizenden?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Is... niet"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "over wie"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "zij beantwoordden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "in de reidansen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "met de woorden"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "sloeg"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "zijn duizenden"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "en Dawid"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "zijn tienduizenden"
+    }
+  ],
+  "timestamp": "2026-09-01T00:04:37.923932436Z",
+  "model": "glm-5.3"
+}

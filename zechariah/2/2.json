@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En ik zei tot de Engel die in mij sprak: wat zijn deze? En hij zei tot mij: dit zijn de hoornen die Jehoeda, Jisraël en Jeroesjalajim verstrooiden.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ik zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "de Engel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die sprak"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in mij"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "zijn de hoornen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "verstrooiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoeda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "en Jeroesjalajim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:03:24.435257317Z",
+  "model": "glm-5.3"
+}

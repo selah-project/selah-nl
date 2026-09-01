@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Sjelomo zei ⟨dat hij⟩ een huis ⟨wilde⟩ bouwen voor de Naam van Jahweh, en een huis voor zijn koninkrijk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "om te bouwen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "een huis"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "voor de Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "en een huis"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "voor zijn koninkrijk"
+    }
+  ],
+  "timestamp": "2026-08-31T23:03:42.863023443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Een goed ⟨mens⟩ put welbehagen uit ⟨het welgevallen van⟩ Jahweh, maar een man van misdadige plannen ⟨deze⟩ zal ⟨Jahweh⟩ schuldig verklaren.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "goed ⟨mens⟩"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "put"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "welbehagen"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "uit Jahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "maar een man"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "van misdadige plannen"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "zal schuldig verklaren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:41.950781237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Wees stil voor Jahweh en verlang naar Hem; ontsteek niet in toorn over hem die voorspoed heeft op zijn weg, over de man die boze plannen volvoert.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Wees stil"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "en verlang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "naar Hem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ontsteek in toorn"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "over hem die voorspoed heeft"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "op zijn weg"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "over de man"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "die volvoert"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "boze plannen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:37.858551176Z",
+  "model": "glm-5.3"
+}

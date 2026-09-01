@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 8:11",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Een wijngaard had Sjelomo in Ba'al-Hamon; hij gaf ⟨את⟩ de wijngaard aan de bewakers; ieder bracht voor zijn vrucht duizend zilverstukken.",
+  "tokens": [
+    {
+      "surface": "כרם",
+      "gloss": "een wijngaard"
+    },
+    {
+      "surface": "היה",
+      "gloss": "had"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "in Ba'al"
+    },
+    {
+      "surface": "המון",
+      "gloss": "-Hamon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hij gaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de wijngaard"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "de wijngaard"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "aan de bewakers"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bracht"
+    },
+    {
+      "surface": "בפריו",
+      "gloss": "voor zijn vrucht"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilverstukken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:49.375920492Z",
+  "model": "glm-5.3"
+}

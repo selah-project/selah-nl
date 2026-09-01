@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Onze vaders hebben gezondigd — ⟨zij⟩ ⟨zijn⟩ er niet meer; wij dragen hun ongerechtigheden.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "onze vaders"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "hebben gezondigd"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "zijn er niet meer"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wij"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "hun ongerechtigheden"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "dragen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:18.662024171Z",
+  "model": "glm-5.3"
+}

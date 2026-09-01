@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 38:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En hij bracht ⟨את⟩ de stangen in de ringen op de zijkanten van het altaar, om het daarmee te dragen; hol, van planken, maakte hij het.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij bracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stangen"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "de stangen"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "in de ringen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "de zijkanten"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van het altaar"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "om te dragen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ het",
+      "marks": "het (het altaar)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "hol"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "van planken"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maakte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ het",
+      "marks": "het (het altaar)"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:52.971461011Z",
+  "model": "glm-5.3"
+}

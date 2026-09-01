@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 137,
+  "translation": "Dochter van Bavel, de verwoeste — gelukkig hij die u vergeldt ⟨את⟩ uw vergelding, die gij ons hebt vergolden.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Dochter"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Bavel"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "de verwoeste"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "hij die vergeldt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw vergelding"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "uw vergelding"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "gij hebt vergolden"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:50.972241225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Beproef toch ⟨את⟩ je dienaren tien dagen; en laten zij ons geven van de zaden ⟨om⟩ te eten, en water ⟨om⟩ te drinken.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "beproef"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je dienaren"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "je dienaren"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "en laten zij geven"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "de zaden"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "en laten wij eten"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "en water"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "en laten wij drinken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:57.311666348Z",
+  "model": "glm-5.3"
+}

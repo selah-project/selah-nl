@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Spreekt tot de gehele vergadering van Israël, zeggende: Op de tiende van deze maand zullen zij voor zich nemen, ieder een stuk kleinvee voor ⟨het⟩ huis van zijn vaderen, een stuk kleinvee per huis.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "spreekt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de gehele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "op de tiende"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van deze maand"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "en zij zullen nemen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor zich"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "שה",
+      "gloss": "een stuk kleinvee"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "voor ⟨het⟩ huis"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "van vaderen"
+    },
+    {
+      "surface": "שה",
+      "gloss": "een stuk kleinvee"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "per huis"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:49.499041591Z",
+  "model": "glm-5.3"
+}

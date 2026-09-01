@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 28:36",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En je zult een blinkende plaat van zuiver goud maken, en je zult erop graveren zoals zegelgraveringen: 'Heilig voor Jahweh'.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en je zult maken"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "blinkende plaat"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "zuiver"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "en je zult graveren"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "erop"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "graveringen"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "zegel"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Heilig"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:15.535728007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Niet zo; ga toch, de mannen, en dien Jahweh ⟨את⟩, want dát zoeken jullie ⟨את⟩. En hij dreef hen uit ⟨את⟩ ⟨van⟩ het aangezicht van Par'o.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "en dient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "zoeken"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "en hij dreef uit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ van"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:46.146242212Z",
+  "model": "glm-5.3"
+}

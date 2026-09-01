@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "En ik zei: enkel duisternis zal mij verzwelgen — maar de nacht is licht rondom mij;",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ik zei"
+    },
+    {
+      "surface": "אך",
+      "gloss": "enkel"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "zal mij verzwelgen"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "maar de nacht"
+    },
+    {
+      "surface": "אור",
+      "gloss": "is licht"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "rondom mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:17.429206215Z",
+  "model": "glm-5.3"
+}

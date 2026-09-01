@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En Hij zal uw gerechtigheid doen uitgaan als het licht, en uw rechtszaak als de middag.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "En Hij zal doen uitgaan"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "als het licht"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "uw gerechtigheid"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "en uw rechtszaak"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "als de middag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:37.858394228Z",
+  "model": "glm-5.3"
+}

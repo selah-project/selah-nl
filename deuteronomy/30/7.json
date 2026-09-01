@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En Jahweh, jouw Elohim, zal ⟨את⟩ al deze vloeken leggen op je vijanden en op wie je haten, die je najoegden.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "en zal leggen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al deze vloeken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "deze vloeken"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "je vijanden"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "wie je haten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "je najoegden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:37.927131339Z",
+  "model": "glm-5.3"
+}

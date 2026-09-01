@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Van El, uw vader — Hij zal u helpen — en ⟨את⟩ Sjaddai — Hij zal u zegenen met zegeningen van de hemelen van boven, zegeningen van de oervloed die neerligt beneden, zegeningen van borsten en schoot.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uw vader"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "Hij zal u helpen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sjaddai"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddai"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "Hij zal u zegenen"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "zegeningen van"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van boven"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "zegeningen van"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "de oervloed"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "die neerligt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "beneden"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "zegeningen van"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "borsten"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "en schoot"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:13.286691467Z",
+  "model": "glm-5.3"
+}

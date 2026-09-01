@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Deze dingen herinner ik mij, en ik stort mijn nefesj over mij uit, want ik trok met de menigte mee, ik schreed met hen naar het huis van Elohim, met de stem van gejubel en lofzegging, een menigte die feest vierde.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Deze dingen"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "herinner ik mij"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "en ik stort uit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "ik trok mee"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "met de menigte"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "ik schreed"
+    },
+    {
+      "surface": "עד",
+      "gloss": "naar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "met de stem"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "van gejubel"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "en lofzegging"
+    },
+    {
+      "surface": "המון",
+      "gloss": "een menigte"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "die feest vierde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:27.116838018Z",
+  "model": "glm-5.3"
+}

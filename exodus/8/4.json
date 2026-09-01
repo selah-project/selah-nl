@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Toen riep Par'o voor Mosjee en voor Aharón, en hij zei: smeekt ⟨aan⟩ Jahweh dat hij de kikkers van mij wegneemt en van mijn volk, dan zal ik ⟨את⟩ het volk laten gaan en zij zullen offeren voor Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Toen riep"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "voor Mosjee"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "en voor Aharón"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "smeekt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "dat hij wegneemt"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "de kikkers"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "en van mijn volk"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "dan zal ik laten gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "en zij zullen offeren"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:26.283307445Z",
+  "model": "glm-5.3"
+}

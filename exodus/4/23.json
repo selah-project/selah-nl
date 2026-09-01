@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En ik heb tot u gezegd: zend ⟨את⟩ mijn zoon weg, dat hij mij diene; maar gij hebt geweigerd hem weg te zenden — zie, ik dood ⟨את⟩ uw zoon, uw eerstgeborene.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ik heb gezegd"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zend weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn zoon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "dat hij mij diene"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "en gij hebt geweigerd"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "hem weg te zenden"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw zoon"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "uw zoon"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "uw eerstgeborene"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:58.688701953Z",
+  "model": "glm-5.3"
+}

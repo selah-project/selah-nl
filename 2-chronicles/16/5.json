@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Het gebeurde, toen Baäsja het hoorde, dat hij ophield met het bouwen van ⟨את⟩ Rama, en hij deed ⟨את⟩ zijn werk ophouden.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Het gebeurde"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toen het hoorde"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baäsja"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "dat hij ophield"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "met het bouwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "en hij deed ophouden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn werk"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "zijn werk"
+    }
+  ],
+  "timestamp": "2026-08-31T23:08:07.624656766Z",
+  "model": "glm-5.3"
+}

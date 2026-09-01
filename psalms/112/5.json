@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 112,
+  "translation": "Goed is de man die genadig is en uitleent; zijn zaken richt hij in met recht.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Goed"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "genadig is"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "en uitleent"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "richt hij in"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "zijn zaken"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "met recht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:31.624538176Z",
+  "model": "glm-5.3"
+}

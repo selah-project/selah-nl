@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En nog een korte wijle, en de goddeloze ⟨is⟩ er niet meer; en jij zult letten op zijn plaats — en hij ⟨is⟩ er niet.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "en nog"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "een korte wijle"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en ⟨is⟩ er niet"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "en jij zult letten op"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "zijn plaats"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "en hij ⟨is⟩ er niet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:25.885711950Z",
+  "model": "glm-5.3"
+}

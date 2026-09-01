@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Mogen zij voortdurend tegenover Jahweh ⟨staan⟩, zodat hij hun gedenkteken van ⟨de⟩ aarde uitroeit.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mogen zij zijn"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "en hij uitroeit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "van aarde"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "hun gedenkteken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:52.628585404Z",
+  "model": "glm-5.3"
+}

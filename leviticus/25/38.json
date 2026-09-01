@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Ik ⟨ben⟩ Jahweh, jullie Elohim, die jullie heb doen uittrekken uit het land Mitsrajim, om aan jullie ⟨את⟩ het land Kenaan te geven, om voor jullie tot Elohim te zijn.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "heb doen uittrekken"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te geven"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aan jullie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "om te zijn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:43.173187466Z",
+  "model": "glm-5.3"
+}

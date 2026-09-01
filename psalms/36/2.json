@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "Een oracle van overtreding ⟨tot⟩ de goddeloze, in het midden van mijn hart: er is geen vreze van Elohim voor zijn ogen.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "een oracle"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "van overtreding"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "⟨tot⟩ de goddeloze"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is geen"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "vreze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "zijn ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:27.920354685Z",
+  "model": "glm-5.3"
+}

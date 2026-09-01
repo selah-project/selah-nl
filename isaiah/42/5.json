@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 42:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Zo zegt El, Jahweh, die ⟨de⟩ hemel schept en ze uitspant, die de aarde uithamert en wat uit haar voortkomt, die adem geeft aan het volk dat erop ⟨is⟩, en roeach aan wie daarop wandelen:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "die schept"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "ונוטיהם",
+      "gloss": "en ze uitspant"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "die uithamert"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "וצאצאיה",
+      "gloss": "en wat uit haar voortkomt"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "die geeft"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "adem"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "aan het volk"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "die erop"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en roeach"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "aan wie wandelen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:49.981331722Z",
+  "model": "glm-5.3"
+}

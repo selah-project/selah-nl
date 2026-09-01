@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Ga niet als lasteraar rond onder je volk; blijf niet staan bij het bloed van je naaste — ik ben Jahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ga rond"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "als lasteraar"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "onder je volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "blijf staan"
+    },
+    {
+      "surface": "על",
+      "gloss": "bij"
+    },
+    {
+      "surface": "דם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "van je naaste"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:07.231655981Z",
+  "model": "glm-5.3"
+}

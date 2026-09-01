@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 57,
+  "translation": "Hij komt in vrede ⟨ter ruste⟩, zij rusten op hun rustbedden, ⟨elk die⟩ recht voor zich uit gaat.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "in vrede"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "rusten"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "hun rustbedden"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gaat"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "recht voor zich uit"
+    }
+  ],
+  "timestamp": "2026-08-31T21:25:05.820177142Z",
+  "model": "glm-5.3"
+}

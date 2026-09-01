@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Moge hun tafel voor hen tot een strik worden, en voor hun vrede tot een valstrik.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "moge worden"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "hun tafel"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "tot een strik"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "en voor hun vrede"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tot een valstrik"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:11.093544980Z",
+  "model": "glm-5.3"
+}

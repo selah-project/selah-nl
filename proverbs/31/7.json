@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Hij zal drinken en zijn armoede vergeten, en zijn zwoegen zal hij niet meer gedenken.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "Hij zal drinken"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "en vergeten"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "zijn armoede"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "en zijn zwoegen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "zal gedenken"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:21.525160704Z",
+  "model": "glm-5.3"
+}

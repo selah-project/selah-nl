@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Jona bad tot Jahweh, zijn Elohim, uit de ingewanden van de vis.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "en bad"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "zijn Elohim"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "uit de ingewanden"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "van de vis"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:55.061876379Z",
+  "model": "glm-5.3"
+}

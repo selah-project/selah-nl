@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "Want koning van heel de aarde ⟨is⟩ Elohim; zingt, ⟨met⟩ verstand!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zingt"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "verstand"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:27.026481350Z",
+  "model": "glm-5.3"
+}

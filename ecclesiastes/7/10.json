@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Zeg niet: wat was het ⟨dat⟩ de eerste dagen beter waren dan deze? Want niet uit wijsheid heb je naar dit gevraagd.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "zeg"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was het"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "dat de dagen"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "de eerste"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "beter"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "dan deze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "uit wijsheid"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "heb je gevraagd"
+    },
+    {
+      "surface": "על",
+      "gloss": "naar"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:17.560302649Z",
+  "model": "glm-5.3"
+}

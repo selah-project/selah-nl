@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 131,
+  "translation": "Zeker, ik heb ⟨mijn⟩ nefesj gelijkgeschakeld en stil gemaakt, zoals een gespeend kind bij zijn moeder; zoals een gespeend kind zo is mijn nefesj bij mij.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "zeker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "(volksbevestiging)"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "heb ik gelijkgeschakeld"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "en stil gemaakt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "zoals een gespeend kind"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "zijn moeder"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "zoals een gespeend kind"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bij"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:30.959732516Z",
+  "model": "glm-5.3"
+}

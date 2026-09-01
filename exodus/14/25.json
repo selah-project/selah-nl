@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En Hij verwijderde ⟨את⟩ het wiel van zijn strijdwagens, en men dreef ze ⟨met⟩ zwaarté voort; en Mitsrajim zei: Laat mij vluchten voor het aangezicht van Jisraël, want Jahweh strijdt voor hen tegen Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "en Hij verwijderde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het wiel"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "het wiel"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "van zijn strijdwagens"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "en men dreef ze voort"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "met zwaarté"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "laat mij vluchten"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "strijdt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tegen Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:31.987166333Z",
+  "model": "glm-5.3"
+}

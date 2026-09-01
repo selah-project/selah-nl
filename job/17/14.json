@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Het verderf heb ik genoemd: mijn vader ⟨jij⟩; ⟨tegen⟩ de worm: mijn moeder en mijn zuster.",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "het verderf"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "heb ik genoemd"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨jij⟩"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mijn moeder"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "en mijn zuster"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "⟨tegen⟩ de worm"
+    }
+  ],
+  "timestamp": "2026-08-31T22:33:36.970850747Z",
+  "model": "glm-5.3"
+}

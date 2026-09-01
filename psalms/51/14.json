@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Breng ⟨mij⟩ terug de blijdschap van uw verlossing, en met een edelmoedige roeach ondersteun mij.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "breng terug"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mij⟩"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "de blijdschap"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "van uw verlossing"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en ⟨met een⟩ roeach"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "edelmoedige"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "ondersteun mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:31.914168385Z",
+  "model": "glm-5.3"
+}

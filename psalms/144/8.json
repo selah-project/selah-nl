@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 144,
+  "translation": "wier mond leugen spreekt en wier rechterhand een rechterhand van bedrog ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wier"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "mond"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spreekt"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "leugen"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "en hun rechterhand"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "een rechterhand"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van bedrog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:16.040253259Z",
+  "model": "glm-5.3"
+}

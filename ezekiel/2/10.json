@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En hij spreidde ⟨את⟩ haar voor mijn aangezicht uit, en zij was beschreven ⟨op⟩ de voorzijde en de achterzijde; en er was op haar geschreven: klaagliederen en gekerm en wee.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "En hij spreidde uit"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ haar",
+      "marks": "de rol"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor mijn aangezicht"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "en zij"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "was beschreven"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "de voorzijde"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "en de achterzijde"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "en er was geschreven"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "op haar"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "klaagliederen"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "en gekerm"
+    },
+    {
+      "surface": "והי",
+      "gloss": "en wee"
+    }
+  ],
+  "timestamp": "2026-08-31T21:41:30.469155356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Ik belijd Jahweh naar zijn rechtvaardigheid, en ik zing ⟨voor⟩ de naam van Jahweh, de Allerhoogste.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ik belijd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "naar zijn rechtvaardigheid"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "en ik zing"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "de Allerhoogste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:09.377423707Z",
+  "model": "glm-5.3"
+}

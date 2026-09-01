@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "en zij zullen niet binnengaan om te zien, ook maar voor een ogenblik, ⟨את⟩ het heiligdom, en zij sterven.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "zij zullen binnengaan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "ook maar voor een ogenblik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het heiligdom"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "het heiligdom"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "en zij sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:02.253197091Z",
+  "model": "glm-5.3"
+}

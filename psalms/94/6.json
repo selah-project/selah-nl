@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Weduwe en vreemdeling doden zij, en wezen slaan zij dood.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "weduwe"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "en vreemdeling"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "doden zij"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "en wezen"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "slaan zij dood"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.585752687Z",
+  "model": "glm-5.3"
+}

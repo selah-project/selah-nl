@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 20:29",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En heel de vergadering zag dat Aharon gestorven was, en zij beweenden ⟨את⟩ Aharon dertig dagen, heel het huis van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "גוע",
+      "gloss": "gestorven was"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "en zij beweenden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:14:22.207857475Z",
+  "model": "glm-5.3"
+}

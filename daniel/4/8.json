@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 4:8",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "De boom werd groot en sterk, en zijn hoogte reikte tot de hemel, en zijn zicht ⟨reikte⟩ tot het einde van heel de aarde.",
+  "tokens": [
+    {
+      "surface": "רבה",
+      "gloss": "werd groot"
+    },
+    {
+      "surface": "אילנא",
+      "gloss": "de boom"
+    },
+    {
+      "surface": "ותקף",
+      "gloss": "en sterk"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "en zijn hoogte"
+    },
+    {
+      "surface": "ימטא",
+      "gloss": "reikte"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "tot de hemel"
+    },
+    {
+      "surface": "וחזותה",
+      "gloss": "en zijn zicht"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "tot het einde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van heel"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:47:47.095591079Z",
+  "model": "glm-5.3"
+}

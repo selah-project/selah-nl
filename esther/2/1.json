@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Na deze dingen, toen de woede van koning Achasjverosj ging liggen, dacht hij terug aan ⟨את⟩ Waszti, en aan wat zij gedaan had, en aan wat over haar besloten was.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "deze dingen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "toen ... ging liggen"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "de woede"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van koning"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achasjverosj"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dacht hij terug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Waszti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "aan Waszti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en aan ⟨את⟩",
+      "marks": "wat zij gedaan had"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "zij gedaan had"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en aan ⟨את⟩",
+      "marks": "wat over haar besloten was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "besloten was"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "over haar"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:01.890264693Z",
+  "model": "glm-5.3"
+}

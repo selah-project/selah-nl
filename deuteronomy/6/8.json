@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En gij zult ze als een teken op uw hand binden, en zij zullen ⟨zijn⟩ als een band tussen uw ogen.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "en gij zult binden"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "als een teken"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uw hand"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "en zij zullen zijn"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "als een band"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "uw ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:51.402614476Z",
+  "model": "glm-5.3"
+}

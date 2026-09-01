@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Ik zocht Jahweh ⟨את⟩, en Hij antwoordde mij, en uit al mijn verschrikkingen redde Hij mij.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Ik zocht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "en Hij antwoordde mij"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "en uit al"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "mijn verschrikkingen"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "redde Hij mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:01.244453327Z",
+  "model": "glm-5.3"
+}

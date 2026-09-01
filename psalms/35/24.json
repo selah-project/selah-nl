@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Doe mij recht naar uw tsedek, Jahweh, mijn Elohim, en laat hen zich niet verheugen over mij!",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "doe mij recht"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "naar uw tsedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "laten zij zich verheugen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "over mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:06.844067776Z",
+  "model": "glm-5.3"
+}

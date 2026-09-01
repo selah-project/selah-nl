@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Wordt smaakloos ⟨spijze⟩ gegeten zonder zout, of is er enige smaak in het sap van de postelein?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "wordt gegeten"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "smaakloos"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "zout"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "יש",
+      "gloss": "is er"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "enige smaak"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "in het sap"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "van de postelein"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:29.655169720Z",
+  "model": "glm-5.3"
+}

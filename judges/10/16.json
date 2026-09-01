@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En zij verwijderden ⟨את⟩ de elohim van de vreemde uit hun midden en dienden ⟨את⟩ Jahweh; en zijn nefesj werd kortgedaan door de moeite van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "en zij verwijderden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de elohim van de vreemde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de elohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "van de vreemde"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "uit hun midden"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "en dienden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "en werd kortgedaan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn nefesj"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "door de moeite"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:37:37.714366850Z",
+  "model": "glm-5.3"
+}

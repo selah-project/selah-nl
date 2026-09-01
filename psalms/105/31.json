@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij zei het, en er kwam ongedierte, muggen in heel hun gebied.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Hij zei"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en er kwam"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ongedierte"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "muggen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in heel"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "hun gebied"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:50.438121685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En ⟨de⟩ verdrukte wordt neergedrukt; hij bukt zich, en ⟨de⟩ ongelukkigen vallen door zijn machten.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "en ⟨de⟩ verdrukte wordt neergedrukt"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "bukt zich"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "en vallen"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "door zijn machten"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "⟨de⟩ ongelukkigen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:24.278605062Z",
+  "model": "glm-5.3"
+}

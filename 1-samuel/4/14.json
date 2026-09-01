@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Eli hoorde ⟨את⟩ het geluid van het geschreeuw, en hij zei: wat ⟨is⟩ dit geluid van dit rumoer? En de man haastte zich en kwam en vertelde het aan Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hij hoorde"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het geluid van het geschreeuw"
+    },
+    {
+      "surface": "קול",
+      "gloss": "het geluid"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "van het geschreeuw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "קול",
+      "gloss": "geluid"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "van dit rumoer"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "en de man"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "haastte zich"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en kwam"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en vertelde"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "aan Eli"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:53.411379563Z",
+  "model": "glm-5.3"
+}

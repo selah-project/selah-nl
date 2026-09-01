@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij bouwde ⟨את⟩ Beet-Choron het bovenste en ⟨את⟩ Beet-Choron het onderste, steden ⟨van⟩ vesting, muren, deuren en grendels.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "En hij bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beet-Choron het bovenste"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "het bovenste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Beet-Choron het onderste"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "het onderste"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "steden"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "van vesting"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "muren"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "deuren"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "en grendels"
+    }
+  ],
+  "timestamp": "2026-08-31T23:06:56.762056818Z",
+  "model": "glm-5.3"
+}

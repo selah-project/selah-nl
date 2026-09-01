@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Ik behoor mijn liefste toe, en mijn liefste behoort mij toe — hij die weidt onder de lelies.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "mijn liefste toe"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "en mijn liefste"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij toe"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "die weidt"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "onder de lelies"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:07.893751829Z",
+  "model": "glm-5.3"
+}

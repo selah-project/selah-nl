@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "En het zal Jahweh beter behagen dan een rund, dan een jonge stier met hoorns en gespleten hoeven.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "en het zal beter behagen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "dan een rund"
+    },
+    {
+      "surface": "פר",
+      "gloss": "een jonge stier"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "met hoorns"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "en gespleten hoeven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:51.164444637Z",
+  "model": "glm-5.3"
+}

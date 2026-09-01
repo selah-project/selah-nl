@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En in het zevende jaar zal er een sabbat zijn, een sabbatsrust, voor het land, een sabbat voor Jahweh; je veld zul je niet bezaaien, en je wijngaard zul je niet snoeien.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "en in het jaar"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "het zevende"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "een sabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "een sabbatsrust"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal er zijn"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "voor het land"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "een sabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "je veld"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "zul je bezaaien"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "en je wijngaard"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "zul je snoeien"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:57.277667223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "En zij legden in mijn spijs gif, en voor mijn dorst lieten zij mij azijn drinken.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "en zij legden\/gaven"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "in mijn spijs"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "gif"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "en voor mijn dorst"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "lieten zij mij drinken"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "azijn"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:16.132881316Z",
+  "model": "glm-5.3"
+}

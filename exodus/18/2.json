@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Jitro, de schoonvader van Mosjee, nam ⟨את⟩ Tzippora, de vrouw van Mosjee, nadat ⟨zij⟩ weggezonden was.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "schoonvader"
+    },
+    {
+      "surface": "משה",
+      "gloss": "van Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzippora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tzippora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vrouw"
+    },
+    {
+      "surface": "משה",
+      "gloss": "van Mosjee"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "haar wegzending"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:55.175603354Z",
+  "model": "glm-5.3"
+}

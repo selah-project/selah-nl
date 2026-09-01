@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Als ik goddeloos gehandeld heb — wee mij! En als ik rechtvaardig geweest ben, hef ik mijn hoofd niet; verzadigd van schande, en ziende mijn ellende.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "ik goddeloos gehandeld heb"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "wee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "en als ik rechtvaardig geweest ben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "hef ik"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mijn hoofd"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "verzadigd"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "van schande"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en ziende"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mijn ellende"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:22.209356227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 2:6",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En nu moge Jahweh met jullie chesed en trouw doen, en ook ik zal met jullie deze goedheid doen, omdat gij deze daad hebt gedaan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nu"
+    },
+    {
+      "surface": "יעש",
+      "gloss": "moge doen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met jullie"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "en trouw"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zal doen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "met jullie (voorzetsel את, H854)"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "deze goedheid"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "gij hebt gedaan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "de daad"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T20:50:18.870813996Z",
+  "model": "glm-5.3"
+}

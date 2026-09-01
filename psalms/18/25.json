@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": " Daarom vergold Jahweh ⟨het⟩ mij naar mijn rechtvaardigheid, naar de zuiverheid van mijn handen voor zijn ogen.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vergold"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "naar mijn rechtvaardigheid"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "naar de zuiverheid"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "van mijn handen"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "zijn ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:30.837983642Z",
+  "model": "glm-5.3"
+}

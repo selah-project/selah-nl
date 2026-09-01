@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Zeg ⟨tot⟩ de rechtvaardige dat het goed ⟨zal gaan⟩, want de vrucht van hun daden zullen zij eten.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "zeg"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de rechtvaardige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het goed ⟨zal gaan⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "de vrucht"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "van hun daden"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zullen zij eten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:13:09.000996784Z",
+  "model": "glm-5.3"
+}

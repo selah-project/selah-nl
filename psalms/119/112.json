@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik heb mijn hart geneigd om uw verordeningen te doen, voor altijd, tot het einde toe.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "ik heb geneigd"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "uw verordeningen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor altijd"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tot het einde toe"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:56.859208856Z",
+  "model": "glm-5.3"
+}

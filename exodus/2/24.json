@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Elohim hoorde ⟨את⟩ hun gekreun, en Elohim gedacht ⟨את⟩ zijn verbond, ⟨met⟩ Avraham, ⟨met⟩ Jitschak en ⟨את⟩ Jaäkov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hoorde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun gekreun"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "hun gekreun"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "en gedacht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn verbond"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "zijn verbond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jaäkov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:38.898406018Z",
+  "model": "glm-5.3"
+}

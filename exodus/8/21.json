@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Par'o riep tot Mosjee en tot Aharon en hij zei: Ga, slacht ⟨offfers⟩ voor jullie Elohim in het land.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "riep"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "en tot Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "slacht"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "voor jullie Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:18.265123849Z",
+  "model": "glm-5.3"
+}

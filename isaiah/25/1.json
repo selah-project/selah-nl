@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Jahweh, mijn Elohim, u bent ⟨het⟩; ik verhef u, ik loof uw naam, want u hebt een wonder gedaan, raadsbesluiten van ver ⟨vanouds⟩, in trouw, amen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ik verhef u"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ik loof"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "u hebt gedaan"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "een wonder"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "raadsbesluiten"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "van ver"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "in trouw"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:36.693347543Z",
+  "model": "glm-5.3"
+}

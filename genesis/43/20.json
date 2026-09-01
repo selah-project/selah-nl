@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "En zij zeiden: Ach, mijn heer, wij zijn aanvankelijk waarlijk neergegaan om voedsel te kopen.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn heer"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "waarlijk"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "zijn wij neergegaan"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "aanvankelijk"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "om te kopen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "voedsel"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:09.303073402Z",
+  "model": "glm-5.3"
+}

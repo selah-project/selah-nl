@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En hij overtrok die met zuiver goud, van binnen en van buiten, en hij maakte er een gouden rand ⟨omheen⟩.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "en hij overtrok die"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "zuiver"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "van binnen"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "en van buiten"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "er (voor die)"
+    },
+    {
+      "surface": "זר",
+      "gloss": "rand"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gouden"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "⟨omheen⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:36.009102817Z",
+  "model": "glm-5.3"
+}

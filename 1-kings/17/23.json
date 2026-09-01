@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En Elia nam het kind ⟨את⟩ en bracht hem naar beneden van de bovenkamer het huis in, en gaf hem aan zijn moeder; en Elia zei: Zie, uw zoon leeft.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "het kind"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "en bracht hem naar beneden"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "de bovenkamer"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "het huis in"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "en gaf hem"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "aan zijn moeder"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "zie"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leeft"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "uw zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:53.328104459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Ga niet haastig uit naar een geschil, anders — wat zul je doen bij het einde ervan, wanneer je naaste je ⟨את⟩ beschaamd maakt?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ga uit"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "naar een geschil"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "haastig"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zul je doen"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "bij het einde ervan"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "wanneer beschaamd maakt"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "je naaste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:03.129951493Z",
+  "model": "glm-5.3"
+}

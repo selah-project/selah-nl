@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En zij zullen ⟨iets⟩ van het bloed nemen en het aanbrengen op de twee deurposten en op de bovendrempel, op de huizen waarin zij het zullen eten.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "en zij zullen nemen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "en zij zullen aanbrengen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de twee"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "deurposten"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "de bovendrempel"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "de huizen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "welke"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zij zullen eten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (lam)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:40.063549502Z",
+  "model": "glm-5.3"
+}

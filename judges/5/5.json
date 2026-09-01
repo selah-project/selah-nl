@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "De bergen vloeiden van voor het aangezicht van Jahweh, deze Sinai, van voor het aangezicht van Jahweh, Elohim van Jisraël.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "vloeiden"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "van voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "van voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:36:07.489435025Z",
+  "model": "glm-5.3"
+}

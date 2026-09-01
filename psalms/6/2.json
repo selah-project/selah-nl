@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Jahweh, bestraf mij niet in uw toorn, en tuchtig mij niet in uw grimmigheid.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "in uw toorn"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "bestraf mij"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "in uw grimmigheid"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "tuchtig mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:27.148803709Z",
+  "model": "glm-5.3"
+}

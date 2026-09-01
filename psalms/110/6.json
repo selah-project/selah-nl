@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 110,
+  "translation": "Hij zal oordelen onder de natiën, hij vult ⟨het land⟩ met lijken, hij verplettert ⟨het⟩ hoofd over ⟨de⟩ wijde aarde.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Hij zal oordelen"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder de natiën"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hij vult"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "met lijken"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "hij verplettert"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoofd"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "wijde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:23.422579848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Diepte roept tot diepte bij de stem van Uw watervallen; al Uw branding en Uw golven zijn over mij heen gegaan.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Diepte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "diepte"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "roept"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "bij de stem"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "van Uw watervallen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "Uw branding"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "en Uw golven"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "zijn heen gegaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:27.117374799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 64,
+  "translation": "Om in verborgenheden te schieten ⟨op⟩ de oprechte; plotseling schiet men hem, en men vreest niet.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "om te schieten"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "in verborgenheden"
+    },
+    {
+      "surface": "תם",
+      "gloss": "de oprechte"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "plotseling"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "schiet men hem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "vreest men"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.832275848Z",
+  "model": "glm-5.3"
+}

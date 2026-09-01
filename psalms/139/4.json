@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "Want er is geen woord op mijn tong — ziet, Jahweh, u kent het geheel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is niet"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "een woord"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "op mijn tong"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ziet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "u kent"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "het geheel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:21.543707913Z",
+  "model": "glm-5.3"
+}

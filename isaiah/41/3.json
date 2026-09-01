@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Hij achtervolgt hen, trekt in vrede voorbij — een weg die hij met zijn voeten niet betreedt.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Hij achtervolgt hen"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "trekt voorbij"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "in vrede"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "een weg"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "met zijn voeten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "betreedt hij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:32.162694670Z",
+  "model": "glm-5.3"
+}

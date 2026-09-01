@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Hij weidt ⟨op⟩ as; een bedrogen hart heeft hem afgeleid, en hij redt ⟨את⟩ zijn nefesj niet en zegt niet: Is er geen leugen in mijn rechterhand?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "hij weidt"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "as"
+    },
+    {
+      "surface": "לב",
+      "gloss": "een hart"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "bedrogen"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "heeft hem afgeleid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "redt hij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn nefesj"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn nefesj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zegt hij"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "is er geen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leugen"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "in mijn rechterhand"
+    }
+  ],
+  "timestamp": "2026-08-31T21:23:36.932751704Z",
+  "model": "glm-5.3"
+}

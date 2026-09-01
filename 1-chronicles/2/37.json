@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Zawad verwekte ⟨את⟩ Eflal, en Eflal verwekte ⟨את⟩ Oved.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "En Zawad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "en Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:21.562789484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En je zult zeggen op die dag: Ik dank jou, Jahweh, want ⟨hoewel⟩ je toornig op mij was, keert je toorn ⟨om⟩ en troost je mij.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "en je zult zeggen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op ⟨de⟩ dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ik dank jou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "je was toornig"
+    },
+    {
+      "surface": "בי",
+      "gloss": "op mij"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "keert om"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "je toorn"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "en troost je mij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:50.217103083Z",
+  "model": "glm-5.3"
+}

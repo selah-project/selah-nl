@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Zingt voor Hem, speelt ⟨voor⟩ Hem, spreekt van al zijn wonderdaden.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Zingt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor Hem"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "speelt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨voor⟩ Hem"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "spreekt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "zijn wonderdaden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:00:32.691174831Z",
+  "model": "glm-5.3"
+}

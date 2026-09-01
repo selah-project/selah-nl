@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Hij heeft mijn wegen met gehouwen steen dichtgemuurd, mijn paden heeft Hij krom gemaakt.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "dichtgemuurd"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mijn wegen"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "met gehouwen steen"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "mijn paden"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "krom gemaakt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:41:01.635808796Z",
+  "model": "glm-5.3"
+}

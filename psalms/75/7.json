@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 75,
+  "translation": "Want niet uit het oosten en niet uit het westen, en niet uit de woestijn komt verheffing.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "uit het oosten"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "en uit het westen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "uit de woestijn"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "komt verheffing"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:39.195852745Z",
+  "model": "glm-5.3"
+}

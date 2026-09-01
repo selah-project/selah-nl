@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Avram zei tot Lot: laat toch geen twist zijn tussen mij en u, en tussen mijn herders en uw herders, want wij zijn mannen ⟨en⟩ broeders.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "zij"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "twist"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen mij"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "en u"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "mijn herders"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "uw herders"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "broeders"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:54.617941183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij zal ⟨את⟩ zijn krop verwijderen met zijn veren, en ⟨את⟩ weggooien naast het altaal, aan de oostkant, naar de plaats van de as.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "en hij zal verwijderen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn krop"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "zijn krop"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "met zijn veren"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "en weggooien"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "het"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "naast"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaal"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "aan de oostkant"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "de plaats"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "van de as"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:19.459570076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En heel het volk zag ⟨את⟩ de wolkkolom staan aan de ingang van de tent, en heel het volk stond op en boog zich neer, ieder aan de ingang van zijn tent.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de wolkkolom"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "kolom"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "de wolk"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "staan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aan de ingang"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "van de tent"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "en stond op"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "en boog zich neer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aan de ingang"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "van zijn tent"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:29.773723780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "En ik zal zijn belagers voor zijn aangezicht verbrijzelen, en zijn haters zal ik verslaan.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "en ik zal verbrijzelen"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "voor zijn aangezicht"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "zijn belagers"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "en zijn haters"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "zal ik verslaan"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:56.655071795Z",
+  "model": "glm-5.3"
+}

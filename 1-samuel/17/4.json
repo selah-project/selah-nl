@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En er ging een man van de twee kampen uit, uit de kampen van de Pelisjtim; Goljat was zijn naam, uit Gat; zijn lengte was zes el en een handbreedte.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "en er ging uit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "van de twee kampen"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "uit de kampen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van de Pelisjtim"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goljat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "was zijn naam"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "uit Gat"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "zijn lengte"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zes"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "en een handbreedte"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:47.512289313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Nachor leefde negenentwintig jaar, en hij verwekte ⟨את⟩ Terach.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "en leefde"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "negen"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:28.991168296Z",
+  "model": "glm-5.3"
+}

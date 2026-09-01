@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Ook hebt U de scherpte van zijn zwaard teruggedraaid en hem niet staande gehouden in de strijd.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "hebt U teruggedraaid"
+    },
+    {
+      "surface": "צור",
+      "gloss": "de scherpte"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "van zijn zwaard"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "hem staande gehouden"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in de strijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:02.759152377Z",
+  "model": "glm-5.3"
+}

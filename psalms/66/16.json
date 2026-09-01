@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "Komt, luistert, en ik zal vertellen, allen die Elohim vrezen, wat hij aan mijn nefesj heeft gedaan.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "komt"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "luistert"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "en ik zal vertellen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "die vrezen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "heeft gedaan"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "aan mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:43.581751171Z",
+  "model": "glm-5.3"
+}

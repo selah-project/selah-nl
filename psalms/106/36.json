@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En zij dienden ⟨את⟩ hun beelden, en die werden hun tot een strik.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "en zij dienden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun beelden"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "hun beelden"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en die werden"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tot een strik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:47.630411330Z",
+  "model": "glm-5.3"
+}

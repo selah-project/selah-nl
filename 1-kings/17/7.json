@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En het geschiedde na verloop van dagen, dat de beek opdroogde, want er was geen regen in het land geweest.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het geschiedde"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na verloop van"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "opdroogde"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "de beek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was geweest"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "regen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:34.602325847Z",
+  "model": "glm-5.3"
+}

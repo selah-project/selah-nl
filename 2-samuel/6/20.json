@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 6:20",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Dawid keerde terug om ⟨את⟩ zijn huis te zegenen; en Michal, dochter van Sja'oeł, ging uit Dawid tegemoet en zei: hoe verheerlijkt heeft zich heden de koning van Jisraël, die zich heden ontblootte voor de ogen van de dienstmaagden van zijn dienaren, zoals een van de leeghoofden zich schaamteloos ontbloot!",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en hij keerde terug"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "om te zegenen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn huis"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "en ging uit"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Michal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sja'oeł"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "tegemoet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "verheerlijkt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "zich ontblootte"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "voor de ogen"
+    },
+    {
+      "surface": "אמהות",
+      "gloss": "van de dienstmaagden"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "van zijn dienaren"
+    },
+    {
+      "surface": "כהגלות",
+      "gloss": "z zoals ontbloot"
+    },
+    {
+      "surface": "נגלות",
+      "gloss": "zich ontbloot"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een van"
+    },
+    {
+      "surface": "הרקים",
+      "gloss": "de leeghoofden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:19:44.213084450Z",
+  "model": "glm-5.3"
+}

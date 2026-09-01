@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Aharón strek ⟨את⟩ zijn hand uit over de wateren van Mitsrajim, en de kikkers kwamen op en bedekten ⟨את⟩ ⟨de⟩ aarde van Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "En hij strekte uit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharón"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "de wateren van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "en zij kwam op"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "de kikkers"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "en bedekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aarde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:26.283027079Z",
+  "model": "glm-5.3"
+}

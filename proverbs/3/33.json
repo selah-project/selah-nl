@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "De vloek van Jahweh ⟨is⟩ in het huis van de goddeloze, maar de woning van de rechtvaardigen zegent ⟨hij⟩.",
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "vloek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis van"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "maar de woning van"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rechtvaardigen"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "zegent"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:52.636934067Z",
+  "model": "glm-5.3"
+}

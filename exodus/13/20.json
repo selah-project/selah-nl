@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En zij braken op van Soekot en sloegen het kamp op in Etam, aan de rand van de woestijn.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "en braken op"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "van Soekot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "en sloegen het kamp op"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "in Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "aan de rand"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "van de woestijn"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:03.064782681Z",
+  "model": "glm-5.3"
+}

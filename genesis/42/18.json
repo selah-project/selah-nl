@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En Jehosjf... Josef zei tot hen op de derde dag: Doe dit en leef: ⟨את⟩ Elohim vrees ik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "de derde"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "doet"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "en leeft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vrees"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:45.321522773Z",
+  "model": "glm-5.3"
+}

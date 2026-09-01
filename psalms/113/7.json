@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 113,
+  "translation": "Hij doet ⟨de⟩ zwakke opstaan uit het stof, uit de vuilhoop verhoogt Hij ⟨de⟩ behoeftige —",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "doet opstaan"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "uit het stof"
+    },
+    {
+      "surface": "דל",
+      "gloss": "zwakke"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "uit de vuilhoop"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "verhoogt"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "behoeftige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:30.178327735Z",
+  "model": "glm-5.3"
+}

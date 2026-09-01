@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Uit uw voorschriften krijg ik inzicht; daarom haat ik elke leugenachtige weg.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "uit uw voorschriften"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "krijg ik inzicht"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "haat ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "weg"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leugenachtige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:44.055554916Z",
+  "model": "glm-5.3"
+}

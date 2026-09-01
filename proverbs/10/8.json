@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "De wijze van hart neemt geboden aan, maar de zot der lippen valt ⟨om⟩.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "wijze"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "neemt aan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "geboden"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "maar de zot"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "der lippen"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "valt ⟨om⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:04.878513975Z",
+  "model": "glm-5.3"
+}

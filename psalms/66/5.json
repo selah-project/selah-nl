@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "Komt en ziet de werken van Elohim, ontzagwekkend ⟨is⟩ zijn doen over de mensenkinderen.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Komt"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "en ziet"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "de werken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ontzagwekkend"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "zijn doen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de … kinderen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mensen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:01.703281431Z",
+  "model": "glm-5.3"
+}

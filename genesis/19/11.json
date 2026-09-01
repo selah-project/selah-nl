@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En ⟨את⟩ de mannen die aan de ingang van het huis waren, sloegen zij met verblinding, van klein tot groot, en zij vermoeiden zich om de ingang te vinden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de mannen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aan de ingang"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "sloegen zij"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "met verblinding"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "van klein"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "en zij vermoeiden zich"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "om te vinden"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "de ingang"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:03.933049001Z",
+  "model": "glm-5.3"
+}

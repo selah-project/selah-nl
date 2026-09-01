@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Een geschenk van een mens maakt ruimte voor hem, en het leidt hem vóór groten.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "een geschenk"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van een mens"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "maakt ruimte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "en vóór"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "groten"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "het leidt hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:44.849653358Z",
+  "model": "glm-5.3"
+}

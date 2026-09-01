@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Hij zal u zeker berispen, als gij in het verborgene ⟨het⟩ aangezicht ⟨verheft⟩.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "zeker"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "zal hij berispen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u",
+      "marks": "u"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in het verborgene"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "aangezicht"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "gij verheft"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:27.038189113Z",
+  "model": "glm-5.3"
+}

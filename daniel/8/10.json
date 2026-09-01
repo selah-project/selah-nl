@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En zij werd groot tot aan de legermacht van de hemel, en zij wierp ⟨sommigen⟩ van de legermacht en van de sterren op de aarde en vertrad ze.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "en zij werd groot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "legermacht"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "en zij wierp"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "de legermacht"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "de sterren"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "en vertrad ze"
+    }
+  ],
+  "timestamp": "2026-08-31T22:48:43.970815021Z",
+  "model": "glm-5.3"
+}

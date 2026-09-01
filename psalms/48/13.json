@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Ga rond om Tsiyon, omcirkel haar, tel haar torens;",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "Ga rond"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "om Tsiyon"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "omcirkel haar"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "tel"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "haar torens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:46.361660937Z",
+  "model": "glm-5.3"
+}

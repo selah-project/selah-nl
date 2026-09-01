@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Wees niet jaloers op mannen van kwaad, en verlang er niet naar om met ⟨את⟩ hen te zijn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "wees jaloers"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "op mannen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "verlang"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "om te zijn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ met hen",
+      "marks": "hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:48.386388613Z",
+  "model": "glm-5.3"
+}

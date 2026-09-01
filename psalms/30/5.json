@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Zing ⟨voor⟩ Jahweh, zijn chasidim, en loof ⟨hem⟩ bij het gedenken van zijn heiligheid.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "zing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "zijn chasidim"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "en loof"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "bij het gedenken"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "zijn heiligheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:30.615528632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En zijn terugkeer was naar de Ramah, want daar was zijn huis, en daar richtte hij ⟨את⟩ Jisraël, en daar bouwde hij een altaar voor Jahweh.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "en zijn terugkeer"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "naar de Ramah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en daar"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "richtte hij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "een altaar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:02.880097823Z",
+  "model": "glm-5.3"
+}

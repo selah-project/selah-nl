@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Kenaän verwekte ⟨את⟩ Tsidon, zijn eerstgeborene, en ⟨את⟩ Chet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "En Kenaän"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "zijn eerstgeborene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:13.413547457Z",
+  "model": "glm-5.3"
+}

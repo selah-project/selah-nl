@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En hij zond ⟨את⟩ Eljakim, die over het huis ⟨was⟩, en ⟨את⟩ Sjevna de schrijver, en ⟨את⟩ de oudsten van de priesters, zich bedekkend met zakken, naar Jesjajahoe, zoon van Amots, de profeet.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sjevna de schrijver"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Sjevna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "de schrijver"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de oudsten van de priesters"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de oudsten"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "van de priesters"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "zich bedekkend"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "met zakken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesjajahoe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "van Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "de profeet"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:26.287626441Z",
+  "model": "glm-5.3"
+}

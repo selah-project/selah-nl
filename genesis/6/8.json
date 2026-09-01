@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Maar Noach vond genade in de ogen van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "maar Noach"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "vond"
+    },
+    {
+      "surface": "חן",
+      "gloss": "genade"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in de ogen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:38.249972717Z",
+  "model": "glm-5.3"
+}

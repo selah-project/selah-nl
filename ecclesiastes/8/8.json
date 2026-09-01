@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Er is geen mens die heerst over de roeach om de roeach ⟨את⟩ in te houden, en er is geen heerschappij op de dag van de dood, en er is geen ontslag in de oorlog; en goddeloosheid zal zijn meester ⟨את⟩ niet redden.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Er is geen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "die heerst"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "over de roeach"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "om in te houden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de roeach"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "de roeach"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is geen"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "heerschappij"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "המות",
+      "gloss": "van de dood"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is geen"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "ontslag"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in de oorlog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "zal redden"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "goddeloosheid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn meester"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "zijn meester"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:55.440129019Z",
+  "model": "glm-5.3"
+}

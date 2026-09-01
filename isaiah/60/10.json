@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "En zonen van vreemden bouwen uw muren, en hun koningen dienen u; want in mijn gramschap heb ik u geslagen, en in mijn welbehagen heb ik u ontfermd.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "en zij bouwen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "van vreemden"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "uw muren"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "en hun koningen"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "dienen u"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "in mijn gramschap"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "heb ik u geslagen"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "en in mijn welbehagen"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "heb ik u ontfermd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:25:34.975425106Z",
+  "model": "glm-5.3"
+}

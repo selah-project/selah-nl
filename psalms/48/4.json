@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Elohim is in haar vestingen bekend geworden als ⟨een⟩ toevluchtsoord.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "in haar vestingen"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "is bekend geworden"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "als toevluchtsoord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:17.671250488Z",
+  "model": "glm-5.3"
+}

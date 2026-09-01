@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En zij brachten omhoog ⟨את⟩ de ark van Jahweh, en ⟨את⟩ de tent van ontmoeting, en ⟨את⟩ alle heilige voorwerpen die in de tent waren; en de priesters en de Levieten brachten ⟨את⟩ hen omhoog.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "En zij brachten omhoog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de tent"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alle heilige voorwerpen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "voorwerpen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in de tent"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "en zij brachten omhoog"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "en de Levieten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:02.258217758Z",
+  "model": "glm-5.3"
+}

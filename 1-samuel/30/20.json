@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En Dawid nam ⟨את⟩ heel ⟨את⟩ de kudde kleinvee en het rundvee; men dreef ze voor die veehoeden uit, en zij zeiden: Dit is de buit van Dawid.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en nam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel de kudde kleinvee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "de kudde kleinvee"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "en het rundvee"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "men dreef"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor ... uit"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "de veehoeden"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "de buit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:21.929225845Z",
+  "model": "glm-5.3"
+}

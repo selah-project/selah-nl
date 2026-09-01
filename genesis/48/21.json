@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "En Jisraël zei tot Jozef: Zie, ik sterf, maar Elohim zal met jullie zijn en jullie doen terugkeren naar het land van jullie vaders.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sterf"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en zal zijn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met jullie"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "en zal doen terugkeren"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jullie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "van jullie vaders"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:37.576295096Z",
+  "model": "glm-5.3"
+}

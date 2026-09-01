@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 56,
+  "translation": "In Elohim zal ik zijn woord loven; in Elohim heb ik vertrouwd, ik zal niet vrezen — wat kan vlees mij doen?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "zal ik loven"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "zijn woord"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "heb ik vertrouwd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "zal ik vrezen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨kan⟩ doen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:05.798783201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 53,
+  "translation": "Zullen de daders van ongeregeldheid ⟨het⟩ niet weten — de eters van mijn volk hebben brood gegeten — Elohim hebben zij niet aangeroepen?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "zullen... niet"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "weten"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "daders van"
+    },
+    {
+      "surface": "און",
+      "gloss": "ongeregeldheid"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "eters van"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "hebben gegeten"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "aangeroepen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:45:47.349771976Z",
+  "model": "glm-5.3"
+}

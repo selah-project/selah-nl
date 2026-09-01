@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Op mij hebben de goddelozen geluurd om mij te vernietigen — ⟨maar⟩ uw getuigenissen overweeg ik.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "op mij"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "hebben geluurd"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "om mij te vernietigen"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "uw getuigenissen"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "overweeg ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:01.484232922Z",
+  "model": "glm-5.3"
+}

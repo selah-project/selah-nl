@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Jahweh, verlos ⟨de koning⟩! Laat de koning ons antwoorden op de dag dat wij roepen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "verlos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "laat … ons antwoorden"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "dat wij roepen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:03.176296178Z",
+  "model": "glm-5.3"
+}

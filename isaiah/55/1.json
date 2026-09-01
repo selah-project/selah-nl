@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Ho, allen die dorst hebben, kom naar het water! En wie geen zilver heeft — kom, koop ⟨graan⟩ en eet; ja, kom, koop zonder zilver en zonder prijs wijn en melk.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "die dorst hebben"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "למים",
+      "gloss": "naar het water"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "heeft"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "koop ⟨graan⟩"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "en eet"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ja, kom"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "koop"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "en zonder"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "prijs"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wijn"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "en melk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:32.951021208Z",
+  "model": "glm-5.3"
+}

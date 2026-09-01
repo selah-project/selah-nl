@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Op de dag van onze koning werden de vorsten ziek van de gloed van wijn; hij strekte zijn hand uit ⟨את⟩ ⟨samen⟩ met de spotters.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "van onze koning"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "werden ziek"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "de vorsten"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "van de gloed"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "van wijn"
+    },
+    {
+      "surface": "משך",
+      "gloss": "strekte uit"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de spotters"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "met de spotters"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:29.524451229Z",
+  "model": "glm-5.3"
+}

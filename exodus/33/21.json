@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En Jahweh zei: Zie, ⟨er is⟩ een plaats bij ⟨את⟩-mij, en gij zult staan op de rots.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en Hij zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "een plaats"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ (bij mij)"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "en gij zult staan"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "de rots"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:33.174523994Z",
+  "model": "glm-5.3"
+}

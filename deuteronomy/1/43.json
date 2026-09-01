@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ik sprak tot jullie, maar jullie luisterden niet; en jullie kwamen in opstand tegen ⟨את⟩ de mond van Jahweh, en jullie handelden overmoedig en trokken op naar het bergland.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "en ik sprak"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "tot jullie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "luisterden jullie"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "en jullie kwamen in opstand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mond van Jahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de mond van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "en jullie handelden overmoedig"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "en trokken op"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "naar het bergland"
+    }
+  ],
+  "timestamp": "2026-08-31T20:19:58.575087267Z",
+  "model": "glm-5.3"
+}

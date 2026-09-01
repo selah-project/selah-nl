@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Want haar handelswaar is beter dan ⟨de⟩ handel in zilver, en haar opbrengst dan goud.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "beter"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "haar handelswaar"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "handel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "dan goud"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "haar opbrengst"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:53.453634129Z",
+  "model": "glm-5.3"
+}

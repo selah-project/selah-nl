@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Avraham zette ⟨את⟩ zeven ooilammeren van ⟨de⟩ kudde apart, voor zich alleen.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "en hij zette"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zeven ooilammeren"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ooilammeren"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "van de kudde"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "apart, voor zich alleen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:38.401919255Z",
+  "model": "glm-5.3"
+}

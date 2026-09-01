@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "De woorden van zijn mond ⟨zijn⟩ onheil en bedrog; hij is opgehouden verstandig te ⟨zijn⟩, goed te doen.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "de woorden van"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "zijn mond"
+    },
+    {
+      "surface": "און",
+      "gloss": "onheil"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "en bedrog"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "is opgehouden"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "verstandig te ⟨zijn⟩"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "goed te doen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:27.920632400Z",
+  "model": "glm-5.3"
+}

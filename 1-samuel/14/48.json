@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En hij verrichtte heldendaden, en hij sloeg ⟨את⟩ Amalek, en hij redde ⟨את⟩ Israël uit de hand van zijn plunderaars.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "En hij verrichtte"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "heldendaden"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en hij sloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "en hij redde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "van zijn plunderaars"
+    }
+  ],
+  "timestamp": "2026-08-31T20:44:52.669851130Z",
+  "model": "glm-5.3"
+}

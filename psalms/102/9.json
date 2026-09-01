@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "De hele dag hebben mijn vijanden mij gesmaad; ⟨want⟩ zij die tegen mij razen, hebben bij mij gezworen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "hebben zij mij gesmaad"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "zij die razen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bij mij"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "hebben gezworen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:36.644099401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En hij maakte ⟨את⟩ een huis van hoogten, en hij stelde priesters aan uit de uithoeken van het volk, die niet van de zonen van Levi waren.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "een huis van hoogten"
+    },
+    {
+      "surface": "בית",
+      "gloss": "een huis"
+    },
+    {
+      "surface": "במות",
+      "gloss": "van hoogten"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en hij stelde aan"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "priesters"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "uit de uithoeken"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:06.270983799Z",
+  "model": "glm-5.3"
+}

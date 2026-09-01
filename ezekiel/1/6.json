@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En vier aangezichten ⟨had⟩ elk ⟨van hen⟩, en vier vleugels had elk van hen.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "en vier"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "aangezichten"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "aan elk één"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "en vier"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "vleugels"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "aan elk één"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:41:01.062845085Z",
+  "model": "glm-5.3"
+}

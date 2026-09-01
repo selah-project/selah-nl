@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 58,
+  "translation": "Mogen zij verdwijnen als water dat wegvliedt; wanneer hij zijn pijl spant, moge die ⟨als⟩ afgesneden ⟨verdwijnen⟩.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "mogen zij verdwijnen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "dat wegvliedt"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "spant"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "zijn pijl"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "afgesneden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:00.899296163Z",
+  "model": "glm-5.3"
+}

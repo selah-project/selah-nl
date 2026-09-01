@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Die volken vele sloeg, en koningen machtige doodde.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "die sloeg"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "en doodde"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "koningen"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "machtige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:44.587444822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Mosjee en Aharon zeiden tot heel Israël: avond ⟨zal komen⟩, en jullie zullen weten dat Jahweh jullie ⟨את⟩ uit het land van Mitsrajim heeft uitgeleid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "avond"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "en jullie zullen weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "heeft uitgeleid"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:31.414307585Z",
+  "model": "glm-5.3"
+}

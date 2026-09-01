@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Als Jahweh niet ⟨mijn⟩ hulp was geweest voor mij, had mijn nefesj bijna in ⟨de⟩ stilte gewoond.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "als niet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "hulp"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "bijna"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "gewoond"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "stilte"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:02.458749252Z",
+  "model": "glm-5.3"
+}

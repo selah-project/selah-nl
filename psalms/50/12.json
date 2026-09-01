@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Als ik honger zou hebben, zou ik het ⟨dat⟩ niet aan jou zeggen, want van mij is ⟨de⟩ aarde en haar volheid.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ik honger zou hebben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zeggen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לי",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "en haar volheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:43.706986891Z",
+  "model": "glm-5.3"
+}

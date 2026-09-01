@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Geef uw kracht niet aan vrouwen, noch uw wegen aan ⟨hen⟩ die koningen uitroeien.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "aan vrouwen"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "uw kracht"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "noch uw wegen"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "aan ⟨hen⟩ die uitroeien"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "koningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:33.218234766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Jahweh, in de morgen zult gij mijn stem horen; in de morgen richt ik ⟨mijn gebed⟩ op tot u en houd de wacht.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "zult gij horen"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mijn stem"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "richt ik op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "en houd de wacht"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:31.520876830Z",
+  "model": "glm-5.3"
+}

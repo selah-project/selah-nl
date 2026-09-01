@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En ⟨את⟩ zijn schuldmisdaad zal hij brengen voor Jahweh: een ram, gaaf, uit het kleinvee, naar jouw schatting, als schuldoffer, naar de priester.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn schuldmisdaad"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "zijn schuldmisdaad"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "zal hij brengen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "איל",
+      "gloss": "een ram"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "gaaf"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "het kleinvee"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "naar jouw schatting"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "als schuldoffer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:34.748351493Z",
+  "model": "glm-5.3"
+}

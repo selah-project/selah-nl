@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Toen wankelde en beefde de aarde, en de fundamenten van de bergen trilden — zij werden geschud, want het brandde in hem.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "en wankelde"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "en beefde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "en de fundamenten van"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "trilden"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "zij werden geschud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "het brandde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "in hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:22.681702160Z",
+  "model": "glm-5.3"
+}

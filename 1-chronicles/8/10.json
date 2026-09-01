@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En ⟨את⟩ Je'uts en ⟨את⟩ Sjachja en ⟨את⟩ Mirmah — dit waren zijn zonen, hoofden van vaderhuizen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Je'uts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Je'uts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sjachja"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sjachja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "waren zijn zonen"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoofden"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "van vaderhuizen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:46.463492375Z",
+  "model": "glm-5.3"
+}

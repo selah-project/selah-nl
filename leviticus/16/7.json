@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En hij zal ⟨את⟩ de twee bokken nemen en ze ⟨את⟩ doet staan voor het aangezicht van Jahweh, bij de ingang van de tent van ontmoeting.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "zal nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de twee bokken"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de twee"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "bokken"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "doet staan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "staan voor Jahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:21.005348239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Rijkdom en eer ⟨zijn⟩ bij ⟨את⟩-mij; overvloedig bezit en gerechtigheid.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "rijkdom"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "en eer"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bij mij",
+      "marks": "bij mij"
+    },
+    {
+      "surface": "הון",
+      "gloss": "bezit"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "overvloedig"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "en gerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:05.239591526Z",
+  "model": "glm-5.3"
+}

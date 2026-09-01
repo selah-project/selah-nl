@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Aram van voren en de Filistijnen van achteren, en zij verslonden ⟨את⟩ Israël met de gehele mond. Bij dit alles is zijn toorn niet teruggekeerd, en nog is zijn hand uitgestrekt.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "van voren"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "en de Filistijnen"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "van achteren"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "en zij verslonden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met de gehele"
+    },
+    {
+      "surface": "פה",
+      "gloss": "mond"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bij dit"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "alles"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שב",
+      "gloss": "is teruggekeerd"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "zijn toorn"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "en nog"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "is uitgestrekt"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:54.397657033Z",
+  "model": "glm-5.3"
+}

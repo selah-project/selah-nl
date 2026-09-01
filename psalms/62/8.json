@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 62,
+  "translation": "Op Elohim ⟨rust⟩ mijn heil en mijn eer; de rots van mijn kracht, mijn toevlucht, ⟨is⟩ in Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mijn heil"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "en mijn eer"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rots"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "van mijn kracht"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mijn toevlucht"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:47.306040645Z",
+  "model": "glm-5.3"
+}

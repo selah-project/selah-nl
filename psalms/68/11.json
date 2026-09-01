@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Uw kudde woont daarin; in uw goedheid bereidt U ⟨het⟩ voor de arme, Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "uw kudde"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "woont"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "bereidt U"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "in uw goedheid"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "voor de arme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:15.837751750Z",
+  "model": "glm-5.3"
+}

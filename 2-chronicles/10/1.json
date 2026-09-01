@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Rechav'am ging naar Sjechem, want naar Sjechem waren heel Jisraël gekomen om hem ⟨את⟩ tot koning te maken.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechav'am"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "naar Sjechem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjechem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "waren gekomen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "om tot koning te maken"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (Rechav'am)"
+    }
+  ],
+  "timestamp": "2026-08-31T23:06:35.115417285Z",
+  "model": "glm-5.3"
+}

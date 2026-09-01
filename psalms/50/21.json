@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Deze dingen deed ⟨jij⟩ en ik zweeg; jij dacht dat ik zou zijn zoals jij. Ik zal je terechtwijzen en ⟨het⟩ voor je ogen uiteenzetten.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Deze dingen"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "deed jij"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "en ik zweeg"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "jij dacht"
+    },
+    {
+      "surface": "היות",
+      "gloss": "dat … zou zijn"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ik zou zijn"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "zoals jij"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "Ik zal je terechtwijzen"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "en uiteenzetten"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "voor je ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:44.236577212Z",
+  "model": "glm-5.3"
+}

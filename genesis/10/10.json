@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En het begin van zijn koninkrijk was Bavel, en Erech, en Akkad en Kalneh, in het land Sjinear.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "En het was"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "het begin"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "van zijn koninkrijk"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "en Erech"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "en Akkad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "en Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Sjinear"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:29.097990921Z",
+  "model": "glm-5.3"
+}

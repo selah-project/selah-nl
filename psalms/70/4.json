@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 70,
+  "translation": "Mogen zij omkeren omwille van ⟨de vergelding van⟩ hun schaamte — zij die zeggen: Aha, aha!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "mogen zij omkeren"
+    },
+    {
+      "surface": "על",
+      "gloss": "omwille van"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨de vergelding van⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "hun schaamte"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "zij die zeggen"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:49.338218797Z",
+  "model": "glm-5.3"
+}

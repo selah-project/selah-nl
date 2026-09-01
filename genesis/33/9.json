@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En Esav zei: Ik heb ⟨te⟩ overvloed, mijn broeder; laat het jou ⟨behoren⟩ wat van jou is.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er is"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "רב",
+      "gloss": "overvloed"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mijn broeder"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "laat het zijn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "van jou"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:31.995078752Z",
+  "model": "glm-5.3"
+}

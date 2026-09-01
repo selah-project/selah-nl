@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En elk zadel waarop hij rijdt — de zav — wordt onrein.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en elk"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "zadel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarop"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "hij rijdt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "erop"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "de zav"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "wordt onrein"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:06.426703098Z",
+  "model": "glm-5.3"
+}

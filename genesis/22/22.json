@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En ⟨את⟩ Kesed, en ⟨את⟩ Chazo, en ⟨את⟩ Pildasj, en ⟨את⟩ Jidlaf, en ⟨את⟩ Betoeël.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kesed"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Kesed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chazo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Chazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Pildasj"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildasj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jidlaf"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Jidlaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Betoeël"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betoeël"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:24.943007891Z",
+  "model": "glm-5.3"
+}

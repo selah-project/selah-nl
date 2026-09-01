@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "En hij weigerde en zei tegen de vrouw van zijn heer: Zie, mijn heer weet ⟨את⟩ niet wat er in huis is bij mij, en alles wat hij heeft heeft hij in mijn hand gegeven.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "en hij weigerde"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "van zijn heer"
+    },
+    {
+      "surface": "הן",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn heer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "wat er in huis is bij mij"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in huis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er is"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "heeft gegeven"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "in mijn hand"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:23.229517048Z",
+  "model": "glm-5.3"
+}

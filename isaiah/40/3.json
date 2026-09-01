@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Een stem roept: in de woestijn baant de weg van Jahweh, effen in de steppe een snelweg voor onze Elohim.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Een stem"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "roept"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "baant"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "effen"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "in de steppe"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "een snelweg"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "voor onze Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:18.091288337Z",
+  "model": "glm-5.3"
+}

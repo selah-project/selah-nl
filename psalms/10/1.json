@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Waarom, Jahweh, sta U op ⟨een⟩ afstand, verbergt U zich voor de tijden in benauwdheid?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "staat U"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "op afstand"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "verbergt U zich"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "voor de tijden"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "in benauwdheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:14.825816253Z",
+  "model": "glm-5.3"
+}

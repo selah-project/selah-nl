@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 112,
+  "translation": "Want tot in eeuwigheid zal hij niet wankelen; tot een gedachtenis voor eeuwig is de rechtvaardige.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "zal hij wankelen"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "tot een gedachtenis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "is"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de rechtvaardige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:31.624748626Z",
+  "model": "glm-5.3"
+}

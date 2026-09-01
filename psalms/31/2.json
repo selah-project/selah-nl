@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "In U, Jahweh, heb ik mijn toevlucht gezocht; laat mij nooit beschaamd worden; in Uw rechtvaardigheid red mij.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "in U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "heb ik mijn toevlucht gezocht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "word ik beschaamd"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ooit"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "in Uw rechtvaardigheid"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "red mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:33.349529227Z",
+  "model": "glm-5.3"
+}

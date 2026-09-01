@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "amos 5:18",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Wee hun die verlangen naar ⟨את⟩ de dag van Jahweh! Waarom zou die voor jullie zijn? De dag van Jahweh — hij is duisternis en geen licht.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "die verlangen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dag van Jahweh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "die"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij is"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "אור",
+      "gloss": "licht"
+    }
+  ],
+  "timestamp": "2026-08-31T21:57:52.832159604Z",
+  "model": "glm-5.3"
+}

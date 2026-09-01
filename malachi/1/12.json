@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En jullie ontheiligen het ⟨את⟩ door te zeggen: de tafel van Adonai — hij is verontreinigd, en zijn vrucht is verachtelijk, zijn spijs.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "en jullie"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "ontheiligen"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "het (de naam van Jahweh)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "door te zeggen"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "de tafel"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "van Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "verontreinigd"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "en zijn vrucht"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "verachtelijk"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "zijn spijs"
+    }
+  ],
+  "timestamp": "2026-08-31T22:04:35.578512667Z",
+  "model": "glm-5.3"
+}

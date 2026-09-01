@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "En hij mat ⟨את⟩ zijn lengte, twintig ellen, en ⟨zijn⟩ breedte twintig ellen, tegenover de voorzijde van de tempelzaal; en hij zei tegen mij: dit is het heilige der heiligen.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "en hij mat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn lengte"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "zijn lengte"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "en ⟨zijn⟩ breedte"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "פני",
+      "gloss": "de voorzijde"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "van de tempelzaal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "is het heilige"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "der heiligen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:52:10.054539599Z",
+  "model": "glm-5.3"
+}

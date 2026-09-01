@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Een beer in hinderlaag ⟨is⟩ Hij voor mij, een leeuw in verborgen ⟨plaatsen⟩.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "een beer"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "in hinderlaag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Hij"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "een leeuw"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "in verborgen ⟨plaatsen⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:41:01.636062899Z",
+  "model": "glm-5.3"
+}

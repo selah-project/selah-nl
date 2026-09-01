@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Een man die zijn naaste ⟨met vleitaal⟩ streelt, spant een net uit over zijn stappen.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "een man"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "streelt\/vleit"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zijn naaste"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "een net"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "spant uit"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "zijn stappen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:37.729902436Z",
+  "model": "glm-5.3"
+}

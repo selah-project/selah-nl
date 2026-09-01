@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Ik heb David gevonden, mijn dienaar; met mijn heilige olie heb ik hem gezalfd ⟨als Masjiach⟩.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "ik heb gevonden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mijn dienaar"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "met olie"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mijn heilige"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "heb ik hem gezalfd"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:33.123766406Z",
+  "model": "glm-5.3"
+}

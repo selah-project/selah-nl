@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En wie is de man die een vrouw verloofd en haar niet genomen heeft? Hij zal gaan en naar zijn huis terugkeren, opdat hij niet sterft in de oorlog en een ander man haar neemt.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "verloofd heeft"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "een vrouw"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "haar genomen"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "hij zal gaan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en terugkeren"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "naar zijn huis"
+    },
+    {
+      "surface": "פן",
+      "gloss": "opdat niet"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hij sterft"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in de oorlog"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en een man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "een ander"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "haar neemt"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:03.221066389Z",
+  "model": "glm-5.3"
+}

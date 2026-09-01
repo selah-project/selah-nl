@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Toen Sjaddai koningen ⟨daarin⟩ verstrooide, sneeuwde het op Tsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "verstrooide"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "koningen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨daarin⟩"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "sneeuwde het"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "op Tsalmon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:36.755265589Z",
+  "model": "glm-5.3"
+}

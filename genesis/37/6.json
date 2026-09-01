@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En hij zei tot hen: Hoort toch deze droom die ik gedroomd heb.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hoort"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "deze droom"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ik gedroomd heb"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:28.311680182Z",
+  "model": "glm-5.3"
+}

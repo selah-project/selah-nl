@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 31:2",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En hij zeide tot hen: Honderdtwintig jaar ben ik heden; ik kan niet meer uitgaan en inkomen, en Jahweh heeft tot mij gezegd: Gij zult deze Jordaan niet overtrekken.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van ⟨(honderdtwintig jaar)⟩"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan ik"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "uitgaan"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "en inkomen"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "zult gij overtrekken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze Jordaan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jordaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:38.309964713Z",
+  "model": "glm-5.3"
+}

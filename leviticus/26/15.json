@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "en als jullie mijn verordeningen verwerpen en als jullie nefesj mijn rechtsc regels verafschuwt, door niet al mijn geboden te doen, door mijn verbond te schenden —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "mijn verordeningen"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "jullie verwerpen"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn rechtsregels"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mijn rechtsregels"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "verafschuwt"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "jullie nefesj"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "door niet"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "te doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al mijn geboden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mijn geboden"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "om te schenden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verbond"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:18.565005424Z",
+  "model": "glm-5.3"
+}

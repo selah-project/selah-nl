@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Wie met het oog knijpt, geeft verdriet; en een dwaas van lippen valt.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "knijpt"
+    },
+    {
+      "surface": "עין",
+      "gloss": "met het oog"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "verdriet"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "en een dwaas"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "van lippen"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "valt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:04.612828944Z",
+  "model": "glm-5.3"
+}

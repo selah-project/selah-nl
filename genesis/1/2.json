@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de aarde was woest en ledig, en duisternis was op ⟨het⟩ aangezicht van de diepte, en de roeach van Elohim zweefde op ⟨het⟩ aangezicht van de wateren.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "en de aarde"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "woest"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "en ledig"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "en duisternis"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פני",
+      "gloss": "aangezicht van"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "de diepte"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en de roeach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "zweefde"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פני",
+      "gloss": "aangezicht van"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:29.287526756Z",
+  "model": "glm-5.3"
+}

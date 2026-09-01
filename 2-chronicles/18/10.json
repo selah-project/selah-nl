@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 18:10",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Tsidkijahoe, de zoon van Kena'ana, maakte zich hoorns van ijzer en zeide: Zo heeft Jahweh gezegd: Met deze zult gij Aram stoten ⟨את⟩ tot het verteren van hen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en maakte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zich"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahoe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "van Kena'ana"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "hoorns"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "van ijzer"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zeide"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "met deze"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "zult gij stoten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "het verteren van hen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:07:44.326193526Z",
+  "model": "glm-5.3"
+}

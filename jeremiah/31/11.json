@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Want Jahweh heeft ⟨את⟩ Jaäkov losgekocht en hem verlost uit de hand van ⟨iemand die⟩ sterker was dan hij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "heeft losgekocht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaäkov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "en hem verlost"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sterker"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dan hij"
+    }
+  ],
+  "timestamp": "2026-08-31T23:23:13.042073032Z",
+  "model": "glm-5.3"
+}

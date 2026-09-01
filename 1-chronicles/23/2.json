@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En hij verzamelde ⟨את⟩ alle vorsten van Jisraël, en de priesters en de Leviieten.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "verzamelde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle vorsten van Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vorsten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "de Leviieten"
+    }
+  ],
+  "timestamp": "2026-08-31T23:29:10.307144472Z",
+  "model": "glm-5.3"
+}

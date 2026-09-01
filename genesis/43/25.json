@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "En zij maakten ⟨את⟩ de gave gereed tot de komst van Joesef in het middaguur, want zij hadden gehoord dat zij daar brood zouden eten.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "en zij maakten gereed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gave"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "de gave"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "de komst"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "in het middaguur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "zij hadden gehoord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zij zouden eten"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:43.152787110Z",
+  "model": "glm-5.3"
+}

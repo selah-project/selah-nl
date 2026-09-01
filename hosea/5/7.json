@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Tegen Jahweh hebben zij trouweloos gehandeld, want vreemde kinderen hebben zij gebaard; nu zal de nieuwe maand hen verslinden, ⟨את⟩ hun delen ⟨samen⟩.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "tegen Jahweh"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "hebben zij trouweloos gehandeld"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vreemde"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "hebben zij gebaard"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "zal ... verslinden"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "de nieuwe maand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun delen"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "hun delen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:22.720394320Z",
+  "model": "glm-5.3"
+}

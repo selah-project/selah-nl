@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "Die het licht vormt en de duisternis schept, sjalom maakt en kwaad schept — ik, Jahweh, die doe al deze dingen.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "vormt"
+    },
+    {
+      "surface": "אור",
+      "gloss": "het licht"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "en schept"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "de duisternis"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maakt"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "en schept"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "die doet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "deze dingen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:23:30.613238761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Mosjee keerde terug tot Jahweh en zei: Adonai, waarom hebt Gij dit volk kwaad aangedaan? Waarom ⟨is dit⟩ — dat Gij mij gezonden hebt?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "En hij keerde terug"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "hebt Gij kwaad aangedaan"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "aan dit volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨is dit⟩"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "hebt Gij mij gezonden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:57.796211110Z",
+  "model": "glm-5.3"
+}

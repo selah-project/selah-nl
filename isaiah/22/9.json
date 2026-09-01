@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En ⟨את⟩ de bressen van de stad van Dawid hebt jullie gezien, want zij waren vermenigvuldigd, en jullie verzamelden ⟨את⟩ het water van de onderste vijver.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de bressen"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "bressen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "hebben jullie gezien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "waren vermenigvuldigd"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "en jullie verzamelden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het water"
+    },
+    {
+      "surface": "מי",
+      "gloss": "water"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "van de vijver"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "de onderste"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:24.158555073Z",
+  "model": "glm-5.3"
+}

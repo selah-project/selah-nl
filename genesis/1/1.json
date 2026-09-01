@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "In het begin schiep Elohim ⟨את⟩ de hemel en ⟨את⟩ de aarde.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "In het begin"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "schiep"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hemel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:36:55.095970206Z",
+  "model": "glm-5.3"
+}

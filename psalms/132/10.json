@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": "Terwille van Dawid, je dienaar, wend het gezicht van je Masjiach niet af.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "terwille van"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "je dienaar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "wend af"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het gezicht"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "van je Masjiach"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:29.580748723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "De Emiem woonden voorheen daarin ⟨—⟩ een volk, groot en talrijk en hoog, zoals de Anakim.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "De Emiem"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "voorheen"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "woonden"
+    },
+    {
+      "surface": "בה",
+      "gloss": "darin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "een volk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "en talrijk"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "en hoog"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "zoals de Anakim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:04.736304956Z",
+  "model": "glm-5.3"
+}

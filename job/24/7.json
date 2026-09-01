@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Naakt overnachten zij, zonder kleding, en er is geen dekking in de kou.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "naakt"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "overnachten zij"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "kleding"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is geen"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "dekking"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "in de kou"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:08.621989062Z",
+  "model": "glm-5.3"
+}

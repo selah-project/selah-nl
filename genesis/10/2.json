@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "De zonen van Jafet: Gomer en Magog, en Madai, en Javan, en Tuval, en Mesjech, en Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "De zonen van"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "en Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "en Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "en Javan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "en Tuval"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "en Mesjech"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "en Tiras"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:06.326899922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Want Jahweh zal ⟨zijn⟩ volk richten, en over zijn dienaren zal hij zich laten voorbidden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "zal richten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en over"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "zal hij zich laten voorbidden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:49.154705236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En zij zullen daarheen komen en ⟨את⟩ al zijn gruwelen en ⟨את⟩ al zijn verfoeilijkheden daaruit wegnemen.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "En zij zullen komen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "en wegnemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al zijn gruwelen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "zijn gruwelen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al zijn verfoeilijkheden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "zijn verfoeilijkheden"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daaruit"
+    }
+  ],
+  "timestamp": "2026-08-31T21:43:32.329127010Z",
+  "model": "glm-5.3"
+}

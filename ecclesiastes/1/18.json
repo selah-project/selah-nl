@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "want in veelheid van wijsheid ⟨is⟩ veelheid van ergernis, en wie kennis vermeerdert, vermeerdert smart.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "in veelheid van"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "רב",
+      "gloss": "veelheid"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ergernis"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "en vermeerdert"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "vermeerdert"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "smart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:16.694124616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "Gij hebt rechtvaardigheid liefgehad en onrecht gehaat; daarom heeft Elohim, uw Elohim, u gezalfd met olie van blijdschap, ⟨ver boven⟩ uw metgezellen.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "gij hebt liefgehad"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rechtvaardigheid"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "en gehaat"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onrecht"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "u gezalfd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "met olie"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "van blijdschap"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "uw metgezellen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:17.274421153Z",
+  "model": "glm-5.3"
+}

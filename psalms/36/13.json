@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "Daar zijn de daders van onheil gevallen, ⟨zij zijn⟩ neergestoten en zullen niet kunnen opstaan.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "zijn gevallen"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "daders van"
+    },
+    {
+      "surface": "און",
+      "gloss": "onheil"
+    },
+    {
+      "surface": "דחו",
+      "gloss": "neergestoten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "zullen kunnen"
+    },
+    {
+      "surface": "קום",
+      "gloss": "opstaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:53.311958515Z",
+  "model": "glm-5.3"
+}

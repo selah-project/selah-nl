@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 143,
+  "translation": "En in Uw chesed roeit Gij mijn vijanden uit, en U vernietigt alle verdrukkers van mijn nefesj, want ik ben Uw dienaar.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "en in Uw chesed"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "roeit Gij uit"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "en U vernietigt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "verdrukkers"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "van mijn nefesj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "Uw dienaar"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:33.071611981Z",
+  "model": "glm-5.3"
+}

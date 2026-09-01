@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 138,
+  "translation": "Van Dawid. Ik dank U met mijn hele hart; voor het aangezicht van ⟨de⟩ Elohim zal ik U psalmzingen.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Van Dawid"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Ik dank U"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met heel"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "zal ik U psalmzingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:33.838617803Z",
+  "model": "glm-5.3"
+}

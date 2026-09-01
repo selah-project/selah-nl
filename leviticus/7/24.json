@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En het vet van een aas en het vet van een verscheurd dier mag voor allerlei werk gebruikt worden, maar eten mag u het beslist niet eten.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "En het vet"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "van een aas"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "en het vet"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "van een verscheurd dier"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mag gebruikt worden"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "voor allerlei"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "maar eten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "mag u het beslist eten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:40.814995114Z",
+  "model": "glm-5.3"
+}

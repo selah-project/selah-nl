@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Sjaoel wierp ⟨את⟩ de speer en zei: ik zal Dawid aan de wand slaan; en Dawid wendde zich van zijn aangezicht af, twee keer.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "En wierp"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de speer"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "de speer"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ik zal slaan"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "aan de wand"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "en wendde zich"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "van zijn aangezicht"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "twee keer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:46:22.063044124Z",
+  "model": "glm-5.3"
+}

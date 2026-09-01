@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "En ik zal mij verlustigen in uw geboden, die ik heb liefgehad.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "en ik zal mij verlustigen"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "in uw geboden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ik heb liefgehad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:29.381641146Z",
+  "model": "glm-5.3"
+}

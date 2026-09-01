@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Als Hij hen doodde, zochten zij Hem, en zij keerden terug en zochten vroeg naar El.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "Hij doodde hen"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "zochten zij Hem"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "en zij keerden terug"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "en zochten vroeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar El"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:04.228838176Z",
+  "model": "glm-5.3"
+}

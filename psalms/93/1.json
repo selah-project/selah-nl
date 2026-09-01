@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 93,
+  "translation": "Jahweh is koning ⟨geworden⟩, met gaäwth heeft Hij zich bekleed; Jahweh heeft zich bekleed, zich omgord met macht; ja, vast staat de tevel, ⟨zij⟩ zal niet wankelen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is koning geworden"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "met gaäwth (hoogverhevenheid)"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "heeft zich bekleed"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "heeft zich bekleed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "met macht"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "zich omgord"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "vast staat"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "de tevel (wereld)"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "zal wankelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:18.179567672Z",
+  "model": "glm-5.3"
+}

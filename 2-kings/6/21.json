@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En de koning van Jisraël zei tot Elisja, toen hij ⟨את⟩ hen zag: Mijn vader, zal ik slaan? Zal ik ⟨hen⟩ slaan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisja"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "toen hij zag"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "zal ik slaan?"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "zal ik slaan?"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:55.088826608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "En Hij leidde Zijn volk uit met juichende vreugde, ⟨את⟩ Zijn uitverkorenen met gejuich.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "leidde uit"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Zijn volk"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "met juichende vreugde"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "met gejuich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zijn uitverkorenen"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "Zijn uitverkorenen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:26.464090928Z",
+  "model": "glm-5.3"
+}

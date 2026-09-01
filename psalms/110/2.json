@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 110,
+  "translation": "De scepter van uw sterkte zal Jahweh zenden vanuit Tsiyon: heers in het midden van uw vijanden!",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "de scepter"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "van uw sterkte"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "zal zenden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "vanuit Tsiyon"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "heers"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in het midden"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "van uw vijanden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:31.042528837Z",
+  "model": "glm-5.3"
+}

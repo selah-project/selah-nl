@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En ook ⟨את⟩ de horzel zal Jahweh, jouw Elohim, onder hen zenden, totaal vernietigd ⟨zijn⟩ de overgeblevenen en de verborgenen voor jouw aangezicht.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de horzel"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "de horzel"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "zal zenden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onder hen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "vernietigd"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "de overgeblevenen"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "en de verborgenen"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "voor jouw aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:15.093760365Z",
+  "model": "glm-5.3"
+}

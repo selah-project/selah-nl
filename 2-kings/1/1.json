@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Moav kwam in opstand tegen Israël na de dood van Achav.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "kwam in opstand"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "tegen Israël"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de dood"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:55.754618839Z",
+  "model": "glm-5.3"
+}

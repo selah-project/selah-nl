@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 77,
+  "translation": "De dikke wolken stroomden water uit, de wolkenlagen gaven ⟨een⟩ stem; ja, uw pijlen vlogen rond.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "stroomden uit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "de dikke wolken"
+    },
+    {
+      "surface": "קול",
+      "gloss": "stem"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gaven"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "de wolkenlagen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "uw pijlen"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "vlogen rond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:33.305211116Z",
+  "model": "glm-5.3"
+}

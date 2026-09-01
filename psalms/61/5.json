@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 61,
+  "translation": "Laat mij verblijven in uw tent voor eeuwen, laat mij schuilen in de schuilplaats van uw vleugels. Sela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "laat mij verblijven"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "in uw tent"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "voor eeuwen"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "laat mij schuilen"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in de schuilplaats"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "van uw vleugels"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:54.147464230Z",
+  "model": "glm-5.3"
+}

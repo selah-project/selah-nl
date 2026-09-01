@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "El, ontzagwekkend in ⟨de⟩ raad van de heiligen, groot ⟨is Hij⟩, en geducht boven alles rondom Hem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "ontzagwekkend"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "in de raad"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "van de heiligen"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "en geducht"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "rondom Hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:05.999282025Z",
+  "model": "glm-5.3"
+}

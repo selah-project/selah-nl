@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Waarom zei je: zij is mijn zuster, zodat ik haar ⟨את⟩ nam tot vrouw voor mij? En nu, zie, ⟨hier is⟩ je vrouw: neem ⟨haar⟩ en ga.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "zei je"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mijn zuster"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "zo nam ik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "tot vrouw"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "je vrouw"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "en ga"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:37.434244886Z",
+  "model": "glm-5.3"
+}

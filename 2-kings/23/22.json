@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Want niet was er zo'n pesach gehouden ⟨sinds⟩ de dagen van de rechters die ⟨את⟩ Israël richtten, en ⟨gedurende⟩ alle dagen van de koningen van Israël en de koningen van Jehoeda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "was gehouden"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "zo'n pesach"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "als deze"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "sinds de dagen van"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "de rechters"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "richtten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagen van"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "de koningen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "en de koningen van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:41.098536881Z",
+  "model": "glm-5.3"
+}

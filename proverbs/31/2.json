@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Wat, mijn zoon? En wat, zoon van mijn schoot? En wat, zoon van mijn geloften?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "בר",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "van mijn schoot"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "בר",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "van mijn geloften"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:33.218099403Z",
+  "model": "glm-5.3"
+}

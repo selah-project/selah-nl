@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 86,
+  "translation": "Want Gij ⟨את⟩ bent groot en doet wonderen; Gij ⟨את⟩ bent Elohim, alleen Gij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Gij bent"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en doet"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "wonderen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Gij bent"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "alleen Gij"
+    }
+  ],
+  "timestamp": "2026-09-01T00:04:37.919868452Z",
+  "model": "glm-5.3"
+}

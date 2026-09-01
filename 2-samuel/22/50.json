@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "2-samuel 22:50",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Daarom loof ik U, Jahweh, onder de naties, en tot Uw naam psalmodieer ik.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "daarom (op)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "loof ik U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder de naties"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "en tot Uw naam"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "psalmodieer ik"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:30.552820821Z",
+  "model": "glm-5.3"
+}

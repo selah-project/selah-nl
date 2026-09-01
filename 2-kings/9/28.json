@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En zijn dienaren lieten ⟨את⟩ hem op een strijdwagen rijden naar Jeroesjalajim, en begroeven ⟨את⟩ hem in zijn graf bij zijn vaders, in de stad van Dawid.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "en zij lieten rijden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "Achazja"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "naar Jeroesjalajim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "en begroeven"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "Achazja"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "in zijn graf"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:20.567038693Z",
+  "model": "glm-5.3"
+}

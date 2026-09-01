@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Naar het getal dat gij maakt, zo zult gij het doen voor elk ⟨dier⟩, naar hun getal.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "naar het getal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "gij maakt"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "zult gij doen"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "voor elk"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "naar hun getal"
+    }
+  ],
+  "timestamp": "2026-08-31T20:13:38.287505859Z",
+  "model": "glm-5.3"
+}

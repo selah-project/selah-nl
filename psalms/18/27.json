@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Met de zuivere ben jij zuiver, en met de verdraaide ga jij verstrikt om.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "de zuivere"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "ben jij zuiver"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "de verdraaide"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "ga jij verstrikt om"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:30.838291737Z",
+  "model": "glm-5.3"
+}

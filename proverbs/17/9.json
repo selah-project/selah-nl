@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Wie een overtreding bedekt, zoekt liefde; maar wie een zaak herhaalt, scheidt een vertrouwde vriend.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "bedekt"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "een overtreding"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "zoekt"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "liefde"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "maar herhaalt"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "een zaak"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "scheidt"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "een vertrouwde vriend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:58.787358541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Want mijn ongerechtigheid zal ik verklaren; ik ben bezorgd om mijn zonde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mijn ongerechtigheid"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "zal ik verklaren"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "ben ik bezorgd"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "om mijn zonde"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:40.691938639Z",
+  "model": "glm-5.3"
+}

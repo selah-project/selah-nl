@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 87,
+  "translation": "Gewichtige dingen zijn gesproken over u, stad van Elohim. Sela.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "Gewichtige dingen"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "zijn gesproken"
+    },
+    {
+      "surface": "בך",
+      "gloss": "over u"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:25.470353115Z",
+  "model": "glm-5.3"
+}

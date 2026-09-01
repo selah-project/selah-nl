@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En de koning van Babel stelde ⟨את⟩ Mattanja, zijn oom, aan als koning in zijn plaats, en hij veranderde ⟨את⟩ zijn naam in Tsidkijahoe.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "en hij stelde aan als koning"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattanja"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattanja"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "zijn oom"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "en hij veranderde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahoe"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:27.127197763Z",
+  "model": "glm-5.3"
+}

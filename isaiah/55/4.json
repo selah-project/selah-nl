@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Zie, tot een getuige voor de volken heb Ik hem gegeven, tot vorst en gebieder voor de volken.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "getuige"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "voor de volken"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "heb Ik hem gegeven"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "tot vorst"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "en gebieder"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "voor de volken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:32.951532698Z",
+  "model": "glm-5.3"
+}

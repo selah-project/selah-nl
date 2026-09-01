@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "Zij die de uitersten bewonen vrezen uw tekenen; de uitgangen van de morgen en de avond doet gij jubelen.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "en zij vrezen"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "de bewoners"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "de uitersten"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "uw tekenen"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "de uitgangen"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "van de morgen"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "en de avond"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "doet gij jubelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:42.795752999Z",
+  "model": "glm-5.3"
+}

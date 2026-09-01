@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Want ⟨hij⟩ heeft niet veracht en niet verafschuwd de vernedering van de verdrukte, en heeft zijn aangezicht niet voor hem verborgen; en toen hij tot hem riep, hoorde ⟨hij⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "heeft veracht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "verafschuwd"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "de vernedering"
+    },
+    {
+      "surface": "עני",
+      "gloss": "van de verdrukte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "heeft verborgen"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zijn aangezicht"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "en toen hij riep"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoorde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:32.794379411Z",
+  "model": "glm-5.3"
+}

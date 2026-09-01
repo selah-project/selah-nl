@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Mordechai schreef ⟨את⟩ deze woorden, en hij zond brieven aan alle Joden die in alle gewesten van koning Achasjverosj waren, de nabijen en de verre ⟨wenen⟩.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "en hij schreef"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze woorden"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "brieven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "de Joden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in alle"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "gewesten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achasjverosj"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "de nabijen"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "en de verre"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:15.961262977Z",
+  "model": "glm-5.3"
+}

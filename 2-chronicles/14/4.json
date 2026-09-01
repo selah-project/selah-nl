@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Hij verwijderde uit alle steden van Jehoeda ⟨את⟩ de bamot en ⟨את⟩ de chammanim, en het koninkrijk werd stil voor zijn aangezicht.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "en hij verwijderde"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit alle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "steden van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bamot"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "de bamot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de chammanim"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "de chammanim"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "en het werd stil"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "het koninkrijk"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor zijn aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T23:07:36.409808416Z",
+  "model": "glm-5.3"
+}

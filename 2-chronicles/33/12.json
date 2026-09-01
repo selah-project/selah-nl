@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En toen het hem benauwd werd, verzoende hij ⟨את⟩ het aangezicht van Jahweh, zijn Elohim, en hij verootmoedigde zich zeer voor de Elohim van zijn vaders.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "en toen het benauwd werd"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "verzoende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het aangezicht van Jahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "zijn Elohim"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "en hij verootmoedigde zich"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim van"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    }
+  ],
+  "timestamp": "2026-08-31T23:10:52.910532406Z",
+  "model": "glm-5.3"
+}

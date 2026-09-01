@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En zij zijn verslagen en beschaamd over Koesj, hun verwachting, en over Mitsrajim, hun praal.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "En zij zijn verslagen"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "en beschaamd"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "over Koesj"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "hun verwachting"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en over"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "hun praal"
+    }
+  ],
+  "timestamp": "2026-08-31T21:16:49.722783271Z",
+  "model": "glm-5.3"
+}

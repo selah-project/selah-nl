@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "Een onverstandig man weet ⟨het⟩ niet, en een dwaas verstaat ⟨את⟩ dit niet.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "בער",
+      "gloss": "onverstandig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "en een dwaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "verstaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:02.355896112Z",
+  "model": "glm-5.3"
+}

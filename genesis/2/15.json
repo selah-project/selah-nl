@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Jahweh Elohim nam de mens ⟨את⟩ en liet hem rusten in de hof van Eden, om die te bewerken en die te bewaren.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en nam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "en liet hem rusten"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "in de hof"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "van Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "om die te bewerken"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "en die te bewaren"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:33.545239607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Haman zei tot de koning: Voor de man in wiens eer de koning behagen heeft —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in wiens"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behagen heeft"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "eer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:01.614029725Z",
+  "model": "glm-5.3"
+}

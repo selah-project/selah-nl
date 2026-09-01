@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "⟨את⟩ Uw verordeningen zal ik bewaren; verlaat mij niet ⟨tot⟩ ⟨het⟩ ⟨uiterste⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw verordeningen"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "uw verordeningen"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "zal ik bewaren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "verlaat mij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "het uiterste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:13.622171617Z",
+  "model": "glm-5.3"
+}

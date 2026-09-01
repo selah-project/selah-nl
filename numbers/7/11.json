@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Jahweh zei tot Mosjee: één vorst per dag, één vorst per dag, zullen zij ⟨את⟩ hun offergave brengen voor de inwijding van het altaar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "vorst"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "per dag"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "vorst"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "per dag"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "zullen zij brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun offergave"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "hun offergave"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "voor de inwijding"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:11:08.026896864Z",
+  "model": "glm-5.3"
+}

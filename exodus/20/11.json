@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Want in zes dagen heeft Jahweh ⟨את⟩ de hemel en ⟨את⟩ de aarde gemaakt, ⟨את⟩ de zee en ⟨את⟩ alles wat daarin is, en Hij rustte op de zevende dag; daarom zegende Jahweh ⟨את⟩ de sabbatdag en heiligde die.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "zes"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "heeft gemaakt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hemel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zee"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat daarin is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "en Hij rustte"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "de zevende"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom — op"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "zegende"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de sabbatdag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "de sabbat-"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "en heiligde die"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:00.547745646Z",
+  "model": "glm-5.3"
+}

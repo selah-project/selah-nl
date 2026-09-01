@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Ik zal slaan ⟨את⟩ de bewoners van deze stad, zowel ⟨את⟩ de mens als ⟨את⟩ het vee, door een grote pestilentie zullen zij sterven.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "en Ik zal slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bewoners van deze stad"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "bewoners"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "zowel ⟨את⟩",
+      "marks": "de mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "als ⟨את⟩",
+      "marks": "het vee"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "door pestilentie"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grote"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "zullen zij sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:34.499651517Z",
+  "model": "glm-5.3"
+}

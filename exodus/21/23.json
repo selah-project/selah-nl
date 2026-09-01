@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En als er een ramp gebeurt, dan zul jij geven: nefesj ⟨leven⟩ voor nefesj ⟨leven⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ramp"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gebeurt"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "dan zul jij geven"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj (leven)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "voor"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj (leven)"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:26.560105338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "en ⟨את⟩ Ejval en ⟨את⟩ Avimaël en ⟨את⟩ Sjeva",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ejval"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ejval"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avimaël"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimaël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sjeva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sjeva"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:05.026289179Z",
+  "model": "glm-5.3"
+}

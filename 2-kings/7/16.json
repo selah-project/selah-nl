@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En het volk ging uit en plunderde ⟨את⟩ het kamp van Aram, en een seà fijn meel werd ⟨verkocht⟩ voor een sikkel, en twee seà gerst voor een sikkel, overeenkomstig het woord van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "en ging uit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "en plunderde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het kamp van Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "het kamp"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "van Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het werd"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "een seà"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fijn meel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "voor een sikkel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "en twee seà"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "gerst"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "voor een sikkel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "overeenkomstig het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:51.715020954Z",
+  "model": "glm-5.3"
+}

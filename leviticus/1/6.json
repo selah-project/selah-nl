@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij zal ⟨את⟩ het brandoffer villen en het ⟨את⟩ in zijn stukken verdelen.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "en hij zal villen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het brandoffer"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "het brandoffer"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "en hij zal in stukken verdelen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "het (brandoffer)"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "in zijn stukken"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:59.890607211Z",
+  "model": "glm-5.3"
+}

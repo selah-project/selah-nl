@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Kajin zei tot Jahweh: Groot is mijn ongerechtigheid, ⟨te groot⟩ om ⟨te⟩ dragen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mijn ongerechtigheid"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "om te dragen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:44.057512241Z",
+  "model": "glm-5.3"
+}

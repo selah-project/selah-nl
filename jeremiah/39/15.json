@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 39:15",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "En tot Jirmeja was er een woord van Jahweh, terwijl hij opgesloten was in de voorhof van de gevangenis, zeggende:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmeja"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was er"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "een woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "terwijl hij was"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "opgesloten"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "in de voorhof"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "van de gevangenis"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T21:37:10.695010262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "En zij zeggen: Jah ziet niet, en de Elohim van Jaäkov merkt het niet.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeggen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ziet"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "merkt"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.585864443Z",
+  "model": "glm-5.3"
+}

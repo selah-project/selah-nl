@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "En zij werden klein en gebogen, door druk van kwaad en verdriet.",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "en zij werden klein"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "en gebogen"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "door druk"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "en verdriet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:06.033319043Z",
+  "model": "glm-5.3"
+}

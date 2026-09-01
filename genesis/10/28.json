@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En ⟨את⟩ Oval en ⟨את⟩ Avimaël en ⟨את⟩ Sjeva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "En ⟨את⟩",
+      "marks": "Oval"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Oval"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Avimaël"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimaël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sjeva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sjeva"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:23.787556023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En jullie moeten mijn verordeningen en ⟨את⟩ mijn bepalingen in acht nemen, en geen van al deze gruweldaden doen, ⟨zo⟩ de inlandsgeborene en de vreemdeling die bij jullie verblijft.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en jullie moeten in acht nemen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verordeningen"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mijn verordeningen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mijn bepalingen"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mijn bepalingen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "jullie moeten doen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "geen van alle"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "de gruweldaden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "de inlandsgeborene"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "en de vreemdeling"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "die verblijft"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "bij jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:18.377629302Z",
+  "model": "glm-5.3"
+}

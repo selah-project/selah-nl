@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Want jij bent het die mij uit de baarmoeder deed voortkomen, mijn vertrouwen ⟨lag⟩ op de borsten van mijn moeder.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "deed voortkomen"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "uit de baarmoeder"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "mijn vertrouwen ⟨lag⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "de borsten"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "van mijn moeder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:04.761692385Z",
+  "model": "glm-5.3"
+}

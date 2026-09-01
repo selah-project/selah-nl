@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Wanneer gij de ezel van uw vijand ziet neerliggen onder zijn last, en gij zou ophouden ⟨het⟩ ⟨te helpen⟩ — achterlaten zult gij ⟨het⟩ ⟨samen⟩ met hem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "gij ziet"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "de ezel"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "van uw vijand"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "nerliggend"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "zijn last"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "en gij zou ophouden"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "⟨het⟩ ⟨te helpen⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨voor⟩ hem"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "achterlaten zult"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "gij ⟨achterlaten⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:22.035739673Z",
+  "model": "glm-5.3"
+}

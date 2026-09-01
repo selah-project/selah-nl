@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "en jij mag ⟨את⟩ jouw chesed niet afkappen van mijn huis tot in eeuwigheid, ook niet wanneer Jahweh ⟨את⟩ de vijanden van David, ieder ⟨één⟩, van de oppervlakte van de aarde afsnijdt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "afkappen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw chesed"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jouw chesed"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "van"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mijn huis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in eeuwigheid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ook niet"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "wanneer... afsnijdt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vijanden van David"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "de vijanden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder ⟨één⟩"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "פני",
+      "gloss": "de oppervlakte"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:03.585076535Z",
+  "model": "glm-5.3"
+}

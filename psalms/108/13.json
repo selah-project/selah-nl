@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 108,
+  "translation": "Geef ons hulp ⟨tegen⟩ ⟨de⟩ benauwdheid, en ijdel ⟨is⟩ de redding van ⟨de⟩ mens.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Geef"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "hulp"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "⟨tegen⟩ benauwdheid"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "en ijdel"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "de redding"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:04.903309280Z",
+  "model": "glm-5.3"
+}

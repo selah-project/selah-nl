@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Toen keerde Rabsjake terug en vond ⟨את⟩ de koning van Asjsoer strijdend tegen Libna, want hij had gehoord dat hij van Lachis was opgebroken.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en keerde terug"
+    },
+    {
+      "surface": "רב",
+      "gloss": "de overste"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Rabsjake (schenker)"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "en vond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning van Asjsoer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asjsoer"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "strijdend"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hij had gehoord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "was opgebroken"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "van Lachis"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:49.892727347Z",
+  "model": "glm-5.3"
+}

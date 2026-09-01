@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Balak deed zoals Bilam gezegd had, en hij liet een stier en een ram op ⟨het⟩ altaar opstijgen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "deed"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gezegd had"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en liet opstijgen"
+    },
+    {
+      "surface": "פר",
+      "gloss": "een stier"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "en een ram"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "op ⟨het⟩ altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:15:40.370278044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En nu, Jahweh, neem toch ⟨את⟩ mijn nefesj van mij, want mijn sterven is beter dan mijn leven.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn nefesj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "is beter"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "mijn sterven"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "dan mijn leven"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:51.787140491Z",
+  "model": "glm-5.3"
+}

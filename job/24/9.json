@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 24:9",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Zij roven ⟨את⟩ de wees van de borst, en op de arme leggen zij een pand.",
+  "tokens": [
+    {
+      "surface": "יגזלו",
+      "gloss": "zij roven"
+    },
+    {
+      "surface": "משד",
+      "gloss": "van de borst",
+      "marks": "de wees"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "de wees"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "עני",
+      "gloss": "de arme"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "leggen zij een pand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:18.622976196Z",
+  "model": "glm-5.3"
+}

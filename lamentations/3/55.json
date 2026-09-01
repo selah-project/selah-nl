@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Ik riep uw naam aan, Jahweh, vanuit de laagste put.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "Ik riep aan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "vanuit de put"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "de laagste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:41:18.552227726Z",
+  "model": "glm-5.3"
+}

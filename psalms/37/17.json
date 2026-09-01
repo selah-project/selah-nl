@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Want de armen van de slechten zullen gebroken worden, maar Jahweh ondersteunt de rechtvaardigen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "de armen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de slechten"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "zullen gebroken worden"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "maar ondersteunt"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rechtvaardigen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:43.784402506Z",
+  "model": "glm-5.3"
+}

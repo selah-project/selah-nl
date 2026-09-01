@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "Voorwaar, jij ⟨bent⟩ een zich verbergende El, Elohim van Israël, redder.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Voorwaar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "een zich verbergende"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "redder"
+    }
+  ],
+  "timestamp": "2026-08-31T21:23:12.134089748Z",
+  "model": "glm-5.3"
+}

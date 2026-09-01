@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 57:19",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 57,
+  "translation": "Ik scheppende ⟨de⟩ vrucht van de lippen: sjalom, sjalom aan de verre en aan de nabije, zegt Jahweh; en ik zal hem genezen.",
+  "tokens": [
+    {
+      "surface": "בורא",
+      "gloss": "scheppende"
+    },
+    {
+      "surface": "נוב",
+      "gloss": "vrucht"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "van de lippen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "לרחוק",
+      "gloss": "aan de verre"
+    },
+    {
+      "surface": "ולקרוב",
+      "gloss": "en aan de nabije"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ורפאתיו",
+      "gloss": "en ik zal hem genezen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:25:31.005915385Z",
+  "model": "glm-5.3"
+}

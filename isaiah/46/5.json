@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "Aan wie gelijkt gij Mij, en ⟨Mij⟩ gelijk maakt, en Mij vergelijkt, dat wij gelijk zouden zijn?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "aan wie"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "gelijkt gij Mij"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "en gelijk maakt"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "en Mij vergelijkt"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "dat wij gelijk zouden zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T21:23:10.228179619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Als gij ⟨het⟩ kleed van uw naaste als onderpand neemt, bij het ondergaan van de zon zult gij het aan hem teruggeven.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "als onderpand"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "neemt"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "kleed"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "van uw naaste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bij"
+    },
+    {
+      "surface": "בא",
+      "gloss": "het ondergaan"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "van de zon"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "zult gij het teruggeven"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:22.058089217Z",
+  "model": "glm-5.3"
+}

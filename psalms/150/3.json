@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 150,
+  "translation": "Loof Hem met blaasgeluid van sjofar; loof Hem met nevel en kinnor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Loof Hem"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "met blaasgeluid"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "van sjofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "loof Hem"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "met nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "en kinnor"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:01.266213012Z",
+  "model": "glm-5.3"
+}

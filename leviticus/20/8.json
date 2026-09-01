@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En jullie zullen ⟨את⟩ mijn verordeningen in acht nemen en jullie zullen ⟨את⟩ ze doen; Ik ⟨ben⟩ Jahweh, die jullie heiligt.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "En jullie zullen in acht nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verordeningen"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mijn verordeningen"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "en jullie zullen doen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ze"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "die jullie heiligt"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:26.641056827Z",
+  "model": "glm-5.3"
+}

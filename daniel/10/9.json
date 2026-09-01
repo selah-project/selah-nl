@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En ik hoorde ⟨את⟩ de klank van zijn woorden, en terwijl ik ⟨את⟩ de klank van zijn woorden hoorde, was ik ⟨in diepe slaap⟩ op mijn aangezicht, en mijn aangezicht ⟨was⟩ naar de aarde.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "en ik hoorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de klank"
+    },
+    {
+      "surface": "קול",
+      "gloss": "de klank"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "van zijn woorden"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "en terwijl ik hoorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de klank"
+    },
+    {
+      "surface": "קול",
+      "gloss": "de klank"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "van zijn woorden"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "was ik"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "in diepe slaap"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mijn aangezicht"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "en mijn aangezicht"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "naar de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:48:55.429664214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Niet door goddeloosheid wordt een mens bevestigd, maar de wortel van de rechtvaardigen zal niet wankelen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "wordt bevestigd"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "een mens"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "door goddeloosheid"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "maar de wortel"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "van de rechtvaardigen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "geenszins"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "zal wankelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:41.950975971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Maar U, Jahweh, wees mij genadig en richt mij op, dan vergeld ik het hun.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Maar U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "wees mij genadig"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "en richt mij op"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "dan vergeld ik"
+    },
+    {
+      "surface": "להם",
+      "gloss": "het hun"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:59.233591978Z",
+  "model": "glm-5.3"
+}

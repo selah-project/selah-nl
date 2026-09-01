@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 11:2",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Jehosjeva, dochter van de koning Joram, zuster van Achazja, nam ⟨את⟩ Joas, zoon van Achazja, en staal hem weg uit het midden van de zonen van de koning die gedood werden — hem ⟨את⟩ en ⟨את⟩ zijn voedster — in het vertrek van de bedden; en zij verborgen hem voor het aangezicht van Atalja, zodat hij niet gedood werd.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "En zij nam"
+    },
+    {
+      "surface": "יהושבע",
+      "gloss": "Jehosjeva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "zuster van"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joas"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "Achazja"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "en staal weg"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "uit het midden van de zonen van de koning"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit het midden van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "הממותתים",
+      "gloss": "die gedood werden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem en zijn voedster"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn voedster"
+    },
+    {
+      "surface": "מינקתו",
+      "gloss": "zijn voedster"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "in het vertrek"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "van de bedden"
+    },
+    {
+      "surface": "ויסתרו",
+      "gloss": "en zij verborgen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "voor het aangezicht van Atalja"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "zodat niet"
+    },
+    {
+      "surface": "הומת",
+      "gloss": "hij gedood werd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:37.462956874Z",
+  "model": "glm-5.3"
+}

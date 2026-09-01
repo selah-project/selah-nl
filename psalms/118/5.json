@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Uit de benauwdheid riep ik Jah; Jah antwoordde mij in de ruimte.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "de benauwdheid"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "riep ik"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoordde mij"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "in de ruimte"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:03.970377795Z",
+  "model": "glm-5.3"
+}

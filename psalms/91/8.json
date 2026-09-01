@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Alleen met jouw ogen zul je ⟨het⟩ aanschouwen, en de vergelding van de goddelozen zul je zien.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "met jouw ogen"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "zul je aanschouwen"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "en de vergelding"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "zul je zien"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:16.036789043Z",
+  "model": "glm-5.3"
+}

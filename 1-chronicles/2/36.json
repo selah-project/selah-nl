@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Attai verwekte ⟨את⟩ Natan, en Natan verwekte ⟨את⟩ Zabad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "En Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:21.387333744Z",
+  "model": "glm-5.3"
+}

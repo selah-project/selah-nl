@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Elisa zei tot hem: Ga, zeg: ⟨Je zult zeker herstellen⟩ — maar Jahweh heeft mij getoond dat hij zeker zal sterven. ⟨Het ketiev-qeree: het eerste 'zeg' staat zonder vokalisatie in het geschreven teken; lees met de qeree.⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zeg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "herstellen"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "zou ik leven"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "maar Hij heeft mij getoond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sterven"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hij zal zeker sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:43.518829299Z",
+  "model": "glm-5.3"
+}

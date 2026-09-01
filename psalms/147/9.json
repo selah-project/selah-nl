@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Hij geeft ⟨aan⟩ ⟨את⟩ het vee zijn brood, ⟨aan⟩ de jongen van de raaf die roepen.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Hij geeft"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "aan het vee"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "zijn brood"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan de jongen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "van de raaf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "roepen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:02.346660602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Ik heb niet gezeten met leugenachtige mannen, en met verhulde ⟨huichelaars⟩ zal ik niet komen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "heb ik gezeten"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "leugenachtig"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "verhulde ⟨huichelaars⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "zal ik komen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:22.221412096Z",
+  "model": "glm-5.3"
+}

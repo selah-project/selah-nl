@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En het volk droeg ⟨את⟩ zijn deeg mee voordat het gezuurd was, hun deegkommen gebundeld in hun kleden op hun schouders.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "En droeg mee"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn deeg"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "zijn deeg"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "het gezuurd was"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "hun deegkommen"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "gebundeld"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "in hun kleden"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "hun schouders"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:19.570038777Z",
+  "model": "glm-5.3"
+}

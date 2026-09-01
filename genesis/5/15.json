@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Machalal'el leefde vijfenzestig jaar, en hij verwekte ⟨את⟩ Jered.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "En … leefde"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Machalal'el"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "enzestig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hij verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jered"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:30.013132988Z",
+  "model": "glm-5.3"
+}

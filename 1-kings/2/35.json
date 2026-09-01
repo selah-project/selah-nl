@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de koning stelde Benajahu, zoon van Jehojada, in zijn plaats over het leger, en ⟨את⟩ Tsadok de priester stelde de koning in de plaats van Evjatar.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en de koning stelde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benajahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "van Jehojada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "het leger"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "stelde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in de plaats"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "van Evjatar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:49.367727920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 7:13",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Toen ik zei: mijn leger zal mij troosten, mijn rustbed zal mijn klacht opnemen —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "toen"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ik zei"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "zal mij troosten"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "mijn leger"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "zal opnemen"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "mijn klacht"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "mijn rustbed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:27.735945840Z",
+  "model": "glm-5.3"
+}

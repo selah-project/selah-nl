@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Ik zal mijn mond openen in een gelijkenis; ik zal raadsels doen opwellen uit ⟨de⟩ voortijd.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Ik zal openen"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "in een gelijkenis"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "zal ik doen opwellen"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "raadsels"
+    },
+    {
+      "surface": "מני",
+      "gloss": "uit"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "⟨de⟩ voortijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:56.871937066Z",
+  "model": "glm-5.3"
+}

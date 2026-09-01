@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Verlaat haar niet, dan ⟨zal⟩ zij ⟨jou⟩ bewaren; heb haar lief, dan ⟨zal⟩ zij ⟨jou⟩ behoeden.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "verlaat haar"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "dan zal zij jou bewaren"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "heb haar lief"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "dan zal zij jou behoeden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:38.679549395Z",
+  "model": "glm-5.3"
+}

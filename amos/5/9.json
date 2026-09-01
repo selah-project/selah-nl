@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Die verwoesting doet opflitsen over ⟨de⟩ sterke, zodat verwoesting over ⟨de⟩ vesting komt.",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "die doet opflitsen"
+    },
+    {
+      "surface": "שד",
+      "gloss": "verwoesting"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "עז",
+      "gloss": "⟨de⟩ sterke"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "en verwoesting"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "⟨de⟩ vesting"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "komt"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:27.609919222Z",
+  "model": "glm-5.3"
+}

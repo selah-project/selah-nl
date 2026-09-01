@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Van David. Jahweh ⟨is⟩ mijn licht en mijn heil — wie zou ik vrezen? Jahweh ⟨is⟩ de vesting van mijn leven — voor wie zou ik beven?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Van David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "mijn licht"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "en mijn heil"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "zou ik vrezen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "de vesting"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "van mijn leven"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "voor wie"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "zou ik beven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:48.378714987Z",
+  "model": "glm-5.3"
+}

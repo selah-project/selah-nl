@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En koning Chizkijahoe stond vroeg op en verzamelde ⟨את⟩ de vorsten van de stad, en hij ging op naar het huis van Jahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "stond vroeg op"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkijahoe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "en verzamelde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vorsten van de stad"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "de vorsten"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en hij ging op"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T23:10:24.825087279Z",
+  "model": "glm-5.3"
+}

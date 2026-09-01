@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En zij zullen ⟨את⟩ het land van Asjoer verwoesten met het zwaard, en ⟨את⟩ het land van Nimrod in zijn poorten; en hij zal redden van Asjoer, wanneer die komt in ons land en wanneer die treedt in onze grens.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "en zij zullen verwoesten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land van Asjoer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asjoer"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "met het zwaard"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het land van Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "in zijn poorten"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "en hij zal redden"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "van Asjoer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "die komt"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "in ons land"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "en wanneer"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "die treedt"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "in onze grens"
+    }
+  ],
+  "timestamp": "2026-08-31T21:59:55.821436658Z",
+  "model": "glm-5.3"
+}

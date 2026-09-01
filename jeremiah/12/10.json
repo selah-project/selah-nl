@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Vele herders hebben Mijn wijngaard verdorwd, zij hebben ⟨את⟩ Mijn stuk vertrapt; zij hebben ⟨את⟩ het stuk van Mijn begeerte tot een wildernis van verwoesting gemaakt.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "herders"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "hebben verdorwd"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "Mijn wijngaard"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "hebben vertrapt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mijn stuk"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "Mijn stuk"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "zij hebben gemaakt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het stuk van Mijn begeerte"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "het stuk"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "van Mijn begeerte"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "tot een wildernis"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "van verwoesting"
+    }
+  ],
+  "timestamp": "2026-08-31T21:30:34.369669396Z",
+  "model": "glm-5.3"
+}

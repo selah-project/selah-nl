@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Mijn zonde maak ik U bekend, en mijn ongerechtigheid heb ik niet bedekt. Ik zei: ik belijd mijn overtredingen aan Jahweh — en U, U droeg de ongerechtigheid van mijn zonde. Sela.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "mijn zonde"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "maak ik U bekend"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "en mijn ongerechtigheid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "heb ik bedekt"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ik zei"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ik belijd"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mijn overtredingen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en U"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "U droeg"
+    },
+    {
+      "surface": "עון",
+      "gloss": "de ongerechtigheid"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "van mijn zonde"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:31.441518454Z",
+  "model": "glm-5.3"
+}

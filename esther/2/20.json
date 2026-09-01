@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Ester had haar geboorteland en ⟨את⟩ haar volk niet kenbaar gemaakt, zoals Mordechai haar geboden had; en ⟨את⟩ het gebod van Mordechai deed Ester, zoals zij ⟨in verzorging⟩ bij hem was ⟨את⟩ ⟨hem⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "kenbaar gemaakt"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "haar geboorteland"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haar volk"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "haar volk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboden"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het gebod van Mordechai"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "het gebod"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "van Mordechai"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "deed"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "zij was"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "in verzorging"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bij hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:54.110414445Z",
+  "model": "glm-5.3"
+}

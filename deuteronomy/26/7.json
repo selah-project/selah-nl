@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En wij riepen tot Jahweh, de Elohim van onze vaders, en Jahweh hoorde ⟨את⟩ onze stem en zag ⟨את⟩ onze ellende en ⟨את⟩ onze zwoegen en ⟨את⟩ onze verdrukking.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "En wij riepen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "van onze vaders"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "en hoorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onze stem"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "onze stem"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onze ellende"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "onze ellende"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onze zwoegen"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "onze zwoegen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onze verdrukking"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "onze verdrukking"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:20.303993373Z",
+  "model": "glm-5.3"
+}

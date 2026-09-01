@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Beef, en zondig niet; spreek in uw hart op uw legerstede, en wees stil. Sela.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "beef"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "zondigt"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "spreekt"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "in uw hart"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "uw legerstede"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "en wees stil"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:42.768900720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Jahweh riep naar Sjemoeël, en hij zei: hier ben ik.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "En riep"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hier ben ik"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:07.479997385Z",
+  "model": "glm-5.3"
+}

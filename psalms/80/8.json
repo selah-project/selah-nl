@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "Elohim van de legerscharen, breng ons terug, en laat Uw aangezicht schijnen, en wij zullen gered worden.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "van de legerscharen"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "breng ons terug"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "en laat schijnen"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Uw aangezicht"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "en wij zullen gered worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:36.923434138Z",
+  "model": "glm-5.3"
+}

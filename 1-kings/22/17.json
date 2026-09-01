@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 22:17",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En hij zei: ik heb gezien ⟨את⟩ heel Israël verstrooid op de bergen, als schapen die geen herder hebben; en Jahweh zei: dezen hebben geen meester — laat ieder naar zijn huis terugkeren in vrede.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ik heb gezien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "נפצים",
+      "gloss": "verstrooid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "als schapen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hebben"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "herder"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "meester"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "dezen"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "laten terugkeren"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "naar zijn huis"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in vrede"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:45.951531726Z",
+  "model": "glm-5.3"
+}

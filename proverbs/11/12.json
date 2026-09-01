@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Wie zijn naaste veracht, ⟨is⟩ verstand tekortgekomen, maar een man van inzicht houdt ⟨zijn⟩ zwijgen.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "veracht"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "wie zijn naaste"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "⟨is⟩ tekortgekomen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "verstand"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "maar een man"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "van inzicht"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "houdt ⟨zijn⟩ zwijgen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:27.524551385Z",
+  "model": "glm-5.3"
+}

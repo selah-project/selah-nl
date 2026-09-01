@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 3:22",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "die zich verheugen tot ⟨de⟩ jubel toe, die juichen wanneer zij een graf vinden;",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "die zich verheugen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "ישישו",
+      "gloss": "die juichen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "zij vinden"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "een graf"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:15.180113546Z",
+  "model": "glm-5.3"
+}

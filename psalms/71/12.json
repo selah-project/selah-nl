@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Elohim, wees niet ver van mij; mijn Elohim, tot mijn hulp, haast u!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "wees ver"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "tot mijn hulp"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "haast u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:40.342542362Z",
+  "model": "glm-5.3"
+}

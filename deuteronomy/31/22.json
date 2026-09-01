@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En Mosjee schreef ⟨את⟩ dit lied op die dag, en leerde het ⟨את⟩ de kinderen van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "en schreef"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit lied"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "het lied"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "en leerde het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:47.299194279Z",
+  "model": "glm-5.3"
+}

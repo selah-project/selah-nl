@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "bij het tonen van ⟨את⟩ de rijkdom van de heerlijkheid van zijn koninkrijk en ⟨את⟩ de luister van de pracht van zijn grootheid, vele dagen — tachtig en honderd ⟨180⟩ dagen.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "bij het tonen van"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de rijkdom"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rijkdom"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "heerlijkheid"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "van zijn koninkrijk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de luister"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "luister"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "pracht"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "van zijn grootheid"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "tachtig"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "en honderd"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:04.260261331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 9:18",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En hij slachtte ⟨את⟩ de stier en ⟨את⟩ de ram, het slachtoffer van de sjelamim dat voor het volk was, en de zonen van Aharon brachten ⟨את⟩ het bloed bij hem, en hij sprenkelde het op het altaar rondom.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "en hij slachtte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stier"
+    },
+    {
+      "surface": "השור",
+      "gloss": "de stier"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "de ram"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slachtoffer"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "van de sjelamim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "voor het volk"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "en brachten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "en hij sprenkelde het"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:11.265155085Z",
+  "model": "glm-5.3"
+}

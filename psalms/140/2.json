@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 140,
+  "translation": "Ruk mij los, Jahweh, van ⟨de⟩ slechte mens, van ⟨de⟩ man van geweld houd ⟨u⟩ mij bewaard.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Ruk mij los"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "van ⟨de⟩ mens"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slechte"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "van ⟨de⟩ man"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "van geweld"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "houd mij bewaard"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:27.772147705Z",
+  "model": "glm-5.3"
+}

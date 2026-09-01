@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Toen stond Ezra op en liet ⟨את⟩ de oversten van de priesters, de Levieten en heel Israël zweren om te doen volgens dit woord, en zij zwoeren.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Toen stond op"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "en liet zweren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de oversten van de priesters"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "de oversten"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "van de priesters"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "de Levieten"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "volgens dit woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "en zij zwoeren"
+    }
+  ],
+  "timestamp": "2026-08-31T23:28:45.448157626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 101,
+  "translation": "Mijn ogen ⟨zijn gericht⟩ op de trouwen van het land, om bij mij te wonen; wie wandelt op de weg der volmaaktheid, die dient mij.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mijn ogen"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "op de trouwen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "om te wonen"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bij mij"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wandelt"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "der volmaaktheid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "dient mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:15.366018379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "één jonge stier, een zoon van de kudde, één ram, één lam, een zoon van een jaar, tot ⟨een⟩ brandoffer",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "jonge stier"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "van de kudde"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ram"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "lam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "van een jaar"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "tot brandoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:09.823263394Z",
+  "model": "glm-5.3"
+}

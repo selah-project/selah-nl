@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 115,
+  "translation": "Die Jahweh vrezen, vertrouwen op Jahweh; hun hulp en hun schild is hij.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "die … vrezen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "vertrouwen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "hun hulp"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "en hun schild"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:06.377417597Z",
+  "model": "glm-5.3"
+}

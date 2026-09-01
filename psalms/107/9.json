@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Want Hij heeft de dorstige nefesj verzadigd, en de hongerige nefesj heeft Hij met goeds gevuld.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "heeft verzadigd"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "dorstige"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "en de nefesj"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "hongerige"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "heeft gevuld"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "met goeds"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:30.353457316Z",
+  "model": "glm-5.3"
+}

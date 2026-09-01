@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En het gebeurde in de morgen, bij het opgaan van ⟨de tijd van⟩ het spijsoffer, zie: water kwam aan vanaf de weg van Edom, en het land vulde zich ⟨met⟩ ⟨את⟩ het water.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "bij het opgaan van"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "het spijsoffer"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kwam aan"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "vanaf de weg van"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "en het vulde zich"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het water"
+    },
+    {
+      "surface": "המים",
+      "gloss": "het water"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:00.859912222Z",
+  "model": "glm-5.3"
+}

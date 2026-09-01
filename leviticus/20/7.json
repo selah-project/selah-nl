@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En jullie zullen je heiligen, en jullie zullen heilig zijn, want Ik ⟨ben⟩ Jahweh, jullie Elohim.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "En jullie zullen je heiligen"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "en jullie zullen zijn"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:26.640924467Z",
+  "model": "glm-5.3"
+}

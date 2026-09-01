@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 77,
+  "translation": "En ik overweeg al uw werk, en over uw daden spreek ik ⟨al⟩⟨,⟩",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "en ik overweeg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "al"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "uw werk"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "over uw daden"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "spreek ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:28.587044430Z",
+  "model": "glm-5.3"
+}

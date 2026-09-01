@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "En de man deed zoals Joesef had gezegd, en de man bracht ⟨את⟩ de mannen huiswaarts, naar het huis van Joesef.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij deed"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "had gezegd"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hij bracht"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mannen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "huiswaarts"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "van Joesef"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:09.302419495Z",
+  "model": "glm-5.3"
+}

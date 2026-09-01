@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Zo heeft Jahweh gezegd: als jullie mijn verbond van de dag en ⟨את⟩ mijn verbord van de nacht kunnen verbreken, zodat dag en nacht niet meer zijn op hun tijd —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "jullie kunnen verbreken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verbond van de dag"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    },
+    {
+      "surface": "היום",
+      "gloss": "van de dag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verbond van de nacht"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "van de nacht"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "zodat niet"
+    },
+    {
+      "surface": "היות",
+      "gloss": "zijn"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en nacht"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "op hun tijd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:36:00.767551299Z",
+  "model": "glm-5.3"
+}

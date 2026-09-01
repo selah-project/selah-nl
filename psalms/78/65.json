@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Toen ontwaakte Adonai als een slapende, als een held ⟨die⟩ schalt van ⟨de⟩ wijn.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "toen ontwaakte"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "als een slapende"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "als een held"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "schalt"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "van ⟨de⟩ wijn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:59.438559407Z",
+  "model": "glm-5.3"
+}

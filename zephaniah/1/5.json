@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ⟨את⟩ hen die zich buigen op de daken voor het heir van de hemelen, en ⟨את⟩ hen die zich buigen, die zweren bij Jahweh én die zweren bij Malkam",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hen die zich buigen"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "hen die zich buigen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "de daken"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "voor het heir"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van de hemelen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hen die zich buigen"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "hen die zich buigen"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "die zweren"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bij Jahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "én die zweren"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "bij Malkam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:02:00.090767359Z",
+  "model": "glm-5.3"
+}

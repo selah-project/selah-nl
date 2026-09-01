@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Help mij, Jahweh mijn Elohim; red mij naar jouw chesed (goedertierenheid).",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "Help mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "naar jouw chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:24.026637851Z",
+  "model": "glm-5.3"
+}

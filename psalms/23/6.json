@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Voorzeker, goed en chesed (liefdestrouw) zullen mij najagen alle dagen van mijn leven, en ik zal terugkeren om te wonen in het huis van Jahweh voor de lengte van dagen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "voorzeker"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "en chesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "zullen mij najagen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagen van"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mijn leven"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "en ik zal terugkeren\/wonen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "voor de lengte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:58.320268974Z",
+  "model": "glm-5.3"
+}

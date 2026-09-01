@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En Jahweh sprak tot Mosjee en tot Aharon, zeggende:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:15:30.838216094Z",
+  "model": "glm-5.3"
+}

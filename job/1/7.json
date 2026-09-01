@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jahweh zei tot de satan: Vanwaar kom jij? En de satan antwoordde ⟨את⟩ Jahweh en zei: Van het rondgaan door de aarde en van het heen en weer wandelen daarop.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "de satan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "vanwaar"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kom jij"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "en antwoordde"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "de satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "van het rondgaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "door de aarde"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "en van het heen en weer wandelen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarop"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:55.380683915Z",
+  "model": "glm-5.3"
+}

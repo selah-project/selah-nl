@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Vereer Jahweh ⟨את⟩ uit je vermogen, en uit de eerstelingen van al je opbrengst.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Vereer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "uit je vermogen"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "en uit de eerstelingen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "je opbrengst"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:47.805974624Z",
+  "model": "glm-5.3"
+}

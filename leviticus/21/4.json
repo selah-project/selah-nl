@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "⟨Als⟩ baäl ⟨echtgenoot⟩ zal hij zich niet onrein maken onder zijn volk, om zichzelf te ontwijden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "zal hij zich onrein maken"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "als baäl ⟨echtgenoot\/hoofd⟩"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "onder zijn volk"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "om zich te ontwijden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:42.775466756Z",
+  "model": "glm-5.3"
+}

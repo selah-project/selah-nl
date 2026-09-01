@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Avraham zei: Ik zal zweren.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "zal zweren"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:44.960473374Z",
+  "model": "glm-5.3"
+}

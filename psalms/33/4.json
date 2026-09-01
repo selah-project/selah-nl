@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Want recht is het woord van Jahweh, en al zijn werk ⟨is⟩ in trouw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "recht"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "zijn werk"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "in trouw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:31.155135327Z",
+  "model": "glm-5.3"
+}

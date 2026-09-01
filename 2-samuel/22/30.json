@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Want met U kan ik ⟨een⟩ bende afrennen; met mijn Elohim spring ik over ⟨een⟩ muur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "met U"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "kan ik afrennen"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "bende"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "met mijn Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "spring ik over"
+    },
+    {
+      "surface": "שור",
+      "gloss": "muur"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:29.278635256Z",
+  "model": "glm-5.3"
+}

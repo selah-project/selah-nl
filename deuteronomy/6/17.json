@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Onderhoud nauwgezet de geboden van Jahweh, jullie Elohim, en zijn getuigenissen en zijn verordeningen die hij jou geboden heeft.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "onderhoud nauwgezet"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "jullie zullen bewaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de geboden"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "geboden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "en zijn getuigenissen"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "en zijn verordeningen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "hij jou geboden heeft"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:01.699862838Z",
+  "model": "glm-5.3"
+}

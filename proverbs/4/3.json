@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Want een zoon was ik voor mijn vader, zacht ⟨en⟩ enig ⟨kind⟩ voor het aanschijn van mijn moeder.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "was ik"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "voor mijn vader"
+    },
+    {
+      "surface": "רך",
+      "gloss": "zacht"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "en enig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aanschijn van"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mijn moeder"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:46.959604697Z",
+  "model": "glm-5.3"
+}

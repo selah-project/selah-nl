@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En het geschiedde, toen Achab ⟨את⟩ Elia zag, dat Achab tot hem zeide: Ben jij het, die Israël in verwarring brengt?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het geschiedde"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "toen... zag"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elia"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ben jij"
+    },
+    {
+      "surface": "זה",
+      "gloss": "het (die)"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "in verwarring brengt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:51.794139992Z",
+  "model": "glm-5.3"
+}

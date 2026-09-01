@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En toch open jij hierop ⟨את⟩ je oog, en ⟨את⟩ mij breng jij ⟨in⟩ gericht met jou?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "en toch"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "open jij"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "je oog"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "mij"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "breng jij"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨in⟩ gericht"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met jou"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:52.704217752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Een maskil van Asaf. Sla ⟨de⟩ oren, mijn volk, ⟨naar⟩ mijn Thora; neig jullie oor naar de woorden van mijn mond.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Een maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Sla ⟨de⟩ oren"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "mijn Thora"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "neig"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "jullie oor"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "naar de woorden"
+    },
+    {
+      "surface": "פי",
+      "gloss": "van mijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:56.871707547Z",
+  "model": "glm-5.3"
+}

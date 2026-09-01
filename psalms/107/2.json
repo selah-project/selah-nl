@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Mogen de verlosten van Jahweh het zeggen, ⟨hen⟩ die Hij loste uit de hand van ⟨de⟩ benauwdheid,",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "mogen zeggen"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "de verlosten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨hen⟩ die"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "Hij loste"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "צר",
+      "gloss": "van benauwdheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:08.378494775Z",
+  "model": "glm-5.3"
+}

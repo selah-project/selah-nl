@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En Jahweh geeft hen over voor jullie aangezicht, en jullie zullen hun doen naar heel ⟨de⟩ gebiedenis die ik jullie geboden heb.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "en geeft hen over"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "voor jullie aangezicht"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "en jullie zullen doen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hen"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "naar heel"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "⟨de⟩ gebiedenis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ik geboden heb"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:46.861558116Z",
+  "model": "glm-5.3"
+}

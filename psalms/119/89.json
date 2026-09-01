@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Voor eeuwig, Jahweh, staat uw woord vast in de hemelen.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "uw woord"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "staat vast"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:52.692491728Z",
+  "model": "glm-5.3"
+}

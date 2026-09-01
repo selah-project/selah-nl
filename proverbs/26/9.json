@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Als een doorn die opgaat in de hand van een dronkaard, zo ⟨is⟩ een spreuk in de mond van dwazen.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "een doorn"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "opgaat"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "van een dronkaard"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "zo een spreuk"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "in de mond"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "van dwazen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:00.635062086Z",
+  "model": "glm-5.3"
+}

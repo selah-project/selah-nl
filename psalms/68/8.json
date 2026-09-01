@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Elohim, toen Gij uitgingt voor uw volk, toen Gij schreed door de woestijn — Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "toen Gij uitgingt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uw volk"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "toen Gij schreed"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "door de woestijn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:22.227759991Z",
+  "model": "glm-5.3"
+}

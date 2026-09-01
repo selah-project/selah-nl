@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Hij zal voor mij een huis bouwen, en ik zal ⟨את⟩ zijn troon doen staan tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "zal bouwen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "בית",
+      "gloss": "een huis"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "en ik zal doen staan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn troon"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "zijn troon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:53.268687699Z",
+  "model": "glm-5.3"
+}

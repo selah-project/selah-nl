@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Verwachtend heb ik op Jahweh gewacht, en Hij neigde zich tot mij en hoorde mijn hulpgeroep.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "verwachtend"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "heb ik gewacht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "en Hij neigde zich"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "en hoorde"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "mijn hulpgeroep"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:29.195136986Z",
+  "model": "glm-5.3"
+}

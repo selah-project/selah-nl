@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En het volp keerde niet terug tot hem die het sloeg, en ⟨את⟩ Jahweh Tséva'ot hebben zij niet gezocht.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "en het volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שב",
+      "gloss": "keerde terug"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "hem die het sloeg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh Tséva'ot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tséva'ot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "hebben zij gezocht"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:54.397830673Z",
+  "model": "glm-5.3"
+}

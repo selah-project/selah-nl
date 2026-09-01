@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "Die de bergen vestigt door zijn kracht, omgord met macht.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "vestigt"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "door zijn kracht"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "omgord"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "met macht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:47.759291552Z",
+  "model": "glm-5.3"
+}

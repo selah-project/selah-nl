@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "en je armoede komt als een wandelaar, en je gebrek als een gewapend man.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "en komt"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "als een wandelaar"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "je armoede"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "en je gebrek"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "als ⟨een⟩ man"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "gewapend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:37.011380188Z",
+  "model": "glm-5.3"
+}

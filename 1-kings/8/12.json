@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Toen zei Sjelomo: Jahweh heeft gezegd te willen wonen in de donkere wolk.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "toen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "te willen wonen"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "in de donkere wolk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:15.403453703Z",
+  "model": "glm-5.3"
+}

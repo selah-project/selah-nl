@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 113,
+  "translation": "Wie is als Jahweh, onze Elohim, ⟨die⟩ hoog verheft ⟨om⟩ te troonen?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "als Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "hoog verheft"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "om te troonen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:30.177832936Z",
+  "model": "glm-5.3"
+}

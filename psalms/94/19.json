@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 94:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "In de veelheid van mijn zorggedachten binnen in mij, vertroosten uw troosten mijn nefesj.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "in de veelheid"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "mijn zorggedachten"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "binnen in mij"
+    },
+    {
+      "surface": "תנחומיך",
+      "gloss": "uw troosten"
+    },
+    {
+      "surface": "ישעשעו",
+      "gloss": "vertroosten"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:02.459170571Z",
+  "model": "glm-5.3"
+}

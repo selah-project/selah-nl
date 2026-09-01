@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 142,
+  "translation": "Zie naar ⟨de⟩ rechter⟨hand⟩ en aanschouw — er is voor mij niemand die ⟨mij⟩ kent, verloren is ⟨elke⟩ vlucht voor mij, er is niemand die naar mijn nefesj vraagt.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "rechterhand"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en aanschouw"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is niet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "iemand die kent"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "verloren is"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "vlucht"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is niet"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "iemand die vraagt"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "naar mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:46.327727457Z",
+  "model": "glm-5.3"
+}

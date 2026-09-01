@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 128,
+  "translation": "Zie, voorwaar, zo wordt de man gezegend die Jahweh vreest.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "wordt gezegend"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "de man"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "die vreest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:22.241956943Z",
+  "model": "glm-5.3"
+}

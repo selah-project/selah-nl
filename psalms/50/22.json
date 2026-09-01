@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Besef dit nu, ⟨jullie⟩ die Eloah vergeten, anders verscheur ik ⟨jullie⟩ en ⟨is er⟩ geen redder.",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Besef"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "die vergeten"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "verscheur ik"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en ⟨is er⟩ geen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "redder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:44.237044913Z",
+  "model": "glm-5.3"
+}

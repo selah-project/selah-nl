@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "op een tiensnarige en op de navel ⟨[soort luit]⟩, met gedempt gemurmel op de kinor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "een tiensnarige"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "en op"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "de navel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "met"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "gedempt gemurmel"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "op de kinor"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:08.916695768Z",
+  "model": "glm-5.3"
+}

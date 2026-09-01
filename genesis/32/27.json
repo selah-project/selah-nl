@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En hij zeide: Laat mij gaan, want de dageraad is opgegaan. En hij zeide: Ik laat u niet gaan, tenzij dat gij mij zegent.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "laat mij gaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "is opgegaan"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "de dageraad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "laat ik u gaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨tenzij⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨tenzij⟩"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "gij mij zegent"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:40.218205966Z",
+  "model": "glm-5.3"
+}

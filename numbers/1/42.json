@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "De zonen van Naftali, hun geslachten naar hun families, naar het huis van hun vaders, in het getal van de namen, van twintig jaar en daarboven, al wie uitgaat tot de krijgsmacht;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "hun geslachten"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "naar hun families"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "naar het huis van"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "hun vaders"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "in het getal"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "van de namen"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "van"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "en daarboven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al wie"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uitgaat"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tot de krijgsmacht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:38.144429695Z",
+  "model": "glm-5.3"
+}

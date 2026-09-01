@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En David ging en keerde terug van bij Sjaoel, om ⟨את⟩ de kudde van zijn vader te weiden in Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "En David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ging"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "en keerde terug"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van bij"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "om te weiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kudde"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "de kudde"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van zijn vader"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:44.361248944Z",
+  "model": "glm-5.3"
+}

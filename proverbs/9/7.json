@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Wie een spotter terechtwijst, neemt voor zichzelf smaad ⟨op⟩, en wie een goddeloze bestraft, ⟨neemt⟩ zijn smet.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "terechtwijst"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "een spotter"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "neemt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor zichzelf"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "smaad"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "en wie bestraft"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "een goddeloze"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "zijn smet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:04.801006172Z",
+  "model": "glm-5.3"
+}

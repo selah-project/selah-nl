@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "Ach toch, Jahweh, want ik ben uw dienaar — ik ben uw dienaar, zoon van uw dienares — ú hebt mijn boeien losgemaakt.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ach toch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik ben"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "van uw dienares"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "hebt ú losgemaakt"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "mijn boeien"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:13.902261375Z",
+  "model": "glm-5.3"
+}

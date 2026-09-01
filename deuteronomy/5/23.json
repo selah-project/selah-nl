@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En het gebeurde, toen u ⟨את⟩ de stem hoorde uit het midden van de duisternis — en de berg brandde met vuur — dat u tot mij naderde, alle hoofden van uw stammen en uw oudsten.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "toen u hoorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stem"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit het midden van"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "de duisternis"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "en de berg"
+    },
+    {
+      "surface": "בער",
+      "gloss": "brandde"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "dat u naderde"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoofden"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "van uw stammen"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "en uw oudsten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:41.407248704Z",
+  "model": "glm-5.3"
+}

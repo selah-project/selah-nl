@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En het gebeurde hem zo: het volk vertrapte ⟨את⟩ hem in de poort en hij stierf.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "vertrapte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in de poort"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hij stierf"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:42.096947869Z",
+  "model": "glm-5.3"
+}

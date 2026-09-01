@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Achija greep het nieuwe kleed dat op hem was, en scheurde het in twaalf stukken.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "greep"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achija"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "het kleed"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "nieuwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "scheurde het"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twaalf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(twaalf)"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "stukken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:14.137292076Z",
+  "model": "glm-5.3"
+}

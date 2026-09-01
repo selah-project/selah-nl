@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 8:19",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij zei: Zie, ik maak aan jou bekend ⟨את⟩ wat er gebeuren zal in het laatste deel van de toorn, want het einde komt op de vastgestelde tijd.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "zie, ik"
+    },
+    {
+      "surface": "מודיעך",
+      "gloss": "maak aan jou bekend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat er gebeuren zal in het laatste deel van de toorn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "er gebeuren zal"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "in het laatste deel"
+    },
+    {
+      "surface": "הזעם",
+      "gloss": "van de toorn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "op de vastgestelde tijd"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "het einde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:48:35.206413215Z",
+  "model": "glm-5.3"
+}

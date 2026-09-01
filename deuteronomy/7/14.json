@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Gezegend zul je zijn boven alle volken; bij jou zal geen onvruchtbare man of onvruchtbare vrouw zijn, en ook niet bij je vee.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "gezegend"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zul je zijn"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "boven alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bij jou"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "onvruchtbare man"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "of onvruchtbare vrouw"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "en bij je vee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:31.572836299Z",
+  "model": "glm-5.3"
+}

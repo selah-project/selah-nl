@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En Jahweh zei tot Mosjee: Ik heb ⟨את⟩ dit volk gezien, en zie, het is een hardnekkig ⟨volk⟩, hard van nek ⟨is⟩ het.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Ik heb gezien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dit volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "een volk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hard"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "van nek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het"
+    }
+  ],
+  "timestamp": "2026-08-31T23:42:45.421874633Z",
+  "model": "glm-5.3"
+}

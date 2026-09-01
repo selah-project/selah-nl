@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Gezegend ⟨zal zijn⟩ de vrucht van je schoot, en de vrucht van je grond, en de vrucht van je vee: het jong van je runderen en ⟨dat van⟩ je kleinvee.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "gezegend"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "de vrucht"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "van je schoot"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "en de vrucht"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "van je grond"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "en de vrucht"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "van je vee"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "het jong"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "van je runderen"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "en ⟨dat van⟩"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "je kleinvee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:01.581515449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Als ik niet had geloofd het goede van Jahweh te zien in het land der levenden —",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "als ik niet"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "had geloofd"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "te zien"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "der levenden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:56.845278076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En Jaakob bleef alleen achter, en een man worstelde met hem tot het opgaan van de dageraad.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "bleef achter"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "worstelde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "het opgaan"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "van de dageraad"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:40.217731636Z",
+  "model": "glm-5.3"
+}

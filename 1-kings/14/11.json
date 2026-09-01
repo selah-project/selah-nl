@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Wie van Jerobeam in de stad sterft, de honden zullen hem opeten; en wie op het veld sterft, het gevogelte van de hemel zal hem opeten — want Jahweh heeft gesproken.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "wie sterft"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "van Jerobeam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zullen opeten"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "de honden"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "en wie sterft"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zullen opeten"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "het gevogelte"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van de hemel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "heeft gesproken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:27.249802404Z",
+  "model": "glm-5.3"
+}

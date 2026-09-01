@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En jullie zullen Jahweh, jullie Elohim, dienen; en ⟨hij⟩ zal je brood zegenen en ⟨את⟩ je water; en ik zal ziekte uit je binnenste wegnemen.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "en jullie zullen dienen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "en ⟨hij⟩ zal zegenen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je brood"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "je brood"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "je water"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "je water"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "en ik zal wegnemen"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ziekte"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "uit je binnenste"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:43.886985Z",
+  "model": "glm-5.3"
+}

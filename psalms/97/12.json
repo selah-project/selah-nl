@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 97,
+  "translation": "Verheug je, tsaddiekiem, in Jahweh, en loof de gedachtenis aan zijn heiligheid.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "verheug je"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tsaddiekiem (rechtvaardigen)"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "en loof"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "de gedachtenis aan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "zijn heiligheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:43.688017232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 4:5",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En ik heb jou ⟨את⟩ de jaren van hun ongerechtigheid gegeven, ⟨als⟩ het getal van dagen: driehonderd en negentig dagen; en jij zult de ongerechtigheid van het huis van Jisraël dragen.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "heb gegeven"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de jaren van hun ongerechtigheid"
+    },
+    {
+      "surface": "שני",
+      "gloss": "jaren"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "hun ongerechtigheid"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "⟨als⟩ het getal"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dagen"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "driehonderd"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨honderd⟩"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "en negentig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "en jij zult dragen"
+    },
+    {
+      "surface": "עון",
+      "gloss": "de ongerechtigheid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:42:13.154571035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Want uw pijlen zijn ⟨in⟩ mij neergedaald, en uw hand daalt neer op mij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "uw pijlen"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "zijn neergedaald"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in mij"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "en daalt neer"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op mij"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uw hand"
+    }
+  ],
+  "timestamp": "2026-08-31T23:45:39.673019089Z",
+  "model": "glm-5.3"
+}

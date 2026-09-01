@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Dit zal geschreven worden voor een later geslacht, en een volk dat geschapen zal worden zal Jah loven.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "zal geschreven worden"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "voor een geslacht"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "later"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en een volk"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "dat geschapen zal worden"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "zal loven"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:58.007628532Z",
+  "model": "glm-5.3"
+}

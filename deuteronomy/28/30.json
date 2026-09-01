@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Een vrouw zul je verloven, en een andere man zal met haar slapen; een huis zul je bouwen, en je zult er niet in wonen; een wijngaard zul je planten, en je zult die niet in gebruik nemen.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "een vrouw"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "zul je verloven"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en een man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "een andere"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "zal met haar slapen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "een huis"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "zul je bouwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "zult je wonen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "er in"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "een wijngaard"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "zul je planten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "zult in gebruik nemen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:22.909373569Z",
+  "model": "glm-5.3"
+}

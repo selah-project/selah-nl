@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Wat er geweest is, zijn naam is lang geleden genoemd, en het is bekend dat hij ⟨is⟩ de mens; en hij kan niet twisten met ⟨Iemand⟩ machtiger dan hij.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "er geweest is"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "lang geleden"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "is genoemd"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "en het is bekend"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "hij kan"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "twisten"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "de machtige"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dan hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:44.905748593Z",
+  "model": "glm-5.3"
+}

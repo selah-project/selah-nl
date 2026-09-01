@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "Elohim heeft in zijn heiligdom gesproken: ik zal jubelen, ik zal Sjechem verdelen en het dal van Soekkot afmeten.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "heeft gesproken"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "in zijn heiligdom"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ik zal jubelen"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ik zal verdelen"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjechem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "en het dal"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "van Soekkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "afmeten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:35.022608222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En zij zei tegen Elia: wat ⟨hebben⟩ wij ⟨met⟩ elkaar te maken, jij man van Elohim? Ben je bij mij gekomen om ⟨את⟩ mijn onrecht te herinneren en om ⟨את⟩ mijn zoon te doden?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "en voor jou"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "ben je gekomen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bij mij"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "om te herinneren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn onrecht"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mijn onrecht"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "en om te doden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn zoon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:26.940531070Z",
+  "model": "glm-5.3"
+}

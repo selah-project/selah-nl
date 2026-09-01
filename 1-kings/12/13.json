@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En de koning antwoordde ⟨את⟩ het volk hard, en hij verliet ⟨את⟩ het raad van de oudsten dat zij hem geraden hadden.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en hij antwoordde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hard"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "en hij verliet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het raad"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "het raad"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "van de oudsten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "zij hem geraden hadden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:07.031604523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Last van de woestijn van de zee. Als stormwinden in de Negev om door te trekken — uit de woestijn komt het, uit een schrikwekkend land.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Last"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "woestijn"
+    },
+    {
+      "surface": "ים",
+      "gloss": "van de zee"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "als stormwinden"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "in de Negev"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "om door te trekken"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "uit de woestijn"
+    },
+    {
+      "surface": "בא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit een land"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "schrikwekkend"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:29.897100648Z",
+  "model": "glm-5.3"
+}

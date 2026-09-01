@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 40:11",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Als een herder zal hij zijn kudde weiden, met zijn arm zal hij de lammeren vergaderen en in zijn schoot dragen; de zogenden zal hij zachtkens leiden.",
+  "tokens": [
+    {
+      "surface": "כרעה",
+      "gloss": "als een herder"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "zijn kudde"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "zal hij weiden"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "met zijn arm"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "zal hij vergaderen"
+    },
+    {
+      "surface": "טלאים",
+      "gloss": "de lammeren"
+    },
+    {
+      "surface": "ובחיקו",
+      "gloss": "en in zijn schoot"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "dragen"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "de zogenden"
+    },
+    {
+      "surface": "ינהל",
+      "gloss": "zal hij leiden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:49.269218596Z",
+  "model": "glm-5.3"
+}

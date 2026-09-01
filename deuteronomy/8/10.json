@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En je zult eten en verzadigd worden, en je zult Jahweh, je Elohim, zegenen over ⟨את⟩ het goede land dat hij je gegeven heeft.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "en je zult eten"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "en verzadigd worden"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "en je zult zegenen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh, je Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "je Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegeven heeft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:57.697184564Z",
+  "model": "glm-5.3"
+}

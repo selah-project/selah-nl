@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "De oude leeuw vergaat bij gebrek aan prooi, en de welpen van de leeuwin worden verstrooid.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "de oude leeuw"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "vergaat"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "bij gebrek aan"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "prooi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en de welpen"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "van de leeuwin"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "worden verstrooid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:22.805044008Z",
+  "model": "glm-5.3"
+}

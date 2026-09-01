@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En het vlees van het dankoffer van zijn sjelamim zal op de dag van zijn korban gegeten worden; hij mag er niets van laten blijven tot de morgen.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "en het vlees"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "van het offer"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "dank"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "zijn sjelamim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "van zijn korban"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zal gegeten worden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "mag hij laten blijven"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "er (van)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de morgen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:57.196056629Z",
+  "model": "glm-5.3"
+}

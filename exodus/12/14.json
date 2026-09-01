@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En deze dag zal u tot een gedachtenis zijn, en u zult hem ⟨את⟩ als feest vieren voor Jahweh, voor uw geslachten; ⟨als⟩ eeuwige verordening zult u hem vieren.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En deze dag zal zijn"
+    },
+    {
+      "surface": "היום",
+      "gloss": "deze dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "u"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "tot een gedachtenis"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "en u zult als feest vieren"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "deze dag als feest"
+    },
+    {
+      "surface": "חג",
+      "gloss": "feest"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "voor uw geslachten"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "verordening"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwig"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "zult u hem vieren"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:29.012340858Z",
+  "model": "glm-5.3"
+}

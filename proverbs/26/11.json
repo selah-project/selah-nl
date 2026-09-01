@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Als een hond die terugkeert naar zijn braaksel, zo ⟨is⟩ een dwaas die zijn dwaasheid herhaalt.",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "als een hond"
+    },
+    {
+      "surface": "שב",
+      "gloss": "die terugkeert"
+    },
+    {
+      "surface": "על",
+      "gloss": "naar"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "zijn braaksel"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "zo een dwaas"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "die herhaalt"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "zijn dwaasheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:00.635537466Z",
+  "model": "glm-5.3"
+}

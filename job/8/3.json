@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Zou El het recht verwringen, of Sjaddai (de Ontzagwekkende) de gerechtigheid verwringen?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Zou El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "verwringen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "het recht"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "of"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "verwringen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "de gerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:45.160338022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "In plaats van uw vaders zullen uw zonen ⟨zijn⟩; u zult hen tot vorsten stellen in heel ⟨de⟩ aarde.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "van uw vaders"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zullen zij zijn"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "uw zonen"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "zult u hen stellen"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "tot vorsten"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:37.093371474Z",
+  "model": "glm-5.3"
+}

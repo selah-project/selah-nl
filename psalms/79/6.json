@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 79,
+  "translation": "Stort uw gramschap uit over de volken die U niet kennen, en over de koninkrijken die uw naam niet aangeroepen hebben.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Stort … uit"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "uw gramschap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "U kennen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en over"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "de koninkrijken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "aangeroepen hebben"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:46.600996443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 56,
+  "translation": "Zij scharen zich samen, zij verbergen zich, zij bewaken mijn hielen, zoals zij op mijn nefesj ⟨loeren⟩.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "scharen zij zich samen"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "verbergen zij zich"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "mijn hielen"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bewaken zij"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "zij ⟨loeren⟩ \/ verwachten"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:05.799178748Z",
+  "model": "glm-5.3"
+}

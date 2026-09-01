@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En ik verscheen aan Avraham, aan Jitschak en aan Jaakov als El Sjaddai, maar met mijn naam Jahweh heb ik mij niet aan hen bekendgemaakt.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "en ik verscheen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en aan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "באל",
+      "gloss": "als El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddai"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "maar mijn naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "heb ik mij bekendgemaakt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:41.257448691Z",
+  "model": "glm-5.3"
+}

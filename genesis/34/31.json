@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "En zij zeiden: Als met een hoer moest men ⟨את⟩ onze zuster doen?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "En zij zeiden"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "als met een hoer"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "moest men doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onze zuster"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "onze zuster"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:46.322075396Z",
+  "model": "glm-5.3"
+}

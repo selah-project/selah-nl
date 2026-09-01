@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Slachtoffer en graanoffer heb jij niet gewild; oren heb jij mij uitgegraven; brandoffer en zondoffer heb jij niet geëist.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "slachtoffer"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "en graanoffer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "heb jij gewild"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "oren"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "heb jij uitgegraven"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "en zondoffer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "heb jij geëist"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:25.493505139Z",
+  "model": "glm-5.3"
+}

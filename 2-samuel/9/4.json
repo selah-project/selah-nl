@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En de koning zei tot hem: Waar is hij? En Tsiba zei tot de koning: Zie, hij is in het huis van Machir, de zoon van Ammiel, in Lo-Devar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is hij"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "in"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo-Devar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:10.249809714Z",
+  "model": "glm-5.3"
+}

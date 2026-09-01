@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Van het eerste van jullie deeg ⟨zal⟩ een ringbrood als hefoffer opgeheven worden; zoals het hefoffer van de dorsvloer, zo zullen jullie het ⟨את⟩ opheffen.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "het eerste"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "van jullie deeg"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "een ringbrood"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "zullen jullie opheffen"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "als hefoffer"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "zoals het hefoffer"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "van de dorsvloer"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "zullen jullie opheffen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "het (ringbrood)"
+    }
+  ],
+  "timestamp": "2026-08-31T20:13:53.529929544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 144,
+  "translation": "Onze stierven ⟨zijn⟩ wel beladen, geen bres en geen uittocht en geen schreeuw in onze straten.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "onze stierven (ossen)"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "wel beladen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "bres"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "uittocht"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "schreeuw"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "in onze straten"
+    }
+  ],
+  "timestamp": "2026-09-01T00:07:31.607094932Z",
+  "model": "glm-5.3"
+}

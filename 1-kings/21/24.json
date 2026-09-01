@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Wie van Achavs ⟨huis⟩ in de stad sterft, de honden zullen hem eten; en wie op het veld sterft, de vogels van de hemel zullen hem eten.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "wie sterft"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "van Achav"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zullen eten"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "de honden"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "en wie sterft"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zullen eten"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "de vogels"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van de hemel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:39.905507208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "De priesters en de Leviieten reinigden zich, en zij reinigden ⟨את⟩ het volk en ⟨את⟩ de poorten en ⟨את⟩ de muur.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "en zij reinigden zich"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "en de Leviieten"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "en zij reinigden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de poorten"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "de poorten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de muur"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "de muur"
+    }
+  ],
+  "timestamp": "2026-08-31T22:56:33.834559460Z",
+  "model": "glm-5.3"
+}

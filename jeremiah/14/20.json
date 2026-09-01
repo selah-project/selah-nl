@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Wij kennen ⟨het⟩, Jahweh, onze ongerechtigheid, de schuld van onze vaders; want wij hebben tegen jou gezondigd.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "wij kennen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "onze ongerechtigheid"
+    },
+    {
+      "surface": "עון",
+      "gloss": "schuld"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "van onze vaders"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "hebben wij gezondigd"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tegen jou"
+    }
+  ],
+  "timestamp": "2026-08-31T21:31:17.155849294Z",
+  "model": "glm-5.3"
+}

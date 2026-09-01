@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "En hij zegende hen op die dag, zeggend: In u zal Jisraël zegenen, zeggend: Moge Elohim u maken als Efraim en als Menasje. En hij stelde ⟨את⟩ Efraim vóór Menasje.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "En hij zegende hen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "בך",
+      "gloss": "In u"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "zal zegenen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "moge ... u maken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "als Efraim"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "en als Menasje"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "En hij stelde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vóór"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasje"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:47.749663159Z",
+  "model": "glm-5.3"
+}

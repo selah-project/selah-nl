@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En jullie zaad en jullie wijngaarden zal hij tiënen, en geven aan zijn hovelingen en aan zijn dienaren.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "en jullie zaad"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "en jullie wijngaarden"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "zal hij tiënen"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en geven"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "aan zijn hovelingen"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "en aan zijn dienaren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:21.476130291Z",
+  "model": "glm-5.3"
+}

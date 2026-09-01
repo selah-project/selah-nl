@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Sara werd zwanger en baarde Avraham een zoon in zijn ouderdom, op de bepaalde tijd waarvan Elohim gesproken had ⟨את⟩ hem.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "werd zwanger"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en baarde"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "in zijn ouderdom"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "op de bepaalde tijd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarvan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:44.878177468Z",
+  "model": "glm-5.3"
+}

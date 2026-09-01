@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En hij nam ⟨את⟩ al deze voor zich, en hij kliefde ⟨את⟩ ze doormidden, en hij legde elk stuk tegenover zijn wederhelft; maar ⟨את⟩ de vogel kliefde hij niet.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor zich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al deze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "en hij kliefde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ze"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "doormidden"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij legde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elk stuk"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "zijn helft"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zijn wederhelft"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de vogel"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "de vogel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "kliefde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:27.928361547Z",
+  "model": "glm-5.3"
+}

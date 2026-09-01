@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "De roeach van Jahweh heeft door mij gesproken, en zijn woord is op mijn tong.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "de roeach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "heeft gesproken"
+    },
+    {
+      "surface": "בי",
+      "gloss": "door mij"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "en zijn woord"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "mijn tong"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:51.478985534Z",
+  "model": "glm-5.3"
+}

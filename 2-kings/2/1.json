@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En het gebeurde, toen Jahweh Elia in een stormwind naar de hemel zou opnemen, dat Elia met Elisa van de Gilgal ging.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "toen … zou opnemen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elia"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "in een stormwind"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "naar de hemel"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dat … ging"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "met Elisa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "de Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:53.662016168Z",
+  "model": "glm-5.3"
+}

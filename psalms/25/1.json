@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Van David. Tot U, Jahweh, hef ik mijn nefesj op.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "hef ik op"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:07.819902754Z",
+  "model": "glm-5.3"
+}

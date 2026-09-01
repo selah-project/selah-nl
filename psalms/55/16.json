@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Verwoesting ⟨kome⟩ over hen; moge hen ⟨de dood⟩ doen afdalen levend naar Sjeool, want kwaad is in hun woningen, in hun midden.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "verwoesting"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "over hen"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "moge hen doen afdalen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeool"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levend"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "in hun woningen"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "in hun midden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:49.539840963Z",
+  "model": "glm-5.3"
+}

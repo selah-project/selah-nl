@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 4:7",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Want wie ⟨is⟩ een groot volk waaraan Elohim zo nabij zijn, als Jahweh onze Elohim, in alles wat wij tot Hem roepen?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "een volk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "nabij zijn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "als Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in alles"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "wat wij roepen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot Hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:39.948841675Z",
+  "model": "glm-5.3"
+}

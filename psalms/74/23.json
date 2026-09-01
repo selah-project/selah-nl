@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Vergeet niet de stem van uw tegenstanders, het geraas van hen die tegen u opstaan, ⟨dat⟩ gestaag opstijgt.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "vergeet"
+    },
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "van uw tegenstanders"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "het geraas"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "van hen die tegen u opstaan"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "opstijgt"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gestaag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:13.336197680Z",
+  "model": "glm-5.3"
+}

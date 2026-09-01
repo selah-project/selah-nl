@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Onze tekenen zien wij niet; er is geen profeet meer, en ⟨את⟩ ons kent er niemand ⟨⟨hoe lang⟩⟩ — tot wanneer, weten wij niet.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "onze tekenen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "zien wij"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is niet"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "profeet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "wij"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe lang"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:18.856617794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Azarjáhu, zoon van Natan, over de beambten; en Zavud, zoon van Natan, kohen, raadsman ⟨van⟩ de koning.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "En Azarjáhu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "van Natan"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "de beambten"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "en Zavud"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "van Natan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "raadsman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:44.442290243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En het gebeurde aan het eind van twintig jaar, waarin Sjelomo de twee huizen had gebouwd — ⟨את⟩ het huis van Jahweh en ⟨את⟩ het huis van de koning —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "aan het eind"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarin"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "gebouwd"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de twee huizen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "huizen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het huis van de koning"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:05.132847182Z",
+  "model": "glm-5.3"
+}

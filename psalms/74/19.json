@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Geef ⟨de⟩ nefesj van uw tortelduif niet over aan ⟨het⟩ gedierte; ⟨de⟩ kudde van uw armen vergeet niet voor eeuwig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "Geef... over"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "aan ⟨het⟩ gedierte"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "van uw tortelduif"
+    },
+    {
+      "surface": "חית",
+      "gloss": "⟨de⟩ kudde"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "van uw armen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "vergeet"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:43.536830814Z",
+  "model": "glm-5.3"
+}

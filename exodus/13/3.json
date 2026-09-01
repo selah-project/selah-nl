@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Mosjee zei tot het volk: Gedenk ⟨את⟩ deze dag, waarop jullie uit Mitsrajim zijn gegaan, uit het huis van slaven, want met sterke hand heeft Jahweh jullie ⟨את⟩ hieruit gebracht; en geen gezuurd ⟨brood⟩ zal gegeten worden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "gedenk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze dag"
+    },
+    {
+      "surface": "היום",
+      "gloss": "deze dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarop"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "jullie zijn gegaan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit het huis van"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slaven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "met sterke"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "heeft gebracht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "hieruit"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "hieruit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zal gegeten worden"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "gezuurd [brood]"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:13.120756407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Sta op, Jahweh, in uw toorn; verhef ⟨u⟩ tegen de woede van mijn tegenstanders, en ontwaak ⟨ten behoeve van⟩ mij: ⟨voor het⟩ recht hebt U geboden.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sta op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "in uw toorn"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "verhef ⟨u⟩"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "tegen de woede"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "van mijn tegenstanders"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "en ontwaak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨ten behoeve van⟩ mij"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "recht"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "hebt U geboden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:44.990469036Z",
+  "model": "glm-5.3"
+}

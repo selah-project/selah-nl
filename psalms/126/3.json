@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 126,
+  "translation": "Groot heeft Jahweh gehandeld met ons; wij waren verblijd.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "Groot heeft ... gehandeld"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gehandeld"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "met ons"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "wij waren"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "verblijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:44.564815713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "zoals het weggenomen wordt van de os van het slachtoffer van de sjelamim; en de priester zal ze in rook laten opgaan op het brandofferaltaar.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "wordt weggenomen"
+    },
+    {
+      "surface": "משור",
+      "gloss": "van de os"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slachtoffer"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "van de sjelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "zal in rook laten opgaan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "van het brandoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:03.100633140Z",
+  "model": "glm-5.3"
+}

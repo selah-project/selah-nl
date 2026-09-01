@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "⟨De⟩ aarde beefde, ook dropen de hemelen ⟨voor⟩ ⟨het⟩ aangezicht van Elohim — dit ⟨was⟩ Sinai — ⟨voor⟩ ⟨het⟩ aangezicht van Elohim, ⟨de⟩ Elohim van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "beefde"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hemelen"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "dropen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:15.837317158Z",
+  "model": "glm-5.3"
+}

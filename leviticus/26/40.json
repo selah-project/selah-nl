@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En zij zullen ⟨את⟩ hun ongerechtigheid belijden, en ⟨את⟩ de ongerechtigheid van hun vaderen, in hun overtreding waarmee zij tegen Mij overtreden hebben, en ook dat zij met Mij in tegendraadse tegenstelling gewandeld hebben.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "en zij zullen belijden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun ongerechtigheid"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "hun ongerechtigheid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de ongerechtigheid van hun vaderen"
+    },
+    {
+      "surface": "עון",
+      "gloss": "de ongerechtigheid"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "van hun vaderen"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "in hun overtreding"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "zij overtreden hebben"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tegen Mij"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "zij gewandeld hebben"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "met Mij"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "in tegendraadse tegenstelling"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:32.891431596Z",
+  "model": "glm-5.3"
+}

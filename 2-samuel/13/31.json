@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Toen stond de koning op en scheurde ⟨את⟩ zijn klederen, en ging op de aarde liggen; en al zijn dienaren stonden ⟨naast hem⟩ met gescheurde klederen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "toen stond op"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "en scheurde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn klederen"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zijn klederen"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "en ging liggen"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "stonden"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "met gescheurde"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "klederen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:53:17.048155157Z",
+  "model": "glm-5.3"
+}

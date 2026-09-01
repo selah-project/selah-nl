@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En de koning zei tot Joav: Zie toch, ik heb ⟨את⟩ dit woord gedaan; ga dan, breng ⟨את⟩ de jongeling, ⟨את⟩ Avsjalom, terug.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en de koning zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ik heb gedaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ga dan"
+    },
+    {
+      "surface": "השב",
+      "gloss": "breng terug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de jongeling"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "de jongeling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avsjalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsjalom"
+    }
+  ],
+  "timestamp": "2026-08-31T20:53:46.195044461Z",
+  "model": "glm-5.3"
+}

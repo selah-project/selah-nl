@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En de koning keerde terug en kwam tot aan de Jarden; en Jehoeda kwam naar de Gilgal om de koning tegemoet te gaan, om ⟨את⟩ de koning over ⟨את⟩ de Jarden te laten trekken.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en de koning keerde terug"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en kwam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "naar de Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "tegemoet"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "om te laten trekken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:24.264760583Z",
+  "model": "glm-5.3"
+}

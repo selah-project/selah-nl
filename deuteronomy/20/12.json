@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Maar als zij geen vrede met u sluit en oorlog tegen u voert, dan zult gij haar belegeren.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "maar als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "vrede sluit"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met u"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "en voert"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tegen u"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "oorlog"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "dan zult gij belegeren"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "haar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:25.694729489Z",
+  "model": "glm-5.3"
+}

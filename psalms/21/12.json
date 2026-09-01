@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Want zij bogen ⟨kwaad⟩ tegen U aan; zij beraamden een plan ⟨maar⟩ zij zullen het niet kunnen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "zij bogen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tegen U"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "zij beraamden"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "een plan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "zullen zij kunnen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:16.253326784Z",
+  "model": "glm-5.3"
+}

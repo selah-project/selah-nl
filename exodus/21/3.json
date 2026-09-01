@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Als hij met zijn eigen lichaam komt, zal hij met zijn eigen lichaam uitgaan; als hij de man van een vrouw is, zal zijn vrouw met hem uitgaan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "met zijn eigen lichaam"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "met zijn eigen lichaam"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "zal hij uitgaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "de man"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "van een vrouw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij is"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "zal ... uitgaan"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:53.273161530Z",
+  "model": "glm-5.3"
+}

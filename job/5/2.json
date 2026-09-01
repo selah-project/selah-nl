@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Want verbittering doodt de dwaas, en afgunst doodt de ⟨simpele⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "de dwaas"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "doodt"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "verbittering"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "de simpele"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "doodt"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "afgunst"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:51.851955095Z",
+  "model": "glm-5.3"
+}

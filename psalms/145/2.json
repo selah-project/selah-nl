@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Elke dag zal ik U zegenen, en Uw naam loven voor eeuwig en altijd.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "zal ik U zegenen"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "en loven"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Uw naam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en altijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:07.968829518Z",
+  "model": "glm-5.3"
+}

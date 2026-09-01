@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En een man die ligt met ⟨את⟩ de vrouw van zijn vader — de naaktheid van zijn vader heeft hij onthuld — beiden zullen zeker gedood worden; hun bloed ⟨is⟩ op hen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "En een man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ligt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vrouw van zijn vader"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van zijn vader"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "de naaktheid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van zijn vader"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "heeft onthuld"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "zullen gedood worden"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "beiden"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "hun bloed"
+    },
+    {
+      "surface": "בם",
+      "gloss": "op hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:45.834993650Z",
+  "model": "glm-5.3"
+}

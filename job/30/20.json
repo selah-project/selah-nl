@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Ik roep tot U en U antwoordt mij niet; ik sta ⟨op⟩, en U aanschouwt mij.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "Ik roep"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "antwoordt U mij"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "ik sta ⟨op⟩"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "en U aanschouwt"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:24.765925249Z",
+  "model": "glm-5.3"
+}

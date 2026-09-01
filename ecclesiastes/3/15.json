@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Wat geweest is, is allang ⟨zo⟩, en wat komen zal, is allang geweest; en Elohim zoekt ⟨את⟩ wat verdreven is.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "geweest is"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "allang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is ⟨zo⟩"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "komen zal"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "allang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "geweest is"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "en Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "zoekt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat verdreven is"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "wat verdreven is"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:45.128176510Z",
+  "model": "glm-5.3"
+}

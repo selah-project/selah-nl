@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Er is een weg die recht ⟨lijkt⟩ voor een man, maar zijn einde zijn de wegen van de dood.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Er is"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "een weg"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "recht"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "maar zijn einde"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "de wegen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van de dood"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:11.502432937Z",
+  "model": "glm-5.3"
+}

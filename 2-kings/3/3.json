@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Alleen aan de zonden van Jerobeam, zoon van Nevat, die ⟨את⟩ Israël had doen zondigen, bleef hij kleven; daarvan week hij niet af.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Alleen"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "aan de zonden"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "had doen zondigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "bleef hij kleven"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "סר",
+      "gloss": "week hij af"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daarvan"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:01.172600655Z",
+  "model": "glm-5.3"
+}

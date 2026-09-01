@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 124,
+  "translation": "Onze hulp ⟨is⟩ in de naam van Jahweh, maker van de hemel en de aarde.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "onze hulp"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in de naam van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maker van"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "en de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:47.472067651Z",
+  "model": "glm-5.3"
+}

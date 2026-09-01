@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Is het niet — zie — van ⟨את⟩ Jahweh van de legermachten dat volken zich aftobben voor vuur, en natiën zich uitputten voor leegte?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "is het niet"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "Jahweh van de legermachten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "van de legermachten"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "dat zij zich aftobben"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "en natiën"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "voor"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "leegte"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "zich uitputten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:59.019433447Z",
+  "model": "glm-5.3"
+}

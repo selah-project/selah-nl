@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "De begeerte van zijn hart hebt U hem gegeven, en het verzoek van zijn lippen hebt U niet onthouden. Sela.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "de begeerte"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "van zijn hart"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "hebt U gegeven"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "en het verzoek"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "van zijn lippen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "onthouden"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:23.515594963Z",
+  "model": "glm-5.3"
+}

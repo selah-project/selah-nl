@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En de priester zal ⟨את⟩ de ene als zondeoffer ⟨את⟩ en ⟨את⟩ de ene als brandoffer bereiden, en de priester zal voor haar verzoening doen voor het aangezicht van Jahweh, wegens de vloeiing van haar onreinheid.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "en hij zal bereiden"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ene"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "zondeoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de ene"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "en hij zal verzoening doen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "voor haar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "wegens de vloeiing"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "van haar onreinheid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:12.856946792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Voorzeker, Elohim zal het hoofd verbrijzelen van ⟨zijn⟩ vijanden, de beharste kruin van wie voortgaat in zijn schulden.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "voorzeker"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "zal verbrijzelen"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "het hoofd"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "van zijn vijanden"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "de kruin"
+    },
+    {
+      "surface": "שער",
+      "gloss": "beharst"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "van wie voortgaat"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "in zijn schulden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:19.549716878Z",
+  "model": "glm-5.3"
+}

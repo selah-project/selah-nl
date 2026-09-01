@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Noach was een zoon van vijf honderd jaar, en Noach verwekte ⟨את⟩ Sem, ⟨את⟩ Cham en ⟨את⟩ Jafet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het was"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon van"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hij verwekte"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:22.370925712Z",
+  "model": "glm-5.3"
+}

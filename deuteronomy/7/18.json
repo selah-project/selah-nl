@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Wees niet bang voor hen; gedenk ⟨zult gedenken⟩ ⟨את⟩ wat Jahweh, jouw Elohim, aan Par'o en aan heel Mitsrajim gedaan heeft:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wees bang"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gedenk"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "⟨zult gedenken⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Jahweh gedaan heeft"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedaan heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "aan Par'o"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "en aan heel"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:15.093395764Z",
+  "model": "glm-5.3"
+}

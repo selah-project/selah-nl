@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En bij Choesjim verwekte hij ⟨את⟩ Avitov en ⟨את⟩ Elpa'al.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "en bij Choesjim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte hij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avitov"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avitov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Elpa'al"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpa'al"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:46.464036064Z",
+  "model": "glm-5.3"
+}

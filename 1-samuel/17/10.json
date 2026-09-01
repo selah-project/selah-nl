@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En de Filistijn zei: ik heb heden ⟨את⟩ de slagorden van Israël gesmaad; geef mij een man, en laten wij samen strijden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "de Filistijn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "heb gesmaad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de slagorden van Israël"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "slagorden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze dag"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "geef"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "וילחמה... ונלחמה",
+      "gloss": "en laten wij strijden"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "samen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:29.622960767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En Mosjee daalde af van de berg naar het volk, en hij heiligde ⟨את⟩ het volk, en zij wasten hun kleren.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "en hij daalde af"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "en hij heiligde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "en zij wasten"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "hun kleren"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:25.001226914Z",
+  "model": "glm-5.3"
+}

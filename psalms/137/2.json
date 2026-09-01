@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 137,
+  "translation": "Aan wilgen in het midden ervan hingen wij onze lieren op",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "wilgen"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "in het midden ervan"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "hingen wij op"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "onze lieren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:34.329335534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "En de beenderen van de priesters verbrandde hij op hun altaren, en hij reinigde ⟨את⟩ Jehoeda en ⟨את⟩ Jeroesjalajim.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "en de beenderen"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "van de priesters"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "verbrandde hij"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "hun altaren"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "en hij reinigde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoeda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Jeroesjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:12:15.052697857Z",
+  "model": "glm-5.3"
+}

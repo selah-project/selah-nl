@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Als ik mij wast met sneeuw, en mijn handen reinigde met ⟨loog⟩,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Als"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "ik mij wast"
+    },
+    {
+      "surface": "במו",
+      "gloss": "met"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sneeuw"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "en reinigde"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "met ⟨loog⟩"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mijn handen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:03.986375274Z",
+  "model": "glm-5.3"
+}

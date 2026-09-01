@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En Hij sloeg alle eerstgeborenen in Mitsrajim, eersteling van hun kracht in de tenten van Cham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "En Hij sloeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "eerstgeborenen"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "eersteling"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "van hun kracht"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "in de tenten"
+    },
+    {
+      "surface": "חם",
+      "gloss": "van Cham"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:58.451719259Z",
+  "model": "glm-5.3"
+}

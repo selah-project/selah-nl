@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "Bergen werden bedekt door zijn schaduw, en zijn takken door ceders van El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "werden bedekt"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "door zijn schaduw"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "en zijn takken"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ceders"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van El"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:17.047229977Z",
+  "model": "glm-5.3"
+}

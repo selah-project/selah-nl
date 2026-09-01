@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "want als wij niet geaarzeld hadden, dan waren wij nu al ⟨al⟩ tweemaal teruggekeerd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "als niet"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "wij geaarzeld hadden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "waren wij teruggekeerd"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨al⟩"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "tweemaal"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:39.517952332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Tot wanneer, Elohim, zal de tegenpartij smaden? Zal de vijand uw naam voor eeuwig versmaden?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "zal smaden"
+    },
+    {
+      "surface": "צר",
+      "gloss": "de tegenpartij"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "zal versmaden"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "de vijand"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:18.856863518Z",
+  "model": "glm-5.3"
+}

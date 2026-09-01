@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Als zij hun zonen ⟨את⟩ grootbrengen, zal ik hen kinderloos maken, zonder ⟨een⟩ man; ja, ook wee hun, wanneer ik mij van hen afwend.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Als"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(ook) al"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "zij grootbrengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun zonen"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "hun zonen"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "zal ik hen kinderloos maken"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "zonder man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "wee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "wanneer ik mij afwend"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "van hen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:08.227116692Z",
+  "model": "glm-5.3"
+}

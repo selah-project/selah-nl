@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En zij antwoordden hen ⟨את⟩ en zeiden: Hij is; zie, vóór jou — haast je nu, want hij is vandaag naar de stad gekomen, want er is vandaag een slachtoffer voor het volk op de hoogte.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "en zij antwoordden"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hij is"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vóór jou"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "haast je"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandaag"
+    },
+    {
+      "surface": "בא",
+      "gloss": "is gekomen"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "naar de stad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "een slachtoffer"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandaag"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "voor het volk"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "op de hoogte"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:32.061347417Z",
+  "model": "glm-5.3"
+}

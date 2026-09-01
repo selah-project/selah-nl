@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "dan zullen de vader van het jonge meisje en haar moeder ⟨את⟩ de tekenen van de maagdelijkheid van het jonge meisje naar buiten brengen, naar de oudsten van de stad in de poort,",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "en nemen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "de vader van"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "het jonge meisje"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en haar moeder"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "en zij brengen naar buiten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tekenen van de maagdelijkheid van het jonge meisje"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "de tekenen van de maagdelijkheid"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "van het jonge meisje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de oudsten"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "in de poort"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:39.133276267Z",
+  "model": "glm-5.3"
+}

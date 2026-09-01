@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Toen zag zijn wapendrager dat Sjaoel dood was, en ook hij viel op zijn zwaard en stierf met hem.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "toen zag"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "zijn wapendrager"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "⟨zijn wapens⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dood was"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "en viel"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "zijn zwaard"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en stierf"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:50:40.286088584Z",
+  "model": "glm-5.3"
+}

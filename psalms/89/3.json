@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Want ik heb gezegd: voor eeuwig ⟨wordt⟩ chesed gebouwd; ⟨in⟩ de hemelen vestigt u uw trouw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ik heb gezegd"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "wordt gebouwd"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "vestigt u"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "uw trouw"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:26.500621295Z",
+  "model": "glm-5.3"
+}

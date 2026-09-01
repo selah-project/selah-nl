@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 5:11",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Wee hun die vroeg in de morgen opstaan om sterke drank na te jagen, die tot in de schemering voortdrinken — wijn doet hen vlammen!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "die vroeg opstaan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sterke drank"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "na te jagen"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "die voortdrinken tot"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "in de schemering"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wijn"
+    },
+    {
+      "surface": "ידליקם",
+      "gloss": "doet hen vlammen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:48.262962753Z",
+  "model": "glm-5.3"
+}

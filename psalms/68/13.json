@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Koningen van legers vluchten, vluchten zij, en ⟨de⟩ thuisblijvende ⟨vrouw⟩ deelt de buit.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "koningen"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "van legers"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "vluchten"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "vluchten zij"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "en ⟨de⟩ thuisblijvende"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨vrouw⟩ van het huis"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "deelt"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "de buit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:36.754779171Z",
+  "model": "glm-5.3"
+}

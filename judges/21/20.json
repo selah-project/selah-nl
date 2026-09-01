@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En zij geboden ⟨את⟩ de zonen van Binjamin, zeggende: Gaat en ligt in hinderlaag in de wijngaarden,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en zij geboden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zonen van Binjamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gaat"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "en ligt in hinderlaag"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "in de wijngaarden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:41:14.628346874Z",
+  "model": "glm-5.3"
+}

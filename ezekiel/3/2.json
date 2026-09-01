@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Toen opende ik mijn mond, en Hij liet mij ⟨את⟩ deze rol eten.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Toen opende ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn mond"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "en Hij liet mij eten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze rol"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "de rol"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T21:42:16.294262898Z",
+  "model": "glm-5.3"
+}

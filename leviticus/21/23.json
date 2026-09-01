@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Alleen tot het voorhangsel zal hij niet gaan, en tot het altaar zal hij niet naderen, want een gebrek is in hem; en hij zal ⟨את⟩ mijn heiligdommen niet ontheiligen, want ik, Jahweh, heilig hen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "het voorhangsel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "zal hij gaan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "zal hij naderen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מום",
+      "gloss": "een gebrek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in hem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "zal hij ontheiligen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn heiligdommen"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "mijn heiligdommen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "heilig hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:33.892016043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Naar alles wat ik ⟨את⟩ jou toon — ⟨את⟩ de vorm van de mishkan en ⟨את⟩ de vorm van al zijn gerei — zo zullen jullie ⟨het⟩ maken.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "naar alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "toon"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vorm van de mishkan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "de vorm"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "van de mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de vorm van al zijn gerei"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "de vorm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zijn gerei"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "zullen jullie maken"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:25.599286855Z",
+  "model": "glm-5.3"
+}

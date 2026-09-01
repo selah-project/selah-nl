@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Er is een kwaad dat ik gezien heb onder de zon, en het ⟨is⟩ zwaar op de mens.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Er is"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "een kwaad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ik gezien heb"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "en zwaar"
+    },
+    {
+      "surface": "היא",
+      "gloss": "het"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:12.697605365Z",
+  "model": "glm-5.3"
+}

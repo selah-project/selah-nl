@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Hij zond onder hen ⟨de⟩ zwermen ⟨van⟩ steekvliegen, en die verslonden hen; en kikkers, en die verwoestten hen.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Hij zond"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onder hen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "zwermen steekvliegen"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "en die verslonden hen"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "en kikkers"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "en die verwoestten hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:05.901925353Z",
+  "model": "glm-5.3"
+}

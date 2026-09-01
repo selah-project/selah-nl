@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Neem ⟨את⟩ het hoofd op van heel de vergadering van de zonen van Jisraël, naar hun geslachten, naar het huis van hun vaders, in het getal van namen, elke mannelijke, per schedel:",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "neem op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hoofd"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "het hoofd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "naar hun geslachten"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "naar het huis"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "van hun vaders"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "in het getal"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "van namen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mannelijke"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "per schedel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:13.081174120Z",
+  "model": "glm-5.3"
+}

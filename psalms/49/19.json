@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Want zijn nefesj (levenskracht) zegent hij bij zijn leven, en ⟨men⟩ prijst u wanneer gij uzelf goed doet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn nefesj"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "bij zijn leven"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "zegent hij"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "en prijst u"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "goed doet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "uzelf"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:59.989116822Z",
+  "model": "glm-5.3"
+}

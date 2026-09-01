@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "De lip van waarheid houdt ⟨stand⟩ voor eeuwig, maar maar een ogenblik ⟨duurt⟩ de tong van leugen.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "de lip"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "van waarheid"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "houdt ⟨stand⟩"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "maar"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "een ogenblik"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "de tong"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leugen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:30.557486542Z",
+  "model": "glm-5.3"
+}

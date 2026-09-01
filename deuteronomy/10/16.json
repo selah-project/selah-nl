@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En besnijdt de voorhuid van uw hart, en verhardt uw nek niet langer",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "En besnijdt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de voorhuid van uw hart"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "de voorhuid"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "van uw hart"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "uw nek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "verhardt"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "langer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:54.800857165Z",
+  "model": "glm-5.3"
+}

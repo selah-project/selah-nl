@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Een vruchtbare zoon ⟨is⟩ Jozef, een vruchtbare zoon aan een bron; dochters treden op de muur.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "vruchtbare"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "vruchtbare"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עין",
+      "gloss": "bron"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dochters"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "treden"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "שור",
+      "gloss": "muur"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:49.618709259Z",
+  "model": "glm-5.3"
+}

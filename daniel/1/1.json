@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "In het derde jaar van het koningschap van Jehojakim, koning van Jehoeda, kwam Nevuchadnetstsar, koning van Bavel, naar Jeroesjalajim, en hij belegerde ⟨het⟩.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "in het jaar"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "derde"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "van het koningschap"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevuchadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "naar Jeroesjalajim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "en hij belegerde"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "het (tegen het)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:15.502310151Z",
+  "model": "glm-5.3"
+}

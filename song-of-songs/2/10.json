@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Mijn dodi antwoordde en zei tot mij: Sta op, mijn ra'ja, mijn mooie, en kom, ga mee.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "antwoordde"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mijn dodi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "sta op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ga mee⟩"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mijn ra'ja"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "mijn mooie"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "en kom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga mee"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:41.545514165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Jehonatan zei tot Dawid: kom, laten wij naar het veld gaan. En zij gingen beiden naar het veld.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … zei"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "laten wij gaan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "naar het veld"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "En zij gingen"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "beiden"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "naar het veld"
+    }
+  ],
+  "timestamp": "2026-08-31T20:46:25.605880835Z",
+  "model": "glm-5.3"
+}

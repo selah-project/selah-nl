@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Kajin kende ⟨את⟩ zijn vrouw, en zij werd zwanger en baarde ⟨את⟩ Chanoch; en het gebeurde dat hij een stad bouwde, en hij noemde de naam van de stad naar de naam van zijn zoon Chanoch.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "en kende"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vrouw"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "en zij werd zwanger"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en baarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanoch"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanoch"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bouwde"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "een stad"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij noemde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "naar de naam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "van zijn zoon"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanoch"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:09.940609226Z",
+  "model": "glm-5.3"
+}

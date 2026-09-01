@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En je zult daar ⟨את⟩ de ark van de getuigenis plaatsen, en je zult voor de ark het ⟨את⟩ voorhangsel aanbrengen.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "en je zult plaatsen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van de getuigenis"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "van de getuigenis"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "en je zult afsluiten"
+    },
+    {
+      "surface": "על",
+      "gloss": "voor\/over"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het voorhangsel"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "het voorhangsel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:21.453982748Z",
+  "model": "glm-5.3"
+}

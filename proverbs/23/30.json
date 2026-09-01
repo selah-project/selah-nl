@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Voor hen die blijven bij de wijn, voor hen die komen om gemengde wijn te onderzoeken.",
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "voor hen die blijven"
+    },
+    {
+      "surface": "על",
+      "gloss": "bij"
+    },
+    {
+      "surface": "היין",
+      "gloss": "de wijn"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "voor hen die komen"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "om te onderzoeken"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "gemengde wijn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:51.511295359Z",
+  "model": "glm-5.3"
+}

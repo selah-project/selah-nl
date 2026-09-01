@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 81,
+  "translation": "Stoot op ⟨de⟩ sjofar bij de nieuwe maan, bij de volle maan, voor de dag van ons feest.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "stoot op"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "bij de nieuwe maan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "⟨de⟩ sjofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "bij de volle maan"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "voor de dag"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "van ons feest"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:24.043187244Z",
+  "model": "glm-5.3"
+}

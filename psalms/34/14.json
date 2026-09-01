@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Bewaart uw tong van het kwaad, en uw lippen van het spreken van bedrog.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "bewaart"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "uw tong"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "van het kwaad"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "en uw lippen"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "van het spreken"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "van bedrog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:09.957838976Z",
+  "model": "glm-5.3"
+}

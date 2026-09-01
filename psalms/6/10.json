@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Jahweh heeft mijn smeekbede gehoord, Jahweh zal mijn gebed aannemen.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "heeft gehoord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "mijn smeekbede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mijn gebed"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "zal aannemen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:12.553864453Z",
+  "model": "glm-5.3"
+}

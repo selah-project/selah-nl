@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En U omgordt mij met kracht voor de strijd; U doet mijn tegenstanders ⟨de knie buigen⟩ onder mij.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "en U omgordt mij"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "met kracht"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "voor de strijd"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "U doet buigen"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "mijn tegenstanders"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "onder mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:10.545162943Z",
+  "model": "glm-5.3"
+}

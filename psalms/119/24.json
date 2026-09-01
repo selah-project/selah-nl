@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ook zijn Uw getuigenissen mijn verrukking, de mannen van mijn raad.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "Uw getuigenissen"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "mijn verrukking"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "de mannen van"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "mijn raad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:31.192904473Z",
+  "model": "glm-5.3"
+}

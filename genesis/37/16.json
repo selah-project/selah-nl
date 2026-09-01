@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En hij zei: ⟨את⟩ mijn broeders zoek ik. Vertel het mij toch, waar zij ⟨de kudde⟩ hoeden?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn broeders"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mijn broeders"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "zoek"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "vertel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "לי",
+      "gloss": "het mij"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zij"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "hoeden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:28.548669103Z",
+  "model": "glm-5.3"
+}

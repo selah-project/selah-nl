@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 63,
+  "translation": "Waarom ⟨is⟩ uw gewaad rood, en uw klederen als van iemand die trapt in de wijnpers?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "rood"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "uw gewaad"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "en uw klederen"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "als van iemand die trapt"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "in de wijnpers"
+    }
+  ],
+  "timestamp": "2026-08-31T21:25:44.578469522Z",
+  "model": "glm-5.3"
+}

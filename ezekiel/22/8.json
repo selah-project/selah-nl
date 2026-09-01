@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Mijn heilige dingen heb jij veracht, en ⟨את⟩ mijn sabbatten heb jij ontheiligd.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Mijn heilige dingen"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "heb jij veracht"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mijn sabbatten"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mijn sabbatten"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "heb jij ontheiligd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:46:10.080548284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 27:22",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Al pletst gij ⟨את⟩ de dwaas in een vijzel, tussen gestampte ⟨korrels⟩, met een stamper, zijn dwaasheid wijkt niet van hem.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "al"
+    },
+    {
+      "surface": "תכתוש",
+      "gloss": "pletst gij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dwaas"
+    },
+    {
+      "surface": "האויל",
+      "gloss": "de dwaas"
+    },
+    {
+      "surface": "במכתש",
+      "gloss": "in een vijzel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "הריפות",
+      "gloss": "gestampte korrels"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "met een stamper"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "wijkt"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "van hem"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "zijn dwaasheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:27.580083121Z",
+  "model": "glm-5.3"
+}

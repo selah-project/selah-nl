@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En de kinderen van Israël gingen heen en deden ⟨het⟩; zoals Jahweh ⟨את⟩ Mosjee en Aharon geboden had, zo deden zij.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "En gingen heen"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "en deden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboden had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosjee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "deden zij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:51.019027666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Jahweh heeft ⟨את⟩ zijn voorraadhuis geopend en de wapens van zijn toorn naar buiten gebracht, want een werk is het voor Adonai Jahweh Tsévaot in het land van de Kasdim.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "heeft geopend"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn voorraadhuis"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "zijn voorraadhuis"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "en naar buiten gebracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de wapens"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "de wapens"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "van zijn toorn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "een werk"
+    },
+    {
+      "surface": "היא",
+      "gloss": "het is"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "voor Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsévaot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "van de Kasdim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:23:39.056485645Z",
+  "model": "glm-5.3"
+}

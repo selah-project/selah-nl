@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Verwijder de goddeloze van voor het aangezicht van de koning, en zijn troon wordt ⟨vestigd⟩ in gerechtigheid.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "verwijder"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "van voor het aangezicht"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "wordt vestigd"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "in gerechtigheid"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "zijn troon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:03.129318817Z",
+  "model": "glm-5.3"
+}

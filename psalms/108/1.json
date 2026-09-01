@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 108,
+  "translation": "Een zangstuk, een psalm van Dawid.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "een zangstuk"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:23.291031529Z",
+  "model": "glm-5.3"
+}

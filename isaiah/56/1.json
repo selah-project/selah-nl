@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 56,
+  "translation": "Zo heeft Jahweh gezegd: bewaart het recht en doet gerechtigheid, want mijn heil is nabij om te komen en mijn gerechtigheid om geopenbaard te worden.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bewaart"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "het recht"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "en doet"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "gerechtigheid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "is nabij"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mijn heil"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "om te komen"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "en mijn gerechtigheid"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "om geopenbaard te worden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:58.425521949Z",
+  "model": "glm-5.3"
+}

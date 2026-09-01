@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Want de goddeloze roemt over de begeerte van zijn nefesj; de winstegerige zegent ⟨en⟩ veracht Jahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "roemt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "de begeerte"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "van zijn nefesj"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "de winstegerige"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "zegent"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "veracht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:14.826450463Z",
+  "model": "glm-5.3"
+}

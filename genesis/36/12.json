@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 36:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En Timna was bijvrouw van Elifaz, zoon van Esav; en zij baarde aan Elifaz ⟨את⟩ Amalek. Dit zijn de zonen van Ada, vrouw van Esav.",
+  "tokens": [
+    {
+      "surface": "ותמנע",
+      "gloss": "En Timna"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "bijvrouw"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "van Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en zij baarde"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "aan Elifaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dit zijn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vrouw van"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:57.910206955Z",
+  "model": "glm-5.3"
+}

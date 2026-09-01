@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Want wie Jahweh liefheeft, ⟨את⟩ ⟨dieu⟩ bestraft hij, en als een vader ⟨את⟩ de zoon in wie hij welbehagen heeft.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wie Jahweh liefheeft"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "liefheeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "bestraft"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "en als een vader"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zoon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "in wie hij welbehagen heeft"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:47.806549815Z",
+  "model": "glm-5.3"
+}

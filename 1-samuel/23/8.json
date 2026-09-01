@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En Sjaoel riep ⟨את⟩ het hele volk tot de strijd op, om af te dalen naar Keïla, om Dawid en zijn mannen te belegeren.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "riep op"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hele volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "het hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "tot de strijd"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "om af te dalen"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "naar Keïla"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "om te belegeren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tegen"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "zijn mannen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:18.512629135Z",
+  "model": "glm-5.3"
+}

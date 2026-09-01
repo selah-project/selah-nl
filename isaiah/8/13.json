@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "⟨את⟩ Jahweh Tsevaot — ⟨את⟩ hem zult gij heiligen; en hij is jullie vrees, en hij is jullie schrik.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (Jahweh)"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "zult gij heiligen"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "jullie vrees"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "jullie schrik"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:56.787562885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Zij dronken wijn en prezen de goden van goud en zilver, koper, ijzer, hout en steen.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "zij dronken"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "wijn"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "en prezen"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "de goden"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "en zilver"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "koper"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "ijzer"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "hout"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "en steen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:47:46.126035828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Mijn lippen laten lof ontstromen, want U onderwijst mij Uw verordeningen.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "laten ontstromen"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mijn lippen"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lof"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "U onderwijst mij"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "Uw verordeningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:56.349915462Z",
+  "model": "glm-5.3"
+}

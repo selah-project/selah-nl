@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Mogen je ogen ⟨recht⟩ vooruit kijken, en je oogleden zich recht houden ⟨vlak⟩ voor je.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "je ogen"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "recht ⟨vooruit⟩"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "kijken"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "en je oogleden"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "zich recht houden"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "⟨vlak⟩ voor je"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:58.815642362Z",
+  "model": "glm-5.3"
+}

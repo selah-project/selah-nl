@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Dan zullen zij mij aanroepen, maar ik zal niet antwoorden; zij zullen mij vroeg zoeken, maar mij niet vinden.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "zullen zij mij aanroepen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "zal ik antwoorden"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "zullen zij mij vroeg zoeken"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "mij vinden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:48.165532975Z",
+  "model": "glm-5.3"
+}

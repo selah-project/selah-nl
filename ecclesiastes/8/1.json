@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Wie ⟨is⟩ als de wijze, en wie kent de uitleg van een zaak? De wijsheid van een mens doet zijn gezicht stralen, en de hardheid van zijn gezicht wordt veranderd.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "als de wijze"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "de uitleg"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "van een zaak"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "de wijsheid"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van een mens"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "doet stralen"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zijn gezicht"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "en de hardheid"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "van zijn gezicht"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "wordt veranderd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:34.959658132Z",
+  "model": "glm-5.3"
+}

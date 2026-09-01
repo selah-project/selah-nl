@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij nam ⟨את⟩ het vet en ⟨את⟩ de staart en ⟨את⟩ al het vet dat op de ingewanden is, en ⟨את⟩ de uitwas van de lever, en ⟨את⟩ de twee nieren en ⟨את⟩ hun vet, en ⟨את⟩ de dij van de rechterzijde.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het vet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "het vet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de staart"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "de staart"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al het vet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "het vet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "de ingewanden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de uitwas"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "de uitwas"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "van de lever"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de twee nieren"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de twee"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "nieren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hun vet"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "hun vet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de dij"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "de dij"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "van de rechterzijde"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:17.794111910Z",
+  "model": "glm-5.3"
+}

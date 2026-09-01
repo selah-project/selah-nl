@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Omdat hij geen rust kende in zijn binnenste, zal hij met zijn begeerde niet ontkomen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hij kende"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "rust"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "in zijn binnenste"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "met zijn begeerde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "zal hij ontkomen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:34:39.741419668Z",
+  "model": "glm-5.3"
+}

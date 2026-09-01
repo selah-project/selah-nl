@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En dit zal zijn onreinheid zijn in zijn vloed: vlees dat laat lopen ⟨את⟩ zijn vloed, of zijn vlees wordt afgesloten van zijn vloed — zijn onreinheid is dat.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "zijn onreinheid"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "in zijn vloed"
+    },
+    {
+      "surface": "רר",
+      "gloss": "laat lopen"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "zijn vlees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vloed"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "zijn vloed"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "wordt afgesloten"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "zijn vlees"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "van zijn vloed"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "zijn onreinheid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is dat"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:45.848642133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 52,
+  "translation": "Toen Doëg de Edomiet kwam en aan Sjaoel berichtte en tot hem zei: David is gekomen naar het huis van Achimelech.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "toen … kwam"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doëg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "de Edomiet"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en berichtte"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "aan Sjaoel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "is gekomen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelech"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:01.578589935Z",
+  "model": "glm-5.3"
+}

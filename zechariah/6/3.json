@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "en in de derde strijdwagen ⟨waren⟩ witte paarden, en in de vierde strijdwagen ⟨waren⟩ gespikkelde, sterke paarden.",
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "en in de derde"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "strijdwagon derde"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "paarden"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "witte"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "en in de vierde"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "strijdwagon vierde"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "paarden"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "gespikkelde"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "sterke"
+    }
+  ],
+  "timestamp": "2026-08-31T22:03:23.105491403Z",
+  "model": "glm-5.3"
+}

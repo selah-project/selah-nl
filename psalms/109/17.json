@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Hij had de vloek lief en ⟨die⟩ kwam over hem; hij had geen behagen in de zegen en ⟨die⟩ bleef verre van hem.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "hij had lief"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "de vloek"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "en kwam over hem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "had behagen"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "in de zegen"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "en bleef verre"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:55.940514879Z",
+  "model": "glm-5.3"
+}

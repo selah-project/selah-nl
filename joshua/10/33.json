@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 10:33",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Toen trok Horam, de koning van Gezer, op om Lakish te helpen; en Jehosjoea sloeg hem en ⟨את⟩ zijn volk, tot hij hem geen overlevende overliet.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Toen"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "trok op"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Horam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "van Gezer"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "om te helpen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lakish"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakish"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "en sloeg hem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "niet"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "hij overliet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "overlevende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:31:57.993206577Z",
+  "model": "glm-5.3"
+}

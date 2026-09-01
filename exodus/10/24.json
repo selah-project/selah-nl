@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Par'o riep tot Mosjee en zei: Ga, dien ⟨את⟩ Jahweh; alleen uw kleinvee en uw rundvee moet achterblijven, ook uw kinderen mogen met u meegaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "En hij riep"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "dient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "uw kleinvee"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "en uw rundvee"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "moet blijven staan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "uw kinderen"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "mogen gaan"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met u"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:39.392494986Z",
+  "model": "glm-5.3"
+}

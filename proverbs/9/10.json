@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Het begin van wijsheid ⟨is⟩ de vreze van Jahweh, en kennis van de heiligen ⟨is⟩ inzicht.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "het begin van"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "de vreze van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "en kennis van"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "de heiligen"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "inzicht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:35.211751821Z",
+  "model": "glm-5.3"
+}

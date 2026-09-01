@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En zij zullen Mij een heiligdom maken, en Ik zal wonen in hun midden.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "en zij zullen maken"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mij"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "een heiligdom"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "en Ik zal wonen"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "in hun midden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:16.205866943Z",
+  "model": "glm-5.3"
+}

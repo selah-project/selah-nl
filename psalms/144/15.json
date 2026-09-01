@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 144,
+  "translation": "Gelukkig ⟨is⟩ het volk dat zó ⟨vergaard⟩ heeft; ja, gelukkig ⟨is⟩ het volk wiens Elohim Jahweh ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "zó"
+    },
+    {
+      "surface": "לו",
+      "gloss": "het heeft"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "dat Jahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "zijn Elohim is"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:05.318252292Z",
+  "model": "glm-5.3"
+}

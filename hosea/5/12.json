@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Ik ben als een mot voor Efrajim, en als rottenis voor het huis van Jehoeda.",
+  "tokens": [
+    {
+      "surface": "ו אני",
+      "gloss": "En Ik"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "als een mot"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "voor Efrajim"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "en als rottenis"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "voor het huis"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T21:53:59.806668631Z",
+  "model": "glm-5.3"
+}

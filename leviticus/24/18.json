@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En wie een dier slaat, zal het vergoeden: nefesj onder ⟨de⟩ nefesj.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "En wie slaat"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "een leven"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "van een dier"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "zal het vergoeden"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder\/in plaats van"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:20.889605148Z",
+  "model": "glm-5.3"
+}

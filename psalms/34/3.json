@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "In Jahweh roemt mijn nefesj; de ootmoedigen zullen ⟨het⟩ horen en zich verblijden.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "In Jahweh"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "roemt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj (mijn leven)"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "zullen horen"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ootmoedigen"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "en zich verblijden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:14.453395070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En hij maakte ⟨את⟩ het brandofferaltaar van acaciahout, vijf el zijn lengte en vijf el zijn breedte, vierkant, en drie el zijn hoogte.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het brandofferaltaar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia's"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "zijn lengte"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "en vijf"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "zijn breedte"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "vierkant"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "en drie"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "zijn hoogte"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:24.458644861Z",
+  "model": "glm-5.3"
+}

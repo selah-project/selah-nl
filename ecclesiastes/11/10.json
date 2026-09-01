@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En verwijder ergernis uit je hart, en doe kwaad wijken uit je vlees; want de jeugd en het zwart van het haar ⟨zijn⟩ hevel.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "En verwijder"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ergernis"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "uit je hart"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "en doe wijken"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "uit je vlees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "de jeugd"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "het zwart van het haar"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:24.600183390Z",
+  "model": "glm-5.3"
+}

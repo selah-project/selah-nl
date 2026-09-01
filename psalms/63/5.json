@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 63,
+  "translation": "Zo zal ik U zegenen zolang ik leef; in Uw naam hef ik mijn handpalmen omhoog.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "zal ik U zegenen"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "zolang ik leef"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "in Uw naam"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "hef ik omhoog"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mijn handpalmen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.898125159Z",
+  "model": "glm-5.3"
+}

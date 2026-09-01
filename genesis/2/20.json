@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de mens gaf namen aan al het vee en aan het gevogelte van de hemel en aan alle dieren van het veld; maar voor de mens werd geen hulp gevonden, tegenover hem.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij gaf namen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan al"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "en aan het gevogelte"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van de hemel"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "en aan alle"
+    },
+    {
+      "surface": "חית",
+      "gloss": "dieren"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van het veld"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "maar voor de mens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "werd gevonden"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "een hulp"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "tegenover hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:52.100313926Z",
+  "model": "glm-5.3"
+}

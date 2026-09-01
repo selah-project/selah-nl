@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "en u zult daarheen brengen uw brandoffers en uw slachtoffers, en ⟨את⟩ uw tienden en ⟨את⟩ de hefoffers van uw hand, en uw geloften en uw vrijwillige gaven, en de eerstgeborenen van uw rundvee en uw kleinvee.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "en u zult brengen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "uw brandoffers"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "en uw slachtoffers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uw tienden"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "uw tienden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de hefoffers"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "de hefoffers"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "van uw hand"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "en uw geloften"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "en uw vrijwillige gaven"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "en de eerstgeborenen"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "van uw rundvee"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "en uw kleinvee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:28.094026487Z",
+  "model": "glm-5.3"
+}

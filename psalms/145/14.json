@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Jahweh steunt alle vallenden, en richt alle gebogenen op.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "steunt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "vallenden"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "en richt op"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "gebogenen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:16.772194362Z",
+  "model": "glm-5.3"
+}

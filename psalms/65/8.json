@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "Die het geraas der zeeën stillegt, het geraas van hun golven, en het tumult der volken.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "stillegt"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "het geraas"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "der zeeën"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "het geraas"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "van hun golven"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "en het tumult"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "der volken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:47.759399676Z",
+  "model": "glm-5.3"
+}

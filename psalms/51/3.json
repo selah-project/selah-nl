@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Wees mij genadig, Elohim, naar jouw chesed; naar de veelheid van jouw ontfermingen, wis mijn overtredingen uit.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Wees mij genadig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "naar jouw chesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "naar de veelheid"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "van jouw ontfermingen"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "wis uit"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mijn overtredingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:30.486952754Z",
+  "model": "glm-5.3"
+}

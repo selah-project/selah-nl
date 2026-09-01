@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Wanneer ik zei: mijn voet wankelt — uw chesed, Jahweh, ondersteunt mij.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ik zei"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "wankelt"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mijn voet"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "ondersteunt mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:02.459008805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En als je in mijn wegen wandelt, mijn verordeningen en mijn geboden bewaart, zoals Dawid je vader gewandeld heeft, dan zal ik je dagen verlengen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En als"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "je wandelt"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "in mijn wegen"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te bewaren"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "mijn verordeningen"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "en mijn geboden"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gewandeld heeft"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "je vader"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "dan zal ik verlengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je dagen"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "je dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:58.053229949Z",
+  "model": "glm-5.3"
+}

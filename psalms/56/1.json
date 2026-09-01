@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 56,
+  "translation": "Voor de koorleider; over 'de duif van stilte, ver weg' — van David, een miktam, toen de Pelisjtim ⟨את⟩ hem grepen in Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Voor de koorleider"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "de duif van"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "stilte"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "ver weg"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "een miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "toen grepen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (David), het gegrepene"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Pelisjtim"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "in Gat"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:52.235202293Z",
+  "model": "glm-5.3"
+}

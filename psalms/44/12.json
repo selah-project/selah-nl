@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "U geeft ons als schapen ⟨om⟩ opgegeten te worden, en onder de volken hebt u ons uitgestrooid.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "geeft u ons"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "als schapen"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "⟨om⟩ opgegeten te worden"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "en onder de volken"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "hebt u ons uitgestrooid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:35.038729184Z",
+  "model": "glm-5.3"
+}

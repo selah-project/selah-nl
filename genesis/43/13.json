@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "En ⟨את⟩ jullie broeder, neem ⟨hem⟩, en sta op, keer terug naar de man.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jullie broeder"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jullie broeder"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "neem"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "en sta op"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:05.665351899Z",
+  "model": "glm-5.3"
+}

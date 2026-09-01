@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En hij zal zijn schuldboete brengen aan Jahweh, naar de ingang van de tent der samenkomst: een ram als schuldoffer.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "en hij zal brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn schuldboete"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "zijn schuldboete"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "de ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der samenkomst"
+    },
+    {
+      "surface": "איל",
+      "gloss": "een ram"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "als schuldoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:14.101816521Z",
+  "model": "glm-5.3"
+}

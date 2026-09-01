@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Geslacht aan geslacht zal Uw werken prijzen, en Uw machtige daden zullen zij verkondigen.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Geslacht"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "aan geslacht"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "zal prijzen"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "Uw werken"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "en Uw machtige daden"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "zullen zij verkondigen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:07.969124762Z",
+  "model": "glm-5.3"
+}

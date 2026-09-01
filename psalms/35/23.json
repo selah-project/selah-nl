@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Ontwaak en word wakker ⟨voor⟩ mijn rechtszaak, mijn Elohim en mijn Adonai, ⟨voor⟩ mijn geschil!",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "ontwaak"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "en word wakker"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "⟨voor⟩ mijn rechtszaak"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "en mijn Adonai"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "⟨voor⟩ mijn geschil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:06.843928989Z",
+  "model": "glm-5.3"
+}

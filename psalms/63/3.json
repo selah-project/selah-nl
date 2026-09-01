@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 63,
+  "translation": "Zo heb ik u in het heiligdom aanschouwd, om uw macht te zien en uw kavod.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in het heiligdom"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "heb ik u aanschouwd"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "uw macht"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "en uw kavod"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.331762850Z",
+  "model": "glm-5.3"
+}

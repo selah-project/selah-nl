@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Avram nam ⟨את⟩ Sarai zijn vrouw, en ⟨את⟩ Lot de zoon van zijn broer, en ⟨את⟩ al hun bezit dat zij verworven hadden, en ⟨את⟩ de nefesj die zij gemaakt hadden in Charan; en zij trokken uit om te gaan naar het land Kenaan, en zij kwamen in het land Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarai"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "van zijn broer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al hun bezit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "hun bezit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "zij verworven hadden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de nefesj"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "de nefesj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zij gemaakt hadden"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "in Charan"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "en zij trokken uit"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "naar het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en zij kwamen"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:07.794395042Z",
+  "model": "glm-5.3"
+}

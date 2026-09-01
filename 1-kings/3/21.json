@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En ik stond op in de morgen om mijn zoon te zogen, en zie, ⟨hij was⟩ dood; en ik bekeek hem goed in de morgen, en zie, het was niet mijn zoon die ik gebaard had.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "en ik stond op"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "om te zogen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn zoon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dood"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "en ik bekeek goed"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "ik gebaard had"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:55.580082011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Jahweh had het oor van Sjemoeël onthuld, één dag voordat Sjaoel kwam, zeggende:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "had onthuld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het oor van Sjemoeël"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "het oor"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "van Sjemooël"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:44:14.808019470Z",
+  "model": "glm-5.3"
+}

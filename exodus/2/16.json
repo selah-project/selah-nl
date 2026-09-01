@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En ⟨er waren⟩ zeven dochters voor de priester van Midjan, en zij kwamen en zijputten water en zij vulden ⟨את⟩ de troggen om de kudde van hun vader te laten drinken.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "en ⟨voor⟩ de priester"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "van Midjan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dochters"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "en zij kwamen"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "en zij putten water"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "en zij vulden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de troggen"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "de troggen"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "om te laten drinken"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "de kudde"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "van hun vader"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:35.273708887Z",
+  "model": "glm-5.3"
+}

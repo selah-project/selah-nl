@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En de koning van Israël zei tot zijn dienaren: Weten jullie ⟨את⟩ dit — dat Ramot in Gil'ad van ons is — en wij zwijgen ⟨aan⟩ het nemen ervan uit de hand van de koning van Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "weten jullie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "van ons"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "en wij"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "zwijgen"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "het nemen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (Ramot-Gil'ad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand van"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:33.966005721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 58,
+  "translation": "Als een slak die wegsmelt, zo gaat ⟨hij⟩ voort; ⟨als⟩ een miskraam van een vrouw — zij zullen de zon niet zien.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "een slak"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "wegsmelt"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "zo gaat ⟨hij⟩ voort"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "een miskraam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "van een vrouw"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "zien"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "de zon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:43.767979777Z",
+  "model": "glm-5.3"
+}

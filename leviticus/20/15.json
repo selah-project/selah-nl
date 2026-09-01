@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En een man die zijn bijliggen geeft aan een beest — dood zal hij gedood worden, en ⟨את⟩ het beest zult gij doden.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "En een man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "zijn bijliggen"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "aan een beest"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal hij gedood worden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het beest"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "het beest"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "zult gij doden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:59.736606153Z",
+  "model": "glm-5.3"
+}

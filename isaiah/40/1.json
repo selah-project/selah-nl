@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Troost, troost mijn volk, zal jullie Elohim zeggen.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Troost"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "troost"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zal zeggen"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:18.090869674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En ik heb daar een plaats bereid voor de aron ⟨את⟩, waarin ⟨is⟩ het verbond van Jahweh, dat hij sneed met onze vaders, toen hij hen deed uittrekken uit het land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "en ik heb bereid"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "een plaats"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "voor de aron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "het verbond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sneed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "onze vaders"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "toen hij deed uittrekken"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:41.745155412Z",
+  "model": "glm-5.3"
+}

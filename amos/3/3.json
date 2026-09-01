@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Gaan twee samen ⟨op weg⟩, zonder dat zij ⟨een afspraak⟩ gemaakt hebben?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Gaan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "samen"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "zonder dat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "zij een afspraak gemaakt hebben"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:48.039671965Z",
+  "model": "glm-5.3"
+}

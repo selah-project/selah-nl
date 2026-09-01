@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Ik ben uitgeput door mijn roepen, mijn keel is geschroeid, mijn ogen zijn vergaan ⟨terwijl ik⟩ wacht op mijn Elohim.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "ik ben uitgeput"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "door mijn roepen"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "is geschroeid"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "mijn keel"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "zijn vergaan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn ogen"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "wacht"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "op mijn Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:47.783123932Z",
+  "model": "glm-5.3"
+}

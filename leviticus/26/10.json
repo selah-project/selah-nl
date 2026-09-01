@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En jullie zullen oud voorraad eten, lang bewaard, en het oude zult jullie weghalen vanwege het nieuwe.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "En jullie zullen eten"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "oud ⟨voorraad⟩"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "lang bewaard"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "en het oude"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanvoor\/vanwege"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "het nieuwe"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "zullen jullie wegbrengen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:03.173064783Z",
+  "model": "glm-5.3"
+}

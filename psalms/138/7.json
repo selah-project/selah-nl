@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 138,
+  "translation": "Als ik wandel in het midden van benauwdheid, maakt Gij mij leven; tegen de woede van mijn vijanden strekt Gij ⟨ Uw ⟩ hand uit, en ⟨ Uw ⟩ rechterhand redt mij.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ik wandel"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "benauwdheid"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "maakt Gij mij leven"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "de woede"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "van mijn vijanden"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "strekt Gij uit"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Uw hand"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "en redt mij"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "Uw rechterhand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:37.490828405Z",
+  "model": "glm-5.3"
+}

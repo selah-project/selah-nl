@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Hoog ⟨verheven⟩ is wijsheid voor een dwaas; in de poort opent hij zijn mond niet.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "hoog verheven"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "voor een dwaas"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in de poort"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "opent hij"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "zijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:41.916096401Z",
+  "model": "glm-5.3"
+}

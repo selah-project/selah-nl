@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Die onberispelijk wandelt en recht doet, en waarheid spreekt in zijn hart;",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "wandelt"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "onberispelijk"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "en doet"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "recht"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "en spreekt"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waarheid"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "in zijn hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:18.298730035Z",
+  "model": "glm-5.3"
+}

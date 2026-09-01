@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En alle oudsten en alle ⟨andere⟩ mensen zeiden tegen hem: luister niet ⟨naar hem⟩ en wil niet ⟨toestemmen⟩.'",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zeiden"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tegen hem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "oudsten"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "wil toestemmen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:24.753060816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Vertel onder de volken ⟨את⟩ zijn heerlijkheid, onder alle volken zijn wonderdaden.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "vertel"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder de natiën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn heerlijkheid"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "zijn heerlijkheid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "onder alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "zijn wonderdaden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:00:29.589558519Z",
+  "model": "glm-5.3"
+}

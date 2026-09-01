@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 125,
+  "translation": "Want de scepter van de goddelozen zal niet rusten op het lot van de rechtvaardigen, opdat de rechtvaardigen hun handen niet uitstrekken naar onrecht.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "zal rusten"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "de scepter"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "het lot"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "van de rechtvaardigen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "uitstrekken"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "de rechtvaardigen"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "naar onrecht"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hun handen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:45.997741621Z",
+  "model": "glm-5.3"
+}

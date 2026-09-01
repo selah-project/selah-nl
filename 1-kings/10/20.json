@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En twaalf leeuwen stonden daar, op de zes treden, aan deze en aan die ⟨zijde⟩; niet was zoiets gemaakt voor enig koninkrijk.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "En twaalf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-tien"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "leeuwen"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stonden"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zes"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "treden"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "aan deze"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "en aan die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "was gemaakt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zoiets"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "voor enig"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "koninkrijk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:52.800694843Z",
+  "model": "glm-5.3"
+}

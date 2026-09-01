@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En Avraham zei tot hem: pas op voor jezelf, dat je mijn zoon ⟨את⟩ niet daarheen terugbrengt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "pas op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jezelf"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dat ... niet"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "jij terugbrengt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn zoon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:08.316702510Z",
+  "model": "glm-5.3"
+}

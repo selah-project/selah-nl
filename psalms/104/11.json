@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Zij drenken al het gedierte van het veld; de wilde ezels lessen hun dorst.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "zij drenken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "het gedierte"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "van het veld"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "lessen"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "de wilde ezels"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "hun dorst"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:42.367860368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Vertrouw op Jahweh met heel je hart, en steun niet op je eigen inzicht.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Vertrouw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met heel"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "je hart"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet op"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "je eigen inzicht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "steun"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:53.019398589Z",
+  "model": "glm-5.3"
+}

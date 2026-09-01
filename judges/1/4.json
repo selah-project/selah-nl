@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jehoeda trok op, en Jahweh gaf ⟨את⟩ de Kanaäniet en de Perizzi in hun hand; en zij sloegen hen in Bézek, tienduizend man.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "en hij trok op"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en gaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Kanaäniet"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "de Kanaäniet"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "en de Perizzi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "in hun hand"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "en zij sloegen hen"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "in Bézek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-31T20:35:02.636573785Z",
+  "model": "glm-5.3"
+}

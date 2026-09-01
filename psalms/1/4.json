@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Niet zo de goddelozen, maar als kaf dat de wind wegvoert.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Niet"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨versterkend⟩"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "als kaf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "de wind wegvoert"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:02.341321454Z",
+  "model": "glm-5.3"
+}

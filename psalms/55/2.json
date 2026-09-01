@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Schenk gehoor, Elohim, aan mijn gebed, en verberg u niet voor mijn smeeking.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "schenk gehoor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "aan mijn gebed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "verberg u"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "voor mijn smeeking"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:03.607209683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Noach werd wakker uit zijn wijn, en hij wist ⟨את⟩ wat zijn jongste zoon hem gedaan had.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "en werd wakker"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "uit zijn wijn"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "en hij wist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat zijn jongste zoon hem gedaan had"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedaan had"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "de jongste"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:46.942753689Z",
+  "model": "glm-5.3"
+}

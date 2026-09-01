@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "U wacht stil ⟨de⟩ lof, Elohim, in Tsiyon; en u zal ⟨de⟩ gelofte volbracht worden.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "U"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "stil"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lof"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tsiyon"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "en u"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zal volbracht worden"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "gelofte"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:03.807833672Z",
+  "model": "glm-5.3"
+}

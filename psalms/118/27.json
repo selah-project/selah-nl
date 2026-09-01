@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "El ⟨is⟩ Jahweh en hij heeft ons doen oplichten: bind het feest ⟨met⟩ touwen, tot aan de hoornen van het altaar.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "en hij heeft doen oplichten"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "bind"
+    },
+    {
+      "surface": "חג",
+      "gloss": "het feest"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "⟨met⟩ touwen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "de hoornen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:11.771048959Z",
+  "model": "glm-5.3"
+}

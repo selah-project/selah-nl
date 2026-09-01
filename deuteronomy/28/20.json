@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Jahweh zal tegen jou ⟨את⟩ de vloek, ⟨את⟩ de verwarring en ⟨את⟩ de bestraffing zenden, in alles wat je hand onderneemt te doen, tot je verwoest bent en tot je snel vergaat, vanwege de slechtheid van je daden, waardoor je Mij verlaten hebt.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "zal zenden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tegen jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vloek"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "de vloek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de verwarring"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "de verwarring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de bestraffing"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "de bestraffing"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in alles"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "wat je onderneemt"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "je hand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "te doen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "je verwoest bent"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "je vergaat"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "snel"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "רע",
+      "gloss": "de slechtheid"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "van je daden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waardoor"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "je Mij verlaten hebt"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:25.463094108Z",
+  "model": "glm-5.3"
+}

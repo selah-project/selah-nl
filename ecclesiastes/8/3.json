@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Wees niet haastig om uit zijn tegenwoordigheid te gaan; houd niet stand in een slechte zaak, want alles wat hem behaagt doet hij.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "wees niet haastig"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "uit zijn tegenwoordigheid"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "houd niet stand"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "in een zaak"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slechte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "hem behaagt"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "doet hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:34.960141264Z",
+  "model": "glm-5.3"
+}

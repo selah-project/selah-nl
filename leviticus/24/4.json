@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Op de zuivere menora zal hij ⟨את⟩ de lampen schikken, voor het aangezicht van Jahweh, voortdurend.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "de menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "zuivere"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "zal hij schikken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de lampen"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "de lampen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:56.919449428Z",
+  "model": "glm-5.3"
+}

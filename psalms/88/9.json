@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "Ver weg heb je mijn bekenden van mij ⟨gemaakt⟩; je hebt mij tot een gruwel voor hen gesteld; opgesloten — en ik kan er niet uit.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "ver weg heb je gemaakt"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "mijn bekenden"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "je hebt mij gesteld"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "tot een gruwel"
+    },
+    {
+      "surface": "למו",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "opgesloten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "kan ik er uit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:01.388145862Z",
+  "model": "glm-5.3"
+}

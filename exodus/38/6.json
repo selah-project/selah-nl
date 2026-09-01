@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En hij maakte ⟨את⟩ de stangen van acacia-hout en overtrok ze met koper.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stangen"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "de stangen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia's (sitjiem)"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "en overtrok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ze",
+      "marks": "ze (de stangen)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "met koper"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:52.971255242Z",
+  "model": "glm-5.3"
+}

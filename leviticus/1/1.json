@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij riep tot Mosjee, en Jahweh sprak tot hem uit de tent van samenkomst, zeggende:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "En hij riep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "en sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "uit de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:25.812627592Z",
+  "model": "glm-5.3"
+}

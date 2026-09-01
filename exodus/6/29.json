@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 6:29",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Jahweh sprak tot Mosjee, zeggende: Ik ben Jahweh; spreek tot Par'o, koning van Mitsrajim, ⟨את⟩ alles wat ik tot jou spreek.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot jou"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:39.176235356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Een tiende zul jij vertienen: ⟨את⟩ alle opbrengst van jouw zaad, ⟨dat⟩ uit het veld komt, jaar na jaar.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "een tiende"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "zul jij vertienen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle opbrengst van jouw zaad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "opbrengst"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "van jouw zaad"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "komt uit"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "het veld"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "na jaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:31.513460002Z",
+  "model": "glm-5.3"
+}

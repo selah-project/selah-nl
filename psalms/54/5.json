@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 54,
+  "translation": "Want vreemden zijn tegen mij opgestaan, en geweldenaars zoeken mijn nefesj ⟨leven⟩; zij hebben Elohim niet gesteld voor hun ⟨ogen⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vreemden"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "zijn opgestaan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "en geweldenaars"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "zoeken"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj (leven)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zij hebben gesteld"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:43.365838581Z",
+  "model": "glm-5.3"
+}

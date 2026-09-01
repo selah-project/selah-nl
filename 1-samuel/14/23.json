@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En Jahweh redde op die dag ⟨את⟩ Israël, en de strijd trok over tot ⟨langs⟩ Beth-Awen.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "En redde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "en de strijd"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "trok over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beth-Awen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "און",
+      "gloss": "Awen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:18.000917623Z",
+  "model": "glm-5.3"
+}

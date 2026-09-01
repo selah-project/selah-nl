@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "oog voor oog, tand voor tand, hand voor hand, voet voor voet.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "voor"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "voet"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "voor"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "voet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:26.560222611Z",
+  "model": "glm-5.3"
+}

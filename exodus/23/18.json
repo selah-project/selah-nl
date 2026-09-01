@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "U zult het bloed van mijn slachtoffer niet slachten op gezuurd ⟨deeg⟩, en het vet van mijn feest ⟨mag⟩ niet blijven liggen tot de morgen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "u zult slachten"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "gezuurd ⟨deeg⟩"
+    },
+    {
+      "surface": "דם",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "van mijn slachtoffer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "⟨mag⟩ niet blijven liggen"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "het vet"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "van mijn feest"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de morgen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:42.412754830Z",
+  "model": "glm-5.3"
+}

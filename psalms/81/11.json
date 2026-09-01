@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 81,
+  "translation": "Ik ben Jahweh, uw Elohim, die u deed opgaan uit het land Mitsrajim; wijd uw mond open, en ik zal hem vullen.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "die u deed opgaan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "wijd... open"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "uw mond"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "en ik zal hem vullen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:23.175084385Z",
+  "model": "glm-5.3"
+}

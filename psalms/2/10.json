@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En nu, o koningen, toont inzicht; laat u tuchtigen, rechters van ⟨de⟩ aarde.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "o koningen"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "toont inzicht"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "laat u tuchtigen"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "rechters"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:27.871241345Z",
+  "model": "glm-5.3"
+}

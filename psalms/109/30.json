@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Ik zal Jahweh zeer loven met mijn mond, en te midden van velen zal ik Hem prijzen.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "zal ik loven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "met mijn mond"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "en te midden van"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "velen"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "zal ik Hem prijzen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:33.322045009Z",
+  "model": "glm-5.3"
+}

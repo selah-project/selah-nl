@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En U hebt ⟨את⟩ Uw volk Jisraël U tot een volk gemaakt tot ⟨de⟩ eeuwigheid, en U, Jahweh, bent hun tot Elohim geworden.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "En U hebt gemaakt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uw volk Jisraël"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Uw volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לך",
+      "gloss": "U"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tot een volk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwigheid"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "היית",
+      "gloss": "bent geworden"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:37.463421957Z",
+  "model": "glm-5.3"
+}

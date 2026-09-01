@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Zij zullen komen en zijn rechtvaardigheid verkondigen aan een volk dat geboren zal worden — dat hij het gedaan heeft.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "zij zullen komen"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "en verkondigen"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "zijn rechtvaardigheid"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "aan een volk"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "dat geboren zal worden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hij het gedaan heeft"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:33.736490626Z",
+  "model": "glm-5.3"
+}

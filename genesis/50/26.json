@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "En Jozef stierf, honderd en tien jaar oud; en ze balsemden ⟨את⟩ hem en hij werd gelegd in een kist in Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "en hij stierf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "en tien"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "en ze balsemden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "en hij werd gelegd"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "in een kist"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:53.122195207Z",
+  "model": "glm-5.3"
+}

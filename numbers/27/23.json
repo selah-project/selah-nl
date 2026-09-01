@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En hij legde zijn handen ⟨את⟩ op hem en gaf hem een opdracht, zoals Jahweh gesproken had door de hand van Mosjee.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "en hij leunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn handen"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "zijn handen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "en gaf hem een opdracht"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand van"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:17:07.525038956Z",
+  "model": "glm-5.3"
+}

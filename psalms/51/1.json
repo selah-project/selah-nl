@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Voor de koorleider. Een mizmor van David,",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Voor de koorleider"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:30.486516555Z",
+  "model": "glm-5.3"
+}

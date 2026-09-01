@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En ⟨zij⟩ rekenden niet af met ⟨את⟩ de mannen aan wie zij ⟨את⟩ het geld in handen gaven om het te geven aan de uitvoerders van het werk, want in betrouwbaarheid handelden zij.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "rekenden af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mannen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan wie"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "zij gaven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het geld"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "het geld"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hun handen"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te geven"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "aan de uitvoerders"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "van het werk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "in betrouwbaarheid"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zij"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "handelden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:44:33.281879108Z",
+  "model": "glm-5.3"
+}

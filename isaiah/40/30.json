@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En jongemannen zullen afmatten en afgemat raken, en jonge helden zullen struikelend vallen.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "en zullen afmatten"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "jongemannen"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "en afgemat raken"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "en jonge helden"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "struikelend"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "zullen vallen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:15.587560232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de priester zal het naar het altaal brengen, en ⟨את⟩ zijn kop afknijpen, en het op het altaal in rook laten opgaan; en zijn bloed wordt uitgeperst aan de wand van het altaal.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "en hij zal het brengen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaal"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "en afknijpen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn kop"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "zijn kop"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "en in rook laten opgaan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op het altaal"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "en uitgeperst worden"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "zijn bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "de wand"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van het altaal"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:19.457997473Z",
+  "model": "glm-5.3"
+}

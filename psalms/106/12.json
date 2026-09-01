@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Toen geloofden zij zijn woorden, zij zongen zijn lof.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "toen geloofden zij"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "zijn woorden"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "zij zongen"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "zijn lof"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:40.687053517Z",
+  "model": "glm-5.3"
+}

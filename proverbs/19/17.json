@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Wie aan de arme ⟨את⟩-gunst betoont, leent aan Jahweh, en diens daad zal Hij hem vergelden.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "leent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "gunst betoont"
+    },
+    {
+      "surface": "דל",
+      "gloss": "de arme"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "en diens daad"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zal Hij vergelden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:34.895690218Z",
+  "model": "glm-5.3"
+}

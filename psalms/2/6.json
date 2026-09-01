@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En ik ⟨—⟩ heb mijn koning gesteld ⟨op⟩ Tsion, mijn heilige berg.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ik"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "heb ik gesteld"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mijn koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mijn heilige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:38.089417305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "De naaktheid van de vrouw van je vader zul je niet onthullen; het is de naaktheid van je vader.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "de naaktheid"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "van de vrouw"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van je vader"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "zul je onthullen"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "de naaktheid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van je vader"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:33.914788897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Alleen vlees met zijn nefesj — zijn bloed — zult gij niet eten.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "met zijn nefesj"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "zijn bloed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "zult gij eten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:48.354881454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Ester voegde ⟨toe⟩ en sprak voor het aangezicht van de koning, en zij viel voor zijn voeten en weende en smeekte hem om ⟨את⟩ het kwaad van Haman de Agagiet te doen weggaan, en ⟨את⟩ zijn plan dat hij tegen de Joden had beraamd.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "voegde ⟨toe⟩"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "en sprak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "en zij viel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "zijn voeten"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "en weende"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "en smeekte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "om te doen weggaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het kwaad van Haman"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "het kwaad"
+    },
+    {
+      "surface": "המן",
+      "gloss": "van Haman"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "de Agagiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn plan"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "zijn plan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "hij had beraamd"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "de Joden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:01.484730961Z",
+  "model": "glm-5.3"
+}

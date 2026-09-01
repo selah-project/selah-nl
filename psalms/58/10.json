@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 58,
+  "translation": "Voordat uw potten de doornstruik ⟨voelen⟩, zal Hij ze wegvaaggen — ⟨als⟩ vers, ⟨als⟩ brandend toornachtig.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "begrijpen\/voelen"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "uw potten"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "de doornstruik"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vers\/levend"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "brandend (toorn)"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "zal Hij ze wegvaaggen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:43.768287596Z",
+  "model": "glm-5.3"
+}

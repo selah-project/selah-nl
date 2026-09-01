@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Avraham was oud, gekomen in dagen, en Jahweh had Avraham ⟨את⟩ gezegend in alles.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "was oud"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekomen"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in dagen"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "had gezegend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in alles"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:19.449294716Z",
+  "model": "glm-5.3"
+}

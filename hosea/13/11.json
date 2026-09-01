@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Ik geef je een koning in mijn toorn, en ik neem ⟨hem⟩ weg in mijn grimmigheid.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Ik geef"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "een koning"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "in mijn toorn"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "en ik neem weg"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "in mijn grimmigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:03.083309031Z",
+  "model": "glm-5.3"
+}

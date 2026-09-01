@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Jehosjoea zei: Opent ⟨את⟩ de mond van de spelonk, en brengt bij mij ⟨את⟩ deze vijf koningen uit de spelonk naar buiten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "opent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mond van de spelonk"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de mond van"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "de spelonk"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "en brengt naar buiten"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bij mij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze vijf koningen"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "koningen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "de spelonk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:31:15.426188300Z",
+  "model": "glm-5.3"
+}

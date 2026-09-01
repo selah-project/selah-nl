@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Tamar ging naar het huis van Amnon, haar broeder, en hij lag ⟨op bed⟩; en zij nam ⟨את⟩ het deeg en kneedde het en maakte hartkoekjes voor zijn ogen, en zij kookte ⟨את⟩ de hartkoekjes.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "en zij ging"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨naar⟩ het huis"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "haar broeder"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lag"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "en zij nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het deeg"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "het deeg"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "en kneedde"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "en maakte hartkoekjes"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "voor zijn ogen"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "en zij kookte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hartkoekjes"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "de hartkoekjes"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:33.936463494Z",
+  "model": "glm-5.3"
+}

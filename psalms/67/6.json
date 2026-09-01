@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 67,
+  "translation": "De volken loven U, Elohim; de volken, zij allen, loven U.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "loven U"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "loven U"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "zij allen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:03.349696623Z",
+  "model": "glm-5.3"
+}

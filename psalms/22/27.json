@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "De ootmoedigen zullen eten en verzadigd worden; wie Jahweh zoeken, zullen hem loven; uw hart zal leven tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "zullen eten"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ootmoedigen"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "en verzadigd worden"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "zullen loven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "die hem zoeken"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "zal leven"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "uw hart"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "tot in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:32.794764407Z",
+  "model": "glm-5.3"
+}

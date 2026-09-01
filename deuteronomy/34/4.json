@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 34:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "En Jahweh zei tot hem: dit is het land dat ik Avraham, Jitschak en Jaäkov gezworen heb ⟨met de woorden⟩: aan jouw nakomelingen zal ik het geven. Ik heb het jou laten zien met jouw ogen, maar dáárheen zul jij niet overgaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ik gezworen heb"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "aan Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "aan Jitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "en aan Jaäkov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨met de woorden⟩"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "aan jouw nakomelingen"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "zal ik het geven"
+    },
+    {
+      "surface": "הראיתיך",
+      "gloss": "ik heb het jou laten zien"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "met jouw ogen"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "maar dáárheen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "zul jij overgaan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:39.609925328Z",
+  "model": "glm-5.3"
+}

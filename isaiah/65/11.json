@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "En gij zijt het die Jahweh verlaten, die mijn heilige berg vergeten ⟨את⟩; die voor Gad een tafel aanrichten en voor Meni een mengsel vullen.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "en gij"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "verlaten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "die vergeten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn heilige berg"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mijn heilige"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "die aanrichten"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "voor Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "een tafel"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "en die vullen"
+    },
+    {
+      "surface": "למני",
+      "gloss": "voor Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "een mengsel"
+    }
+  ],
+  "timestamp": "2026-08-31T21:26:47.468959522Z",
+  "model": "glm-5.3"
+}

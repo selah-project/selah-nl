@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 57,
+  "translation": "Ik zal je gerechtigheid bekendmaken, en ⟨את⟩ je werken — en die zullen je niet baten.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "zal bekendmaken"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "je gerechtigheid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "je werken"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "je werken"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "zullen je baten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:25:03.181250619Z",
+  "model": "glm-5.3"
+}

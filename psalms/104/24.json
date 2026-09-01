@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Hoe talrijk zijn uw werken, Jahweh! Allemaal hebt u ze in wijsheid gemaakt; vol is de aarde van uw verworvenheden.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "talrijk zijn"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "uw werken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "allemaal"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "in wijsheid"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hebt u gemaakt"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "vol is"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "uw verworvenheden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:47.279849915Z",
+  "model": "glm-5.3"
+}

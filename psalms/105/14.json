@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij liet geen mens toe hen te onderdrukken, en Hij bestrafte koningen om harentwil.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "Hij liet toe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "hen te onderdrukken"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "en Hij bestrafte"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "om harentwil"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "koningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:33.578937397Z",
+  "model": "glm-5.3"
+}

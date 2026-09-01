@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En hij plaatste ⟨את⟩ de kandelaar in de tent van samenkomst, tegenover de tafel, aan de zijde van de tabernakel, zuidwaarts.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en hij plaatste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kandelaar"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "de kandelaar"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "de tafel"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "de zijde"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "van de tabernakel"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "zuidwaarts"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:46.654276332Z",
+  "model": "glm-5.3"
+}

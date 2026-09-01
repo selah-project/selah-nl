@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En laat mij voor mij betrouwbare getuigen ⟨aanstellen⟩: ⟨את⟩ Oerija de priester en ⟨את⟩ Zecherja, zoon van Jeberechja.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "en laat ik getuigen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "getuigen"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "betrouwbare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oerija de priester"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Oerija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Zecherja, zoon van Jeberechja"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zecherja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jeberechja"
+    }
+  ],
+  "timestamp": "2026-08-31T23:21:12.727046054Z",
+  "model": "glm-5.3"
+}

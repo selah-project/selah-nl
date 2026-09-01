@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "en ⟨את⟩ Dedan en ⟨את⟩ Tema en ⟨את⟩ Buz en ⟨את⟩ allen die de hoek ⟨van hun baard⟩ afsnijden;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "allen die de hoek afsnijden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "die afsnijden"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "de hoek"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:52.741411183Z",
+  "model": "glm-5.3"
+}

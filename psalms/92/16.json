@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "om te verkondigen dat Jahweh recht is, mijn Rots, en geen onrecht is in Hem.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "om te verkondigen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "recht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mijn Rots"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "onrecht"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in Hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.140788027Z",
+  "model": "glm-5.3"
+}

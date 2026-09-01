@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "Want u hebt mij verblijd, Jahweh, door uw doen; over de werken van uw handen juich ik ⟨van jubel⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "u hebt mij verblijd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "door uw doen"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "over de werken van"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "uw handen"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "juich ik"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:19.046082187Z",
+  "model": "glm-5.3"
+}

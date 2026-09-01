@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 86,
+  "translation": "Want u, Adonai, ⟨ bent ⟩ goed en vergevend, en groot ⟨ is ⟩ uw chesed (liefdestrouw) voor allen die u aanroepen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "en vergevend"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "en groot"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "voor allen"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "die u aanroepen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:23.662288805Z",
+  "model": "glm-5.3"
+}

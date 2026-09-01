@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "Ik zei in mijn overhaasting: al ⟨de⟩ mensen ⟨zijn⟩ leugenaars.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "zei"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "in mijn overhaasting"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨de⟩ mensen"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "leugenaars"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:04.468046681Z",
+  "model": "glm-5.3"
+}

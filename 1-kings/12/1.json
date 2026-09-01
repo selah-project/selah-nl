@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Rechav'am ging naar Sjechem, want in Sjechem was heel Israël gekomen om hem ⟨את⟩ tot koning te maken.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechav'am"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "naar Sjechem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "in Sjechem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "was gekomen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "om tot koning te maken"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:17.681684445Z",
+  "model": "glm-5.3"
+}

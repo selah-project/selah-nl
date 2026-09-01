@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Toen kwam Bat-Sjeva bij de koning, in ⟨zijn⟩ kamer — en de koning was zeer oud, en Awisjag de Sjoenammietische diende ⟨את⟩ de koning.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Toen kwam"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sjeva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "in ⟨zijn⟩ kamer"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "en de koning"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "was oud"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "en Awisjag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "de Sjoenammietische"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "diende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:18.155933421Z",
+  "model": "glm-5.3"
+}

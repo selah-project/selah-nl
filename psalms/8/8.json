@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Schapen en runderen, die alle, en ook de dieren van het veld;",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "schapen"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "en runderen"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "die alle"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "de dieren"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "van het veld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:39.722355663Z",
+  "model": "glm-5.3"
+}

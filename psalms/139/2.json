@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "U — u kent mijn zitten en mijn opstaan; u doorziet mijn gedachte van verre.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "u kent"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "mijn zitten"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "en mijn opstaan"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "u doorziet"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "mijn gedachte"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "van verre"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:21.543407570Z",
+  "model": "glm-5.3"
+}

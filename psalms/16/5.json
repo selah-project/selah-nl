@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Jahweh ⟨is⟩ het toebedeelde deel van mijn erfdeel en mijn beker; jij, jij ondersteunt mijn lot.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "het toebedeelde deel"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "van mijn erfdeel"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "en mijn beker"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "jij ondersteunt"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "mijn lot"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:02.172058108Z",
+  "model": "glm-5.3"
+}

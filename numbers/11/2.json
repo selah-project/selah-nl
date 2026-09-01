@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En het volk schreeuwde tot Mosjee, en Mosjee bad tot Jahweh, en het vuur zakte weg.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "en hij schreeuwde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "en hij bad"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "en het zakte weg"
+    },
+    {
+      "surface": "האש",
+      "gloss": "het vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:19.754775429Z",
+  "model": "glm-5.3"
+}

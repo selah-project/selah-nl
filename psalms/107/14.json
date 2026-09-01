@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Hij bracht hen uit duisternis en doodsschaduw, en hun ketens verscheurde hij.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "hij bracht hen uit"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "en doodsschaduw"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "en hun ketens"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "verscheurde hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:04.842659390Z",
+  "model": "glm-5.3"
+}

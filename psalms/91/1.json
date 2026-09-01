@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Die in de schuilplaats van ⟨de⟩ Eljon zit, in de schaduw van Sjaddai overnacht ⟨hij⟩.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "zit"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in de schuilplaats"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon (de Allerhoogste)"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "in de schaduw"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "overnacht ⟨hij⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:24.607023917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En Hij leidde hen veilig, zodat zij niet vreesden; en de zee bedekte ⟨את⟩ hun vijanden.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "en Hij leidde"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "veilig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "zodat zij niet"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "vreesden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun vijanden"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "hun vijanden"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "bedekte"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:11.486139114Z",
+  "model": "glm-5.3"
+}

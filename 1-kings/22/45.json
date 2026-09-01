@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En Jehosjafat maakte vrede met de koning van Jisraël.",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "en maakte vrede"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:17.676736032Z",
+  "model": "glm-5.3"
+}

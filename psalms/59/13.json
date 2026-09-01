@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "⟨Door⟩ de zonde van hun mond, het woord van hun lippen — laat hen gevangen worden in hun hoogmoed, en ⟨door⟩ vloek en leugen die zij vertellen.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "zonde"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "van hun mond"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "van hun lippen"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "laat hen gevangen worden"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "in hun hoogmoed"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "en vloek"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "en leugen"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "die zij vertellen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:18.050490003Z",
+  "model": "glm-5.3"
+}

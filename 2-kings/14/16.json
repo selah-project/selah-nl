@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En Jehoasj ging liggen bij zijn vaders en werd begraven in Sjomron bij de koningen van Jisraël; en Jarobeam zijn zoon werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "en hij ging liggen"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoasj"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en werd begraven"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Sjomron"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "de koningen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en hij werd koning"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:03.575689083Z",
+  "model": "glm-5.3"
+}

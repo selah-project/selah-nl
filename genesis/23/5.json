@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En de zonen van Chet antwoordden ⟨את⟩ Avraham, zeggend tot hem:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "en antwoordden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:13.371535791Z",
+  "model": "glm-5.3"
+}

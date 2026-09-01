@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 41:9",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "De ene ⟨man⟩ kleeft aan zijn ⟨broeder⟩; zij grijpen elkaar vast en worden niet gescheiden.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "de ene ⟨man⟩"
+    },
+    {
+      "surface": "באחיהו",
+      "gloss": "aan zijn ⟨broeder⟩"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "kleven zij"
+    },
+    {
+      "surface": "יתלכדו",
+      "gloss": "zij grijpen elkaar vast"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "worden zij gescheiden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:09.629163038Z",
+  "model": "glm-5.3"
+}

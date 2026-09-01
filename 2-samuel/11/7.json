@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Oerija kwam bij hem, en Dawid vroeg naar het welzijn van Joab, en naar het welzijn van het volk, en naar het welzijn van de oorlog.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Oerija"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "en hij vroeg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "naar het welzijn"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "van Joab"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "en naar het welzijn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "en naar het welzijn"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "van de oorlog"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:29.157216829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Mijn mond heb ik wijd openend gehijgd, want naar ⟨uw⟩ geboden verlangde ik.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Mijn mond"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "heb ik wijd openend"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "gehijgd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "naar ⟨uw⟩ geboden"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "verlangde ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:02.294978404Z",
+  "model": "glm-5.3"
+}

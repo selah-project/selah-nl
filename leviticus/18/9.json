@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "De naaktheid van uw zuster, dochter van uw vader of dochter van uw moeder, geboren in huis of geboren buiten, hun naaktheid zult u niet onthullen.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "de naaktheid"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "van uw zuster"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van uw vader"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "van uw moeder"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "geboren"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in huis"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "geboren"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "zult u onthullen"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "hun naaktheid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:17.442552408Z",
+  "model": "glm-5.3"
+}

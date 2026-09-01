@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "en hij moet ⟨את⟩ de garf bewegen voor het aangezicht van Jahweh, om ⟨uw⟩ welbehagen; op de dag na de sjabbat beweegt de priester hem.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "en hij moet bewegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de garf"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "de garf"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "om uw welbehagen"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "op de dag na"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "de sjabbat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "beweegt hem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:35.339591323Z",
+  "model": "glm-5.3"
+}

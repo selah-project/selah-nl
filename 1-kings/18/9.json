@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En hij zei: waarin heb ik gezondigd, dat jij je dienaar ⟨את⟩ in de hand van Achav geeft om mij te doden?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waarin"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "heb ik gezondigd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je dienaar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "je dienaar"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "van Achav"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "om mij te doden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:33.768542942Z",
+  "model": "glm-5.3"
+}

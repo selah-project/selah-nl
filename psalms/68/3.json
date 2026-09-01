@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Zoals rook verdreven wordt, ⟨zo zult U hen verdrijven⟩; zoals was smelt voor het vuur, zo zullen de goddelozen omkomen voor het aangezicht van Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "zoals verdreven wordt"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "rook"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "wordt verdreven"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "zoals smelt"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "was"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אש",
+      "gloss": "het vuur"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "zullen omkomen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.201186960Z",
+  "model": "glm-5.3"
+}

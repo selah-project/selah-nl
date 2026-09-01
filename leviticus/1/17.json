@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij scheurt het ⟨את⟩ open bij zijn vleugels — hij mag het niet scheiden — en de priester brengt het ⟨את⟩ in rook op het altaar, op het hout dat op het vuur ⟨is⟩: een brandoffer ⟨is⟩ het, een vuurgave, een rustige geur voor Jahweh.",
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "en hij scheurt open"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (de vogel)"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "bij zijn vleugels"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "hij mag scheiden"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "en brengt in rook"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (de vogel)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op het altaar"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "het hout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האש",
+      "gloss": "het vuur"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vuurgave"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "geur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "rustige (welgevallige)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:34.026143190Z",
+  "model": "glm-5.3"
+}

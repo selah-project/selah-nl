@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Dit ⟨zijn⟩ de geslachten van de hemel en de aarde bij hun schepping, op de dag dat Jahweh Elohim aarde en hemel maakte.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "de geslachten"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van de hemel"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "en de aarde"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "bij hun schepping"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "dat … maakte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "en hemel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:24.412686020Z",
+  "model": "glm-5.3"
+}

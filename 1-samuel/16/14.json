@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En de geest van Jahweh wendde zich van Sjaoel af, en een boze geest van ⟨את⟩ Jahweh verschrikte hem.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "En de geest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "wendde zich af"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "en verschrikte hem"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "geest"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "boze"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:29.744184763Z",
+  "model": "glm-5.3"
+}

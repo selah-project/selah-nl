@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 87,
+  "translation": "Van de zonen van Korach, een mizmor, een lied. Zijn grondvesting ⟨is⟩ op de bergen van heiligheid.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "van de zonen van"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "zijn grondvesting"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "op de bergen van"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heiligheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:25.469956940Z",
+  "model": "glm-5.3"
+}

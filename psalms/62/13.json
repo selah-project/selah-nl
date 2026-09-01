@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 62,
+  "translation": "En bij u, Adonai, ⟨is⟩ chesed (goedertierenheid); want u vergeldt een ieder naar zijn daad.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "en bij u"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "vergeldt"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "een ieder"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "naar zijn daad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:16.700914514Z",
+  "model": "glm-5.3"
+}

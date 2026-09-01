@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Op die dag zal de mens zijn zilveren afgoden ⟨את⟩ weggooien en zijn gouden afgoden ⟨את⟩, die zij voor hem gemaakt hebben om te aanbidden, voor de mollen en voor de vleermuizen.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "zal weggooien"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zilveren afgoden"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "afgoden"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "zilveren (van zijn zilver)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gouden afgoden"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "afgoden"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "gouden (van zijn goud)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zij gemaakt hebben"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "om te aanbidden"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "voor de mollen"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "(holen — als appositie bij mollen)"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "en voor de vleermuizen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:38.171471335Z",
+  "model": "glm-5.3"
+}

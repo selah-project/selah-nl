@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "U kent mijn smaad en mijn schande en mijn vernedering; al mijn tegenstanders ⟨zijn⟩ voor uw aangezicht.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kent"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "mijn smaad"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "en mijn schande"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "en mijn vernedering"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "voor uw aangezicht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mijn tegenstanders"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:49.787260538Z",
+  "model": "glm-5.3"
+}

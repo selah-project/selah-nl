@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En hij leidde hen overdag met de wolk, en heel de nacht met een licht van vuur.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "en hij leidde hen"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "met de wolk"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "overdag"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "de nacht"
+    },
+    {
+      "surface": "באור",
+      "gloss": "met een licht"
+    },
+    {
+      "surface": "אש",
+      "gloss": "van vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:50.999917710Z",
+  "model": "glm-5.3"
+}

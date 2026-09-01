@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Red jezelf ⟨als⟩ een gazelle uit de hand ⟨van de jager⟩, en ⟨als⟩ een vogel uit de hand van de vogelvanger.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "Red jezelf"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "als een gazelle"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "en als een vogel"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "van de vogelvanger"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:32.122392690Z",
+  "model": "glm-5.3"
+}

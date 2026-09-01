@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Wee hen die diep ⟨graven⟩, om ⟨raad⟩ te verbergen voor Jahweh, en hun daden zijn in duisternis; en zij zeggen: Wie ziet ons, en wie kent ons?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "wee"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "hen die diep ⟨graven⟩"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "om te verbergen"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "⟨raad⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en het is"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "in duisternis"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "hun daden"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeggen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "ziet ons"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "kent ons"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:41.917507666Z",
+  "model": "glm-5.3"
+}

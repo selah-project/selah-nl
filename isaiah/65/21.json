@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "En zij zullen huizen bouwen en ⟨ze⟩ bewonen, en zij zullen wijngaarden planten en de vrucht ervan eten.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "en zij zullen bouwen"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huizen"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "en zij zullen bewonen"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "en zij zullen planten"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "wijngaarden"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "en zij zullen eten"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "hun vrucht"
+    }
+  ],
+  "timestamp": "2026-08-31T21:26:38.026376629Z",
+  "model": "glm-5.3"
+}

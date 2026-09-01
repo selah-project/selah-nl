@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En als hij ⟨ze⟩ niet wast en zijn vlees niet baadt, dan draagt hij zijn ongerechtigheid.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "wast"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "en zijn vlees"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "baadt"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "draagt"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "zijn ongerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:05.483450223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Jahweh zei tot de satan: ziedaar, hij is in uw hand; alleen ⟨את⟩ zijn nefesj moet u bewaren.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "de satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "ziedaar"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in uw hand"
+    },
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn nefesj"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn nefesj"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "moet u bewaren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:49.892387761Z",
+  "model": "glm-5.3"
+}

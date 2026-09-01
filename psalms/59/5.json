@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Zonder ⟨welk⟩ onrecht ⟨van mij⟩ rennen zij en maken zich gereed; word wakker om mij te ontmoeten, en zie.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "עון",
+      "gloss": "onrecht"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "rennen zij"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "en maken zich gereed"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "word wakker"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "om mij te ontmoeten"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en zie"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:24.596177730Z",
+  "model": "glm-5.3"
+}

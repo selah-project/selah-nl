@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En zij berichtten het aan David, zeggend: Zie, de Pelisjtim strijden tegen Keïla, en zij plunderen ⟨את⟩ de dorsvloeren.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "en zij berichtten"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Pelisjtim"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "strijden"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "tegen Keïla"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "en zij"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "plunderen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dorsvloeren"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "de dorsvloeren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:44.160748917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Wijk af van mij, alle daders van onrecht, want Jahweh heeft de stem van mijn geween gehoord.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Wijk af"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "daders"
+    },
+    {
+      "surface": "און",
+      "gloss": "van onrecht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "heeft gehoord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "van mijn geween"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:12.553576963Z",
+  "model": "glm-5.3"
+}

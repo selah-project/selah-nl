@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de vrouw nam de twee mannen en verborg ⟨hen⟩, en zij zeide: Zo, die mannen zijn tot mij gekomen, maar ik weet niet van waar zij ⟨zijn⟩.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "en zij nam"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de twee mannen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de twee"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "en zij verborg hen"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zeide"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zijn gekomen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die mannen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ik weet"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "van waar"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:55.470013303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Want als je luisterend luistert naar zijn stem en doet alles wat ik spreek, dan zal ik een vijand zijn voor ⟨את⟩ je vijanden en een tegenstander voor ⟨את⟩ wie je benauwen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "luisterend"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "naar zijn stem"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en doet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ik spreek"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "dan zal ik een vijand zijn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je vijanden"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "je vijanden"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "en een tegenstander voor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wie je benauwen"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "wie je benauwen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:36.347517418Z",
+  "model": "glm-5.3"
+}

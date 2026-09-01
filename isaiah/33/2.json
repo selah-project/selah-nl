@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Jahweh, wees ons genadig; op U hebben wij gewacht. Wees hun arm in de morgen, ja ons heil in de tijd van benauwdheid.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "wees ons genadig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "hebben wij gewacht"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wees"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "hun arm"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "ons heil"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in de tijd van"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "benauwdheid"
+    }
+  ],
+  "timestamp": "2026-08-31T21:20:05.864905957Z",
+  "model": "glm-5.3"
+}

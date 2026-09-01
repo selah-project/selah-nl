@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Navot zei tot Achav: Verre zij het van mij, vanwege Jahweh, mijn geven ⟨את⟩ de erfenis van mijn vaderen aan u.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Verre zij het"
+    },
+    {
+      "surface": "לי",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "vanwege Jahweh"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "mijn geven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de erfenis van mijn vaderen"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "de erfenis"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "van mijn vaderen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan u"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:30.637345321Z",
+  "model": "glm-5.3"
+}

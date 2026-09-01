@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En Sjaoel luisterde naar de stem van Yehonatan, en Sjaoel zwoer: „Zo waar Jahweh leeft, hij zal niet gedood worden.”",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "En luisterde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "en zwoer"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zo waar"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hij zal niet gedood worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:46:20.043221092Z",
+  "model": "glm-5.3"
+}

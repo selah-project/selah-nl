@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Hij zende u hulp uit het heiligdom, en uit Tsijon steune Hij u.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Hij zende"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "u hulp"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "uit het heiligdom"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "en uit Tsiyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "steune Hij u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:28.522332052Z",
+  "model": "glm-5.3"
+}

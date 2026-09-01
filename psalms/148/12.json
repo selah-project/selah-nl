@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 148,
+  "translation": " jonge mannen en ook jonge vrouwen, oude mannen samen met jongelingen,",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "jonge mannen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jonge vrouwen"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "oude mannen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "samen met"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "jongelingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:09.646765047Z",
+  "model": "glm-5.3"
+}

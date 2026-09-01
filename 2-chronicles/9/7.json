@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Gelukkig ⟨zijn⟩ jouw mannen, en gelukkig ⟨zijn⟩ deze jouw dienaren, die voortdurend voor jouw aangezicht staan en ⟨את⟩ jouw wijsheid horen.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Gelukkig"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "jouw mannen"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "en gelukkig"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "jouw dienaren"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "die staan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor jouw aangezicht"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "en horen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw wijsheid"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "jouw wijsheid"
+    }
+  ],
+  "timestamp": "2026-08-31T23:07:01.240346893Z",
+  "model": "glm-5.3"
+}

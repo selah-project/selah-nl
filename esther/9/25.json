@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "esther 9:25",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En toen zij voor de koning kwam, zei hij met de brief ⟨mee⟩: zijn slechte plan dat hij tegen de Joden had beraamd, zal op zijn eigen hoofd terugkeren, en men heeft hem en ⟨את⟩ zijn zonen aan de boom gehangen.",
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "en toen zij kwam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zei hij"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "de brief"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "zal terugkeren"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "zijn plan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "slechte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "hij had beraamd"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "de Joden"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "zijn eigen hoofd"
+    },
+    {
+      "surface": "ותלו",
+      "gloss": "en men heeft gehangen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "de boom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:20.038083874Z",
+  "model": "glm-5.3"
+}

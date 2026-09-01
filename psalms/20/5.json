@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Moge Hij je geven naar je hart, en heel je raad vervullen.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "moge Hij geven"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "naar je hart"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "je raad"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "vervullen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:35.561979443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "Jahweh, Elohim Tsevaot, doe ons terugkeren; laat uw aangezicht lichten, en wij worden gered.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "doe ons terugkeren"
+    },
+    {
+      "surface": "האר",
+      "gloss": "laat lichten"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "en wij worden gered"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:37.488291548Z",
+  "model": "glm-5.3"
+}

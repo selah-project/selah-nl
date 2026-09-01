@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 1:4",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En daarom, zo zegt Jahweh: Van het bed waarop je bent geklommen, daar zul je niet af dalen, want sterven zul je sterven. En Elia ging heen.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "en daarom"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "het bed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarop"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "je bent geklommen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "zul je af dalen"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ervan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sterven"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "zul je sterven"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ging heen"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Elia"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:55.755234821Z",
+  "model": "glm-5.3"
+}

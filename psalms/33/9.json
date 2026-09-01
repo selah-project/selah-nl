@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Want hij sprak en het was; hij gebood en het stond ⟨er⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sprak"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het was"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebood"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "en het stond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:01.010199743Z",
+  "model": "glm-5.3"
+}

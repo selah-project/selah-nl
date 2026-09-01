@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "want hun lossers-verwant ⟨is⟩ sterk; híj zal ⟨את⟩ hun rechtszaak voeren ⟨את⟩ met u.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "hun lossers-verwant"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "híj"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "zal voeren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun rechtszaak"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "hun rechtszaak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:44.117823462Z",
+  "model": "glm-5.3"
+}

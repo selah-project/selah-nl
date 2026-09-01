@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "Elohim is ons ⟨een⟩ toevlucht en sterkte, een hulp in benaudheden, ruim gevonden.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "toevlucht"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "en sterkte"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "een hulp"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "in benaudheden"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "gevonden"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ruim \/ zeer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:01.201330459Z",
+  "model": "glm-5.3"
+}

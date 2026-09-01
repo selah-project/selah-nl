@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Gelukkig ⟨is hij⟩ die zich verstandig betoont jegens ⟨de⟩ zwakke; op ⟨de⟩ dag van kwaad redt Jahweh hem.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "die zich verstandig betoont"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jegens"
+    },
+    {
+      "surface": "דל",
+      "gloss": "⟨de⟩ zwakke"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op ⟨de⟩ dag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "redt hem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:06.613620913Z",
+  "model": "glm-5.3"
+}

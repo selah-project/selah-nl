@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Last van het woord van Jahweh tot Israël, door de hand van Malachi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Last"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malachi"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:03.509430595Z",
+  "model": "glm-5.3"
+}

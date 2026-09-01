@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 146,
+  "translation": "Zijn adem gaat uit, hij keert terug naar zijn aardgrond; op die dag vergaan zijn plannen.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "gaat uit"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "zijn adem"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "keert terug"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "naar zijn aardgrond"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "vergaan"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "zijn plannen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:40.507212655Z",
+  "model": "glm-5.3"
+}

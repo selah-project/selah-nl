@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Elisa stierf, en zij begroeven hem. En benden van Moav plagen het land binnen te komen bij het begin van het jaar.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "en stierf"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "en zij begroeven hem"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "en benden van"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "plagen binnen te komen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bij het begin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "van het jaar"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:34.365431848Z",
+  "model": "glm-5.3"
+}

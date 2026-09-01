@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "⟨את⟩ Hun kleinvee en ⟨את⟩ hun rundvee en ⟨את⟩ hun ezels namen zij, en ⟨את⟩ alles wat in de stad was en ⟨את⟩ alles wat op het veld was.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun kleinvee"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "hun kleinvee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun rundvee"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "hun rundvee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun ezels"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "hun ezels"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat in de stad was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat op het veld was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "namen zij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:00.618857359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En jij zult heilige kleding maken voor Aharon, jouw broeder, voor kavod (heerlijkheid) en voor sierlijkheid.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jij zult maken"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kleding"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "voor Aharon"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "jouw broeder"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "voor kavod (heerlijkheid)"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "en voor sierlijkheid"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:05.876220560Z",
+  "model": "glm-5.3"
+}

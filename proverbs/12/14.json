@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 12:14",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Van de vrucht van de mond van een man wordt ⟨hij⟩ verzadigd met goed, en het loon van de handen van een mens keert tot hem terug.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "van de vrucht"
+    },
+    {
+      "surface": "פי",
+      "gloss": "van de mond"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van een man"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "wordt verzadigd"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "met goed"
+    },
+    {
+      "surface": "וגמול",
+      "gloss": "en het loon"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "van de handen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van een mens"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "keert terug"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:31.377450519Z",
+  "model": "glm-5.3"
+}

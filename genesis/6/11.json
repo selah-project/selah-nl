@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En de aarde werd verdorven voor het aangezicht van Elohim, en de aarde was gevuld met geweld.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "werd verdorven"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "was gevuld"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "met geweld"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:28.149563501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En hij zei: toch niet, mijn broeders, doe geen kwaad.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mijn broeders"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "doe geen kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:11.220645592Z",
+  "model": "glm-5.3"
+}

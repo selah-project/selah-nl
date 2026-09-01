@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En jullie zullen Mij zoeken ⟨את⟩ en vinden, want jullie vragen naar Mij met heel jullie hart.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "en jullie zullen zoeken"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Mij",
+      "marks": "Mij"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "en vinden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "jullie vragen naar Mij"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met heel"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "jullie hart"
+    }
+  ],
+  "timestamp": "2026-08-31T21:35:13.885711748Z",
+  "model": "glm-5.3"
+}

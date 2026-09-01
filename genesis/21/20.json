@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Elohim was ⟨את⟩ met de jongen, en hij werd groot, en hij woonde in de woestijn, en hij werd een boogschutter.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en hij was"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ met"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "de jongen"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "en hij werd groot"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hij woonde"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en hij werd"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "groot wordend"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "boogschutter"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:55.959065721Z",
+  "model": "glm-5.3"
+}

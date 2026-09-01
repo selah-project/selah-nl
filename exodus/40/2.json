@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Op de dag van de eerste maand, op de eerste ⟨dag⟩ van de maand, zul je ⟨את⟩ de woning, de tent van samenkomst, oprichten.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "van de maand"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "de eerste"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "op de eerste"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van de maand"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "zul je oprichten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de woning, de tent van samenkomst"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "de woning"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:21.452737587Z",
+  "model": "glm-5.3"
+}

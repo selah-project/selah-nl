@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En Dawid achtervolgde ⟨hen⟩, hij ⟨zelf⟩ en vierhonderd man; en tweehonderd man bleven staan, die uitgeput waren door ⟨het⟩ oversteken ⟨את⟩ de bekdal van haBesor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "en achtervolgde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij ⟨zelf⟩"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "en vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "en bleven staan"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tweehonderd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "uitgeput waren"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "door ⟨het⟩ oversteken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bekdal"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "bekdal"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "van haBesor"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:52.352213679Z",
+  "model": "glm-5.3"
+}

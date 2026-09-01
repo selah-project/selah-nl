@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 87,
+  "translation": "Jahweh bemint de poorten van Tsiyon boven alle woningen van Jaäkov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "bemint"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "de poorten van"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "boven alle"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "woningen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:25.470222570Z",
+  "model": "glm-5.3"
+}

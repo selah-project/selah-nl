@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En je zult ⟨את⟩ de woning oprichten volgens zijn verordening, zoals je ⟨die⟩ getoond is op de berg.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "En je zult oprichten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de woning"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "de woning"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "volgens zijn verordening"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "je getoond is"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op de berg"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:53.838671733Z",
+  "model": "glm-5.3"
+}

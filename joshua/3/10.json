@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Jehosjoea zei: Hieraan zullen jullie weten dat ⟨er⟩ een levende El in jullie midden ⟨is⟩, en dat Hij zeker voor jullie uit zal verdrijven ⟨את⟩ de Kanaäniet en ⟨את⟩ de Chittiet en ⟨את⟩ de Chiwwiet en ⟨את⟩ de Perizziet en ⟨את⟩ de Girgasjiet en de Emoriet en de Jebusiet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "hieraan"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "zullen jullie weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levende"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "in jullie midden"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "en Hij zal verdrijven"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "zeker"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "voor jullie uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Kanaäniet"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "de Kanaäniet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Chittiet"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "de Chittiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Chiwwiet"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "de Chiwwiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Perizziet"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "de Perizziet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Girgasjiet"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "de Girgasjiet"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "en de Emoriet"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "en de Jebusiet"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:09.109953044Z",
+  "model": "glm-5.3"
+}

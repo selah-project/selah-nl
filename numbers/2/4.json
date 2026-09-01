@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "en zijn leger en hun getelden: vier en zeventig ⟨duizend⟩ en zeshonderd.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "en zijn leger"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "en hun getelden"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "en zeventig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en zes"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:09.305916021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 53,
+  "translation": "Wie heeft geloofd aan wat wij hoorden? En de arm van Jahweh — aan wie is ⟨hij⟩ geopenbaard?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "heeft geloofd"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "aan wat wij hoorden"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "en de arm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "is geopenbaard"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:39.032461318Z",
+  "model": "glm-5.3"
+}

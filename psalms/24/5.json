@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Hij zal een zegen dragen van ⟨את⟩ Jahweh, en rechtvaardigheid van de Elohim van zijn heil.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "zal dragen"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "een zegen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "en rechtvaardigheid"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "van de Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "van zijn heil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:18.670978048Z",
+  "model": "glm-5.3"
+}

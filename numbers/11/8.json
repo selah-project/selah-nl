@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 11:8",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Het volk zwierf rond en verzamelde ⟨het⟩, en maalde het in handmolens of stampte het in een vijzel, en kookte het in een kookpot, en maakten ⟨את⟩ het tot koeken; en zijn smaak was als de smaak van lesjad met olie.",
+  "tokens": [
+    {
+      "surface": "שטו",
+      "gloss": "zij zwierf rond"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "en verzamelde"
+    },
+    {
+      "surface": "וטחנו",
+      "gloss": "en maalde"
+    },
+    {
+      "surface": "ברחים",
+      "gloss": "in handmolens"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "דכו",
+      "gloss": "stampte"
+    },
+    {
+      "surface": "במדכה",
+      "gloss": "in een vijzel"
+    },
+    {
+      "surface": "ובשלו",
+      "gloss": "en kookte"
+    },
+    {
+      "surface": "בפרור",
+      "gloss": "in een kookpot"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "en maakten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (tot koeken)"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "koeken"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en het was"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "zijn smaak"
+    },
+    {
+      "surface": "כטעם",
+      "gloss": "als de smaak"
+    },
+    {
+      "surface": "לשד",
+      "gloss": "van lesjad (vette koek)"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "met olie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:15.745326540Z",
+  "model": "glm-5.3"
+}

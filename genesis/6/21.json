@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En jij, neem voor jezelf van alle voedsel dat gegeten wordt, en verzamel het bij je; en het zal voor jou en voor hen tot voedsel zijn.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en jij"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jezelf"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van alle"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "voedsel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "gegeten wordt"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "en verzamel"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bij je"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en het zal zijn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "en voor hen"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "tot voedsel"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:17.039258066Z",
+  "model": "glm-5.3"
+}

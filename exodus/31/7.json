@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "⟨את⟩ de tent van samenkomst, en ⟨את⟩ de ark van de getuigenis, en ⟨את⟩ het verzoeningsdek dat daarop is, en ⟨את⟩ alle gereedschap van de tent",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tent van samenkomst"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "van de getuigenis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het verzoeningsdek"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "het verzoeningsdek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al het gereedschap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "gereedschap"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "van de tent"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:58.423345449Z",
+  "model": "glm-5.3"
+}

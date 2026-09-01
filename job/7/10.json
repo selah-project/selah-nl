@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Hij keert niet meer terug naar zijn huis, en zijn plaats kent hem niet meer.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "keert terug"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "niet meer"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "naar zijn huis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "kent hem"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "niet meer"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:14.480753348Z",
+  "model": "glm-5.3"
+}

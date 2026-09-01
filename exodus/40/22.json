@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En hij zette ⟨את⟩ de tafel in de tent van samenkomst, aan de zijde van de tabernakel, noordwaarts, buiten het voorhangsel.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en hij zette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "de tafel"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "de zijde"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "van de tabernakel"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "noordwaarts"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "het voorhangsel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:46.653716159Z",
+  "model": "glm-5.3"
+}

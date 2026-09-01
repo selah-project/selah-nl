@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Als ik in het gelijk gesteld word, zal mijn mond mij schuldig verklaren; ben ik tam, dan verklaart hij mij verdorven.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "in het gelijk gesteld word"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "mij schuldig verklaren"
+    },
+    {
+      "surface": "תם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben ik"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "verklaart hij mij verdorven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:58.718520432Z",
+  "model": "glm-5.3"
+}

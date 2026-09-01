@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "De naaktheid van de zuster van uw moeder zult gij niet ontden; want ⟨zij⟩ is het vlees van uw moeder ⟨⟨zelf⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "de naaktheid"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "de zuster"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "van uw moeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "zult gij ontden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "van uw moeder"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨zij⟩ is"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:09.757226226Z",
+  "model": "glm-5.3"
+}

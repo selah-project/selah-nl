@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 34:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Een zwaard ⟨behoort⟩ aan Jahweh, het is verzadigd van bloed, het is vet geworden van vet, van het bloed van rammen en bokken, van het vet van de nieren van jonge stieren; want een slachtoffer ⟨is⟩ er voor Jahweh in Botsra, en een groot slachten in het land van Edom.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "een zwaard"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "verzadigd"
+    },
+    {
+      "surface": "דם",
+      "gloss": "van bloed"
+    },
+    {
+      "surface": "הדשנה",
+      "gloss": "vet geworden"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "van vet"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "van het bloed"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "van rammen"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "en bokken"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "van het vet"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "van de nieren"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "van jonge stieren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "een slachtoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "בבצרה",
+      "gloss": "in Botsra"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "en een slachten"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "van Edom"
+    }
+  ],
+  "timestamp": "2026-08-31T21:20:51.507210384Z",
+  "model": "glm-5.3"
+}

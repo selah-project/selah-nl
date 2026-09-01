@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 2:30",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Maar Sichon, de koning van Cheshbon, wilde ons niet ⟨door⟩ zijn ⟨gebied⟩ laten trekken, want Jahweh jouw Elohim had zijn geest verhard en zijn hart standvastig gemaakt, om hem in jouw hand te geven, zoals op deze dag.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "wilde"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "העברנו",
+      "gloss": "ons laten trekken"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨door zijn gebied⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "had verhard"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn geest"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "zijn geest"
+    },
+    {
+      "surface": "ו אמץ",
+      "gloss": "en gemaakt standvastig",
+      "surface_actual": "ואמץ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hart"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "zijn hart"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "תתו",
+      "gloss": "te geven hem"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jouw hand"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "zoals op deze dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:22.712986269Z",
+  "model": "glm-5.3"
+}

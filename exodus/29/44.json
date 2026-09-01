@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En Ik zal de tent van ontmoeting heiligen, en ⟨את⟩ het altaar, en ⟨את⟩ Aharon en ⟨את⟩ zijn zonen zal Ik heiligen om Mij als priester te dienen.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "En Ik zal heiligen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tent van ontmoeting"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het altaar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "zal Ik heiligen"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "als priester"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor Mij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:05.092096066Z",
+  "model": "glm-5.3"
+}

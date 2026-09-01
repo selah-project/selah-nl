@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 4:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Jahweh sprak tot jullie uit het midden van het vuur; een stem van woorden hoorden jullie, maar een gestalte zagen jullie niet — behalve de stem.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "tot jullie"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit het midden van"
+    },
+    {
+      "surface": "האש",
+      "gloss": "het vuur"
+    },
+    {
+      "surface": "קול",
+      "gloss": "een stem"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "van woorden"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "hoorden"
+    },
+    {
+      "surface": "ותמונה",
+      "gloss": "een gestalte"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "zagen jullie niet"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "zien"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "behalve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:03.148530342Z",
+  "model": "glm-5.3"
+}

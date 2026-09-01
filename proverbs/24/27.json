@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 24:27",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Maak gereed in het buiten ⟨jouw⟩ werk, en richt het ⟨toe⟩ voor jou op het veld; daarna bouw jij jouw huis.",
+  "tokens": [
+    {
+      "surface": "הכן",
+      "gloss": "maak gereed"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "in het buiten"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "⟨jouw⟩ werk"
+    },
+    {
+      "surface": "ועתדה",
+      "gloss": "en richt het toe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "en bouw jij"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "⟨jouw⟩ huis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:59.790933415Z",
+  "model": "glm-5.3"
+}

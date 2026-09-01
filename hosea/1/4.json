@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jahweh zei tot hem: Noem zijn naam Jizreël, want nog een korte ⟨tijd⟩ en Ik zal ⟨את⟩ het bloed van Jizreël bezoeken aan het huis van Jehoe, en Ik zal doen ophouden het koninkrijk van het huis van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "noem"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "een korte ⟨tijd⟩"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "en Ik zal bezoeken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bloed van Jizreël"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreël"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehoe"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "en Ik zal doen ophouden"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "koninkrijk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:38.965257870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Laat geen stroom van wateren mij overstromen, en laat de diepte mij niet verzwelgen, en laat de put zijn mond niet over mij sluiten.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Laat niet"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "mij overstromen"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "stroom van"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wateren"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en laat niet"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "mij verzwelgen"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "de diepte"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en laat niet"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "sluiten"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "באר",
+      "gloss": "de put"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "zijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:30.964835405Z",
+  "model": "glm-5.3"
+}

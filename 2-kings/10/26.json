@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En zij voerden ⟨את⟩ de gewijde zuilen van het huis van de Baäl naar buiten, en verbrandden ze.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "En zij voerden naar buiten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gewijde zuilen"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "de gewijde zuilen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "van de Baäl"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "en verbrandden ze"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:22.938001618Z",
+  "model": "glm-5.3"
+}

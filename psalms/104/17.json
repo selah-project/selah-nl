@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "waar de vogels nestelen; ⟨de⟩ ooievaar — de cipressen zijn zijn huis ⟨voor hem⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "de vogels"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "nestelen"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "ooievaar"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "de cipressen"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "zijn huis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:04.053762695Z",
+  "model": "glm-5.3"
+}

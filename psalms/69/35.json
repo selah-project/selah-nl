@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Loven zullen hem hemel en aarde, de zeeën en alles wat zich daarin roert.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "loven zullen hem"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hemel"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "en aarde"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de zeeën"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alles"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "wat zich roert"
+    },
+    {
+      "surface": "בם",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:27.419414987Z",
+  "model": "glm-5.3"
+}

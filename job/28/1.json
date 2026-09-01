@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 28:1",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Want voor zilver is er een ⟨bron⟩plaats, en een plaats voor goud dat ⟨men⟩ zuivert.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יש",
+      "gloss": "is er"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "voor zilver"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "een uitgang ⟨bron⟩"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "en een plaats"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "voor goud"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "dat men zuivert"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:39.706328874Z",
+  "model": "glm-5.3"
+}

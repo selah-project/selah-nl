@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij sprak, en de sprinkhaan kwam, en de rinssprinkhaan, zonder getal.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Hij sprak"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en kwam"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "de sprinkhaan"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "en de rinssprinkhaan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "getal"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:31.552412020Z",
+  "model": "glm-5.3"
+}

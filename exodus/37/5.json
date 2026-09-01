@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En hij bracht ⟨את⟩ de stangen in de ringen aan de zijden van de ark, om ⟨את⟩ de ark te dragen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij bracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stangen"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "de stangen"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "in de ringen"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "de zijden"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "van de ark"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "om te dragen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de ark"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:47.633024668Z",
+  "model": "glm-5.3"
+}

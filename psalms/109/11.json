@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Moge een schuldeiser een strik spannen voor alles wat hij heeft, en moge vreemden zijn arbeidsvrucht roven.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "moge een strik spannen"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "een schuldeiser"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "voor alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hij heeft"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "en moge roven"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vreemden"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "zijn arbeidsvrucht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:18.571477328Z",
+  "model": "glm-5.3"
+}

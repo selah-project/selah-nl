@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 97,
+  "translation": "Jullie die Jahweh liefhebben, haat het kwaad; ⟨hij⟩ bewaart de nefesjot van zijn chasidim, uit de hand van de rasja'im rukt hij hen weg.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "jullie die liefhebben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "haat"
+    },
+    {
+      "surface": "רע",
+      "gloss": "het kwaad"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewaart"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nefesjot (levens)"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "zijn chasidim (vromen)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de rasja'im (goddelozen)"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "rukt hij hen weg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:43.687701382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "En roep Mij aan op de dag van benauwdheid — Ik red je, en jij zult Mij eren.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "En roep Mij aan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "van benauwdheid"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "Ik red je"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "en jij zult Mij eren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:12.524108177Z",
+  "model": "glm-5.3"
+}

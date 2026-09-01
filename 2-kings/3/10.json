@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Toen zei de koning van Jisraël: Ach, dat Jahweh deze drie koningen geroepen heeft om ⟨את⟩ hen te geven in de hand van Moav!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "toen zei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ach"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "geroepen heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "voor de drie"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "koningen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te geven"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moav"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:43.835719759Z",
+  "model": "glm-5.3"
+}

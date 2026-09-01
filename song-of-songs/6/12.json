@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Ik wist ⟨het⟩ niet — mijn nefesj zette mij ⟨op⟩ de strijdwagens van mijn edel volk.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "wist ik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "zette mij"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "de strijdwagens"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "edel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:45.730545327Z",
+  "model": "glm-5.3"
+}

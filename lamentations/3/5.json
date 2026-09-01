@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Hij heeft tegen mij gebouwd en mij omringd ⟨met⟩ vergif en vermoeienis.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Hij heeft gebouwd"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "en mij omringd"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "vergif"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "en vermoeienis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:57.315206043Z",
+  "model": "glm-5.3"
+}

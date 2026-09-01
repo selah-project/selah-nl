@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "kommen van goud dertig, kommen van zilver van de tweede soort vierhonderd en tien, ⟨en⟩ overige voorwerpen duizend.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "kommen"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "kommen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "van zilver"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "van de tweede soort"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "en tien"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "voorwerpen"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "overige"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:50:08.742136378Z",
+  "model": "glm-5.3"
+}

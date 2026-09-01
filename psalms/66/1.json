@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "Voor de koorleider. Een lied, een mizmor. Juich tot Elohim, heel de aarde!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Voor de koorleider"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Juich"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:42.977561336Z",
+  "model": "glm-5.3"
+}

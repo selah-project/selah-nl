@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En hij vond een andere man en zei: Sla mij toch. En de man sloeg hem — slaande en wondend.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "en hij vond"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "een andere"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "sla mij"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "en de man sloeg hem"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "slaande"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "en wondend"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:14.579643461Z",
+  "model": "glm-5.3"
+}

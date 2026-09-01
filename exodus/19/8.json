@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 19:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En heel het volk antwoordde eensgezind en zeide: Alles wat Jahweh gesproken heeft, zullen wij doen. En Mosjee bracht ⟨את⟩ de woorden van het volk terug tot Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "antwoordde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "eensgezind"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zeide"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "zullen wij doen"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bracht terug"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de woorden van het volk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de woorden van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:39.460192136Z",
+  "model": "glm-5.3"
+}

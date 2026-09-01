@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Slagend zult u slaan ⟨את⟩ de bewoners van die stad met de scherpte van het zwaard; u zult haar aan de ban wijden, ⟨את⟩ alles wat in haar is en ⟨את⟩ haar vee, met de scherpte van het zwaard.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "slagend"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "zult u slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bewoners van die stad"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bewoners"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "met de scherpte"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van het zwaard"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "u zult haar aan de ban wijden"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (de stad)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles wat in haar is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in haar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "haar vee"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "haar vee"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "met de scherpte"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van het zwaard"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:51.062025654Z",
+  "model": "glm-5.3"
+}

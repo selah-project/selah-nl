@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "en ⟨את⟩ de tafel en ⟨את⟩ zijn gereedschap, en ⟨את⟩ de kandelaar, de reine, en ⟨את⟩ al haar gereedschap, en ⟨את⟩ het altaar van de reukoffergeur",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "de tafel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn gereedschap"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zijn gereedschap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de kandelaar"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "de kandelaar"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "de reine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al haar gereedschap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "haar gereedschap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het altaar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "van de reukoffergeur"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:58.423489683Z",
+  "model": "glm-5.3"
+}

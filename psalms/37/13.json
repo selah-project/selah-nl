@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Adonai lacht hem ⟨uit⟩, want Hij heeft gezien dat zijn dag komt.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "lacht"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "heeft gezien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "zijn dag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:29.922985402Z",
+  "model": "glm-5.3"
+}

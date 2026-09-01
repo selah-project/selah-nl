@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij sloeg alle eerstgeborenen in hun land, de eersteling van al hun kracht.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Hij sloeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "eerstgeborenen"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "in hun land"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "de eersteling"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "hun kracht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:31.552713271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Hij kloofde rotsen in de woestijn en gaf hen te drinken als ⟨uit⟩ diepe wateren, overvloedig.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "Hij kloofde"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "rotsen"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "en gaf te drinken"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "als diepe wateren"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "overvloedig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:51.000098056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 76,
+  "translation": "Straallichtend bent u, machtig boven de bergen van prooi.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "straallichtend"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "machtig"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": " boven de bergen"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "van prooi"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:31.594613379Z",
+  "model": "glm-5.3"
+}

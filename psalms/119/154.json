@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 154,
+  "ref": "psalms 119:154",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Voer mijn rechtszaak en verlos mij; naar uw woord maak mij levend.",
+  "tokens": [
+    {
+      "surface": "ריבה",
+      "gloss": "Voer mijn rechtszaak"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "(mijn rechtszaak)"
+    },
+    {
+      "surface": "וגאלני",
+      "gloss": "en verlos mij"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "naar uw woord"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "maak mij levend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:40.609712866Z",
+  "model": "glm-5.3"
+}

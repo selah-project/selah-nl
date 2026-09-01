@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "En zij riepen tot Jahweh in hun benauwdheid; uit hun nooden redde hij hen.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "En zij riepen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in hun benauwdheid"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "uit hun nooden"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "redde hij hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:59.353237673Z",
+  "model": "glm-5.3"
+}

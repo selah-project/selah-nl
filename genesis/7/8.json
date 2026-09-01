@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Van het vee, het reine, en van het vee dat niet rein is, en van het gevogelte, en van alles wat zich voortbeweegt op de aardbodem.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "het reine"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "niet"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "rein is"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "het gevogelte"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zich voortbeweegt"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de aardbodem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:41.830231213Z",
+  "model": "glm-5.3"
+}

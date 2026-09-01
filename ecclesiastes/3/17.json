@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Ik zei, ik, in mijn hart: ⟨את⟩ de rechtvaardige en ⟨את⟩ de goddeloze zal Elohim oordelen, want ⟨er is⟩ een tijd voor elk verlangen en over elk werk daar.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ik zei"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "in mijn hart"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de rechtvaardige"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "de rechtvaardige"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de goddeloze"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "zal oordelen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "voor elk"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "verlangen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elk"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:02.574723513Z",
+  "model": "glm-5.3"
+}

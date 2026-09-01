@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Zie, in ongerechtigheid ben ik gevormd, en in zonde heeft mijn moeder mij ontvangen.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "zie"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "in ongerechtigheid"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ben ik gevormd"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "en in zonde"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "heeft mij ontvangen"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mijn moeder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:32.243185259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "een nefesj die zoiets aanraakt, is onrein tot de avond, en hij mag niet eten van de heilige dingen, tenzij hij zijn lichaam in water wast.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "een nefesj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "aanraakt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "het"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "en onrein is"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "de avond"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hij mag eten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "de heilige dingen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tenzij"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨tenzij⟩"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "wast"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "zijn lichaam"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in water"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:19.307349485Z",
+  "model": "glm-5.3"
+}

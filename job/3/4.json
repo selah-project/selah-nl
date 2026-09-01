@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Die dag — moge hij duisternis zijn; moge Eloa hem van boven niet opzoeken, en moge er geen licht over hem opgaan.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "moge hij zijn"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "moge... hem opzoeken"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "van boven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "moge opgaan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over hem"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "licht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:35.198578949Z",
+  "model": "glm-5.3"
+}

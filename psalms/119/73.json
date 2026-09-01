@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Uw handen hebben mij gemaakt en mij toegerust; geef mij inzicht, dan leer ik uw mitswot.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "uw handen"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "hebben mij gemaakt"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "en mij toegerust"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "geef mij inzicht"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "dan leer ik"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "uw mitswot"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:44.536695431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En Jahweh sprak tot Mosjee, zeggende:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en Hij sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:15.912127215Z",
+  "model": "glm-5.3"
+}

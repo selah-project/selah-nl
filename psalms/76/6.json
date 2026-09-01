@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 76,
+  "translation": "Beroofd zijn de stoutheartigen, gesluimerd hebben zij hun slaap, en geen van de mannen van kracht vonden hun handen.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "beroofd zijn"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "de stoute"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heartigen"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "gesluimerd hebben"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "zij hun slaap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "vonden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "geen van"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "van kracht"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hun handen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:31.594856588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Want U bent mijn hoop, Adonai Jahweh, mijn betrouwen vanaf mijn jeugd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "mijn hoop"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "mijn betrouwen"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "vanaf mijn jeugd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:28.595611750Z",
+  "model": "glm-5.3"
+}

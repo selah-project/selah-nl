@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 3:12",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "zie, ik heb gedaan naar uw woorden; zie, ik heb u een wijs en verstaand hart gegeven, zodat iemand zoals u vóór u niet geweest is en na u niet zal opstaan zoals u.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ik heb gedaan"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "naar uw woorden"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ik heb gegeven"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    },
+    {
+      "surface": "לב",
+      "gloss": "een hart"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wijs"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "en verstaand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zodat"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "zoals u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "היה",
+      "gloss": "geweest is"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vóór u"
+    },
+    {
+      "surface": "ואחריך",
+      "gloss": "en na u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "zal opstaan"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "zoals u"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:01.987679278Z",
+  "model": "glm-5.3"
+}

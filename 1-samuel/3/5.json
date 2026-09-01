@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En hij rende naar Eli en zei: Hier ben ik, want u heeft mij geroepen. Maar hij zei: Ik heb niet geroepen; keer terug, ga liggen. En hij ging en ging liggen.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "en hij rende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hier ben ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "u heeft geroepen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ik heb geroepen"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ga liggen"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "en ging liggen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:30.379955487Z",
+  "model": "glm-5.3"
+}

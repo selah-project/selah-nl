@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En David verzamelde ⟨את⟩ heel Israël naar Jeroesjalajim, om ⟨את⟩ de ark van Jahweh te laten opgaan naar zijn plaats, die hij voor hem bereid had.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "en verzamelde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "om te laten opgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "zijn plaats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hij bereid had"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:05.306661587Z",
+  "model": "glm-5.3"
+}

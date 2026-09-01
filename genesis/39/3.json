@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "En zijn heer zag dat Jahweh ⟨את⟩ met hem was, en alles wat hij deed, dat liet Jahweh slagen door zijn hand.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "En hij zag"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "zijn heer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hem",
+      "marks": "met hem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "deed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "did slagen"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "door zijn hand"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:32.135555947Z",
+  "model": "glm-5.3"
+}

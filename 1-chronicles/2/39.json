@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Azarjah verwekte ⟨את⟩ Chelets, en Chelets verwekte ⟨את⟩ El'asah.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "En Azarjah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelets"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Chelets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "en Chelets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El'asah"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "El'asah"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:21.563425860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En heel Jisraël ging neer naar de Pelisjtieten om te scherpen, ieder ⟨את⟩ zijn ploegschaar en ⟨את⟩ zijn hak en ⟨את⟩ zijn bijl en ⟨את⟩ zijn schoffel.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "En … ging neer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "naar de Pelisjtieten"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "om te scherpen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn ploegschaar"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "zijn ploegschaar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hak (אתו)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "zijn hak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn bijl"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "zijn bijl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn schoffel"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "zijn schoffel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:44:19.671811037Z",
+  "model": "glm-5.3"
+}

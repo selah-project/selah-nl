@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 117,
+  "translation": "Want zijn chesed is machtig over ons, en de trouw van Jahweh ⟨is⟩ tot in eeuwigheid. Looft Jah!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "is machtig"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over ons"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "en ⟨de⟩ trouw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Looft"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:59.356185708Z",
+  "model": "glm-5.3"
+}

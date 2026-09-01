@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En men zocht een jonge maagd, mooi, in heel het gebied van Jisraël, en men vond ⟨את⟩ Avisjag de Sunamietische, en men bracht ⟨את⟩ haar naar de koning.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "En men zocht"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "een jonge maagd"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "mooi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in heel"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "het gebied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "en men vond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avisjag de Sunamietische"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avisjag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "de Sunamietische"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en men bracht"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "naar de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:29.448677334Z",
+  "model": "glm-5.3"
+}

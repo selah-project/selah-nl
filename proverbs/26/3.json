@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Een zweep voor het paard, een bit voor de ezel, en een roede voor de rug van dwazen.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "een zweep"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "voor het paard"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "een bit"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "voor de ezel"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "en een roede"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "voor de rug"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "van dwazen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:19.158408932Z",
+  "model": "glm-5.3"
+}

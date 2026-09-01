@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En hij zeide: gij kunt ⟨את⟩ mijn aangezicht niet zien, want geen mens kan mij zien en leven.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "gij kunt"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "zien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn aangezicht"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mijn aangezicht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "mij zien"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "en leven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:11.829416230Z",
+  "model": "glm-5.3"
+}

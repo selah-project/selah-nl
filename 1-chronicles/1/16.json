@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "en ⟨את⟩ de Arwadiet, en ⟨את⟩ de Tsemariet, en ⟨את⟩ de Chamatiet",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Arwadiet"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "de Arwadiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Tsemariet"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "de Tsemariet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Chamatiet"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "de Chamatiet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:13.414229234Z",
+  "model": "glm-5.3"
+}

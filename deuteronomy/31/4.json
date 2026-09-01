@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En Jahweh zal hun doen zoals Hij Sichon en Og gedaan heeft, de koningen van de Emoriet, en hun land, die Hij verdelgd heeft ⟨⟨את⟩ hen⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "en zal doen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Hij gedaan heeft"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "aan Sichon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "en aan Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "de koningen van"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de Emoriet"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "en aan hun land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "Hij verdelgd heeft"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:38.310612693Z",
+  "model": "glm-5.3"
+}

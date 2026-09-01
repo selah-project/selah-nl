@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Twaalf zijn wij, broers, zonen van onze vader; de ene is er niet meer, en de jongste is heden ⟨את⟩ bij onze vader in het land Kenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "twaalf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(tien)"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wij"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "broers"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "van onze vader"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "is er niet meer"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "en de jongste"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bij"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "onze vader"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:32.325506921Z",
+  "model": "glm-5.3"
+}

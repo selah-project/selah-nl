@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En zij trokken over ⟨את⟩ de Jarden en legerden zich bij Aroër, rechts van de stad die in het midden van het ravijn van Gad ⟨ligt⟩, en ⟨kwamen⟩ tot Jaäzer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "en zij trokken over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "en legerden zich"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "bij Aroër"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "rechts van"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "het ravijn"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "van Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaäzer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:54.065128543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Brayt ⟨de⟩ wilde ezel bij vers gras, of loeit ⟨de⟩ os over zijn voeder?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "brayt"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "wilde ezel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bij"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "vers gras"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "loeit"
+    },
+    {
+      "surface": "שור",
+      "gloss": "os"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "zijn voeder"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:29.654932660Z",
+  "model": "glm-5.3"
+}

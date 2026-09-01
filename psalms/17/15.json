@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Ik — in gerechtigheid zal ik uw aangezicht aanschouwen, ik zal verzadigd worden, bij het ontwaken, ⟨met⟩ uw gedaante.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "in gerechtigheid"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "zal ik aanschouwen"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "zal ik verzadigd worden"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "bij het ontwaken"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "⟨met⟩ uw gedaante"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:48.890655928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En dit waren ⟨de⟩ overheidsbeambten die hij had: Azarjahu, zoon van Tsadok, de priester.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "waren de overheidsbeambten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hij had"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:03.943973490Z",
+  "model": "glm-5.3"
+}

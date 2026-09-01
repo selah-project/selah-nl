@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Jahweh zei tot Mosjee: ga naar Par'o, want ík heb zijn hart verzwaard en ⟨את⟩ het hart van zijn dienaren, opdat ik deze mijn tekenen in zijn midden zou stellen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "heb ik verzwaard"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn hart"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zijn hart"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het hart"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "van zijn dienaren"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ik zou stellen"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "mijn tekenen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in zijn midden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:40.685147588Z",
+  "model": "glm-5.3"
+}

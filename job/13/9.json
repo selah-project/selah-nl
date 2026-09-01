@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Is het goed dat hij ⟨את⟩ u doorgrondt? Of, zoals ⟨men⟩ een mens belachelijk maakt, zult u hem belachelijk maken?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "is het goed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "doorgrondt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u",
+      "marks": "u"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "zoals ⟨men⟩ belachelijk maakt"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "een mens"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "zult u belachelijk maken"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:27.037959386Z",
+  "model": "glm-5.3"
+}

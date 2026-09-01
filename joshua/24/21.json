@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En het volk zei tegen Jehosjoea: Nee, ⟨maar⟩ Jahweh zullen wij dienen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨maar⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "zullen wij dienen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:34:29.337694312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Wat krom is, kan niet rechtgemaakt worden, en wat ontbreekt, kan niet geteld worden.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "wat krom is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "rechtgemaakt worden"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "en wat ontbreekt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "geteld worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:35.044110649Z",
+  "model": "glm-5.3"
+}

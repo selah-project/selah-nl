@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Laat hen beschaamd worden en te schande gemaakt, die mijn nefesj zoeken; laat hen terugwijken en verwarring lijden, die mijn kwaad beramen.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Laat beschaamd worden"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "en te schande gemaakt"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "die zoeken"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "laat terugwijken"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "achteruit"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "en verwarring lijden"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "die beramen"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mijn kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:33.967998028Z",
+  "model": "glm-5.3"
+}

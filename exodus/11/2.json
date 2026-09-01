@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Spreek toch in de oren van het volk: een ieder vraege van ⟨את⟩ zijn naaste, en een vrouw van ⟨את⟩ haar naaste, voorwerpen van zilver en voorwerpen van goud.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "in de oren van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "en zij vragen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een ieder"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "zijn naaste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zijn naaste"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "en een vrouw"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "haar naaste"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "haar naaste"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "voorwerpen van"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "en voorwerpen van"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:34.752869363Z",
+  "model": "glm-5.3"
+}

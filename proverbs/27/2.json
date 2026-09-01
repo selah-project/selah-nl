@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Een ander louve jou, en niet je eigen mond; een buitenstaander, en niet je eigen lippen.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "louve jou"
+    },
+    {
+      "surface": "זר",
+      "gloss": "een ander"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "je eigen mond"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "een buitenstaander"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "je eigen lippen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:27.538797181Z",
+  "model": "glm-5.3"
+}

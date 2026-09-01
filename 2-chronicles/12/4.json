@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En hij nam ⟨את⟩ de versterkte steden die van Jehoeda waren, en hij kwam tot aan Jeroesjalajim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "En hij nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de versterkte steden"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "de steden"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "versterkte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "van Jehoeda waren"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:06:55.516257737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En de zonen van Israël riepen tot Jahweh en zeiden: Wij hebben tegen U gezondigd, want wij hebben ⟨את⟩ onze Elohim verlaten en de Baäls gediend.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "en riepen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en zeiden"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "wij hebben gezondigd"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tegen U"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "wij hebben verlaten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onze Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "en gediend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Baäls"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "de Baäls"
+    }
+  ],
+  "timestamp": "2026-08-31T20:37:17.403463433Z",
+  "model": "glm-5.3"
+}

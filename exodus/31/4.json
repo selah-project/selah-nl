@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "om ontwerpen te bedenken, om te werken in goud en in zilver en in koper —",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "om te bedenken"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "ontwerpen"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te werken"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "in goud"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "en in zilver"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "en in koper"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:35.580741796Z",
+  "model": "glm-5.3"
+}

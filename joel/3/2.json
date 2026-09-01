@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En zelfs op de dienaren en op de dienstmaagden zal ik in die dagen mijn ⟨את⟩ geest uitgieten.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "En zelfs"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "de dienaren"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "de dienstmaagden"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in die dagen"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "die"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "zal ik uitgieten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn geest"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mijn geest"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:27.870762837Z",
+  "model": "glm-5.3"
+}

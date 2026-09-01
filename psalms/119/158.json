@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik zag verraders en ik werd diep getroffen, omdat zij Uw woord niet bewaarden.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ik zag"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "verraders"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "en ik werd diep getroffen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Uw woord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bewaarden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:11.880911199Z",
+  "model": "glm-5.3"
+}

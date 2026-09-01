@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En ik zei: Hoor toch, hoofden van Jaakov, en oversten van het huis van Israël: is het niet voor jullie ⟨om⟩ te kennen ⟨את⟩ het recht?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ik zei"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoofden"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "en oversten"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "is het niet"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "om te kennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het recht"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "het recht"
+    }
+  ],
+  "timestamp": "2026-09-01T00:07:25.871521267Z",
+  "model": "glm-5.3"
+}

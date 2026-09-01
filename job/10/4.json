@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Hebt U ogen van vlees, of ziet U zoals ⟨het zien⟩ van een stervelijke ⟨is⟩?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "hebt U ogen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "van vlees"
+    },
+    {
+      "surface": "לך",
+      "gloss": "U"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "zoals ⟨het zien⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "van een stervelijke"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ziet U"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:50.431795339Z",
+  "model": "glm-5.3"
+}

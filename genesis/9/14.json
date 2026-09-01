@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En het zal gebeuren, wanneer ik een wolk breng over de aarde, dan zal de boog gezien worden in de wolk.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En het zal gebeuren"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "wanneer ik breng een wolk"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "wolk"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "dan zal gezien worden"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "de boog"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "in de wolk"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:56.539616695Z",
+  "model": "glm-5.3"
+}

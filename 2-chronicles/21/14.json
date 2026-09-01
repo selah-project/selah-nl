@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 21:14",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Zie, Jahweh slaat een grote plaag onder je volk, en onder je zonen, en onder je vrouwen, en onder al je bezit.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "slaat"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "een plaag"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grote"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "onder je volk"
+    },
+    {
+      "surface": "ובבניך",
+      "gloss": "en onder je zonen"
+    },
+    {
+      "surface": "ובנשיך",
+      "gloss": "en onder je vrouwen"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en onder al"
+    },
+    {
+      "surface": "רכושך",
+      "gloss": "je bezit"
+    }
+  ],
+  "timestamp": "2026-08-31T23:29:34.241793143Z",
+  "model": "glm-5.3"
+}

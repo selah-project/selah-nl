@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Achan antwoordde Jehosjoea ⟨את⟩ en zei: voorwaar, ik heb gezondigd tegen Jahweh, de Elohim van Jisraël, en zó en zó heb ik gedaan.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en hij antwoordde"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Achan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehosjoea"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "heb gezondigd"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tegen Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "en zó"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "en zó"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "heb ik gedaan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:30:52.780736092Z",
+  "model": "glm-5.3"
+}

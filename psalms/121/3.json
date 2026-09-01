@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 121,
+  "translation": "Moge Hij je voet niet laten wankelen; moge je bewaker niet sluimeren.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet (wens-ontkenning)"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Hij late"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "wankelen"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "je voet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet (wens-ontkenning)"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "sluimere"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "je bewaker"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:15.973961056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Alle steden die jullie aan de Levieten geven ⟨zullen⟩ achtenveertig steden ⟨zijn⟩; ⟨את⟩-hen en ⟨את⟩ hun weidegronden ⟨zal jullie geven worden⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "steden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "jullie geven"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "aan de Levieten"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "achtenveertig"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "steden"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "hen (de steden)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun weidegronden"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "hun weidegronden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:21.345495216Z",
+  "model": "glm-5.3"
+}

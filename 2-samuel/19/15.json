@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En hij neigde ⟨את⟩ het hart van alle man van Jehoeda als één man, en zij zonden naar de koning ⟨om te zeggen⟩: Keer terug, gij en al uw dienaren.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "en hij neigde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hart"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "als één man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "en zij zonden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gij"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "uw dienaren"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:24.264521916Z",
+  "model": "glm-5.3"
+}

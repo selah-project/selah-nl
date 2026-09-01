@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 112,
+  "translation": "Hij heeft uitgestrooid, hij heeft gegeven aan de armen; zijn tsedaqa ⟨staat⟩ voor eeuwig; zijn hoorn wordt verhoogd in kavod.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "heeft uitgestrooid"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "heeft gegeven"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "aan de armen"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "zijn tsedaqa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "⟨staat⟩"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "zijn hoorn"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "wordt verhoogd"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "in kavod"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:12.258233288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Cham, de vader van Kenaan, zag ⟨את⟩ de naaktheid van zijn vader, en hij vertelde het aan zijn twee broeders buiten.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "vader van"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de naaktheid"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "naaktheid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van zijn vader"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en hij vertelde"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "aan de twee"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broeders"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "buiten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:46.942142250Z",
+  "model": "glm-5.3"
+}

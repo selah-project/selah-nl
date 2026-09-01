@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ de daäh, en ⟨את⟩ de ayya, naar haar soort;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de daäh"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "de daäh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de ayya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "de ayya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "naar haar soort"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:51.979707236Z",
+  "model": "glm-5.3"
+}

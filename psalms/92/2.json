@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "Goed is het om Jahweh te danken en te zingen ⟨voor⟩ Uw naam, Eljon ⟨[de Allerhoogste]⟩,",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "om te danken"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "en te zingen"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "voor Uw naam"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon [de Allerhoogste]"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:08.916410023Z",
+  "model": "glm-5.3"
+}

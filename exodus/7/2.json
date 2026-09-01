@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "U zult spreken ⟨את⟩ alles wat Ik u gebied, en Aharon, uw broeder, zal tot Par'o spreken, dat hij ⟨את⟩ de kinderen van Jisraël uit zijn land laat gaan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "zult spreken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "Ik u gebied"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "uw broeder"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "zal spreken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "dat hij laat gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "uit zijn land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:12.520158101Z",
+  "model": "glm-5.3"
+}

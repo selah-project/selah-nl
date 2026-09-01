@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Loof, mijn nefesj, Jahweh; Jahweh, mijn Elohim, ⟨u⟩ bent zeer groot, hoed en hader hebt u aangedaan.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "bent groot"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "hoed"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "en hader"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "hebt u aangedaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:14.977597863Z",
+  "model": "glm-5.3"
+}

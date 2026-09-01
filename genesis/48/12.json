@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "En Joesef voerde hen ⟨את⟩ uit van tussen zijn knieën, en hij boog zich met zijn aangezicht ter aarde.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "en hij voerde uit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "van tussen"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "zijn knieën"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "en hij boog zich neer"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "met zijn aangezicht"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ter aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:28.979736571Z",
+  "model": "glm-5.3"
+}

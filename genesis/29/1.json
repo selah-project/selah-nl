@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Toen hief Jaakob zijn voeten op en ging naar het land van de zonen van het oosten.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "toen hief hij op"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "zijn voeten"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en ging"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "naar het land"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "van het oosten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:43.180919574Z",
+  "model": "glm-5.3"
+}

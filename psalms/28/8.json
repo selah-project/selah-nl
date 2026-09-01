@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Jahweh is hun kracht, en hij is de burcht van verlossingen voor zijn Masjiach (gezalfde).",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kracht"
+    },
+    {
+      "surface": "למו",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "en de burcht"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "van verlossingen"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "voor zijn Masjiach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:20.643692934Z",
+  "model": "glm-5.3"
+}

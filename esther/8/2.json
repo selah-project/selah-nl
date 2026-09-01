@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En de koning nam zijn zegelring af, die hij van Haman had weggenomen, en gaf hem aan Mordechai; en Ester stelde Mordechai over ⟨את⟩ het huis van Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "nam af"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zegelring"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "zijn zegelring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "hij had weggenomen"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "van Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "en gaf hem"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "aan Mordechai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "en stelde"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "המן",
+      "gloss": "van Haman"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:01.484433622Z",
+  "model": "glm-5.3"
+}

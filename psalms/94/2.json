@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Verhef ⟨u⟩, Rechter van ⟨de⟩ aarde, breng vergelding over de hoogmoedigen.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "verhef u"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Rechter"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "השב",
+      "gloss": "breng terug"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "vergelding"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "de hoogmoedigen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:17.922133281Z",
+  "model": "glm-5.3"
+}

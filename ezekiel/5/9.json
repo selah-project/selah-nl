@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Ik zal in u doen ⟨את⟩ wat ik niet gedaan heb en ⟨את⟩ wat ik niet meer zo zal doen, omwege van al uw gruwelen.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "zal ik doen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat ik niet gedaan heb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ik gedaan heb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wat ik niet meer zo zal doen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ik zal doen"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "zo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    },
+    {
+      "surface": "יען",
+      "gloss": "omwege van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "uw gruwelen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:42:03.504606091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Zie, waarheid verlangt u in het binnenste, en in het verborgene doet u mij wijsheid kennen.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waarheid"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "verlangt u"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "in het binnenste"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "en in het verborgene"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "doet u mij kennen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:32.243324885Z",
+  "model": "glm-5.3"
+}

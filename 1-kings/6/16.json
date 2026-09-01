@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En hij bouwde ⟨את⟩ twintig el ⟨aan⟩ de achterzijde van het huis, met platen van ceder, van de vloer tot aan de wanden; en hij bouwde het vanbinnen ⟨als⟩ debir, voor het heilige der heiligen.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twintig el"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "de achterzijde"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "met platen"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "van ceder"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "de vloer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "de wanden"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor het"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "vanbinnen"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "als debir"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "voor het heilige"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "der heiligen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:20.962696101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "zoon van Sjalom, zoon van Tsadok, zoon van Achitoev.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Sjalom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitoev"
+    }
+  ],
+  "timestamp": "2026-08-31T22:52:07.886431756Z",
+  "model": "glm-5.3"
+}

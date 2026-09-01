@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Gebroken heeft Jahweh de staf van de goddelozen, de scepter van de heersers.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Gebroken heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "staf"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "de scepter"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "van de heersers"
+    }
+  ],
+  "timestamp": "2026-09-01T00:07:26.009837304Z",
+  "model": "glm-5.3"
+}

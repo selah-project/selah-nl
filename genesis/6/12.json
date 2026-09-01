@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Elohim zag ⟨את⟩ de aarde, en zie, zij was verdorven, want al het vlees had zijn weg verdorven op de aarde.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "zag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "was verdorven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "had verdorven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn weg"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "zijn weg"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:28.149722403Z",
+  "model": "glm-5.3"
+}

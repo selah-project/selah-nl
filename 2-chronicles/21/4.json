@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Jehoram stond op over het koninkrijk van zijn vader, en hij verhardde zich, en hij doodde ⟨את⟩ al zijn broers met het zwaard, en ook ⟨sommigen⟩ van de vorsten van Israël.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "stond op"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "het koninkrijk"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "verhardde zich"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "doodde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al zijn broers"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "met het zwaard"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "vorsten van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:09:04.404256827Z",
+  "model": "glm-5.3"
+}

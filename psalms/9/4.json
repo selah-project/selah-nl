@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Als mijn vijanden zich achterom keren, struikelen zij en vergaan zij voor uw aangezicht.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "als ... zich keren"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "achterom"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "struikelen zij"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "en vergaan zij"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "voor uw aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:12.054253341Z",
+  "model": "glm-5.3"
+}

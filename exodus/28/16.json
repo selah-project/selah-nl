@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Vierkant zal het zijn, dubbel ⟨gevouwen⟩; een spoi ⟨zal⟩ zijn lengte ⟨zijn⟩ en een spoi zijn breedte.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "vierkant"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal het zijn"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dubbel"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "een spoi"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "zijn lengte"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "en een spoi"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "zijn breedte"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:03.514496589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "maar omdat Jahweh u liefheeft en ⟨את⟩ de eed bewaart die Hij aan uw vaderen gezworen heeft, heeft Jahweh u uitgeleid met een sterke hand en u losgekocht uit het huis van slaven, uit de hand van Par'o, koning van Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maar omdat"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "uit liefde van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u",
+      "marks": "u"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "en het bewaren van"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de eed"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "de eed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "Hij gezworen heeft"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "aan uw vaderen"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "heeft uitgeleid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u",
+      "marks": "u"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "met"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "een sterke hand"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "en u losgekocht"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit het huis van"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slaven"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand van"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:44.371017630Z",
+  "model": "glm-5.3"
+}

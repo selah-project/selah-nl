@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Ik zou haasten ⟨met⟩ een ontsnapping voor mij, weg van een stormachtige wind, weg van een onweer.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "ik zou haasten"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "een ontsnapping"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "weg van een wind"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "stormachtig"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "weg van een onweer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:43.773355116Z",
+  "model": "glm-5.3"
+}

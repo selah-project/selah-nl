@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En zij lieten daar ⟨את⟩ hun goden achter, en Dawid sprak ⟨het bevel⟩, en zij werden in het vuur verbrand.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "En zij lieten achter"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun goden"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hun goden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en sprak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "en zij werden verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in het vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T23:00:42.277710285Z",
+  "model": "glm-5.3"
+}

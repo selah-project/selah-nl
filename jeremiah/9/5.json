@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Uw verblijf ⟨is⟩ te midden van bedrog; door bedrog hebben zij geweigerd Mij te kennen — uithouding van Jahweh.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "uw verblijf"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "te midden van"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrog"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "door bedrog"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "hebben zij geweigerd"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "te kennen"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Mij",
+      "marks": "Mij"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "uithouding van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:29:37.227579368Z",
+  "model": "glm-5.3"
+}

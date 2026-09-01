@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Voor het aangezicht van de verdorvenen die mij verwoesten, mijn vijanden — in nefesj omsingelen zij mij.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "verdorvenen"
+    },
+    {
+      "surface": "זו",
+      "gloss": "die"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "mij verwoesten"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "in nefesj"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "omsingelen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:52.028922290Z",
+  "model": "glm-5.3"
+}

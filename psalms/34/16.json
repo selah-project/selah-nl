@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "De ogen van Jahweh ⟨zijn⟩ op de rechtvaardigen, en zijn oren op hun hulpgeroep.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "de ogen van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de rechtvaardigen"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "en zijn oren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "hun hulpgeroep"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:09.958092873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij zei: roep haar. En hij riep haar, en zij stond in de opening ⟨van de deur⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "roep"
+    },
+    {
+      "surface": "לה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij riep"
+    },
+    {
+      "surface": "לה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "en zij stond"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "in de opening"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:54.845359257Z",
+  "model": "glm-5.3"
+}

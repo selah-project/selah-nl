@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Ik ken elk gevogelte van de bergen, en wat het veld beweegt ⟨is⟩ bij mij.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ik ken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elk"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "gevogelte"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "van de bergen"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "en wat beweegt"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "van het veld"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bij mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:43.706794879Z",
+  "model": "glm-5.3"
+}

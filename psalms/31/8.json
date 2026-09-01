@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Ik zal jubelen en mij verheugen in Uw chesed, dat U mijn ellende gezien heeft; U heeft ⟨את⟩ de benauwdheden van mijn nefesj gekend.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "ik zal jubelen"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "en mij verheugen"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "in Uw chesed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "U gezien heeft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn ellende"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mijn ellende"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "U heeft gekend"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "de benauwdheden van"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:34.843087374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "die Hij sneed ⟨את⟩ Avraham ⟨tot⟩ ⟨een⟩ verbond, en zijn eed aan Jitschak;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sneed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "en zijn eed"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "aan Jitschak"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:12.915811602Z",
+  "model": "glm-5.3"
+}

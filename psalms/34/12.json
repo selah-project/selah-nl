@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Kom, kinderen, luister naar mij; het vrezen van Jahweh zal ik jullie leren.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "luister"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naar mij"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "het vrezen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "zal ik jullie leren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:04.333934854Z",
+  "model": "glm-5.3"
+}

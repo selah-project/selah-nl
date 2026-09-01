@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "En zijn zonen zullen voortdurend rondzwerven en bedelen, en zij zullen brood zoeken uit hun verwoeste ⟨plaatsen⟩.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "en zwerven"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "zullen zij rondzwerven"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "en bedelen"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "en zij zullen zoeken"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "uit hun verwoeste plaatsen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:18.571314863Z",
+  "model": "glm-5.3"
+}

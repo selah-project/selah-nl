@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Sarai was onvruchtbaar; zij had geen kind.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "en was"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "onvruchtbaar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "zij had"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "kind"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:10.629420797Z",
+  "model": "glm-5.3"
+}

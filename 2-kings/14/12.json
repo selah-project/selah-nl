@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En Jehoeda werd geslagen voor het aangezicht van Jisraël, en zij vluchtten, ieder man naar zijn tent.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "en werd geslagen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "en zij vluchtten"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder man"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "naar zijn tent"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:49.372800464Z",
+  "model": "glm-5.3"
+}

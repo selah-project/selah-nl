@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij gaf hun regenbuien als hagel, vuur van vlammen in hun land.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Hij gaf"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "hun regenbuien"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hagel"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "van vlammen"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "in hun land"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:50.438232743Z",
+  "model": "glm-5.3"
+}

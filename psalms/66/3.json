@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "Zegt tot Elohim: hoe ontzagwekkend zijn uw daden! Door de grootheid van uw macht zullen uw vijanden zich ⟨schijnbaar⟩ aan u onderwerpen.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Zegt"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ontzagwekkend"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "zijn uw daden"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Door de grootheid"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "van uw macht"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "zullen zij zich ⟨schijnbaar⟩ onderwerpen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan u"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "uw vijanden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:42.978153015Z",
+  "model": "glm-5.3"
+}

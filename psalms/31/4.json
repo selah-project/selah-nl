@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Want mijn rots en mijn vesting bent U; en om Uws naams wil leidt mij en weidt mij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mijn rots"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "en mijn vesting"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bent U"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "en om"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Uws naams wil"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "leidt mij"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "en weidt mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:33.349815045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Wie het gebod bewaart, kent geen kwaad ⟨woord⟩; en het hart van de wijze kent tijd en rechtspraak.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "bewaart"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "het gebod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en tijd"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en rechtspraak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "van de wijze"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:55.438925555Z",
+  "model": "glm-5.3"
+}

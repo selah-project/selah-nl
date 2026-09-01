@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 149,
+  "translation": "De chasidim springen op van vreugde in glorie; zij jubelen op hun legersteden.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "springen op van vreugde"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "de chasidim"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "in glorie"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "jubelen zij"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "hun legersteden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:14.843043142Z",
+  "model": "glm-5.3"
+}

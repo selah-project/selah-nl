@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En hij zal nemen om het huis te ontzondigen ⟨את⟩ twee vogels en cederhout en scharlaken ⟨garen⟩ en hyssop.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "en hij zal nemen"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "om te ontzondigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "vogels"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "en cederhout"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ceder"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "en scharlaken"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "scharlaken (worm)"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "en hyssop"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:10.013369973Z",
+  "model": "glm-5.3"
+}

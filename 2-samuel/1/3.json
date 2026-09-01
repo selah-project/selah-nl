@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Dawid zei tot hem: vanwaar kom jij? En hij zei tot hem: uit het legerkamp van Jisraël ben ik ontkomen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אי",
+      "gloss": "vanwaar"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "vandaan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kom jij"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "uit het legerkamp"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "ben ik ontkomen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:50:58.712138445Z",
+  "model": "glm-5.3"
+}

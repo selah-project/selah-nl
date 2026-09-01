@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En hij zei: zie, ik heb gehoord dat er koren in Mitsrajim is. Ga daarheen omlaag en koop voor ons daarvandaan, zodat wij leven en niet sterven.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ik heb gehoord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er is"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "koren"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "ga omlaag"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "en koop"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daarvandaan"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "en wij zullen leven"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:17.913412399Z",
+  "model": "glm-5.3"
+}

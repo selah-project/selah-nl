@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Ik zal ⟨את⟩ de namen van de Baäls uit haar mond wegnemen, en zij zullen niet meer herdacht worden bij hun naam.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "en Ik zal wegnemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de namen"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namen"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "van de Baäls"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "uit haar mond"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "zullen herdacht worden"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "bij hun naam"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:01.346346125Z",
+  "model": "glm-5.3"
+}

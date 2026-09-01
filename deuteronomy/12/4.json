@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Niet zo zullen jullie doen voor Jahweh, jullie Elohim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Niet"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "zul jullie doen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:43.304373640Z",
+  "model": "glm-5.3"
+}

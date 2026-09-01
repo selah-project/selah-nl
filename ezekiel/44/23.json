@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "En ⟨את⟩ mijn volk zullen zij onderwijzen ⟨in het onderscheid⟩ tussen heilig en profaan, en tussen onrein en rein zullen zij het doen weten.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mijn volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "zullen zij onderwijzen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "en profaan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "en rein"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "zullen zij het doen weten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:52:52.860672386Z",
+  "model": "glm-5.3"
+}

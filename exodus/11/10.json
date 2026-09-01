@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Mosjee en Aharon deden al deze tekenen voor het aangezicht van Par'o, maar Jahweh verhardte ⟨את⟩ het hart van Par'o, en hij zond ⟨את⟩ de zonen van Jisraël niet weg uit zijn land.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "En Mosjee"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "deden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al deze tekenen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "de tekenen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "maar ... verhardte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hart van Par'o"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zond weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zonen van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "uit zijn land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:56.184597762Z",
+  "model": "glm-5.3"
+}

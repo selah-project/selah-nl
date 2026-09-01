@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 85,
+  "translation": "Zult u tot in eeuwigheid tegen ons toornen? Zult u uw toorn voorttrekken, van geslacht tot geslacht?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Zult u tot in eeuwigheid"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "toornen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "tegen ons"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "zult u voorttrekken"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "uw toorn"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "tot geslacht"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en tot geslacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:00.687572872Z",
+  "model": "glm-5.3"
+}

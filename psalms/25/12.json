@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Wie is ⟨de⟩ man die Jahweh vreest? Hem zal Hij onderwijzen in de weg die hij kiezen zal.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "is ⟨de⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "die vreest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "Hem zal Hij onderwijzen"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in de weg"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "die hij kiezen zal"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:05.214517174Z",
+  "model": "glm-5.3"
+}

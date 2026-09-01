@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "U zult geen rente opleggen aan uw broeder: rente van geld, rente van voedsel, rente van alles waarvan men rente oplegt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "zult u rente opleggen"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "aan uw broeder"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "rente"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "van geld"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "rente"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "van voedsel"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "rente"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van alles"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarvan"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "men rente oplegt"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:05.359417842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En jullie hebben ⟨את⟩ hun gruwelen gezien en ⟨את⟩ hun drekgoden, hout en steen, zilver en goud, die bij hen waren",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "en jullie hebben gezien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun gruwelen"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "hun gruwelen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun drekgoden"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "hun drekgoden"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hout"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "en steen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "bij hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:16.426434811Z",
+  "model": "glm-5.3"
+}

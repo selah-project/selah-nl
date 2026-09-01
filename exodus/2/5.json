@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de dochter van Par'o daalde af om zich te baden aan de rivier, en haar dienaressen gingen langs de rand van de rivier; en zij zag ⟨את⟩ de kist in het midden van het riet, en zij zond ⟨את⟩ haar dienstmaagd en zij nam ⟨die⟩.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "en zij daalde af"
+    },
+    {
+      "surface": "בת",
+      "gloss": "de dochter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Par'o"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "om zich te baden"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "de rivier"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "en haar dienaressen"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "gingen"
+    },
+    {
+      "surface": "על",
+      "gloss": "langs"
+    },
+    {
+      "surface": "יד",
+      "gloss": "de rand"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "van de rivier"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "en zij zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kist"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "de kist"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "het riet"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "en zij zond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar dienstmaagd"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "haar dienstmaagd"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "en zij nam die"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:26.517592700Z",
+  "model": "glm-5.3"
+}

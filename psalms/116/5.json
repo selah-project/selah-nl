@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "Genadig is Jahweh en rechtvaardig, en onze Elohim is vol chesed ⟨barmhartigheid⟩.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Genadig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "en rechtvaardig"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "en onze Elohim"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "is vol barmhartigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:15.456479079Z",
+  "model": "glm-5.3"
+}

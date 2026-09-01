@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Gezegend zij Jahweh, de Elohim van Israël, van ⟨de⟩ eeuwigheid tot ⟨de⟩ eeuwigheid; en al het volk zegge: Amen. Hallelu Jah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gezegend"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "⟨de⟩ eeuwigheid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "⟨de⟩ eeuwigheid"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en zegge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:58.120499420Z",
+  "model": "glm-5.3"
+}

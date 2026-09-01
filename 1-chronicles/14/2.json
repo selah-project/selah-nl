@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 14:2",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En Dawid wist dat Jahweh hem ⟨als⟩ koning over Israël had bevestigd, omdat zijn koninkrijk hoog verheven was, omwille van zijn volk Israël.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "en hij wist"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "had bevestigd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨als⟩ koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "verheven was"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "hoog"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "zijn koninkrijk"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "omwille van"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:00:58.552836533Z",
+  "model": "glm-5.3"
+}

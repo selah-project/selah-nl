@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En hij zei: open het oostwaartse raam. En hij opende ⟨het⟩, en Elisa zei: schiet. En hij schoot. En hij zei: een pijl van bevrijding ⟨van⟩ Jahweh, en een pijl van bevrijding tegen Aram; en u zult ⟨את⟩ Aram slaan in Afek, tot het einde toe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "open"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "het raam"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "oostwaarts"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "en hij opende"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "schiet"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "en hij schoot"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "een pijl"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "van bevrijding"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "en een pijl"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "van bevrijding"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "tegen Aram"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "en u zult slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "in Afek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "het einde toe"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:34.364803224Z",
+  "model": "glm-5.3"
+}

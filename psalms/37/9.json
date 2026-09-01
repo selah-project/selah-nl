@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Want de kwaaddoeners worden afgekapt, maar zij die op Jahweh wachten, zíj zullen ⟨את⟩ het land beërven.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "de kwaaddoeners"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "worden afgekapt"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "maar zij die wachten op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zíj"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "zullen beërven"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:25.885436889Z",
+  "model": "glm-5.3"
+}

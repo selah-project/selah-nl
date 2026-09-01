@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Want mijn slaven zijn zij, die ik ⟨את⟩ hen heb uitgeleid uit het land Mitsrajim; zij zullen niet verkocht worden met de verkoop van een slaaf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mijn slaven"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "heb ik uitgeleid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "zullen verkocht worden"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "met de verkoop"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "van een slaaf"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:48.298752932Z",
+  "model": "glm-5.3"
+}

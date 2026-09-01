@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En hij maakte twee kerubs van goud; drijfwerk maakte hij ⟨את⟩ hen, aan de twee uiteinden van het verzoendeksel.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubs"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "drijfwerk"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maakte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen (de kerubs)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "aan de twee"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "uiteinden"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "van het verzoendeksel"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:47.633653988Z",
+  "model": "glm-5.3"
+}

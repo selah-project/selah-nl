@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "voordat verduisterd worden de zon en het licht en de maan en de sterren, en de wolken terugkeren na de regen;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "verduisterd worden"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "en het licht"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "en de maan"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "en de sterren"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "en terugkeren"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "de wolken"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "de regen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:44.081478591Z",
+  "model": "glm-5.3"
+}

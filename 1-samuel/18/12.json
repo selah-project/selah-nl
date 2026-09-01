@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Sjaoel vreesde het aangezicht van Dawid, omdat Jahweh met hem was en van Sjaoel geweken was.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "En vreesde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "van het aangezicht van"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "en van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "סר",
+      "gloss": "geweken was"
+    }
+  ],
+  "timestamp": "2026-08-31T20:46:22.063187729Z",
+  "model": "glm-5.3"
+}

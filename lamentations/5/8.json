@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Knechten hebben over ons geheerst — ⟨er is⟩ niemand die ⟨ons⟩ uit hun hand bevrijdt.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "knechten"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "hebben geheerst"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "over ons"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "bevrijdt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niemand"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "uit hun hand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:18.662177276Z",
+  "model": "glm-5.3"
+}

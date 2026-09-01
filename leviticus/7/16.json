@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En als zijn offerkorban een neder of een nedava is, zal het op de dag dat hij ⟨את⟩ zijn offer brengt gegeten worden, en op de dag daarna mag wat daarvan overblijft gegeten worden.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "een neder"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "een nedava"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "offer"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "zijn korban"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "dat hij brengt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn offer"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "zijn offer"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zal gegeten worden"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "en op de dag daarna"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "en wat overblijft"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mag gegeten worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:57.196531309Z",
+  "model": "glm-5.3"
+}

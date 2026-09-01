@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Dan springt de lamme als een hert, en de tong van de stomme juicht; want in de woestijn zijn wateren doorgebroken, en beken in de dorre vlakte.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "springt"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "als een hert"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "de lamme"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "en juicht"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "de tong van"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "de stomme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "zijn doorgebroken"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wateren"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "en beken"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "in de dorre vlakte"
+    }
+  ],
+  "timestamp": "2026-08-31T21:20:51.395994860Z",
+  "model": "glm-5.3"
+}

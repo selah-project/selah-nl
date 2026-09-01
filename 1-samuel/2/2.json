@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Er is niemand heilig als Jahweh, want er is niemand behalve ⟨u⟩, en er is geen rots als onze Elohim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "er is niemand"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "als Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is niemand"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "behalve u"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is geen"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rots"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "als onze Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:41:35.295225005Z",
+  "model": "glm-5.3"
+}

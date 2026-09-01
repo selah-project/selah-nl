@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "U hebt mijn rouwklacht voor mij in rondedans veranderd; U hebt mijn boetekleed geopend en mij met blijdschap omgord.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "U hebt veranderd"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "mijn rouwklacht"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "in rondedans"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "U hebt geopend"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "mijn boetekleed"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "en mij omgord"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "met blijdschap"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:06.897041490Z",
+  "model": "glm-5.3"
+}

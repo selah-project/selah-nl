@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Ook op de weg — wanneer de dwaas daarheen gaat — ontbreekt hem ⟨het⟩ hart, en hij zegt aan iedereen dat hij een dwaas is.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "wanneer de dwaas"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gaat"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zijn hart"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ontbreekt"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en hij zegt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan iedereen"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "een dwaas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij is"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:53.541572017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Voorwaar, jullie zijn ⟨het⟩ volk, en met jullie zal de wijsheid sterven!",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "en met jullie"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "zal sterven"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "de wijsheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:49.511909185Z",
+  "model": "glm-5.3"
+}

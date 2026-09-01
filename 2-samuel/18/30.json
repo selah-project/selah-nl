@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En de koning zei: Wijk opzij, stel je hier op. En hij week opzij en ging staan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "סב",
+      "gloss": "wijk opzij"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "stel je op"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "en hij week opzij"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "en ging staan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:07.148598761Z",
+  "model": "glm-5.3"
+}

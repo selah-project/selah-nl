@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En jullie zullen er niets van laten blijven tot de morgen; maar wat ervan overblijft tot de morgen, zullen jullie in het vuur verbranden.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "zullen jullie laten blijven"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ervan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de morgen"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "en wat overblijft"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ervan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de morgen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in het vuur"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "zullen jullie verbranden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:57.822203459Z",
+  "model": "glm-5.3"
+}

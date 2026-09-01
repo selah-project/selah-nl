@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "en zij bewaakten ⟨את⟩ de wachtdienst van de tent van ontmoeting en ⟨את⟩ de wachtdienst van het heilige, en de wachtdienst van de zonen van Aharon, hun broeders, voor de dienst van het huis van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "en zij bewaakten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de wachtdienst van de tent van ontmoeting"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "de wachtdienst"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "van de tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de wachtdienst van het heilige"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "de wachtdienst"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van het heilige"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "en de wachtdienst"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "hun broeders"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "voor de dienst"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T23:03:17.711112523Z",
+  "model": "glm-5.3"
+}

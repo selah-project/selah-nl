@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "de held en de man van de oorlog, de rechter en de profeet, de waarzegger en de ouderling,",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "de held"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en de man"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "van de oorlog"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "de rechter"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "en de profeet"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "en de waarzegger"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "en de ouderling"
+    }
+  ],
+  "timestamp": "2026-08-31T21:13:20.350002338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Dit ⟨is⟩ de zee, groot en wijd van ⟨kanten⟩, daar ⟨is⟩ gewemel zonder getal, levende wezens, kleinen ⟨samen⟩ met groten.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "en wijd"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "van ⟨kanten⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "gewemel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "getal"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "levende wezens"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "kleinen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨samen⟩ met"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "groten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:14.143792472Z",
+  "model": "glm-5.3"
+}

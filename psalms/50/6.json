@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "En de hemelen vertellen zijn rechtvaardigheid, want Elohim ⟨is⟩ rechter, hij ⟨zelf⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "vertellen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "zijn rechtvaardigheid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "rechter"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij ⟨zelf⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:48.730665489Z",
+  "model": "glm-5.3"
+}

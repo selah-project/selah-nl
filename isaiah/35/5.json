@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Dan worden de ogen van blinden geopend, en de oren van doven worden ontsloten.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "worden geopend"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "de ogen van"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "blinden"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "en de oren van"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "doven"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "worden ontsloten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:20:51.395657778Z",
+  "model": "glm-5.3"
+}

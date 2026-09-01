@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En de koning zei: wie is er in de voorhof? En Haman was juist gekomen naar de buitenste voorhof van het huis van de koning, om tot de koning te zeggen ⟨dat men⟩ Mordechai zou ophangen ⟨את⟩ aan de boom die hij voor hem gereedgemaakt had.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "in de voorhof"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "en Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "was gekomen"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "naar de voorhof"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "de buitenste"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te zeggen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tot de koning"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "om op te hangen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "de boom (galg)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hij gereedgemaakt had"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:26.264844137Z",
+  "model": "glm-5.3"
+}

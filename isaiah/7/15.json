@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Room en honing zal hij eten, om te weten het kwade te verwerpen en het goede te kiezen.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "room"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "en honing"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zal hij eten"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "om te weten"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "te verwerpen"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "het kwade"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "en te kiezen"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "het goede"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:02.172840160Z",
+  "model": "glm-5.3"
+}

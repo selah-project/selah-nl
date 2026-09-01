@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "Want U hebt ons onderzocht, Elohim, U hebt ons gelouterd zoals zilver gelouterd wordt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "hebt ons onderzocht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "hebt ons gelouterd"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "zoals gelouterd wordt"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:28.781329473Z",
+  "model": "glm-5.3"
+}

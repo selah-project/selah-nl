@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En Sja'öel riep ⟨את⟩ het volk bijeen en telde hen in Telaim: tweehonderdduizend man voetvolk, en tienduizend man van Jehoeda.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hij riep bijeen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sja'öel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "en telde hen"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "in Telaim"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tweehonderd"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "voetvolk"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "en tien"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ met"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:40.875963415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Wie zijn vader geweld aandoet en zijn moeder verjaagt, ⟨is⟩ een zoon die schande brengt en smaad.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "wie geweld aandoet"
+    },
+    {
+      "surface": "אב",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "en verjaagt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zijn moeder"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "die schande brengt"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "en smaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:07.191283988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Het aangezicht van Jahweh ⟨is⟩ tegen de daders van kwaad, om hun gedenkteken van ⟨de⟩ aarde uit te roeien.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "tegen de daders"
+    },
+    {
+      "surface": "רע",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "om uit te roeien"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "van aarde"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "hun gedenkteken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:06.353179923Z",
+  "model": "glm-5.3"
+}

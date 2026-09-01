@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Maar ik blijf te allen tijde hopen, en ik zal ⟨verder gaan⟩ bij al uw lof.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maar ik"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "te allen tijde"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "hoop"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "en ik zal toevoegen"
+    },
+    {
+      "surface": "על",
+      "gloss": "bij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "uw lof"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:39.803170619Z",
+  "model": "glm-5.3"
+}

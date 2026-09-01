@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "Een lied, een psalm van de zonen van Korach, voor de koorleider, op Machalat Leannoth, een maskil van Heiman de Ezrachiet.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een psalm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannoth"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "een maskil"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "van Heiman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "de Ezrachiet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:14.297521389Z",
+  "model": "glm-5.3"
+}

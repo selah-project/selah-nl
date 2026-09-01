@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En het leger van de Kasdiem achtervolgde de koning, en zij bereikten hem in de vlakten van Jericho; en heel zijn leger werd van hem verstrooid.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "en zij achtervolgden"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "het leger"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "van de Kasdiem"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "achter"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "en zij bereikten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem (de koning)"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "in de vlakten"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "van Jericho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "zijn leger"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "werd verstrooid"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "van hem"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:31.086625224Z",
+  "model": "glm-5.3"
+}

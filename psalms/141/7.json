@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 141,
+  "translation": "Als ⟨iemand⟩ die ploegt en doorklieft in de aarde, zo zijn onze beenderen verstrooid aan de mond van Sjeool.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "die ploegt"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "en doorklieft"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in de aarde"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "zijn verstrooid"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "onze beenderen"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "aan de mond van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeool"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:42.813167239Z",
+  "model": "glm-5.3"
+}

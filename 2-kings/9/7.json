@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En u zult ⟨את⟩ het huis van Achav, uw heer, slaan, en ik zal het bloed wreken van mijn dienaren de profeten, en het bloed van alle dienaren van Jahweh, uit de hand van Izevel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "en u zult slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Achav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "uw heer"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "en ik zal wreken"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "het bloed"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "van mijn dienaren"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "de profeten"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "en het bloed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van alle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dienaren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "van Izevel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:52.356677797Z",
+  "model": "glm-5.3"
+}

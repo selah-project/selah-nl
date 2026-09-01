@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Waarom woeden de naties en murmuren ⟨de⟩ volken ijdelheid?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "woeden"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "de naties"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "en volken"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "murmuren"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ijdelheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:48.042525743Z",
+  "model": "glm-5.3"
+}

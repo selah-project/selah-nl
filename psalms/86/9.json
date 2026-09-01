@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 86,
+  "translation": "Alle natiën die Gij gemaakt hebt, zullen komen en zich neerbuigen voor Uw aangezicht, Adonai, en Uw naam eren.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "natiën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Gij gemaakt hebt"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "zullen komen"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "en zich neerbuigen"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor Uw aangezicht"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "en eren"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Uw naam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:00.687354669Z",
+  "model": "glm-5.3"
+}

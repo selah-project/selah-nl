@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Wijk af van het kwade en doe het goede, en woon voor eeuwig.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "wijk af"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "van het kwade"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en doe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "en woon"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:43.638567276Z",
+  "model": "glm-5.3"
+}

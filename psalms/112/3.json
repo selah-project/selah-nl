@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 112,
+  "translation": "Rijkdom en overvloed ⟨zijn⟩ in zijn huis, en zijn tsedaka staat voor eeuwig ⟨vast⟩.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "rijkdom"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "en overvloed"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in zijn huis"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "en zijn tsedaka"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "staat"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:18.098009390Z",
+  "model": "glm-5.3"
+}

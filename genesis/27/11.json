@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En Jaäkov zei tot Rivka, zijn moeder: Zie, Esav, mijn broeder, ⟨is⟩ een behaard man, en ik ⟨ben⟩ een glad man.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "zijn moeder"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mijn broeder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "שער",
+      "gloss": "behaard"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "glad"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:44.371314709Z",
+  "model": "glm-5.3"
+}

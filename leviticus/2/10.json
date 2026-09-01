@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En wat overblijft van de mincha is voor Aharon en voor zijn zonen — allerheiligst, van de vuuroffers van Jahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "en wat overblijft"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "de mincha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "voor Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "en voor zijn zonen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "allerheiligst (heilig der heiligheden)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "van de vuuroffers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:42.759900511Z",
+  "model": "glm-5.3"
+}

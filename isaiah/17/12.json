@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Wee ⟨het⟩ geraas van vele volken, ⟨dat⟩ brult als het bruisen van de zeeën brult; en ⟨het⟩ gedruis van naties, ⟨dat⟩ stuwt als het gedruis van machtige wateren!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "wee"
+    },
+    {
+      "surface": "המון",
+      "gloss": "geraas"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "van volken"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "als het bruisen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van de zeeën"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "brult"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "en gedruis"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "van naties"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "als het gedruis"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van wateren"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "machtige"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "stuwt"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:07.968836861Z",
+  "model": "glm-5.3"
+}

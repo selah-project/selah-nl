@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 75,
+  "translation": "Wij loven U, Elohim, wij loven ⟨U⟩, want nabij is uw Naam; men vertelt uw wonderen.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Wij loven"
+    },
+    {
+      "surface": "לך",
+      "gloss": "U"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "wij loven"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "want nabij is"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw Naam"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "men vertelt"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "uw wonderen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:41.761225399Z",
+  "model": "glm-5.3"
+}

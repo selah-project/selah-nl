@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En ook over Izevel heeft Jahweh gesproken, zeggend: De honden zullen Izevel opeten ⟨את⟩ in ⟨het⟩ stuk van Jizreël.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "En ook"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "over Izevel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "heeft gesproken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "de honden"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zullen opeten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "in ⟨het⟩ stuk van"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:43.552289172Z",
+  "model": "glm-5.3"
+}

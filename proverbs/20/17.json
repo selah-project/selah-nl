@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Zoet is voor een man ⟨het⟩ brood van bedrog, maar daarna wordt zijn mond met grind gevuld.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "zoet"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "voor een man"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van bedrog"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "maar daarna"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "wordt gevuld"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "zijn mond"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "met grind"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:57.278359866Z",
+  "model": "glm-5.3"
+}

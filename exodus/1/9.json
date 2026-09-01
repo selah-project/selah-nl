@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij zei tot zijn volk: Zie, het volk van de zonen van Jisraël is talrijker en machtiger dan wij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "רב",
+      "gloss": "talrijker"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "en machtiger"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dan wij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:29.010320629Z",
+  "model": "glm-5.3"
+}

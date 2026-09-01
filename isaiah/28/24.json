@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Ploegt de ploeger de hele dag om te zaaien? Maakt hij open en egelt hij ⟨voortdurend⟩ zijn akkergrond?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "de hele dag"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ploegt"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "de ploeger"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "om te zaaien"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "maakt open"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "en egelt"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "zijn akkergrond"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:17.862392384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Jahweh zei tot Noach: Ga jij en je hele huis de ark in, want ⟨את⟩ jou heb ik rechtvaardig gezien voor mijn aangezicht in deze generatie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "tot Noach"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "je huis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "jou"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "heb ik gezien"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor mijn aangezicht"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "in de generatie"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:07.401594183Z",
+  "model": "glm-5.3"
+}

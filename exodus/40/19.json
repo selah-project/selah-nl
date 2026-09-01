@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En hij spreidde ⟨את⟩ de tent uit over de misjkan, en legde ⟨את⟩ de bedekking van de tent daar bovenop, van boven — zoals Jahweh Mosjee geboden had ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "En hij spreidde uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tent"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "de misjkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en legde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bedekking van de tent"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "de bedekking"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "van de tent"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "erover"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "van boven"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebaad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosjee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:24.873880328Z",
+  "model": "glm-5.3"
+}

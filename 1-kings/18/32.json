@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En hij bouwde met ⟨את⟩ de stenen een altaar in de naam van Jahweh, en hij maakte een greppel, zo groot als twee seät zaaisaads, rondom het altaar.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stenen"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "de stenen"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "een altaar"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "een greppel"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "zo groot als"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "twee seät"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zaaisaad"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:00.220318169Z",
+  "model": "glm-5.3"
+}

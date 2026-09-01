@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Door mij regeren koningen, en vorsten schrijven recht vast.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "door mij"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "koningen"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "regeren"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "en vorsten"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "schrijven vast"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "recht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:54.816816756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Voor de koorleider. Van David. De dwaas heeft gezegd in zijn hart: \"Er is geen Elohim.\" Zij zijn verdorven, zij hebben een gruweldaad bedreven; er is niemand die goed doet.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Voor de koorleider"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "de dwaas"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in zijn hart"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is geen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "zij zijn verdorven"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "zij hebben gruwelijk gehandeld"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "een daad"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is geen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doener"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:15.341398519Z",
+  "model": "glm-5.3"
+}

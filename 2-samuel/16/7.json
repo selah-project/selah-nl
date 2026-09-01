@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En zo zei Sjim'i, terwijl hij vervloekte: Ga weg, ga weg, man van bloed en man van belial!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "En zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Sjim'i"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "terwijl hij vervloekte"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Ga weg"
+    },
+    {
+      "surface": "צא",
+      "gloss": "ga weg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "van bloed"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "van belial"
+    }
+  ],
+  "timestamp": "2026-08-31T20:54:09.694403836Z",
+  "model": "glm-5.3"
+}

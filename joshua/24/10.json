@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Maar ik wilde niet luisteren naar Bilam, en hij zegende jullie gezegend, en ik redde jullie uit zijn hand.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "wilde ik"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "luisteren"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "naar Bilam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en hij zegende"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "gezeegend"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "en ik redde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "uit zijn hand"
+    }
+  ],
+  "timestamp": "2026-08-31T20:34:27.754646160Z",
+  "model": "glm-5.3"
+}

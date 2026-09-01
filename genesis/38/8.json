@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En Jehoeda zei tot Onan: ga in tot de vrouw van je broer, en volbreng het zwagerschap aan haar ⟨את⟩, en wek nageslacht op voor je broer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "tot Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ga in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "de vrouw van"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "je broer"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "en volbreng het zwagerschap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "aan haar"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "en wek op"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslacht"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "voor je broer"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:40.336524345Z",
+  "model": "glm-5.3"
+}

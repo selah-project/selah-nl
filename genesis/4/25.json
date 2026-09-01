@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Adam kende opnieuw ⟨את⟩ zijn vrouw, en zij baarde een zoon, en zij riep ⟨את⟩ zijn naam Sjet, want ⟨Hij⟩ heeft mij Elohim ander zaad gegeven in plaats van Hevel, want Kajin had hem gedood.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "en hij kende"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opnieuw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vrouw"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en zij baarde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "en zij riep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sjet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שת",
+      "gloss": "heeft gegeven"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zaad"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ander"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "had hem gedood"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    }
+  ],
+  "timestamp": "2026-09-01T00:03:36.160301881Z",
+  "model": "glm-5.3"
+}

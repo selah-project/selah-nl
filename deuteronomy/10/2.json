@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "en ik zal op de tafelen ⟨את⟩ de woorden schrijven die op de eerste tafelen waren, die jij gebroken hebt; en je zult ze in de ark leggen.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "en ik zal schrijven"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "de tafelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de woorden"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "de tafelen"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "de eerste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "jij gebroken hebt"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "en je zult leggen"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "in de ark"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:15.339544398Z",
+  "model": "glm-5.3"
+}

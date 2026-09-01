@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 6:8",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Wie geeft dat mijn verzoek komt, en dat Eloa mijn verwachting geve!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "mijn verzoek"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "en mijn verwachting"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geve"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:08.786669094Z",
+  "model": "glm-5.3"
+}

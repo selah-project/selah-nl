@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 142,
+  "translation": "Ik stort uit voor zijn aangezicht mijn overdenking, mijn benauwdheid maak ik bekend voor zijn aangezicht.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "ik stort uit"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor zijn aangezicht"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "mijn overdenking"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "mijn benauwdheid"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor zijn aangezicht"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "maak ik bekend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:23.573714224Z",
+  "model": "glm-5.3"
+}

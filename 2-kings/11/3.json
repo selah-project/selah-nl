@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En hij was ⟨את⟩ bij haar in het huis van Jahweh, verborgen, zes jaren lang; en Atalja regeerde over het land.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En hij was"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ bij haar",
+      "marks": "bij haar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "verborgen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zes"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaren lang"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "en Atalja"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "regeerde"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:37.463175146Z",
+  "model": "glm-5.3"
+}

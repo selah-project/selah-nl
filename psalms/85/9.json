@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 85,
+  "translation": "Ik zal horen wat El Jahweh spreken zal, ja, Hij zal sjalom spreken tot zijn volk en tot zijn chasidim; maar laat hen niet terugkeren tot dwaasheid.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "ik zal horen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "spreken zal"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "Hij zal spreken"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "zijn chasidim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maar laat niet"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "terugkeren"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "tot dwaasheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:01.464460959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Om uw welbehagen te doen, mijn Elohim, heb ik verlangd, en uw Tora is binnen in mijn binnenste.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "uw welbehagen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "heb ik verlangd"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "en uw Tora"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "binnen in"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mijn binnenste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:08.435029849Z",
+  "model": "glm-5.3"
+}

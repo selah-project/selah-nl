@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Chetsron verwekte ⟨את⟩ Ram, en Ram verwekte ⟨את⟩ Amminadav.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "En Chetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "en Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:10.735561737Z",
+  "model": "glm-5.3"
+}

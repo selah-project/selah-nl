@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "Laat de voet van hoogmoed mij niet bereiken, en laat de hand van de goddelozen mij niet verdrijven.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "mij bereiken"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "de voet"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "van hoogmoed"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "en de hand"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "mij verdrijven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:12.258105983Z",
+  "model": "glm-5.3"
+}

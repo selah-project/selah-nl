@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En de zonen van Israël deden ⟨את⟩ de Baäls en ⟨את⟩ de Asjarot weg, en zij dienden ⟨את⟩ Jahweh alleen.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "en zij deden weg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Baäls"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "de Baäls"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "de Asjarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "de Asjarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "en zij dienden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:21.008970038Z",
+  "model": "glm-5.3"
+}

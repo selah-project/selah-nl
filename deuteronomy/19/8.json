@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En als Jahweh, uw Elohim, uw gebied verruimt, zoals Hij aan uw vaderen gezworen heeft, en u al het land geeft dat Hij gesproken heeft aan uw vaderen te geven —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "verruimt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw gebied"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "uw gebied"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "gezworen heeft"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "aan uw vaderen"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en geeft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al het land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken heeft"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "te geven"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "aan uw vaderen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:57.789559325Z",
+  "model": "glm-5.3"
+}

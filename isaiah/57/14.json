@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 57:14",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 57,
+  "translation": "En ⟨hij⟩ zal zeggen: Werpt op, werpt op, bereidt de weg, verwijdert het struikelblok uit de weg van mijn volk!",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ⟨hij⟩ zal zeggen"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "werpt op"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "werpt op"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "bereidt"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "verwijdert"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "het struikelblok"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "uit de weg"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "van mijn volk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:25:38.316000601Z",
+  "model": "glm-5.3"
+}

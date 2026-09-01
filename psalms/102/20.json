@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Want Jahweh heeft neergekeken vanuit de hoogte van zijn heiligdom, vanuit de hemelen naar de aarde heeft hij omgezien.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "heeft neergekeken"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "vanuit de hoogte"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "van zijn heiligdom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "vanuit de hemelen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "heeft hij omgezien"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:58.007746784Z",
+  "model": "glm-5.3"
+}

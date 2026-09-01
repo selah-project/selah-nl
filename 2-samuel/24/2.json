@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 24:2",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En de koning zei tot Joab, de bevelhebber van het leger die ⟨את⟩ bij hem was: trek toch rond door alle stammen van Jisraël, van Dan tot Beër-Sjeva, en telt ⟨את⟩ het volk, zodat ik het getal van het volk ⟨את⟩ ken.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "bevelhebber"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "van het leger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bij hem"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "trek rond"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "door alle"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "stammen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "van Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beër"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sjeva"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "en telt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "zodat ik ken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het getal"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "het getal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:16.946838601Z",
+  "model": "glm-5.3"
+}

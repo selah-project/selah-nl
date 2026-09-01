@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En hij zeide: Zij het dat zij voor vrede zijn uitgekomen — grijp hen levend; en zij het dat zij voor oorlog zijn uitgekomen — levend, grijp hen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zij het dat"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "voor vrede"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "zij zijn uitgekomen"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "grijp hen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levend"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en zij het dat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "voor oorlog"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "zij zijn uitgekomen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levend"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "grijp hen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:18.258086093Z",
+  "model": "glm-5.3"
+}

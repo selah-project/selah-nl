@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Hij roept tot de hemelen van boven, en tot de aarde, om zijn volk te oordelen.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "hij roept"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van boven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "om te oordelen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:21.775814071Z",
+  "model": "glm-5.3"
+}

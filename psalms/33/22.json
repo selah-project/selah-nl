@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Moge uw chesed (goedertierenheid), Jahweh, over ons zijn, zoals wij op u gehoopt hebben.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "moge...zijn"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over ons"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "hebben wij gehoopt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "op u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:56.581585378Z",
+  "model": "glm-5.3"
+}

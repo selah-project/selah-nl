@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Goed bent U en doet goed; leer mij uw verordeningen.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Goed"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bent U"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "en doet goed"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "leer mij"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "uw verordeningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:38.179919681Z",
+  "model": "glm-5.3"
+}

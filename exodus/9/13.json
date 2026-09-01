@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 9:13",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Jahweh zei tot Mosjee: sta vroeg op in de morgen en stel je voor het aangezicht van Par'o, en zeg tot hem: zo heeft Jahweh, Elohim van de Hebreeën, gezegd: stuur ⟨את⟩ mijn volk weg, opdat zij mij dienen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "sta vroeg op"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "והתיצב",
+      "gloss": "en stel je"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ו אמרת",
+      "gloss": "en zeg"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "de Hebreeën"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "stuur weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "opdat zij mij dienen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:09.420496645Z",
+  "model": "glm-5.3"
+}

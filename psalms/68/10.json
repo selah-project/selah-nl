@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Een regen van gaven schudde U uit, Elohim; uw erfdeel, ⟨dat⟩ vermoeid was, hebt U het doen staan.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "regen"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "van gaven"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "schudde U uit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "uw erfdeel"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "vermoeid was"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "hebt doen staan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:15.837574337Z",
+  "model": "glm-5.3"
+}

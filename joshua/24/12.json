@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En ik zond vóór jullie uit ⟨את⟩ de horniet, en zij verdreef ⟨את⟩ hen van vóór jullie — de twee koningen van de Emoriet — niet met jouw zwaard en niet met jouw boog.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "en ik zond"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "vóór jullie uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de horniet"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "de horniet"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "en zij verdreef"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hen"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "van vóór jullie"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de twee"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "koningen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "van de Emoriet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "met jouw zwaard"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "met jouw boog"
+    }
+  ],
+  "timestamp": "2026-08-31T20:34:27.755033883Z",
+  "model": "glm-5.3"
+}

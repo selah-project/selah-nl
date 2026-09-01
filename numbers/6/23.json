@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 6:23",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Spreek tot Aharon en tot zijn zonen, zeggende: alzo zult gij ⟨את⟩ de zonen van Jisraël zegenen; zeg tot hen:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "כה",
+      "gloss": "alzo"
+    },
+    {
+      "surface": "תברכו",
+      "gloss": "zult gij zegenen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zonen van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אמור",
+      "gloss": "zeg"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tot hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:11.657450781Z",
+  "model": "glm-5.3"
+}

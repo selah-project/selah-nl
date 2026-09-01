@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Zegt Jahweh lof, zijn engelen, helden van kracht, die zijn woord doen, luisterend naar de stem van zijn woord.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "zegt lof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "zijn engelen"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "helden"
+    },
+    {
+      "surface": "כח",
+      "gloss": "van kracht"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "die doen"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "zijn woord"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "luisterend"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "van zijn woord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:51.832104748Z",
+  "model": "glm-5.3"
+}

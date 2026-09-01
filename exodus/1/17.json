@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de vroedvrouwen vreesden ⟨את⟩ Elohim en deden niet zoals de koning van Mitsrajim tot hen gesproken had, maar lieten de jongens leven.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "en vreesden"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "de vroedvrouwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "deden"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "maar lieten leven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de jongens"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "de jongens"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:30.680532799Z",
+  "model": "glm-5.3"
+}

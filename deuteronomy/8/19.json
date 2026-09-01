@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 8:19",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En het zal gebeuren: als je vergetend vergeet Jahweh jouw Elohim, en je gaat achter andere elohim aan, en je dient hen en buigt je voor hen neer, dan getuig ik heden tegen jullie: jullie zullen zeker vergaan.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En het zal gebeuren"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "vergetend"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "vergeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh jouw Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "en je gaat"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andere"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "en je dient hen"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "en buigt je neer"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "getuig ik"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "tegen jullie"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "zeker vergaan"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "jullie zullen vergaan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:33.612747332Z",
+  "model": "glm-5.3"
+}

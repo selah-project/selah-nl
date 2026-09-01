@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En bij de profeten van Sjomeron heb ik dwaasheid gezien: zij profeteerden bij ⟨de⟩ Baäl en zij deden ⟨את⟩ mijn volk ⟨את⟩ Israël afdwalen.",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "en bij de profeten"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Sjomeron"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "heb ik gezien"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "dwaasheid"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "profeteerden zij"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "bij ⟨de⟩ Baäl"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "en zij deden afdwalen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:33:28.690282542Z",
+  "model": "glm-5.3"
+}

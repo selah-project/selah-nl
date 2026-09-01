@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 148,
+  "translation": " Bergen en alle heuvels, vruchtbomen en alle ceders,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "heuvels"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bomen"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vrucht-"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ceders"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:09.646271087Z",
+  "model": "glm-5.3"
+}

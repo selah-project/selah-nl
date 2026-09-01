@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En Joesef zei tot hen: dat is het wat ik tot jullie gesproken heb, zeggende: verspieders zijn jullie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ik gesproken heb"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "tot jullie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "verspieders"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "zijn jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:13.084445961Z",
+  "model": "glm-5.3"
+}

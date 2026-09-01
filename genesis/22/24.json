@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En zijn bijvrouw — haar naam was Reoema — ook zij baarde ⟨את⟩ Tevach en ⟨את⟩ Gacham en ⟨את⟩ Tachasj en ⟨את⟩ Maächa.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "En zijn bijvrouw"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "haar naam"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reoema"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "baarde"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevach"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gacham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gacham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tachasj"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tachasj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Maächa"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maächa"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:24.943396798Z",
+  "model": "glm-5.3"
+}

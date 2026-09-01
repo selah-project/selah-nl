@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 52,
+  "translation": "Voor de koorleider, een machashkil ⟨van⟩ David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "een machashkil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨van⟩ David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:01.578289939Z",
+  "model": "glm-5.3"
+}

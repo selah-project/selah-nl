@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 9:5",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "dan zal Ik ⟨את⟩ de troon van uw koningschap over Jisraël doen staan tot in eeuwigheid, zoals Ik over Dawid, uw vader, gesproken heb, zeggend: er zal voor u geen man worden afgesneden van ⟨de⟩ troon van Jisraël.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "dan zal Ik doen staan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de troon"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troon"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "van uw koningschap"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "heb Ik gesproken"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uw vader"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "zal worden afgesneden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:44.691104620Z",
+  "model": "glm-5.3"
+}

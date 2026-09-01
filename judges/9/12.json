@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En de bomen zeiden tot de wijnstok: Kom, jij, regeer over ons.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "de bomen"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "tot de wijnstok"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kom"
+    },
+    {
+      "surface": "את",
+      "gloss": "jij"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "regeer"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over ons"
+    }
+  ],
+  "timestamp": "2026-08-31T20:37:08.884205668Z",
+  "model": "glm-5.3"
+}

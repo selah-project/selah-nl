@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Tot in eeuwigheid zal ik uw verordeningen niet vergeten, want door hen hebt u mij levend gemaakt.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "zal ik vergeten"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "uw verordeningen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בם",
+      "gloss": "door hen"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "hebt u mij levend gemaakt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:01.483806644Z",
+  "model": "glm-5.3"
+}

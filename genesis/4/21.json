@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En de naam van zijn broer ⟨was⟩ Juval; hij was de vader van allen die de kinnor en de oegav bespelen.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "En de naam"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "van zijn broer"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Juval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "de vader"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van allen"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "die bespelen"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "de kinnor"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "en de oegav"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:03.558475690Z",
+  "model": "glm-5.3"
+}

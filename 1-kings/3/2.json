@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Alleen ⟨het⟩ volk slachtte ⟨op⟩ de bamot, want ⟨er⟩ was geen huis gebouwd voor de Naam van Jahweh tot die dagen.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Alleen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "slachtte"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "op de bamot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "was gebouwd"
+    },
+    {
+      "surface": "בית",
+      "gloss": "een huis"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "voor de Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "die dagen"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "die"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:16.773552361Z",
+  "model": "glm-5.3"
+}

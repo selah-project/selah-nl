@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Talrijker dan de haren van mijn hoofd zijn zij die mij haten zonder reden; versterkt zijn zij die mij verdelgen, mijn vijanden tevergeefs — ⟨dat⟩ wat ik niet geroofd heb, dán moet ik terugbrengen.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "talrijker"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "dan de haren"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "van mijn hoofd"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "zij die mij haten"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zonder reden"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "versterkt"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "zij die mij verdelgen"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "tevergeefs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "ik geroofd heb"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dán"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "moet ik terugbrengen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:33.735324804Z",
+  "model": "glm-5.3"
+}

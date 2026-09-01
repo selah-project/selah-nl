@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": "Jahweh heeft aan David gezworen ⟨in⟩ trouw, Hij zal daarvan niet terugkeren: van de vrucht van jouw buik zal Ik ⟨iemand⟩ plaatsen op ⟨de⟩ troon voor jou.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "heeft gezworen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan David"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "trouw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "zal terugkeren"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "van de vrucht"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "van jouw buik"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "zal Ik plaatsen"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "op troon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jou"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:46.294998593Z",
+  "model": "glm-5.3"
+}

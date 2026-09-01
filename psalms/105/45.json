@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "opdat zij zijn verordeningen bewaren en zijn tora's in acht nemen. Hallelu Jah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "zij bewaren"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "zijn verordeningen"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "en zijn tora's"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "in acht nemen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:21.191687374Z",
+  "model": "glm-5.3"
+}

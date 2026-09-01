@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Word wakker! Waarom slaap jij, Adonai? Ontwaak, verwerp ⟨ons⟩ niet voor eeuwig!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Word wakker"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "slaap jij"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Ontwaak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "verwerp"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:29.560357454Z",
+  "model": "glm-5.3"
+}

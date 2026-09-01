@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Als de geest van de heerser tegen je opstijgt, verlaat je plaats niet, want zachtheid legt grote fouten tot rust.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de geest"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "van de heerser"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "opstijgt"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tegen je"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "je plaats"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "verlaat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "zachtheid"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "legt tot rust"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "fouten"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "grote"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:53.541959319Z",
+  "model": "glm-5.3"
+}

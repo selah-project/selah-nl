@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Zie, dit ⟨zijn⟩ de goddelozen, en ⟨de⟩ zorgelozen van ⟨de⟩ eeuwigheid — zij hebben vermogen verworven.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "en de zorgelozen"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "van de eeuwigheid"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "hebben verworven"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vermogen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:13.115209459Z",
+  "model": "glm-5.3"
+}

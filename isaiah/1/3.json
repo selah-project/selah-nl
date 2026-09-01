@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Een rund kent zijn bezitter, en een ezel de krib ⟨van⟩ zijn meester; Israël kent niet, mijn volk merkt niet op.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "שור",
+      "gloss": "een rund"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "zijn bezitter"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "en een ezel"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "de krib"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "zijn meester"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "merkt op"
+    }
+  ],
+  "timestamp": "2026-08-31T21:13:02.274230789Z",
+  "model": "glm-5.3"
+}

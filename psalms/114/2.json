@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 114,
+  "translation": "Jehoeda werd zijn heiligdom, Jisraël zijn rijken.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "werd"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "zijn heiligdom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "zijn rijken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:41.557033943Z",
+  "model": "glm-5.3"
+}

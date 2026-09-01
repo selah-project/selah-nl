@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En je zult ze op één mand leggen, en je zult ze in de mand aanbieden ⟨את⟩, en ⟨את⟩ de stier en ⟨את⟩ de twee rammen.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "en je zult leggen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ze",
+      "marks": "ze (de broden)"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "סל",
+      "gloss": "mand"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "en je zult aanbieden"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ze",
+      "marks": "in de mand"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "in de mand"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de stier"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "de stier"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de twee rammen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "rammen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:42:45.884018480Z",
+  "model": "glm-5.3"
+}

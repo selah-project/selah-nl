@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Jahweh zei: ziende heb ik gezien ⟨את⟩ de ellende van mijn volk dat in Mitsrajim ⟨is⟩, en ⟨את⟩ hun geschreeuw heb ik gehoord vanwege hun drijvers, want ik ken ⟨את⟩ hun smarten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ziende"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "heb ik gezien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ellende van mijn volk"
+    },
+    {
+      "surface": "עני",
+      "gloss": "de ellende"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "van mijn volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hun geschreeuw"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "hun geschreeuw"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "heb ik gehoord"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "hun drijvers"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ik ken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun smarten"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "hun smarten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:45.087297470Z",
+  "model": "glm-5.3"
+}

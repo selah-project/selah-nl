@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Hoe zoet zijn ⟨voor⟩ mijn gehemelte uw woorden, meer dan honing ⟨voor⟩ mijn mond!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "zoet zijn"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "mijn gehemelte"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "uw woorden"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "dan honing"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:44.055442183Z",
+  "model": "glm-5.3"
+}

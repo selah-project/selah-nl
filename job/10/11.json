@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Huid en vlees heb jij mij aangedaan, en met beenderen en pezen heb jij mij omweven.",
+  "tokens": [
+    {
+      "surface": "עור",
+      "gloss": "Huid"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "en vlees"
+    },
+    {
+      "surface": "תלבישני",
+      "gloss": "heb jij mij aangedaan"
+    },
+    {
+      "surface": "ובעצמות",
+      "gloss": "en met beenderen"
+    },
+    {
+      "surface": "וגידים",
+      "gloss": "en pezen"
+    },
+    {
+      "surface": "תסככני",
+      "gloss": "heb jij mij omweven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:07.574697211Z",
+  "model": "glm-5.3"
+}

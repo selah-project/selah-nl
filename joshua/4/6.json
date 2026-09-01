@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 4:6",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "opdat dit een teken zij te midden van jullie: wanneer jullie zons ⟨morgen⟩ vragen en zeggen: Wat ⟨betekenen⟩ deze stenen voor jullie?",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אות",
+      "gloss": "een teken"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "te midden van jullie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "vragen"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "jullie zonen"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "⟨morgen⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en zeggen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "deze stenen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:51.012748238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En ik zend vuur in Jehoeda, en het verteert ⟨de⟩ burchten van Jeroesjalajim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "en ik zend"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "in Jehoeda"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "en het verteert"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "burchten"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:36.384218824Z",
+  "model": "glm-5.3"
+}

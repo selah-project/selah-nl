@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 1:3",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de koning zei tot Asjpfenaz, overste van zijn hovelingen, dat hij ⟨sommigen⟩ mocht brengen uit de zonen van Jisraël en uit het zaad van het koningschap en uit de partemieten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "לאשפנז",
+      "gloss": "tot Asjpfenaz"
+    },
+    {
+      "surface": "רב",
+      "gloss": "overste"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "van zijn hovelingen"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "dat hij mocht brengen"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "uit de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ומזרע",
+      "gloss": "en uit het zaad"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "van het koningschap"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en uit"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "de partemieten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:15.504015396Z",
+  "model": "glm-5.3"
+}

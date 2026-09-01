@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Elohim kwam Bilam tegemoet, en hij zei tot Hem: ⟨את⟩ de zeven altaren heb ik opgesteld; ik heb een stier en een ram op het altaar laten opgaan.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "kwam tegemoet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot Hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zeven altaren"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "de zeven"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "altaren"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "heb ik opgesteld"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "en ik heb laten opgaan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "een stier"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "en een ram"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "op het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:16:14.227589098Z",
+  "model": "glm-5.3"
+}

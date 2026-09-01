@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En Aravnah keek uit en zag ⟨את⟩ de koning en ⟨את⟩ zijn dienaren naar hem toe komen, en Aravnah ging uit en boog zich voor de koning met zijn aangezicht ter aarde.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "en keek uit"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn dienaren"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "komend"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "naar hem toe"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en ging uit"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "en boog zich"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "voor de koning"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "zijn aangezicht"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ter aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:04.697403957Z",
+  "model": "glm-5.3"
+}

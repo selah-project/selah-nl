@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Zie naar Avraham, jullie vader, en naar Sará, die jullie heeft gebaard; want als één heb ik hem geroepen, en ik heb hem gezegend en hem doen toenemen.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "jullie vader"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en naar"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sará"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "die jullie heeft gebaard"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "als één"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "heb ik hem geroepen"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "en ik heb hem gezegend"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "en hem doen toenemen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:21:51.729105708Z",
+  "model": "glm-5.3"
+}

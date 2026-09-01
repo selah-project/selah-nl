@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Mogen zij Jahweh loven om zijn chesed, en om zijn wonderdaden voor de mensenkinderen.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "mogen zij loven"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "en om zijn wonderdaden"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "voor de kinderen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van de mensen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:41.276597866Z",
+  "model": "glm-5.3"
+}

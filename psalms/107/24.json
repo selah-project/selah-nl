@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Zij zagen de daden van Jahweh, en zijn wonderdaden in de diepte.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "zagen"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "de daden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "en zijn wonderdaden"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "in de diepte"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:41.277215107Z",
+  "model": "glm-5.3"
+}

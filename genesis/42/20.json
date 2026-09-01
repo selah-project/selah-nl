@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En ⟨את⟩ jullie jongste broer moeten jullie naar mij brengen, zodat jullie woorden bevestigd worden en jullie niet sterven. En zij deden zo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "jullie jongste broer"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jullie broer"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "de jongste"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "moeten jullie brengen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naar mij"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "en worden bevestigd"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "jullie woorden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "zul je sterven"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "en zij deden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:45.321819971Z",
+  "model": "glm-5.3"
+}

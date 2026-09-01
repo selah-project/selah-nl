@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Elohim, met onze oren hebben wij ⟨het⟩ gehoord, onze vaders hebben het ons verteld: ⟨het⟩ werk dat U gewrocht hebt in hun dagen, in de dagen van ouds.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "met onze oren"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "hebben wij gehoord"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "onze vaders"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "hebben verteld"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "werk"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "dat U gewrocht hebt"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "in hun dagen"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in de dagen van"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ouds"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:28.795486665Z",
+  "model": "glm-5.3"
+}

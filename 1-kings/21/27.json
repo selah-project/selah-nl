@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 21:27",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En het gebeurde, toen Achav ⟨את⟩ deze woorden hoorde, dat hij zijn kleren scheurde, en hij legde een zak op zijn vlees, en hij vastte, en hij sliep in de zak, en hij ging zachtjes.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toen hij hoorde"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze woorden"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "en hij scheurde"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zijn kleren"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en hij legde"
+    },
+    {
+      "surface": "שק",
+      "gloss": "een zak"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "zijn vlees"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "en hij vastte"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "en hij sliep"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "in de zak"
+    },
+    {
+      "surface": "ויהלך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "אט",
+      "gloss": "zachtjes"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:06.013754824Z",
+  "model": "glm-5.3"
+}

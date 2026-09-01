@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Ik ⟨zal⟩ je woorden beantwoorden, en ⟨את⟩ je metgezellen ⟨die⟩ met je ⟨zijn⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "beantwoord ik je"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "je metgezellen"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "je metgezellen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met je"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:44.967955419Z",
+  "model": "glm-5.3"
+}

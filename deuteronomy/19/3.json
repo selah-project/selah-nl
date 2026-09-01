@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Je zult ⟨de⟩ weg gereed maken en het grondgebied van je land, dat Jahweh je Elohim je als erfdeel doet erven, in drieën verdelen ⟨את⟩, zodat elke doodslager daarheen kan vluchten.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "zul je gereed maken"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor je"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "en in drieën verdelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het grondgebied van je land"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "grondgebied"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "van je land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "je doet erven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "je Elohim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en het zal zijn"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "om te vluchten"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "doodslager"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:34.021281636Z",
+  "model": "glm-5.3"
+}

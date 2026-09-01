@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Tamar, zijn schoondochter, baarde hem ⟨את⟩ Perets en ⟨את⟩ Zerach. Alle zonen van Jehoeda ⟨waren⟩ vijf.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "En Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "zijn schoondochter"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "baarde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "en Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vijf"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:38.187301056Z",
+  "model": "glm-5.3"
+}

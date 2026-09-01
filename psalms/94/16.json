@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 94,
+  "translation": "Wie staat op voor mij tegen de kwaaddoeners? Wie stelt zich op voor mij tegen de arbeiders van onrecht?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "staat op"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "de kwaaddoeners"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "stelt zich op"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "de arbeiders"
+    },
+    {
+      "surface": "און",
+      "gloss": "van onrecht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:21.779281181Z",
+  "model": "glm-5.3"
+}

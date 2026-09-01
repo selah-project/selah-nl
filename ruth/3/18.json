@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 3:18",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En zij zei: blijf zitten, mijn dochter, totdat je weet hoe de zaak uitvalt, want de man zal niet rusten voordat hij de zaak vandaag heeft afgerond.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "blijf zitten"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mijn dochter"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨dat⟩"
+    },
+    {
+      "surface": "תדעין",
+      "gloss": "je weet"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "uitvalt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "de zaak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישקט",
+      "gloss": "zal rusten"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨behalve⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨behalve⟩"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "heeft afgerond"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "de zaak"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandaag"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:40.448117907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Dan zal Hij tot hen spreken in zijn toorn, en in zijn gramschap zal Hij hen doen beven:",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "zal Hij spreken"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "in zijn toorn"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "en in zijn gramschap"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "zal Hij hen doen beven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:38.089202247Z",
+  "model": "glm-5.3"
+}

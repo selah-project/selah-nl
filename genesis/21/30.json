@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En hij zei: Want ⟨את⟩ zeven ooilammen zul je uit mijn hand aannemen, opdat het mij tot getuige zij dat ik ⟨את⟩ deze bron gegraven heb.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zeven ooilammen"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ooilammen"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "zul je aannemen"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "uit mijn hand"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "het zij"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "tot getuige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "ik gegraven heb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze bron"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "deze bron"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:35.951364888Z",
+  "model": "glm-5.3"
+}

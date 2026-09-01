@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En aan de Rubenieten en aan de Gadieten gaf ik van Gil'ad tot aan de beek Arnon, het midden van de beek ⟨als⟩ grens, en tot aan de Jabbok, de beek, de grens van de kinderen van Ammon.",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "En aan de Rubenieten"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "en aan de Gadieten"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gaf ik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "de beek"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "het midden"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "van de beek"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "⟨als⟩ grens"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "aan de Jabbok"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "de beek"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "de grens"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de kinderen"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "van Ammon"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:40.857202886Z",
+  "model": "glm-5.3"
+}

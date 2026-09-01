@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En het stof keert terug op de aarde, zoals het was, en de geest keert terug tot Elohim, die ⟨hem⟩ gegeven heeft.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en keert terug"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "het stof"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "zoals het was"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "en de geest"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "keert terug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "gegeven heeft"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:48.397092106Z",
+  "model": "glm-5.3"
+}

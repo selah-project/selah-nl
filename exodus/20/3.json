@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Er zullen jou geen andere elohim ⟨zijn⟩ vóór mijn aangezicht.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal er zijn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andere"
+    },
+    {
+      "surface": "על",
+      "gloss": "vóór"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mijn aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:42.970895690Z",
+  "model": "glm-5.3"
+}

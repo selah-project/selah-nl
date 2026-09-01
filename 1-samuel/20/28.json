@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Jehonatan antwoordde ⟨את⟩ Sjaoel: David is dringend-vragend van mij gevraagd, tot Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en hij antwoordde"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjaoel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "vragend"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "is gevraagd"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:07.696641757Z",
+  "model": "glm-5.3"
+}

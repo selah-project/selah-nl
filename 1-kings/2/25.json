@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En koning Sjelomo zond door de hand van Benajahu, zoon van Jehojada; en hij viel ⟨את⟩ hem aan, en hij stierf.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand van"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "en hij viel aan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hij stierf"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:09.359722189Z",
+  "model": "glm-5.3"
+}

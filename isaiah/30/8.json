@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Nu dan, ga, schrijf het op een tafeltel ⟨את⟩-hen, en graveer het in een boek, opdat het zij voor de dag ⟨van⟩ later tijd, tot een getuige, voor eeuwig, tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nu dan"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "schrijf het"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "een tafeltel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "een boek"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "graveer het"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "opdat het zij"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "voor de dag"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "⟨van⟩ later tijd"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "tot een getuige"
+    },
+    {
+      "surface": "עד",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tot in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T23:44:32.997712899Z",
+  "model": "glm-5.3"
+}

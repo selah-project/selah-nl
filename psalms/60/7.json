@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "Opdat uw geliefden bevrijd worden — red met uw rechterhand, en antwoord ons.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "bevrijd worden"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "uw geliefden"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "red"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "met uw rechterhand"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "en antwoord ons"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:35.022481100Z",
+  "model": "glm-5.3"
+}

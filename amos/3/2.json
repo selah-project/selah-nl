@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Alleen u heb ik gekend, van alle families van de aardbodem; daarom zal ik ⟨את⟩ al uw ongerechtigheden over u afrekenen.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Alleen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u",
+      "marks": "u (object van gekend)"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "heb ik gekend"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van alle"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "families"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van de aardbodem"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom ⟨omdat⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "zal ik afrekenen"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "over u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al uw ongerechtigheden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "uw ongerechtigheden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:48.039505451Z",
+  "model": "glm-5.3"
+}

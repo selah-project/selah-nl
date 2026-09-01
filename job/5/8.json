@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Maar ik zou ⟨het⟩ zoeken bij El, en tot Elohim zou ik mijn rede stellen.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "zou zoeken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "zou stellen"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mijn rede"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:40.419493665Z",
+  "model": "glm-5.3"
+}

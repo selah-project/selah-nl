@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "U heeft het gezien, Jahweh; zwijg niet; Adonai, blijf niet ver van mij.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "U heeft gezien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "zwijg"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "blijf niet ver"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:06.843774415Z",
+  "model": "glm-5.3"
+}

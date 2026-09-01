@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "en ⟨את⟩ de Chiwwiet, en ⟨את⟩ de Arkkiet, en ⟨את⟩ de Siniet",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Chiwwiet"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "de Chiwwiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Arkkiet"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "de Arkkiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Siniet"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "de Siniet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:25.500447781Z",
+  "model": "glm-5.3"
+}

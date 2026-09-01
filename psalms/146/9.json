@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 146,
+  "translation": "Jahweh beschermt ⟨את⟩ de vreemdelingen, de wees en de weduwe houdt Hij staande, maar de weg van de goddelozen maakt Hij krom.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "beschermt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vreemdelingen"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "de vreemdelingen"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "de wees"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "en de weduwe"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "houdt Hij staande"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "maar de weg"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "maakt Hij krom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:02.752524588Z",
+  "model": "glm-5.3"
+}

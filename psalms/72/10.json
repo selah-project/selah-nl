@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "De koningen van Tarsjisj en de eilanden zullen een gift terugbrengen; de koningen van Sjeva en Sewa zullen schatting aanbieden.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "de koningen van"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarsjisj"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "en de eilanden"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "een gift"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "zullen terugbrengen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "de koningen van"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sjeva"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "en Sewa"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "schatting"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "zullen aanbieden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:26.074099412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 57,
+  "translation": "Hij zal ⟨van⟩ ⟨de⟩ hemel zenden en mij redden; ⟨hij⟩ smaadt hem die naar mij hapt. Sela. Elohim zal Zijn chesed en Zijn trouw zenden.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Hij zal zenden"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "⟨van⟩ ⟨de⟩ hemel"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "en mij redden"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "smaadt"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "hem die naar mij hapt"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "zal zenden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Zijn chesed"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "en Zijn trouw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:24.340933130Z",
+  "model": "glm-5.3"
+}

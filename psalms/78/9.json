@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "De zonen van Efrajim, schieters met de gespannen boog, keerden om op de dag van de strijd.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "De zonen van"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "schieters"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "met de gespannen"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "boog"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "keerden om"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag van"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "de strijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:48.090599527Z",
+  "model": "glm-5.3"
+}

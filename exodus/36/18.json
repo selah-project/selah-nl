@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En hij maakte vijftig haken van koper, om ⟨את⟩ de tent te verbinden, zodat ⟨ hij ⟩ één zou zijn.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "haken"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "van koper"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vijftig"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "om te verbinden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tent"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "להית",
+      "gloss": "zodat zou zijn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:13.222634197Z",
+  "model": "glm-5.3"
+}

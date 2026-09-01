@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Mitsrajim verwekte ⟨את⟩ de Ludiërs, en ⟨את⟩ de Anamiërs, en ⟨את⟩ de Lehabiërs, en ⟨את⟩ de Naftuchiërs.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "En Mitsrajim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Ludiërs"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "de Ludiërs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Anamiërs"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "de Anamiërs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Lehabiërs"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "de Lehabiërs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Naftuchiërs"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "de Naftuchiërs"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:20.395766653Z",
+  "model": "glm-5.3"
+}

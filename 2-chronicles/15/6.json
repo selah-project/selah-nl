@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En volk werd verbrijzeld ⟨door⟩ volk, en stad ⟨door⟩ stad, want Elohim bracht hen in verwarring bij elke benauwdheid.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "werd verbrijzeld"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "volk"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "door volk"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "en stad"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "door stad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "bracht hen in verwarring"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bij elke"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "benauwdheid"
+    }
+  ],
+  "timestamp": "2026-08-31T23:07:52.078211247Z",
+  "model": "glm-5.3"
+}

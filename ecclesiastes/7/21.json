@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Ook aan alle woorden die zij spreken, geef je hart niet ⟨eraan⟩, zodat je niet hoort ⟨את⟩ je dienaar jou vervloeken.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "zij spreken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "je hart"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zodat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "je hoort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je dienaar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "je dienaar"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "jou vervloeken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:33.398602836Z",
+  "model": "glm-5.3"
+}

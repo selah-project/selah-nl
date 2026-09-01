@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En Jaakob naderde tot Jitschak zijn vader, en die betastte hem en zei: ⟨De⟩ stem ⟨is⟩ de stem van Jaakob, maar ⟨de⟩ handen ⟨zijn⟩ de handen van Esav.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "naderde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "betastte hem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "קול",
+      "gloss": "stem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "maar de handen"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "handen"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:41.704168805Z",
+  "model": "glm-5.3"
+}

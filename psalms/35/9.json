@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En mijn nefesj ⟨zal⟩ juichen in Jahweh, ⟨zij⟩ ⟨zal⟩ blij zijn in zijn verlossing.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "en mijn nefesj"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "⟨zal⟩ juichen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "⟨zal⟩ blij zijn"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "in zijn verlossing"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:13.854342080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Maar het woord van de koning kreeg de overhand over Joab en over de bevelhebbers van het leger; en Joab en de bevelhebbers van het leger gingen uit van het aangezicht van de koning om het volk ⟨את⟩, Jisraël ⟨את⟩, te tellen.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "kreeg de overhand"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en over"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "de bevelhebbers"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "van het leger"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en hij ging uit"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "en de bevelhebbers"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "van het leger"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "van het aangezicht van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "om te tellen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:16.947211724Z",
+  "model": "glm-5.3"
+}

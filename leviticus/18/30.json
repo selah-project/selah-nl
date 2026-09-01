@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En jullie moeten mijn bewaking bewaren, om niet te doen ⟨een van⟩ de verordeningen van de gruweldaden die vóór jullie gedaan zijn, zodat jullie je daardoor niet verontreinigen; ik ben Jahweh, jullie Elohim.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en jullie moeten bewaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn bewaking"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "mijn bewaking"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "om niet te"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "doen"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "verordeningen van"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "de gruweldaden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "gedaan zijn"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "vóór jullie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "jullie verontreinigen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daardoor"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:00.213776835Z",
+  "model": "glm-5.3"
+}

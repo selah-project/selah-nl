@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Toen de morgen licht werd, werden de mannen weggezonden, zij en hun ezels.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "de morgen"
+    },
+    {
+      "surface": "אור",
+      "gloss": "licht werd"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "en de mannen"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "werden weggezonden"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "ויחמריהם",
+      "gloss": "en hun ezels"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:44.649163969Z",
+  "model": "glm-5.3"
+}

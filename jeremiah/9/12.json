@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Jahweh zeide: Omdat zij Mijn tora verlaten hebben, ⟨את⟩, die Ik voor hun aangezicht gesteld heb, en naar Mijn stem niet geluisterd hebben, en daarin niet gewandeld hebben;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en Jahweh zeide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat (wegens)"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "zij verlaten hebben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mijn tora"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Mijn tora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ik gesteld heb"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hun aangezicht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "geluisterd hebben"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "naar Mijn stem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gewandeld hebben"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-08-31T21:29:27.952655693Z",
+  "model": "glm-5.3"
+}

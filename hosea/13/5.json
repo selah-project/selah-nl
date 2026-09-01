@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Ik heb jou gekend in de woestijn, in het land van grote dorheid.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "heb jou gekend"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "van grote dorheid"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:38.399613432Z",
+  "model": "glm-5.3"
+}

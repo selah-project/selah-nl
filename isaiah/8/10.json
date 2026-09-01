@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Beraadslaag ⟨een⟩ plan en het wordt verijdeld; spreek ⟨een⟩ woord en het zal niet standhouden, want El ⟨is⟩ met ons.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Beraadslaag"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "⟨een⟩ plan"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "en het wordt verijdeld"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨een⟩ woord"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "zal standhouden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "met ons"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:55.202820246Z",
+  "model": "glm-5.3"
+}

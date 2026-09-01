@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Omdat zij, ja omdat zij mijn volk ⟨את⟩ hebben doen afdwalen door te zeggen: sjaloom! terwijl er geen sjaloom ⟨is⟩ — en hij bouwt een muur, en zie, zij bestrijken hem ⟨את⟩ met ongebonden kalk.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "ja omdat"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "hebben doen afdwalen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "door te zeggen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjaloom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "terwijl er niet is"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjaloom"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bouwt"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "een muur"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "bestrijken"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "met ongebonden kalk"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ongebonden kalk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:43:13.472419245Z",
+  "model": "glm-5.3"
+}

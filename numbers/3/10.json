@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En ⟨את⟩ Aharón en ⟨את⟩ zijn zonen zult u aanstellen, en zij zullen ⟨את⟩ hun priesterschap in acht nemen; en de buitenstaander die nadert, zal gedood worden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Aharón"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharón"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "zult u aanstellen"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "en zij zullen in acht nemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun priesterschap"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "hun priesterschap"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "en de buitenstaander"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "die nadert"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal gedood worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:41.854219655Z",
+  "model": "glm-5.3"
+}

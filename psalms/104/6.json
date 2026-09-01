@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "⟨Met⟩ de oervloed als een kleed bedektet ⟨gij⟩ die; boven de bergen stonden de wateren.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "de oervloed"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "als een kleed"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "bedektet gij die"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stonden"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de wateren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:02.048356131Z",
+  "model": "glm-5.3"
+}

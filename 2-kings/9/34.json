@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 9:34",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En hij ging naar binnen, at en dronk, en zeide: Ziet toch om naar ⟨את⟩ die vervloekte vrouw en begraaft haar, want zij is een dochter van een koning.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij ging naar binnen"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "at"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "dronk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zeide"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "ziet om"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vervloekte vrouw"
+    },
+    {
+      "surface": "הארורה",
+      "gloss": "die vervloekte"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "vrouw (deze)"
+    },
+    {
+      "surface": "וקברוה",
+      "gloss": "en begraaft haar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בת",
+      "gloss": "een dochter"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van een koning"
+    },
+    {
+      "surface": "היא",
+      "gloss": "zij is"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:16.454024776Z",
+  "model": "glm-5.3"
+}

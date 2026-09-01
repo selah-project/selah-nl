@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij zal het in zijn delen verdelen, en ⟨את⟩ zijn hoofd en ⟨את⟩ zijn vet; en de priester zal die aanbieden op het hout dat op het vuur is, dat op het altaar is.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "en hij zal in delen verdelen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ het",
+      "marks": "het (dier)"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "in zijn delen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ en",
+      "marks": "zijn hoofd"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "zijn hoofd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ en",
+      "marks": "zijn vet"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "zijn vet"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "en zal aanbieden in orde"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ die",
+      "marks": "de delen, het hoofd en het vet"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "het hout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האש",
+      "gloss": "het vuur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:19.535166717Z",
+  "model": "glm-5.3"
+}

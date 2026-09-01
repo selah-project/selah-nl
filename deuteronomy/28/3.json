@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Gezegend ben jij in de stad, en gezegend ben jij op het veld.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "gezegend"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "en gezegend"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:01.581385252Z",
+  "model": "glm-5.3"
+}

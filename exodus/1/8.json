@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Toen stond er een nieuwe koning op over Mitsrajim, die Jozef niet kende ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Toen stond … op"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "een koning"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nieuwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:17.239869837Z",
+  "model": "glm-5.3"
+}

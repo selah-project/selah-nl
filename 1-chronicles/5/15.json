@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Achi, zoon van Avdiël, zoon van Goeni, ⟨was⟩ hoofd van het huis van hun vaders.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Achi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Avdiël"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Goeni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoofd"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "van het huis van"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "hun vaders"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:19.798224374Z",
+  "model": "glm-5.3"
+}

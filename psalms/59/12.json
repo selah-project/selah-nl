@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Dood hen niet — anders vergeet ⟨hen⟩ mijn volk; doe hen zwerven door jouw macht, en breng hen omlaag, Adonai, ons schild.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "Dood hen"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "vergeet ⟨hen⟩"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "doe hen zwerven"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "door jouw macht"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "en breng hen omlaag"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ons schild"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:16.333528002Z",
+  "model": "glm-5.3"
+}

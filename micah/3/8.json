@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Maar wat mij betreft, ik ben vervuld met kracht, ⟨את⟩ de geest van Jahweh, en met recht en met macht, om aan Ja'akov zijn overtreding te verkondigen en aan Israël zijn zonde.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Maar wat mij betreft"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ben vervuld"
+    },
+    {
+      "surface": "כח",
+      "gloss": "met kracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de geest van Jahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de geest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en met recht"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "en met macht"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "om te verkondigen"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "aan Ja'akov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "zijn overtreding"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "en aan Israël"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "zijn zonde"
+    }
+  ],
+  "timestamp": "2026-08-31T21:59:28.139296426Z",
+  "model": "glm-5.3"
+}

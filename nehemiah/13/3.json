@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En het geschiedde, toen zij de ⟨את⟩ Tora hoorden, dat zij alle gemengde ⟨bevolking⟩ van Jisraël scheidden.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het geschiedde"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "toen zij hoorden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "de Tora"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "dat zij scheidden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gemengde ⟨bevolking⟩"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T22:56:51.629024975Z",
+  "model": "glm-5.3"
+}

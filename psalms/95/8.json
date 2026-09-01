@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 95,
+  "translation": "Verhardt uw hart niet als bij Meriva, zoals op de dag van Massa, in de woestijn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "verhardt"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "uw hart"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "als bij Meriva"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "zoals op de dag"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "van Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:23.370267728Z",
+  "model": "glm-5.3"
+}

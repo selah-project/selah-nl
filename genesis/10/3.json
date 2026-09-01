@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En de zonen van Gomer: Asjkenaz, en Rifat, en Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "En de zonen van"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Asjkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "en Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "en Togarma"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:06.327110231Z",
+  "model": "glm-5.3"
+}

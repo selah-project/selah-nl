@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "Heel de aarde zal zich voor u neerbuigen en voor u zamen, zamen zal het uw naam. Sela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "zal zich neerbuigen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "en zamen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "zamen zal het"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:42.978328542Z",
+  "model": "glm-5.3"
+}

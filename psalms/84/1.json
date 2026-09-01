@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 84,
+  "translation": "Voor de koorleider, op de Gittith; van de zonen van Korach, een psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Voor de koorleider"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "de Gittith"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een psalm"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:36.567059895Z",
+  "model": "glm-5.3"
+}

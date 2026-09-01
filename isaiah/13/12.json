@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Ik zal een mens zeldzamer maken dan fijn goud, en een sterveling dan het goud van Ofir.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Ik zal zeldzamer maken"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "een sterveling"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "dan fijn goud"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "en een mens"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "dan het goud"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "van Ofir"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:49.635539006Z",
+  "model": "glm-5.3"
+}

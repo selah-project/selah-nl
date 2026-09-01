@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Ik daarentegen zal in mijn onschuld wandelen; verlos mij en wees mij genadig.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ik daarentegen"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "in mijn onschuld"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "zal wandelen"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "verlos mij"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "en wees mij genadig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:00.072130531Z",
+  "model": "glm-5.3"
+}

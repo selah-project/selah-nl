@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": "Zijn vijanden zal ik met schaamte bekleden, maar op hem zal zijn kroon bloeien.",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "zijn vijanden"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "zal ik bekleden"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "met schaamte"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "maar op hem"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "zal bloeien"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "zijn kroon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:19.890844870Z",
+  "model": "glm-5.3"
+}

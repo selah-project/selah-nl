@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Hij doet de ootmoedigen treden in ⟨het⟩ recht, en Hij leert de ootmoedigen zijn weg.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "Hij doet treden"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ootmoedigen"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in ⟨het⟩ recht"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "en Hij leert"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ootmoedigen"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "zijn weg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:05.213934083Z",
+  "model": "glm-5.3"
+}

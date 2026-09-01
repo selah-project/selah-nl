@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Als zijn zonen mijn tora verlaten en in mijn verordeningen niet wandelen,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "verlaten"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "mijn tora"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "en in mijn verordeningen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "wandelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:23.482289913Z",
+  "model": "glm-5.3"
+}

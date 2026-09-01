@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Alleen een bron en een put, een verzameling water, zal rein zijn; maar wie hun kadaver aanraakt, wordt onrein.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "een bron"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "en een put"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "een verzameling"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rein"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "maar wie aanraakt"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "hun kadaver"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "wordt onrein"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:58.019373011Z",
+  "model": "glm-5.3"
+}

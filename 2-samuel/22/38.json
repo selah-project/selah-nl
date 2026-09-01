@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 22:38",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Ik achtervolg mijn vijanden en ik verdelg hen, en ik wend mij niet af totdat ik hen vernietigd heb.",
+  "tokens": [
+    {
+      "surface": "ארדפה",
+      "gloss": "ik achtervolg"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "en ik verdelg hen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ik wend mij af"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ik hen vernietigd heb"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:28.956581264Z",
+  "model": "glm-5.3"
+}

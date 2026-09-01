@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Aser verdreef ⟨את⟩ de bewoners van Akko en ⟨את⟩ de bewoners van Tsidon, en ⟨את⟩ Achlab en ⟨את⟩ Achtzib en ⟨את⟩ Chelba en ⟨את⟩ Afek en ⟨את⟩ Rechov niet.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Aser"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "verdreef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bewoners van Akko"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "de bewoners"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "van Akko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de bewoners van Tsidon"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "de bewoners"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "van Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Achlab"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "Achlab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Achtzib"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "Achtzib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Chelba"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "Chelba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Afek"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "Afek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Rechov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    }
+  ],
+  "timestamp": "2026-08-31T20:34:54.641226143Z",
+  "model": "glm-5.3"
+}

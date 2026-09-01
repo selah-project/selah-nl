@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Vanwege al mijn tegenstanders ben ik een smaad geworden, en ⟨dat⟩ zeer ⟨voor⟩ mijn naasten, en een schrik voor mijn bekenden; wie mij buiten zagen, vluchtten van mij weg.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "vanwege al"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mijn tegenstanders"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ben ik geworden"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "een smaad"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "en ⟨voor⟩ mijn naasten"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "en een schrik"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "voor mijn bekenden"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "die mij zagen"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "vluchtten"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van mij weg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:09.811710428Z",
+  "model": "glm-5.3"
+}

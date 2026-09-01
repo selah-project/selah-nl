@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 53,
+  "translation": "Allen samen zijn ⟨terug⟩geweken, zij zijn tezamen verdorven; ⟨er is⟩ niemand die goed doet, zelfs niet één.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "allen"
+    },
+    {
+      "surface": "סג",
+      "gloss": "zijn geweken"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tezamen"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "zijn verdorven"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨er is⟩ geen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doet"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨er is⟩ geen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zelfs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "niet één"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:44.393479371Z",
+  "model": "glm-5.3"
+}

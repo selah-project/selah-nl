@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 15:13",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En Sjemoeël kwam bij Sjaoel, en Sjaoel zei tot hem: Gezegend zijt u voor Jahweh; ik heb ⟨את⟩ het woord van Jahweh uitgevoerd.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "En kwam"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Gezegend"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "zijt u"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "הקימתי",
+      "gloss": "ik heb uitgevoerd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het woord van Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:31.241480986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En jullie lieten de nazireeërs wijn drinken, en aan de profeten gaven jullie gebod, zeggend: Profeteer niet.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "en jullie lieten drinken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de nazireeërs"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "de nazireeërs"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wijn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en aan"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "de profeten"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "gaven jullie gebod"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "profeteer"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:12.699272577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Wanneer je zit om te eten ⟨את⟩ een heerser, doorgrond grondig ⟨את⟩ wat er voor je staat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "je zit"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "om te eten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "een heerser"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "een heerser"
+    },
+    {
+      "surface": "בין",
+      "gloss": "doorgrond"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "grondig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat er voor je staat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor je"
+    }
+  ],
+  "timestamp": "2026-08-31T23:46:22.946541260Z",
+  "model": "glm-5.3"
+}

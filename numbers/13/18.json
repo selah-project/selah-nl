@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En jullie zullen ⟨את⟩ het land zien — wat het is — en ⟨את⟩ het volk dat erop woont: is het sterk, is het zwak? Is het gering ⟨in aantal⟩ of talrijk?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "en jullie zullen zien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "dat woont"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "erop"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "is het sterk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "is het zwak"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "is het gering"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "רב",
+      "gloss": "talrijk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:13:10.430922989Z",
+  "model": "glm-5.3"
+}

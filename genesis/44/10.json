@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "En hij zei: Ook nu, naar uw woorden, zo zij het — wie ⟨את⟩ met hem gevonden wordt, die zal mijn slaaf zijn, en u zult onschuldig zijn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "naar uw woorden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zij het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gevonden wordt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hem",
+      "marks": "hij (die met de beker gevonden wordt)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mijn"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "slaaf"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en u"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "zult zijn"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "onschuldig"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:25.802707951Z",
+  "model": "glm-5.3"
+}

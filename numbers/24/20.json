@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En hij zag ⟨את⟩ Amalek, en hij hief zijn spreuk aan en zei: Eerste van de volken is Amalek, en zijn einde ⟨komt⟩ tot verderf.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hij zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "en hief aan"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "zijn spreuk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "eerste"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "van de volken"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "en zijn einde"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "verderf"
+    }
+  ],
+  "timestamp": "2026-08-31T20:16:32.686752321Z",
+  "model": "glm-5.3"
+}

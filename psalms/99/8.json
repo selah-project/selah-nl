@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 99,
+  "translation": "Jahweh, onze Elohim, jij — jij hebt hen beantwoord; een El die vergeeft, was jij voor hen, ⟨en⟩ tegelijk wreekte je hun daden.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "jij hebt hen beantwoord"
+    },
+    {
+      "surface": "אל",
+      "gloss": "een El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "die vergeeft"
+    },
+    {
+      "surface": "היית",
+      "gloss": "was jij"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "en wreekte"
+    },
+    {
+      "surface": "על",
+      "gloss": "op\/voor"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "hun daden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:00.815326232Z",
+  "model": "glm-5.3"
+}

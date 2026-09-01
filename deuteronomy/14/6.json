@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En elk dier dat de hoef spleet, ⟨את⟩ de hoef in twee delen doorklovend, en herkauwt onder de dieren — ⟨die⟩ mogen jullie eten.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en elk"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dier"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "die spleet"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "de hoef"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "en doorklovend"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "in twee delen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "hoeven"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "herkauwt"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "⟨herkauw⟩"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "onder de dieren"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "die"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mogen jullie eten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:53.515736221Z",
+  "model": "glm-5.3"
+}

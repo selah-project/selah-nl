@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Groot ⟨is⟩ onze Adonai en rijk aan kracht; aan Zijn inzicht is er geen getal.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Groot"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "onze Adonai"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "en rijk aan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kracht"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "aan Zijn inzicht"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is er geen"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "getal"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:35.203058174Z",
+  "model": "glm-5.3"
+}

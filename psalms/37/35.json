@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Ik heb een goddeloze, gewelddadige gezien, die zich uitstrekt als een inheemse ⟨boom⟩, groen.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ik heb gezien"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "goddeloze"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "gewelddadige"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "die zich uitstrekt"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "als een inheemse ⟨boom⟩"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "groen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:45.304430086Z",
+  "model": "glm-5.3"
+}

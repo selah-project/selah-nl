@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En dit is de zegen waarmee Mosjee, de man van Elohim, ⟨את⟩ de kinderen van Israël zegende voor zijn dood.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "En dit is"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "de zegen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "zegende"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "zijn dood"
+    }
+  ],
+  "timestamp": "2026-08-31T23:43:50.737389095Z",
+  "model": "glm-5.3"
+}

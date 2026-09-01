@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "De goddelozen hebben een strik voor mij gezet, maar van uw verordeningen ben ik niet afgedwaald.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "hebben gezet"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de goddelozen"
+    },
+    {
+      "surface": "פח",
+      "gloss": "een strik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "maar van uw verordeningen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "ben ik afgedwaald"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:56.858805838Z",
+  "model": "glm-5.3"
+}

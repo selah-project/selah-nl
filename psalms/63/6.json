@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 63,
+  "translation": "Zoals met vet en rijkdom wordt mijn nefesj verzadigd, en met lippen van gejuich zal mijn mond lofprijzen.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "zoals met"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "vet"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "en rijkdom"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "wordt verzadigd"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "en met lippen"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "van gejuich"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "zal lofprijzen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.898376191Z",
+  "model": "glm-5.3"
+}

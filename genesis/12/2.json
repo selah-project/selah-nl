@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En ik zal jou tot een groot volk maken, en ik zal jou zegenen, en ik zal jouw naam groot maken; en wees ⟨een⟩ zegen.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "En ik zal jou maken"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tot een volk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "en ik zal jou zegenen"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "en ik zal groot maken"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jouw naam"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en wees"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "zegen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:47.782802709Z",
+  "model": "glm-5.3"
+}

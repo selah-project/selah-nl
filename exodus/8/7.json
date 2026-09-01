@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En de kikvorsen zullen van u wijken, en uit uw huizen, en van uw dienaren en van uw volk; alleen in de rivier zullen zij overblijven.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "en zij zullen wijken"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "de kikvorsen"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "van u"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "en uit uw huizen"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "en van uw dienaren"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "en van uw volk"
+    },
+    {
+      "surface": "רק",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "in de rivier"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "zullen zij overblijven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:00.785753200Z",
+  "model": "glm-5.3"
+}

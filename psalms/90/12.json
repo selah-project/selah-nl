@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 90,
+  "translation": "Om onze dagen te tellen — zo maak ⟨het ons⟩ bekend, en laat ons een hart brengen tot wijsheid.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "om te tellen"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "onze dagen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "maak bekend"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "en laat ons brengen"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "een hart"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tot wijsheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:01.407514103Z",
+  "model": "glm-5.3"
+}

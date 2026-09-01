@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En Lavan verzamelde ⟨את⟩ alle mannen van de plaats, en hij maakte een feestmaal.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "verzamelde"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle mannen van de plaats"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "van de plaats"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "hij maakte"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "feestmaal"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:43.770483501Z",
+  "model": "glm-5.3"
+}

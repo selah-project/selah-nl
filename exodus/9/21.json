@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En wie zijn hart niet zette naar het woord van Jahweh, liet zijn slaven en zijn vee achter op het veld.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zette"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zijn hart"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "liet hij achter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn slaven"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn slaven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vee"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "zijn vee"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:27.336700928Z",
+  "model": "glm-5.3"
+}

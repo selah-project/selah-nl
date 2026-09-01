@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Uw dienaar ben ik; geef mij inzicht, en ik zal uw getuigenissen kennen.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben ik"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "geef mij inzicht"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "en ik zal kennen"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "uw getuigenissen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:46.599961573Z",
+  "model": "glm-5.3"
+}

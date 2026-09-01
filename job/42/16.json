@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En Ijob leefde hierna honderd en veertig jaar, en hij zag ⟨את⟩ zijn zonen en ⟨את⟩ de zonen van zijn zonen, vier geslachten.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "en leefde"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hierna"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨na⟩ dit"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "en veertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en hij zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de zonen van zijn zonen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "van zijn zonen"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "geslachten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:48.117228009Z",
+  "model": "glm-5.3"
+}

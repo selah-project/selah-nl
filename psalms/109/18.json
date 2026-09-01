@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Hij kleedde zich met vloek als met zijn kleed, en ⟨zij⟩ drong als water in zijn binnenste en als olie in zijn beenderen.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "hij kleedde zich"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "met vloek"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "als zijn kleed"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "en drong binnen"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "als water"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in zijn binnenste"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "en als olie"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "in zijn beenderen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:55.940757387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "het gevogelte van de hemel en de vissen van de zee, ⟨wat⟩ de paden van de zeeën doorkruist.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "het gevogelte"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "van de hemel"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "en de vissen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van de zee"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "doorkruist"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "de paden"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van de zeeën"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:34.495272933Z",
+  "model": "glm-5.3"
+}

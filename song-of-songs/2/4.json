@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Hij bracht mij naar het wijnhuis, en zijn banier over mij ⟨was⟩ liefde.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "Hij bracht mij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "היין",
+      "gloss": "wijn-"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "en zijn banier"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "liefde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:51.766726107Z",
+  "model": "glm-5.3"
+}

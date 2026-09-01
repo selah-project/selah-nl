@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En ik zal de trots van jullie kracht breken, en ik zal jullie hemelen maken als ijzer en ⟨את⟩ jullie land als koper.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "en ik zal breken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de trots van jullie kracht"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "de trots"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "van jullie kracht"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "en ik zal maken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie hemelen"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "jullie hemelen"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "als ijzer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jullie land"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "jullie land"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "als koper"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:29.036839212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En het gebeurde, toen de koning ⟨את⟩ de woorden van de vrouw hoorde, dat hij ⟨את⟩ zijn kleren scheurde — terwijl hij over de muur ging — en het volk zag, en zie, het rouwgewaad was op zijn vlees, van binnen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toen … hoorde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de woorden van de vrouw"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "dat hij scheurde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn kleren"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zijn kleren"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "terwijl hij"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ging"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "de muur"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "השק",
+      "gloss": "het rouwgewaad"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "zijn vlees"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "van binnen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:18.257964912Z",
+  "model": "glm-5.3"
+}

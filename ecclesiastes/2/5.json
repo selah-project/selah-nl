@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Ik maakte mij tuinen en parken, en ik plantte daarin bomen van allerlei vrucht.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Ik maakte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "tuinen"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "en parken"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "en ik plantte"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bomen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allerlei"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vrucht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:46.395988934Z",
+  "model": "glm-5.3"
+}

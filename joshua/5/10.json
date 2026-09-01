@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En de zonen van Jisraël sloegen hun kamp op in de Gilgal, en zij vierden ⟨את⟩ het Pesach op de veertiende dag van de maand, in de avond, in de vlakten van Jericho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "en zij sloegen kamp op"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "in de Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "en zij vierden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "het Pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "op de veertiende"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van de maand"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in de avond"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "in de vlakten"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "van Jericho"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:08.221570791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Zie, dagen komen, luidt het woord van Jahweh, en Ik zal het huis van Israël ⟨את⟩ en het huis van Jehoeda ⟨את⟩ zaaien met mensenzaad en met beestenzaad.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "באים",
+      "gloss": "komen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "luidt het woord van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "en Ik zal zaaien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Israël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Jehoeda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zaad van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "en zaad van"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "beest"
+    }
+  ],
+  "timestamp": "2026-08-31T21:34:37.560409062Z",
+  "model": "glm-5.3"
+}

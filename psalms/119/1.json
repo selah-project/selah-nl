@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Hoe gelukkig zijn zij die onberispelijk van weg ⟨zijn⟩, zij die wandelen in de Torah van Jahweh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Hoe gelukkig"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "onberispelijk"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "van weg"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "zij die wandelen"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "in de Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:20.675029666Z",
+  "model": "glm-5.3"
+}

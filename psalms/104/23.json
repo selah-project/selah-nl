@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "De mens gaat uit naar zijn werk en naar zijn dienstbaarheid tot aan de avond.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "gaat uit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "naar zijn werk"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "en naar zijn dienstbaarheid"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "de avond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:47.279709522Z",
+  "model": "glm-5.3"
+}

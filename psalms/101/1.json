@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 101,
+  "translation": "Van Dawid, een mizmor. Van chesed en misjpat zal ik zingen; voor u, Jahweh, zal ik snarenspel spelen.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en misjpat"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "zal ik zingen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zal ik snarenspel spelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:48.758880547Z",
+  "model": "glm-5.3"
+}

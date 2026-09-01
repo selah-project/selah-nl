@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En hij nam ⟨את⟩ zijn broeders met zich mee en achtervolgde hem, een tocht van zeven dagen, en hij haalde ⟨את⟩ hem in op het gebergte van de Gilead.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn broeders"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broeders"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met zich mee"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "en hij achtervolgde"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "een tocht"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "van zeven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "en hij haalde in"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op het gebergte"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "van de Gilead"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:46.080332443Z",
+  "model": "glm-5.3"
+}

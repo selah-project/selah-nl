@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "En Jozef liet de zonen van Israël zweren, zeggend: Elohim zal jullie zeker gedenken, en jullie zullen mijn beenderen van hier ⟨את⟩ omhoog brengen.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "en hij liet zweren"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zonen van Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "gedenken"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "zal zeker gedenken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "en jullie zullen omhoog brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn beenderen"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "mijn beenderen"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "van hier"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:53.120538089Z",
+  "model": "glm-5.3"
+}

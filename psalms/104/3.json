@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Die de balken van zijn bovenvertrekken legt in de wateren, die de wolken maakt tot zijn wagen, die wandelt op de vleugels van de roeach.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "die de balken legt"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in de wateren"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "van zijn bovenvertrekken"
+    },
+    {
+      "surface": "השם",
+      "gloss": "die maakt"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "de wolken"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "tot zijn wagen"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "die wandelt"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "de vleugels"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van de roeach"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:14.978041114Z",
+  "model": "glm-5.3"
+}

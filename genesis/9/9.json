@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En wat mij betreft, ziedaar, ik richt mijn verbond op ⟨את⟩ — ⟨mijn verbond⟩ met jullie, en ⟨את⟩ met jullie zaad na jullie.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en wat mij betreft"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ziedaar, ik"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "richt op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn verbond"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mijn verbond"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ met jullie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "jullie zaad"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "na jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:12.489837084Z",
+  "model": "glm-5.3"
+}

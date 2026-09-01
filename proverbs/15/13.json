@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Een blij hart maakt het aangezicht goed, maar bij droefheid van het hart ⟨is⟩ de geest geslagen",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "blij"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "maakt goed"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "maar bij droefheid"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van het hart"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de geest"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "geslagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:06.140491169Z",
+  "model": "glm-5.3"
+}

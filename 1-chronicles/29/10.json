@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En Dawid zegende Jahweh ⟨את⟩ voor de ogen van de gehele vergadering, en Dawid zei: Gezegend ⟨zijt⟩ jij, Jahweh, Elohim van Israël, onze vader, van eeuwigheid tot eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "zegende"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "voor de ogen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gehele"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Gezegend"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "onze vader"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "van eeuwigheid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T23:29:20.680695385Z",
+  "model": "glm-5.3"
+}

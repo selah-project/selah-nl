@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En het gebeurde in de morgen, dat Dawid een brief schreef aan Joav, en hij zond ⟨hem⟩ door de hand van Urja.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "en hij schreef"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "een brief"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand van"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urja"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:49.886518313Z",
+  "model": "glm-5.3"
+}

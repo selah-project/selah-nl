@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 79,
+  "translation": "Hoelang, Jahweh? Zult Gij toornen ⟨tot⟩ ⟨het⟩ ⟨einde⟩ ⟨toe⟩? Zal uw ijver branden als vuur?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hoelang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨hoe⟩lang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Zult Gij toornen"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨tot⟩ ⟨het⟩ ⟨einde⟩ ⟨toe⟩"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "Zal … branden"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "uw ijver"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:46.600725993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Jahweh, mijn Elohim, ik heb tot U geroepen, en U hebt mij genezen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ik heb geroepen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "en U hebt mij genezen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:26.834314515Z",
+  "model": "glm-5.3"
+}

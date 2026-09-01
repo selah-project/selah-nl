@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Jahweh, Adonai ons ⟨Heer⟩, hoe machtig is uw naam in heel de aarde!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai ons ⟨Heer⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "machtig"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "is uw naam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:34.495503148Z",
+  "model": "glm-5.3"
+}

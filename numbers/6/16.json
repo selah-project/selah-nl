@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En de priester brengt ze nabij voor het aangezicht van Jahweh en maakt ⟨את⟩ zijn zondeoffer en ⟨את⟩ zijn brandoffer.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "En de priester brengt nabij"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en maakt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zondeoffer"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "zijn zondeoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn brandoffer"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "zijn brandoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:44.720745563Z",
+  "model": "glm-5.3"
+}

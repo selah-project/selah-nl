@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Jahweh Tsevaot heeft gezworen, zeggende: Zo waar als ik het voorgenomen heb, zo is het geschied; en zoals ik het beraad heb gevoerd, zo zal het standhouden.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "heeft gezworen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zo waar als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ontkenning in eedsformule⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "ik het voorgenomen heb"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "is het geschied"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "en zoals"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "ik het beraad heb gevoerd"
+    },
+    {
+      "surface": "היא",
+      "gloss": "het"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "zal standhouden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:16:02.487668040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Zij zagen ⟨het⟩ — verbijsterd werden zij ⟨toen⟩, ontsteld werden zij, verschrikt snelden zij weg.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "zij"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "zagen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨toen⟩"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "werden verbijsterd"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "werden ontsteld"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "snelden verschrikt weg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:56.301881850Z",
+  "model": "glm-5.3"
+}

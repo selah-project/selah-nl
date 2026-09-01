@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Want voordat het kind kent ⟨om⟩ te roepen: mijn vader en mijn moeder, zal hij de rijkdom van Dammesek wegvoeren, ⟨את⟩ de buit van Sjomeron, voor het aangezicht van de koning van Ashur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "het kind"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "te roepen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "en mijn moeder"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "zal hij wegvoeren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de rijkdom van Dammesek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "de rijkdom"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammesek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de buit van Sjomeron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "de buit"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Sjomeron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-31T23:21:24.612696492Z",
+  "model": "glm-5.3"
+}

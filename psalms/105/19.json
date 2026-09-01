@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Tot de tijd dat zijn woord kwam, het woord van Jahweh toetste hem.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Tot"
+    },
+    {
+      "surface": "עת",
+      "gloss": "de tijd"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "zijn woord"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "toetste hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:35.616984337Z",
+  "model": "glm-5.3"
+}

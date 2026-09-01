@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En de koning zei: Breng mij een zwaard. En zij brachten het zwaard voor het aangezicht van de koning.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Breng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "een zwaard"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en zij brachten"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "het zwaard"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:55.580666003Z",
+  "model": "glm-5.3"
+}

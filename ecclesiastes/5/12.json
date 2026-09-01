@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Er is een kwaad, krankmakend, dat ik gezien heb onder de zon: rijkdom, bewaard voor zijn bezitter, tot zijn kwaad.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "er is"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "een kwaad"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "krankmakend"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "dat ik gezien heb"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rijkdom"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "bewaard"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "voor zijn bezitter"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "tot zijn kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:38.877803917Z",
+  "model": "glm-5.3"
+}

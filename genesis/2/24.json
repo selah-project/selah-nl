@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Daarom zal een man zijn vader en zijn moeder verlaten, en zal hij zich hechten aan zijn vrouw, en zij zullen tot één vlees zijn.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daar"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "zal verlaten"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn moeder"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "zijn moeder"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "en zal zich hechten"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "aan zijn vrouw"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "en zij zullen zijn"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "tot één vlees"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:45.541851705Z",
+  "model": "glm-5.3"
+}

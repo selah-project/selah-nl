@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Hij maakte zijn wegen bekend aan Mosjee, zijn daden aan de kinderen van Jisraël.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "maakte bekend"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "zijn wegen"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "aan Mosjee"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "zijn daden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:42.756283932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En een vreemdeling zul je niet onderdrukken — jullie kennen ⟨את⟩ het nefesj van de vreemdeling, want jullie zijn vreemdelingen geweest in het land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "En een vreemdeling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "zul je onderdrukken"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "kennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het nefesj van de vreemdeling"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "het nefesj"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "van de vreemdeling"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "vreemdelingen"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "zijn jullie geweest"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:29.349691610Z",
+  "model": "glm-5.3"
+}

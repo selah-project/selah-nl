@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En de overste van de beulen nam ⟨את⟩ Serajah, de hoofd priester, en ⟨את⟩ Tsefanjah, de tweede priester, en ⟨את⟩ de drie bewakers van de drempel.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en nam"
+    },
+    {
+      "surface": "רב",
+      "gloss": "de overste"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "van de beulen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priester"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "het hoofd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefanjah"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanjah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priester"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "de tweede"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de drie bewakers van de drempel"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "de drie"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "bewakers"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "van de drempel"
+    }
+  ],
+  "timestamp": "2026-08-31T21:13:09.057122150Z",
+  "model": "glm-5.3"
+}

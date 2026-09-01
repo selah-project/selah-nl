@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Was je dus en zalf je, en leg je kleed op je, en ga naar beneden naar de dorsvloer; laat je niet kennen aan de man tot hij gegeten en gedronken heeft.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "was je"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "zalf je"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "leg"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "je kleed"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "op je"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "ga naar beneden"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "naar de dorsvloer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "je je kennen"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan de man"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "hij klaar is"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "met eten"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "en drinken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:31.338899848Z",
+  "model": "glm-5.3"
+}

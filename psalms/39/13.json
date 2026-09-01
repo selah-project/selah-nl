@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 39:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "Hoor mijn gebed, Jahweh, en sla mijn geroep aan, let op mijn tranen, zwijg niet, want een vreemdeling ben ik bij U, een bijwoner zoals al mijn vaderen.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mijn gebed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "en mijn geroep"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "sla aan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "mijn tranen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "zwijg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גר",
+      "gloss": "een vreemdeling"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben ik"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bij U"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "een bijwoner"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "zoals alle"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "mijn vaderen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:48.333114761Z",
+  "model": "glm-5.3"
+}

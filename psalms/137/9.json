@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 137,
+  "translation": "Gelukkig ⟨de⟩ hij die grijpt en uiteenslaat ⟨את⟩ jouw zuigelingen tegen de rots.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Gelukkig"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "die grijpt"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "en uiteenslaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw zuigelingen"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "jouw zuigelingen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "de rots"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:04.164146878Z",
+  "model": "glm-5.3"
+}

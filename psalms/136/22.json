@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "een erfenis voor Israël, zijn dienaar — want tot in eeuwigheid ⟨is⟩ zijn chesed.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "een erfenis"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "voor Israël"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "zijn dienaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:09.463329778Z",
+  "model": "glm-5.3"
+}

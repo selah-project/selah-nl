@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Maar hoe meer zij ⟨את⟩ hen onderdrukten, hoe meer vermenigvuldigden zij zich en hoe meer braken zij uit; en zij werden verteerd ⟨van angst⟩ wegens de zonen van Jisraël.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "maar hoe meer"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "zij onderdrukten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hoe meer"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "vermenigvuldigden zij zich"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "en hoe meer"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "braken zij uit"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "en zij werden verteerd"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wegens"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:29.010906784Z",
+  "model": "glm-5.3"
+}

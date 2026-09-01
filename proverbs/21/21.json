@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Wie gerechtigheid en chesed najaagt, vindt leven, gerechtigheid en eer.",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "najaagt"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "gerechtigheid"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "en chesed"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "vindt"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "leven"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "gerechtigheid"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "en eer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:53.707307945Z",
+  "model": "glm-5.3"
+}

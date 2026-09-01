@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "De gedachtenis van uw overvloedige goedheid zullen zij doen uitstromen, en uw gerechtigheid zullen zij bezingen.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "de gedachtenis"
+    },
+    {
+      "surface": "רב",
+      "gloss": "overvloedige"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "van uw goedheid"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "zullen zij doen uitstromen"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "en uw gerechtigheid"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "zullen zij bezingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:10.196434852Z",
+  "model": "glm-5.3"
+}

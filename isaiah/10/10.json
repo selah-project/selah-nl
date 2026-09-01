@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Zoals mijn hand ⟨de⟩ koninkrijken van ⟨de⟩ afgod vond — en hun gesneden beelden ⟨staan⟩ boven Jeroesjalajim en boven Shomeron —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Zoals"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "vond"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mijn hand"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "⟨de⟩ koninkrijken van"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "⟨de⟩ afgod"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "en hun gesneden beelden"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "van Jeroesjalajim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "en van Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:46.785633538Z",
+  "model": "glm-5.3"
+}

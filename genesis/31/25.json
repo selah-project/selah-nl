@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En Lavan haalde Jaäkov in, en Jaäkov had zijn tent geslagen op ⟨de⟩ berg, en Lavan sloeg ⟨zijn tent⟩ met zijn broeders op de berg Gil'ad.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "en haalde in"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaäkov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "en Jaäkov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "had geslagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn tent"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "zijn tent"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op de berg"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "en Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "sloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn broeders"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broeders"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op de berg"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gil'ad"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:56.635378689Z",
+  "model": "glm-5.3"
+}

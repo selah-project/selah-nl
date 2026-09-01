@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En Balak, zoon van Tsjippor, zag ⟨את⟩ alles wat Jisraël gedaan had aan de Emoriet.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "zag"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsjippor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedaan had"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "aan de Emoriet"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:00.273262937Z",
+  "model": "glm-5.3"
+}

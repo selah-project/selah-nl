@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En door een profeet liet Jahweh ⟨את⟩ Israël opgaan uit Mitsrajim, en door een profeet werd hij bewaard.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "en door een profeet"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "liet opgaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "en door een profeet"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "werd hij bewaard"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:54.398797355Z",
+  "model": "glm-5.3"
+}

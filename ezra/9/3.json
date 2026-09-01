@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En toen ik ⟨את⟩ dit woord hoorde, scheurde ik ⟨את⟩ mijn kleed en mijn mantel, en ik trok uit het haar van mijn hoofd en mijn baard, en ik zat daar verbijsterd.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "en toen ik hoorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "scheurde ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn kleed"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mijn kleed"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "en mijn mantel"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "en ik trok uit"
+    },
+    {
+      "surface": "משער",
+      "gloss": "het haar"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "van mijn hoofd"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "en mijn baard"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "en ik zat"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "verbijsterd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:53:44.643168384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 18:24",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Een man ⟨van⟩ vele vrienden ⟨komt⟩ tot schade, maar er is een liefhebber die vaster kleeft dan een broeder.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "⟨van⟩ vele vrienden"
+    },
+    {
+      "surface": "להתרעע",
+      "gloss": "⟨komt⟩ tot schade"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "maar er is"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "een liefhebber"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "die vaster kleeft"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "dan een broeder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:42.796696913Z",
+  "model": "glm-5.3"
+}

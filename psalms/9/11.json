@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En zij die uw naam kennen, zullen op u vertrouwen, want u hebt hen die u zoeken niet verlaten, Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "en zij zullen vertrouwen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "op u"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "zij die kennen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "u hebt verlaten"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "hen die u zoeken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:34.287498629Z",
+  "model": "glm-5.3"
+}

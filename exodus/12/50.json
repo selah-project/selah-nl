@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En alle zonen van Jisraël deden ⟨zo⟩ zoals Jahweh Mosjee gebiedend had, ⟨את⟩ Mosjee en ⟨את⟩ Aharon; zo deden zij.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "en zij deden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebiedend had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosjee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "deden zij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:50.556358311Z",
+  "model": "glm-5.3"
+}

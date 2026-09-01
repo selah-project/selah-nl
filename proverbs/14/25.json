@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Een getuige van waarheid redt nefesjot, maar wie leugenblazen blaast ⟨is⟩ bedrog.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "redt"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nefesjot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "een getuige"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "van waarheid"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "maar blaast"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "leugens"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:25.599851818Z",
+  "model": "glm-5.3"
+}

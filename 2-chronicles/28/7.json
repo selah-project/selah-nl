@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En Zichri, een gibbor van Efrajim, doodde ⟨את⟩ Maäsejach, de zoon van de koning, en ⟨את⟩ Azrikam, de vorst van het huis, en ⟨את⟩ Elkanach, de tweede ⟨van⟩ de koning.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "en doodde"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zichri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "een gibbor"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "van Efrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maäsejach"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maäsejach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Azrikam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "de vorst"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Elkanach"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanach"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "de tweede"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T23:29:33.596537594Z",
+  "model": "glm-5.3"
+}

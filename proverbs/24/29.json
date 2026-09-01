@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Zeg niet: zoals hij ⟨את⟩ mij deed, zo zal ik hem doen; ik vergeld ⟨את⟩ de man naar zijn daad.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "zeg"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "deed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zal ik doen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ik vergeld"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan de man"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "naar zijn daad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:57.582180946Z",
+  "model": "glm-5.3"
+}

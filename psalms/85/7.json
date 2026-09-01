@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 85,
+  "translation": "Zult ú niet terugkeren? U zult ons doen leven, en uw volk zal zich in u verblijden.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Zult u niet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ú"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "terugkeren"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ons doen leven"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "en uw volk"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "zal zich verblijden"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:00.687685816Z",
+  "model": "glm-5.3"
+}

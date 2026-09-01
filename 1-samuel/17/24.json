@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En alle man van Jisraël, toen zij ⟨את⟩ de man zagen, vluchtten zij voor zijn aangezicht en vreesden zeer.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "toen zij zagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "en zij vluchtten"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "voor zijn aangezicht"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "en zij vreesden"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:45:46.734284839Z",
+  "model": "glm-5.3"
+}

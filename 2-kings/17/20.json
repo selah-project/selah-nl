@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En Jahweh verwierp heel het nageslacht van Israël, en hij verootmoedigde hen, en gaf hen in de hand van plunderaars, totdat hij hen van zijn aangezicht geworpen had.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "en verwierp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "het nageslacht"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "en verootmoedigde hen"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "en gaf hen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "van plunderaars"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "hen geworpen had"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "van zijn aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:28.752593561Z",
+  "model": "glm-5.3"
+}

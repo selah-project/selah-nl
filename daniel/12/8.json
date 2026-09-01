@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En ik hoorde, maar ik verstond ⟨het⟩ niet; en ik zei: mijn Adonai, wat is het einde van deze ⟨dingen⟩?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "hoorde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "verstond"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "en ik zei"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "het einde"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van deze"
+    }
+  ],
+  "timestamp": "2026-08-31T22:50:59.169611157Z",
+  "model": "glm-5.3"
+}

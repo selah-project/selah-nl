@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "De wijsheid geeft de wijze ⟨meer⟩ kracht dan tien machthebbers die in de stad waren.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "de wijsheid"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "geeft kracht"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "de wijze"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "dan tien"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "machthebbers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:41.943972438Z",
+  "model": "glm-5.3"
+}

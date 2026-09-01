@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "En Jisraël zei tot Jozef: Laat mij ditmaal sterven, nadat ik ⟨את⟩ uw gezicht heb gezien, want gij leeft nog.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "laat mij sterven"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "ditmaal"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "ik heb gezien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw gezicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw gezicht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "gij nog"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leeft"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:21.938480732Z",
+  "model": "glm-5.3"
+}

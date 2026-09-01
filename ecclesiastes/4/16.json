@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Geen einde aan al het volk, aan allen die vóór hen waren; ook de laatsten zullen zich niet in hem verblijden — want ook dit is ijdelheid en een najagen van wind.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Geen"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "einde"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan al"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan allen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waren"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "vóór hen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "de laatsten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "zullen zich verblijden"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in hem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ijdelheid"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "en een najagen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van wind"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:41.907370898Z",
+  "model": "glm-5.3"
+}

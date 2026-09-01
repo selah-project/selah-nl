@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En nu, zie, ik heb ⟨את⟩ het eerste van de vrucht van de grond gebracht, die U mij gegeven hebt, Jahweh; en u zult het neerzetten voor het aangezicht van Jahweh uw Elohim, en u zult u buigen voor het aangezicht van Jahweh uw Elohim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "ik heb gebracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het eerste van de vrucht"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "het eerste"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "van de vrucht"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van de grond"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "U gegeven hebt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "en u zult het neerzetten"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "en u zult u buigen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:14.671988498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 122,
+  "translation": "Vraag naar de sjalom van Jeroesjalajim; moge het wel gaan wie jou liefhebben.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "vraag"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "naar de sjalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "moge het wel gaan"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "wie jou liefhebben"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:31.888293603Z",
+  "model": "glm-5.3"
+}

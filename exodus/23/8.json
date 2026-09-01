@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En een geschenk zult gij niet aannemen, want het geschenk verblindt helderzienden en verdraait de woorden van rechtvaardigen.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "en een geschenk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "zult gij aannemen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "het geschenk"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "verblindt"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "helderzienden"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "en verdraait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "van rechtvaardigen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:22.036248088Z",
+  "model": "glm-5.3"
+}

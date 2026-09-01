@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 120,
+  "translation": "Te lang heeft mijn nefesj ⟨ge⟩woond bij hem die sjalom haat.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Te lang"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "heeft ⟨ge⟩woond"
+    },
+    {
+      "surface": "לה",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "die haat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:10.082344825Z",
+  "model": "glm-5.3"
+}

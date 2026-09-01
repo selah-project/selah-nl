@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Want jocheel is het, heilig zal het jullie ⟨zijn⟩; uit het veld zult gij ⟨את⟩ zijn opbrengst eten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "jocheel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is het"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zal het zijn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "het veld"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "zult gij eten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn opbrengst"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "zijn opbrengst"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:06.216796227Z",
+  "model": "glm-5.3"
+}

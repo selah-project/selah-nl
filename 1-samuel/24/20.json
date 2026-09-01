@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Want wie vindt een man zijn vijand en laat hij hem ⟨op⟩ een goede weg gaan? En Jahweh vergelde jou het goede in plaats van wat jij heden mij gedaan hebt.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "vindt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vijand"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "zijn vijand"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "en laat hij hem gaan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op een weg"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "goede"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "vergelde jou"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "jij gedaan hebt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:31.478733297Z",
+  "model": "glm-5.3"
+}

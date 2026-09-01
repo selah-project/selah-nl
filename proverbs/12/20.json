@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Bedrog ⟨is⟩ in het hart van wie kwaad beramen, maar voor de raadslieden van vrede ⟨is⟩ vreugde.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "bedrog"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "in het hart"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "van wie beramen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "maar voor de raadslieden"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "van vrede"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "vreugde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:30.557701042Z",
+  "model": "glm-5.3"
+}

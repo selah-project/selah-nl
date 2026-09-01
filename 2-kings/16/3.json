@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En hij wandelde in de weg van de koningen van Israël, en ook zijn zoon liet hij door het vuur gaan, naar de gruwelen van de naties die Jahweh ⟨את⟩ hen verdreven had van voor de ogen van de kinderen van Israël.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij wandelde"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in de weg"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "van de koningen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zoon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "liet hij gaan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "door het vuur"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "naar de gruwelen"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "van de naties"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הורישׁ",
+      "gloss": "verdreven had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "⟨את⟩-vorm: אתם verwijst naar 'de naties'"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "van voor de ogen van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:52.978111903Z",
+  "model": "glm-5.3"
+}

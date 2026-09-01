@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En hij gebood ⟨את⟩ de eerste, zeggende: Wanneer Esav, mijn broeder, u ontmoet en u vraagt, zeggende: Van wie bent u, en waar gaat u heen, en van wie zijn deze ⟨dieren⟩ voor u?",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en hij gebood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de eerste"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "de eerste"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "u ontmoet"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mijn broeder"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "en u vraagt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "למי",
+      "gloss": "van wie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bent u"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "en waarheen"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gaat u"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "en van wie"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "zijn deze"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor u"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:25.086491260Z",
+  "model": "glm-5.3"
+}

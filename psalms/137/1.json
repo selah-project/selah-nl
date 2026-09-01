@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 137,
+  "translation": "Aan de rivieren van Bavel, dáár zaten wij, ook weenden wij, toen wij ⟨את⟩ Tsiyyon gedachten",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "de rivieren"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Bavel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dáár"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "zaten wij"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "weenden wij"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "toen wij gedachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyyon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:34.329099869Z",
+  "model": "glm-5.3"
+}

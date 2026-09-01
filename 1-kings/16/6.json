@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Baäsa ging liggen bij zijn vaders, en hij werd begraven in Tirtsah; en Ela zijn zoon werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "En ging liggen"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baäsa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en werd begraven"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "in Tirtsah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en werd koning"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:17.095736216Z",
+  "model": "glm-5.3"
+}

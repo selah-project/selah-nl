@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "⟨את⟩ Oets, zijn eerstgeborene, en ⟨את⟩ Boez, zijn broeder, en ⟨את⟩ Kemoeël, de vader van Aram.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oets"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Oets"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "zijn eerstgeborene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Boez"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Boez"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broeder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kemoeël"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemoeël"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "vader van"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:24.942736536Z",
+  "model": "glm-5.3"
+}

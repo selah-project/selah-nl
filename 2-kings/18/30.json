@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En laat Chizkijahoe jullie niet vertrouwen doen stellen ⟨את⟩-jullie in Jahweh door te zeggen: Redden zal Jahweh ons redden, en deze stad zal niet gegeven worden ⟨את⟩ in de hand van de koning van Assjoer.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "laat vertrouwen stellen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-jullie",
+      "marks": "Chizkijahoe"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahoe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "door te zeggen"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "reddend"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "zal ons redden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "zal gegeven worden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assjoer"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:03.789741771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Mooi van verhevenheid, een vreugde van heel de aarde, ⟨is⟩ de berg Tsiyon, de flanken van het noorden, de stad van een grote koning.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "mooi"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "van verhevenheid"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "een vreugde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "de flanken"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "van het noorden"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van een koning"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grote"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:17.671109885Z",
+  "model": "glm-5.3"
+}

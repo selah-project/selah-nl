@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Maak voor jou een ark van goferhout; nesten zul je de ark maken, en je zult ⟨את⟩ haar bestrijken van binnen en van buiten met pek.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "maak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "een ark"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "van hout"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "van gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "nesten"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zul je maken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "en je zult bestrijken"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (de ark)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "van binnen"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "en van buiten"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "met pek"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:55.559342709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Want zij eten ⟨את⟩ brood van onrecht, en wijn van geweld drinken zij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "zij eten"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van onrecht"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "en wijn"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "van geweld"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "drinken zij"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:35.670561458Z",
+  "model": "glm-5.3"
+}

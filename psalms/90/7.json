@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 90,
+  "translation": "Want wij zijn omgekomen in Uw toorn, en door Uw grimmigheid zijn wij ontsteld.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "zijn wij omgekomen"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "in Uw toorn"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "en door Uw grimmigheid"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "zijn wij ontsteld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:04.981280315Z",
+  "model": "glm-5.3"
+}

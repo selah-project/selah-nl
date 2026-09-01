@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Zwaar ⟨is⟩ een steen, en een last ⟨is⟩ het zand, maar zwaarder dan beiden samen ⟨is⟩ de toorn van een dwaas.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "zwaar"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "een steen"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "en een last"
+    },
+    {
+      "surface": "החול",
+      "gloss": "het zand"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "en de toorn"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "van een dwaas"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "zwaarder"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "dan beiden samen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:27.539181271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Want Ezra had zijn hart gericht om de Tora van Jahweh te onderzoeken ⟨את⟩, en om ⟨die⟩ te doen, en om in Jisraël chok en misjpat te leren.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "had gericht"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "zijn hart"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "om te onderzoeken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Tora van Jahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "de Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "en om te doen"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "en om te leren"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisraël"
+    },
+    {
+      "surface": "חק",
+      "gloss": "chok"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en misjpat"
+    }
+  ],
+  "timestamp": "2026-08-31T22:51:38.307865636Z",
+  "model": "glm-5.3"
+}

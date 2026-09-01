@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Voor alles ⟨is⟩ een bestemde tijd, en een tijd voor elk verlangen onder de hemelen.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "voor alles"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "een bestemde tijd"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "voor elk"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "verlangen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:41.447379699Z",
+  "model": "glm-5.3"
+}

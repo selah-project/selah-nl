@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Toen zond de koning ⟨iemand⟩ en verzamelde alle oudsten van Jehoeda en Jeroesjalajim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Toen zond"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "en verzamelde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle oudsten van Jehoeda en Jeroesjalajim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oudsten"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "en Jeroesjalajim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:58.471480712Z",
+  "model": "glm-5.3"
+}

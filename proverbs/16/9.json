@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Het hart van een mens beraamt zijn weg, maar Jahweh richt zijn schrede.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van een mens"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "beraamt"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "zijn weg"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "maar Jahweh"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "richt"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "zijn schrede"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:01.127379709Z",
+  "model": "glm-5.3"
+}

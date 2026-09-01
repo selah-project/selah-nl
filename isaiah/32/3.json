@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En de ogen van zienden zullen niet verduisterd worden, en de oren van luisteraars zullen ⟨aandachtig⟩ luisteren.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "En niet"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "zullen verduisterd worden"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "de ogen"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "van zienden"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "en de oren"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "van luisteraars"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "zullen ⟨aandachtig⟩ luisteren"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:16.874956060Z",
+  "model": "glm-5.3"
+}

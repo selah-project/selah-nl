@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 8:25",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "In het twaalfde jaar van Joram, zoon van Achav, koning van Jisraël, werd Achazjahoe, zoon van Jehoram, koning van Jehoeda, koning.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "In het jaar"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twaalf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(twaalf)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "van Joram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "werd koning"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazjahoe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T21:08:28.198225855Z",
+  "model": "glm-5.3"
+}

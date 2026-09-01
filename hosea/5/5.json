@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "De hoogmoed van Jisraël getuigt in zijn aangezicht; en Jisraël en Efrayim struikelen in hun ongerechtigheid, ook Jehoeda struikelt met hen.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "getuigt"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "de hoogmoed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "in zijn aangezicht"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "en Jisraël"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "en Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "struikelen"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "in hun ongerechtigheid"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "struikelt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "met hen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:22.720043619Z",
+  "model": "glm-5.3"
+}

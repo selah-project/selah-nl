@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "en zie of er een weg van pijn ⟨of afgod ⟨is⟩⟩ in mij, en leid mij op de eeuwige weg.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "weg"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "van pijn\/afgod"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in mij"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "en leid mij"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:28.173437956Z",
+  "model": "glm-5.3"
+}

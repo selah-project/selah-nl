@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "opdat zij geloven dat verschenen is aan jou Jahweh, ⟨de⟩ Elohim van hun vaders, ⟨de⟩ Elohim van Avraham, ⟨de⟩ Elohim van Jitschak en ⟨de⟩ Elohim van Jaäkov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "zij geloven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "verschenen is"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "hun vaders"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "en Elohim van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:51.471203800Z",
+  "model": "glm-5.3"
+}

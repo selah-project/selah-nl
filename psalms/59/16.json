@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Zij — zij dwalen rond om te eten; als zij niet verzadigd worden, dan brommen zij de nacht door.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Zij"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "dwalen zij rond"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te eten"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "verzadigd worden"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "brommen zij de nacht door"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:18.051062544Z",
+  "model": "glm-5.3"
+}

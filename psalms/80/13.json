@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "Waarom hebt U haar omheiningen doorbroken, zodat allen die op de weg voorbijtrekken haar plukken?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "hebt U doorbroken"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "haar omheiningen"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "zodat ... haar plukken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "die voorbijtrekken"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "op de weg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:35.476163225Z",
+  "model": "glm-5.3"
+}

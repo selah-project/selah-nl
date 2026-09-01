@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Laat toch uw chesed (goedertierenheid) mij tot troost zijn, overeenkomstig uw toezegging aan uw dienaar.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "laat zijn"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "mij tot troost"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "overeenkomstig uw toezegging"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "aan uw dienaar"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:44.537160823Z",
+  "model": "glm-5.3"
+}

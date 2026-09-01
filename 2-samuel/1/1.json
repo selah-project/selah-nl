@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En het gebeurde na de dood van Sjaoel, toen Dawid teruggekeerd was van het verslaan van ⟨את⟩ de Amalekiet, dat Dawid in Tziklag bleef twee dagen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de dood"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "toen Dawid"
+    },
+    {
+      "surface": "שב",
+      "gloss": "teruggekeerd was"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "van het verslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Amalekiet"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "de Amalekiet"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dat ... bleef"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "in Tziklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:50:58.711699386Z",
+  "model": "glm-5.3"
+}

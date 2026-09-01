@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "Zoals Jahweh ⟨את⟩ Mosjee had geboden, zo deden de dochters van Tselofechad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "had geboden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosjee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "deden"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "de dochters"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "van Tselofechad"
+    }
+  ],
+  "timestamp": "2026-08-31T20:19:48.724371362Z",
+  "model": "glm-5.3"
+}

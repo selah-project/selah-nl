@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 24:20",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En ⟨voor⟩ de overgebleven zonen van Levi: van de zonen van Amram, Sjoevaël; van de zonen van Sjoevaël, Jechdija.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "en ⟨voor⟩ de zonen van"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "de overgeblevenen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van de zonen van"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Sjoevaël"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van de zonen van"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Sjoevaël"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "Jechdja"
+    }
+  ],
+  "timestamp": "2026-08-31T23:02:40.605898725Z",
+  "model": "glm-5.3"
+}

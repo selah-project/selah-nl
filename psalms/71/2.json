@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "In uw tsedaka red mij en ontruk mij; neig uw oor tot mij en verlos mij.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "in uw tsedaka"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "en ontruk mij"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "neig"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "uw oor"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "en verlos mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:43.930398333Z",
+  "model": "glm-5.3"
+}

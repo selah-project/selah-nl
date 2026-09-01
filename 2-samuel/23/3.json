@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Gesproken heeft de Elohim van Israël ⟨tot⟩ mij, gesproken heeft de Rots van Israël: een heerser over de mens, rechtvaardig, heersend in ontzag voor Elohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "gesproken heeft"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken heeft"
+    },
+    {
+      "surface": "צור",
+      "gloss": "de Rots"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "een heerser"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "over de mens"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardig"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "heersend"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "in ontzag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "voor Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:51.479120479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 27:27",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En hij kwam dichterbij en kuste hem; en hij rook ⟨את⟩ de geur van zijn kleren, en zegende hem, en zei: Zie, de geur van mijn zoon is als de geur van een veld dat Jahweh gezegend heeft.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "en hij kwam dichterbij"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "en kuste"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "en hij rook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de geur"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "de geur"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "van zijn kleren"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "en zegende hem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "de geur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "כריח",
+      "gloss": "als de geur"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "van een veld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "gezegend heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:12.968577058Z",
+  "model": "glm-5.3"
+}

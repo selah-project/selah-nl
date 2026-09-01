@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Dawid klaagde ⟨את⟩ deze klaagzang aan over Sjaoel en over Jehonatan zijn zoon.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "en klaagde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze klaagzang"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "de klaagzang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en over"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:57.669906877Z",
+  "model": "glm-5.3"
+}

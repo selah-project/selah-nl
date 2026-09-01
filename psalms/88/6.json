@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "⟨Ik ben⟩ losgemaakt onder de doden, zoals geslagenen die in het graf liggen, wie u niet meer gedenkt, en zij zijn door uw hand afgesneden.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "onder de doden"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "losgemaakt"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "geslagenen"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "die liggen"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "in het graf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "u gedenkt"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "en zij"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "door uw hand"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "zijn afgesneden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:28.951281834Z",
+  "model": "glm-5.3"
+}

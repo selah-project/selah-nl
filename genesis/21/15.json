@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En het water raakte op uit de zak, en zij wierp ⟨את⟩ het kind onder een van de struiken.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "En het raakte op"
+    },
+    {
+      "surface": "המים",
+      "gloss": "het water"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "de zak"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "en zij wierp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "het kind"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een van"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "de struiken"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:54.182821401Z",
+  "model": "glm-5.3"
+}

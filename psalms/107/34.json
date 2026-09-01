@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "een vruchtbaar land tot zoutwoestijn, om de slechtheid van zijn bewoners.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vruchtbaar (vrucht)"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "tot zoutwoestijn"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "om de slechtheid"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "van zijn bewoners"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:05.301160493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 75,
+  "translation": "Want Elohim ⟨is⟩ rechter: deze vernedert Hij, en die verhoogt Hij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "rechter ⟨is⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "vernedert Hij"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "en die"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "verhoogt Hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:39.196004943Z",
+  "model": "glm-5.3"
+}

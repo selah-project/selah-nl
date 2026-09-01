@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Gedenk mij, Jahweh, bij ⟨het⟩ welbehagen van ⟨uw⟩ volk; zoek mij aan met uw verlossing.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Gedenk mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "bij het welbehagen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "van uw volk"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "zoek mij aan"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "met uw verlossing"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:52.624654811Z",
+  "model": "glm-5.3"
+}

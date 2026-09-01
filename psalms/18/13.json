@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Van de schittering vóór hem gingen zijn donderwolken over — hagel en gloedjes van vuur.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "van de schittering"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "vóór hem"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "zijn donderwolken"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gingen over"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hagel"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "en gloedjes"
+    },
+    {
+      "surface": "אש",
+      "gloss": "van vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:19.197280030Z",
+  "model": "glm-5.3"
+}

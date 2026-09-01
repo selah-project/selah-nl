@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "en Achimaäts verwekte ⟨את⟩ Azarjah, en Azarjah verwekte ⟨את⟩ Jochanan;",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "en Achimaäts"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "en Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jochanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jochanan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:14.296613972Z",
+  "model": "glm-5.3"
+}

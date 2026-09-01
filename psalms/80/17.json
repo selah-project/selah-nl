@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "Verbrand door vuur, afgehakt — door de scherpte van uw aangezicht gaan zij te gronde.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "door vuur"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "afgehakt"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "door de scherpte"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "van uw aangezicht"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "gaan zij te gronde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:37.487756237Z",
+  "model": "glm-5.3"
+}

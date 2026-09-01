@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En Jehizkiahu en de vorsten kwamen en zagen ⟨את⟩ de hopen, en zij zegenden ⟨את⟩ Jahweh en ⟨את⟩ zijn volk Israël.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en zij kwamen"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jehizkiahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "en de vorsten"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "en zagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hopen"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "de hopen"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "en zij zegenden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn volk Israël"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:10:53.139836863Z",
+  "model": "glm-5.3"
+}

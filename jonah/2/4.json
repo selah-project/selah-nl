@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 2:4",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Gij wierp mij in de diepte, in het hart van de zeeën, en de stroom omsloot mij; al uw branding en uw golven gingen over mij heen.",
+  "tokens": [
+    {
+      "surface": "ותשליכני",
+      "gloss": "gij wierp mij"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "in de diepte"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "in het hart"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van de zeeën"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "en de stroom"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "omsloot mij"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "uw branding"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "en uw golven"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gingen heen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:55.062220724Z",
+  "model": "glm-5.3"
+}

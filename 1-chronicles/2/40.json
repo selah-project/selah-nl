@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En El'asah verwekte ⟨את⟩ Sismai, en Sismai verwekte ⟨את⟩ Sjallum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "En El'asah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismai"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismai"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "en Sismai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Sjallum"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:21.563673119Z",
+  "model": "glm-5.3"
+}

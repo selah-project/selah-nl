@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 130,
+  "translation": "Als U ongerechtigheden in acht neemt, Jah — Adonai, wie zal ⟨dan⟩ blijven staan?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "ongerechtigheden"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "U in acht neemt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "zal blijven staan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:30.412851071Z",
+  "model": "glm-5.3"
+}

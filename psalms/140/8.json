@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 140,
+  "translation": "Jahweh, Adonai, kracht van mijn heil, gij hebt mijn hoofd bedekt op de dag van wapens ⟨strijd⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kracht"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "van mijn heil"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "gij hebt bedekt"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "mijn hoofd"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag van"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "wapens ⟨strijd⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:39.031868039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "De weiden zijn bekleed met de kudden ⟨schapen⟩; de dalen hullen zich in koren; zij juichen, ja, zij zingen.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "zijn bekleed"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "kudden"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kleinvee"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "en de dalen"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "hullen zich"
+    },
+    {
+      "surface": "בר",
+      "gloss": "in koren"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "zij juichen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "zij zingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:19.312323186Z",
+  "model": "glm-5.3"
+}

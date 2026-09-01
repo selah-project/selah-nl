@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 115,
+  "translation": "Huis van Aharon, vertrouwt op Jahweh; hun hulp en hun schild is hij.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "vertrouwt"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "hun hulp"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "en hun schild"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:06.377285935Z",
+  "model": "glm-5.3"
+}

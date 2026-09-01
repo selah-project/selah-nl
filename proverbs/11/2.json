@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Komt overmoed, dan komt smaad; maar met ⟨de⟩ ootmoedigen ⟨is⟩ wijsheid.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "overmoed"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan komt"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "smaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ootmoedigen"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "ootmoedigen"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wijsheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:42.645282071Z",
+  "model": "glm-5.3"
+}

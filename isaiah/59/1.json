@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Zie, de hand van Jahweh is niet te kort geworden om te redden, en zijn oor is niet zwaar geworden om ⟨niet⟩ te horen.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "is te kort geworden"
+    },
+    {
+      "surface": "יד",
+      "gloss": "de hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "om te redden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "is zwaar geworden"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "zijn oor"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "om te horen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:26:04.978812703Z",
+  "model": "glm-5.3"
+}

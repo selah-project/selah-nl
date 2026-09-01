@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "In de derde maand van het uitgaan van de kinderen van Jisraël uit het land Mitsrajim, op deze dag kwamen zij in de woestijn Sinaï.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "in de maand"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "de derde"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "van het uitgaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op ⟨de⟩ dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kwamen zij"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaï"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:34.604261049Z",
+  "model": "glm-5.3"
+}

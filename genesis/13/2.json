@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Avram was zeer zwaar ⟨aan⟩ vee, aan zilver en aan goud.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "En Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "was zwaar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "aan vee"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "aan zilver"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "en aan goud"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:52.056789696Z",
+  "model": "glm-5.3"
+}

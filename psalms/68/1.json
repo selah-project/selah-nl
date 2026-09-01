@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Voor de koorleider, van David, een mizmor, een lied.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.200603802Z",
+  "model": "glm-5.3"
+}

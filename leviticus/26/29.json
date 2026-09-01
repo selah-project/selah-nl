@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En jullie zullen het vlees van jullie zonen eten, en het vlees van jullie dochters zullen jullie eten.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "en jullie zullen eten"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "van jullie zonen"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "en het vlees"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "van jullie dochters"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "zullen jullie eten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:34.903463552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En zijn zuster Hammalechet baarde ⟨את⟩ Isjod en ⟨את⟩ Aviëzer en ⟨את⟩ Machla.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "En zijn zuster"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hammalechet"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "baarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isjod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Isjod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Aviëzer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviëzer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Machla"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Machla"
+    }
+  ],
+  "timestamp": "2026-08-31T22:59:01.515738474Z",
+  "model": "glm-5.3"
+}

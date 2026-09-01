@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Jahweh Elohim plantte een hof in Eden, in het oosten, en daar plaatste Hij ⟨את⟩ de mens die Hij geformeerd had.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "En plantte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "een hof"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "in Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "in het oosten"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en daar plaatste Hij"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aldaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "Hij geformeerd had"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:25.103687887Z",
+  "model": "glm-5.3"
+}

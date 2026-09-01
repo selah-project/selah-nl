@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En hij richtte ⟨את⟩ Jisraël, in de dagen van de Filistijnen, twintig jaar.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "en hij richtte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in de dagen van"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistijnen"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:18.309729858Z",
+  "model": "glm-5.3"
+}

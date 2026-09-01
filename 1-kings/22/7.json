@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En Jehosjafat zei: Is er hier geen profeet voor Jahweh ⟨meer⟩, zodat wij ⟨het⟩ ⟨את⟩ van hem kunnen vragen?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "is er geen"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "profeet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨meer⟩"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "zodat wij kunnen vragen"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ van hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:56.635168386Z",
+  "model": "glm-5.3"
+}

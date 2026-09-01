@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En uw dienaar ⟨is⟩ in het midden van uw volk dat u hebt uitgekozen — een volk talrijk, dat niet geteld en niet opgeteld kan worden vanwege ⟨de⟩ menigte.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "en uw dienaar"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uw volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "u hebt uitgekozen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "een volk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "talrijk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "geteld kan worden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "opgeteld"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "vanwege de menigte"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:13.330229645Z",
+  "model": "glm-5.3"
+}

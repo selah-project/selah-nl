@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En er bleven over onder de zonen van Jisraël die ⟨את⟩ hun erfdeel niet hadden verdeeld, zeven stammen.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "en er bleven over"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "onder de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "hadden verdeeld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun erfdeel"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "hun erfdeel"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "stammen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:32:57.677345210Z",
+  "model": "glm-5.3"
+}

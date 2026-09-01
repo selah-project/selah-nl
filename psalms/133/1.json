@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 133,
+  "translation": "Een lied van de opgangen, van David. Zie, hoe goed en hoe aangenaam het is dat broeders ⟨samen⟩ wonen, ja, eensgezind.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Een lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van de opgangen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en hoe"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "aangenaam"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "wonen"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "broeders"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "eensgezind"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:28.051238835Z",
+  "model": "glm-5.3"
+}

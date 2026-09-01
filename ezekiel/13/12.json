@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En zie, de muur is gevallen — zal er niet tot jullie gezegd worden: waar is de bepleistering waarmee jullie gepleisterd ⟨hebben⟩?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "is gevallen"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "de muur"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "zal niet"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "gezegd worden"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "tot jullie"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "de bepleistering"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "jullie gepleisterd hebben"
+    }
+  ],
+  "timestamp": "2026-08-31T21:43:13.472765404Z",
+  "model": "glm-5.3"
+}

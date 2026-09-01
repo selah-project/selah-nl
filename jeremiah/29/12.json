@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En jullie zullen ⟨את⟩ Mij aanroepen, en jullie zullen gaan en bidden tot Mij, en Ik zal naar jullie luisteren.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "En jullie zullen aanroepen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Mij"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "en jullie zullen gaan"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "en bidden"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot Mij"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "en Ik zal luisteren"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "naar jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T21:34:23.433386678Z",
+  "model": "glm-5.3"
+}

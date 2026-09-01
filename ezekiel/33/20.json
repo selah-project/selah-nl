@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En jullie zeggen: de weg van Adonai wordt niet afgewogen. Ieder naar zijn wegen zal ik ⟨את⟩ jullie oordelen, huis van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "en jullie zeggen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "wordt afgewogen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg van"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "naar zijn wegen"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "zal ik oordelen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jullie (huis van Jisraël)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:49:31.628572242Z",
+  "model": "glm-5.3"
+}

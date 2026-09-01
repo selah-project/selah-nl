@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En nu — je bent zeker weggegaan omdat je vurig verlangde naar het huis van je vader; maar waarom heb je mijn Elohim gestolen?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "weggaan (infinitief)"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ben je gegaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "verlangen (infinitief)"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "heb je verlangd"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "naar het huis van"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "je vader"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "heb je gestolen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:23.233422923Z",
+  "model": "glm-5.3"
+}

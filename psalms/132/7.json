@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 132,
+  "translation": "Wij zullen binnengaan in zijn woningen, wij zullen ons neerbuigen bij de voetbank van zijn voeten.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "wij zullen binnengaan"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "in zijn woningen"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "wij zullen ons neerbuigen"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "bij de voetbank"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "van zijn voeten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:40.943534654Z",
+  "model": "glm-5.3"
+}

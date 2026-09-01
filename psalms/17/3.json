@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "U hebt mijn hart doorproefd, mij in de nacht onderzocht, mij gelouterd — ⟨u⟩ vond niets; mijn overleggingen gaan niet over ⟨de grens van⟩ mijn mond.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "U hebt doorproefd"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "onderzocht"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in de nacht"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "mij gelouterd"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "vond ⟨u⟩ niets"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "mijn overleggingen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "gaan over"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:25.474741155Z",
+  "model": "glm-5.3"
+}

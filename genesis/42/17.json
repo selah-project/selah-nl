@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En hij bracht hen samen onder bewaking, drie dagen.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "en hij bracht samen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "onder bewaking"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:45.321285293Z",
+  "model": "glm-5.3"
+}

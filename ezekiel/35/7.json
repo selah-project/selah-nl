@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En Ik maak ⟨את⟩ de berg Seir tot een verwoesting en een woestenij, en Ik roei van hem uit wie doorgaat en wie terugkeert.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "En Ik maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de berg Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "tot een verwoesting"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "en een woestenij"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "en Ik roei uit"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van hem"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wie doorgaat"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "en wie terugkeert"
+    }
+  ],
+  "timestamp": "2026-08-31T21:50:25.918694790Z",
+  "model": "glm-5.3"
+}

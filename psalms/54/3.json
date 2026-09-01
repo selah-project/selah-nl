@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 54,
+  "translation": "Elohim, red mij door Uw naam, en vonnis mij door Uw macht.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "door Uw naam"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "en door Uw macht"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "vonnis mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:37.493836292Z",
+  "model": "glm-5.3"
+}

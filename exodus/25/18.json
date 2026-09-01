@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En je zult twee keruvim van goud maken; drijfwerk zul je ⟨את⟩ hen maken, vanaf de twee uiteinden van de kapporet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en je zult maken"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "drijfwerk (hamerwerk)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zul je maken"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen — de twee keruvim"
+    },
+    {
+      "surface": "משני",
+      "gloss": "van de twee"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "uiteinden"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "van de kapporet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:53.201777004Z",
+  "model": "glm-5.3"
+}

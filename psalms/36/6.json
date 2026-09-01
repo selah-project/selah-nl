@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "Jahweh, in de hemelen ⟨is⟩ uw chesed (goedertierenheid), uw trouw tot aan de wolken.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "in de hemelen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "uw trouw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "de wolken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:26.004420204Z",
+  "model": "glm-5.3"
+}

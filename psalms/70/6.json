@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 70,
+  "translation": "En ik ⟨ben⟩ arm en noodlijdend; Elohim, haast u tot mij! Mijn hulp en mijn redder ⟨bent⟩ u, Jahweh — vertoef niet!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ik"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en noodlijdend"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "haast u"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "mijn hulp"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "en mijn redder"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "vertoef"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:23.935717641Z",
+  "model": "glm-5.3"
+}

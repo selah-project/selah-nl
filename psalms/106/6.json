@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Wij hebben gezondigd met onze vaders, wij hebben krom gehandeld, wij hebben goddeloos gehandeld.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "wij hebben gezondigd"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "onze vaders"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "wij hebben krom gehandeld"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "wij hebben goddeloos gehandeld"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:48.293071465Z",
+  "model": "glm-5.3"
+}

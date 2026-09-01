@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "De rechterhand van Jahweh ⟨is⟩ verhoogd, de rechterhand van Jahweh handelt machtig.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "de rechterhand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "verhoogd"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "de rechterhand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "handelt"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "machtig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:11.131082676Z",
+  "model": "glm-5.3"
+}

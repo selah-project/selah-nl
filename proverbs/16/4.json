@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Alles heeft Jahweh gemaakt voor zijn doel, en ook de goddeloze — voor de dag van rampspoed.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "heeft ... gemaakt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "voor zijn doel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de goddeloze"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "voor de dag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "van rampspoed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:12.679224969Z",
+  "model": "glm-5.3"
+}

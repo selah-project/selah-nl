@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Jehoeda en Jisraël woonden in veiligheid, ieder onder zijn wijnstok en onder zijn vijgenboom, van Dan tot Beër-Sjeva, al de dagen van Sjelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en woonden"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "en Jisraël"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "in veiligheid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "zijn wijnstok"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "en onder"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "zijn vijgenboom"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "van Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beër"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sjeva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de dagen van"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:47.803709144Z",
+  "model": "glm-5.3"
+}

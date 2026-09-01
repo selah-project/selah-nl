@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 9:10",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Ook de dienaren van Chiram en de dienaren van Sjelomo, die goud uit Ofir hadden gebracht, brachten algoemmim-hout en edelsteen.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "de dienaren van"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "en de dienaren van"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "hadden gebracht"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "מאופיר",
+      "gloss": "uit Ofir"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "brachten"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "אלגומים",
+      "gloss": "algoemmim"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "en steen"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "edel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:06:20.450787668Z",
+  "model": "glm-5.3"
+}

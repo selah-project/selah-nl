@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Mijn woorden — geef ⟨oor⟩, Jahweh; begrip ⟨schenk⟩ aan mijn gemompel.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "mijn woorden"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "geef oor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "begrip schenk"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "aan mijn gemompel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:33.317625644Z",
+  "model": "glm-5.3"
+}

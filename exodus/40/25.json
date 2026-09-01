@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En hij liet de lampen opgaan voor het aangezicht van Jahweh, zoals Jahweh Mosjee geboden had ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "en hij liet opgaan"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "de lampen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboden had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosjee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:43.496596437Z",
+  "model": "glm-5.3"
+}

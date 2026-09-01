@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En jullie zullen omkomen onder de naties, en het land van jullie vijanden zal ⟨את⟩ jullie opeten.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "en jullie zullen omkomen"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder de naties"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "en het zal opeten"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "van jullie vijanden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:32.891023201Z",
+  "model": "glm-5.3"
+}

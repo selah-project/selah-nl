@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En jij zult hem heiligen, want ⟨את⟩ het brood van jouw Elohim brengt hij aan; heilig zal hij voor jou zijn, want heilig ben ik, Jahweh, die jullie heiligt.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "en jij zult hem heiligen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het brood van jouw Elohim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "het brood"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "van jouw Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "brengt aan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal hij zijn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ben ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "die jullie heiligt"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:54.726703765Z",
+  "model": "glm-5.3"
+}

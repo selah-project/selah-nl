@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En ik roeide ⟨את⟩ de drie herders uit in één maand, en mijn nefesj werd ongeduldig met hen, en ook hun nefesj walgde van mij.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "en ik roeide uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de drie herders"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "de drie"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "herders"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "in"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één maand"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "en werd ongeduldig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "met hen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hun nefesj"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "walgde"
+    },
+    {
+      "surface": "בי",
+      "gloss": "van mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:00.980832366Z",
+  "model": "glm-5.3"
+}

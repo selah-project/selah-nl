@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Voor de koorleider. Van David. In Jahweh schuil ik — hoe zeggen jullie tot mijn nefesj: vlucht ⟨naar⟩ jullie berg als ⟨een⟩ vogel?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "schuil ik"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "zeggen jullie"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "tot mijn nefesj"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "vlucht"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "jullie berg"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "vogel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:22.100582666Z",
+  "model": "glm-5.3"
+}

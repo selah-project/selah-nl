@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 115,
+  "translation": "Niet aan ons, Jahweh, niet aan ons, maar aan uw naam geef kavod, om uw chesed, om uw trouw.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "aan uw naam"
+    },
+    {
+      "surface": "תן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "uw trouw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:43.001958376Z",
+  "model": "glm-5.3"
+}

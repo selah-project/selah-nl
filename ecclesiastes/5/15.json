@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En ook dit ⟨is⟩ een kwaal die ziek maakt: helemaal zoals hij gekomen is, zo zal hij gaan; en wat heeft hij als voordeel, dat hij zwoegt voor de wind?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "een kwaal"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "die ziek maakt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "helemaal"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "hij gekomen is"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "zal hij gaan"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "als voordeel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "heeft hij"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "dat hij zwoegt"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "voor de wind"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:30.145154016Z",
+  "model": "glm-5.3"
+}

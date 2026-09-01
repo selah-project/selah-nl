@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "tot Jahweh naar beneden kijkt en het ziet vanuit de hemelen.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "naar beneden kijkt"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en het ziet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "vanuit de hemelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:55.304061907Z",
+  "model": "glm-5.3"
+}

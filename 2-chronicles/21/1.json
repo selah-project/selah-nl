@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Jehosjafat ging liggen ⟨bij⟩ zijn vaders, en werd begraven ⟨bij⟩ zijn vaders in de stad van Dawid; en Jehoram, zijn zoon, werd koning in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ging liggen"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨bij⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en werd begraven"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨bij⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en werd koning"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T23:09:04.403593Z",
+  "model": "glm-5.3"
+}

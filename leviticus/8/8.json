@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij plaatste op hem ⟨את⟩ het borstschild, en hij legde in het borstschild ⟨את⟩ de Oeriem en ⟨את⟩ de Toemmim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en hij plaatste"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het borstschild"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "het borstschild"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij legde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "het borstschild"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Oeriem"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "de Oeriem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de Toemmim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "de Toemmim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:55.917680215Z",
+  "model": "glm-5.3"
+}

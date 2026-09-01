@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En u zult ⟨את⟩ deze verordening bewaren op zijn vastgestelde tijd, van dagen tot dagen.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "En u zult bewaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze verordening"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "deze verordening"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "op zijn vastgestelde tijd"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "van dagen"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "tot dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:54.322032615Z",
+  "model": "glm-5.3"
+}

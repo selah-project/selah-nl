@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En de kinderen van Jisraël woonden te midden van de Kenaäniet, de Chittiet en de Emoriet, en de Perizziet, en de Chiwwiet, en de Jebusiet.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "En de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "woonden"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "te midden van"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "de Kenaäniet"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "de Chittiet"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "en de Emoriet"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "en de Perizziet"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "en de Chiwwiet"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "en de Jebusiet"
+    }
+  ],
+  "timestamp": "2026-08-31T20:35:23.368683598Z",
+  "model": "glm-5.3"
+}

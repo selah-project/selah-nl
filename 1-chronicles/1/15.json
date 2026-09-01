@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "en ⟨את⟩ de Chiwwiet, en ⟨את⟩ de Arkiet, en ⟨את⟩ de Sieniet",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Chiwwiet"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "de Chiwwiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Arkiet"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "de Arkiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Sieniet"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "de Sieniet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:13.414047911Z",
+  "model": "glm-5.3"
+}

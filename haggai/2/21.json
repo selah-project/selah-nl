@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Zeg tegen Zerubbabel, de stadhouder van Jehoedah: Ik doe ⟨את⟩ de hemel en ⟨את⟩ de aarde beven",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Zeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "de stadhouder"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoedah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨zeggende⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "doe beven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hemel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:01:59.535267373Z",
+  "model": "glm-5.3"
+}

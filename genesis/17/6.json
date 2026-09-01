@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En ik zal je ⟨את⟩ zeer, zeer vruchtbaar maken, en ik zal je tot naties maken, en koningen zullen uit je voortkomen.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "en ik zal vruchtbaar maken"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "en ik zal je maken"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "tot naties"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "en koningen"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "uit je"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "zullen voortkomen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:53.753509856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En men deed Avram goed omwille van haar, en hij kreeg kleinvee en rundvee en ezels en dienaren en dienaressen en ezelinnen en kamelen.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "En men deed ... Avram"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "omwille van haar"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het kwam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem toe"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kleinvee"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "en rundvee"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "en ezels"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "en dienaren"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "en dienaressen"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "en ezelinnen"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "en kamelen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:39.782121059Z",
+  "model": "glm-5.3"
+}

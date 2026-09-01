@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 148,
+  "translation": "Laten zij ⟨את⟩ de naam van Jahweh loven, want zijn naam alleen is verheven; zijn majesteit is boven de aarde en de hemelen.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "laten zij loven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de naam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "is verheven"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "zijn majesteit"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "en de hemelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:04.305027979Z",
+  "model": "glm-5.3"
+}

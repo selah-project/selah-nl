@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Jahweh sprak tot Aharan, zeggende:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en ⟨hij⟩ sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:30.329476918Z",
+  "model": "glm-5.3"
+}

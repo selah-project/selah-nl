@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Ga niet omhoog, want Jahweh ⟨is⟩ niet in jullie midden, en jullie zullen niet geslagen worden voor ⟨het⟩ aangezicht van jullie vijanden ⟨— beter: dan wel: lees als waarschuwing⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "ga omhoog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is niet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "in jullie midden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "zullen geslagen worden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "jullie vijanden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:13:18.828879918Z",
+  "model": "glm-5.3"
+}

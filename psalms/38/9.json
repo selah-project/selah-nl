@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Verflauwd ben ik en diepgeslagen, ⟨tot⟩ ten zeerste; gebruld heb ik van het gesteun van mijn hart.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "verflauwd ben ik"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "en diepgeslagen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ten zeerste"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "gebruld heb ik"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "van het gesteun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "van mijn hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:56.989827464Z",
+  "model": "glm-5.3"
+}

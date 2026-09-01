@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 12:23",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Hij maakt volken groot en vernietigt ze; hij spreidt volken uit en voert ze ⟨weer⟩ weg.",
+  "tokens": [
+    {
+      "surface": "משגיא",
+      "gloss": "maakt groot"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "ויאבדם",
+      "gloss": "en vernietigt ze"
+    },
+    {
+      "surface": "שטח",
+      "gloss": "spreidt uit"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "en voert ze ⟨weer⟩ weg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:23.520575344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Keer terug, Jahweh, red mijn nefesj, bevrijd mij omwille van uw chesed.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Keer terug"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "red"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "bevrijd mij"
+    },
+    {
+      "surface": "למען",
+      "gloss": "omwille van"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:25.172606717Z",
+  "model": "glm-5.3"
+}

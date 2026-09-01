@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Ik, Nevukadnetstsar, ⟨was⟩ in rust in mijn huis en welig in mijn paleis.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetstsar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "in rust"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "⟨was⟩"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "in mijn huis"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "en welig"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "in mijn paleis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:48:13.185434065Z",
+  "model": "glm-5.3"
+}

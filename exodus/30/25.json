@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En u zult er ⟨את⟩ maken: zalfolie, heilige zalfolie, een mengsel van parfums, het werk van een parfumeur; heilige zalfolie zal het zijn.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en u zult maken"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "zalfolie"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "zalf-"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "een mengsel"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "van parfums"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "het werk"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "van een parfumeur"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "zalf-"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal het zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:27.946673711Z",
+  "model": "glm-5.3"
+}

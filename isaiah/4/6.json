@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En een sukkah zal er ⟨zijn⟩: tot schaduw overdag tegen de hitte, en tot toevlucht en tot schuilplaats tegen storm en tegen regen.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "En een sukkah"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zal er zijn"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "tot schaduw"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "overdag"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "tegen de hitte"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "en tot toevlucht"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "en tot schuilplaats"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "tegen storm"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "en tegen regen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:14:31.529241675Z",
+  "model": "glm-5.3"
+}

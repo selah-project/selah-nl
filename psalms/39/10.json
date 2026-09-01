@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "Ik zweeg, ik opende mijn mond niet, want ⟨het⟩ was jij die het deed.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ik zweeg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ik opende"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "die het deed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:58.756230706Z",
+  "model": "glm-5.3"
+}

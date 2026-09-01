@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 97,
+  "translation": "Jahweh is koning geworden — laat de aarde zich verheugen, laten de vele eilanden zich verblijden.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "is koning geworden"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "laat zich verheugen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "laten zich verblijden"
+    },
+    {
+      "surface": "איים",
+      "gloss": "eilanden"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:14.787711186Z",
+  "model": "glm-5.3"
+}

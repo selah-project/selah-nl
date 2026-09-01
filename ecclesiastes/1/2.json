@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Ijdelheid der ijdelheden, zei Kohelet; ijdelheid der ijdelheden, alles ⟨is⟩ ijdelheid.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ijdelheid"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "der ijdelheden"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ijdelheid"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "der ijdelheden"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ijdelheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:39.808518406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 126,
+  "translation": "Wie zaaien in tranen, zullen oogsten in gejuich.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "wie zaaien"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "in tranen"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "in gejuich"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "zullen oogsten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:38.057179296Z",
+  "model": "glm-5.3"
+}

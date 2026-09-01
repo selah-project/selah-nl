@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "⟨את⟩ je zilver zul je hem niet geven met woeker, en met meeropbrengst zul je ⟨את⟩ je voedsel niet geven.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je zilver"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "je zilver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zul je geven"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "met woeker"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "en met meeropbrengst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zul je geven"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "je voedsel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:43.172910663Z",
+  "model": "glm-5.3"
+}

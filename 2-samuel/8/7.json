@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Dawid nam ⟨את⟩ de gouden schilden die op de dienaren van Hadadëzer waren, en bracht ze naar Jeruzalem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en nam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gouden schilden"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "schilden"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gouden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "de dienaren van"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadëzer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "en bracht ze"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "naar Jeruzalem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:51:47.823858664Z",
+  "model": "glm-5.3"
+}

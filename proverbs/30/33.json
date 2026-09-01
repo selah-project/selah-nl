@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Want het persen van melk brengt ⟨את⟩ boter voort, en het persen van de neus brengt ⟨את⟩ bloed voort, en het persen van neusgaten brengt ⟨את⟩ twist voort.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "het persen"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "van melk"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "brengt voort"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "boter"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "en het persen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "van de neus"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "brengt voort"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "en het persen"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "van neusgaten"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "brengt voort"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "twist"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:06.072431702Z",
+  "model": "glm-5.3"
+}

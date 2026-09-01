@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 56,
+  "translation": "Mijn tegenstanders happen naar mij de hele dag, want velen zijn het die mij aanvechten, o Hoogste.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "happen naar"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "mijn tegenstanders"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "velen"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "die aanvechten"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "o Hoogste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:52.235618795Z",
+  "model": "glm-5.3"
+}

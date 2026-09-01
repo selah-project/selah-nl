@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Luister jij, mijn zoon, en word wijs, en richt je hart op de weg.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "en word wijs"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en richt"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "je hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:47.153767903Z",
+  "model": "glm-5.3"
+}

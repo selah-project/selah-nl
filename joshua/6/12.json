@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Jehosjoea stond vroeg in de morgen op, en de priesters droegen ⟨את⟩ de ark van Jahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "en hij stond vroeg op"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "en zij droegen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:21.825848807Z",
+  "model": "glm-5.3"
+}

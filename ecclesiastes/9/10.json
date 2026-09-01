@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Al wat je hand vindt om te doen, doe het met al je kracht; want in Sjeool, waar je heengaat, is geen werk en geen beraming en geen kennis en geen wijsheid.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "al wat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "vindt"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "je hand"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "met je kracht"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is geen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "en geen beraming"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "en geen kennis"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "en geen wijsheid"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "in Sjeool"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "je"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "heengaat"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:25.923979864Z",
+  "model": "glm-5.3"
+}

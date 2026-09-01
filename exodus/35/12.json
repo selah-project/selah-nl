@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "⟨את⟩ de aron en ⟨את⟩ zijn stangen, ⟨את⟩ de kapporet en ⟨את⟩ het voorhangsel van het masach.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de aron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn stangen"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "zijn stangen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "de kapporet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het voorhangsel"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "het voorhangsel"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "van het masach"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:33.332368516Z",
+  "model": "glm-5.3"
+}

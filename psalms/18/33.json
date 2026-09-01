@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "De El die mij omgordt ⟨met⟩ macht, en hij maakte mijn weg volmaakt.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "De El"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "die mij omgordt"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨met⟩ macht"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "volmaakt"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mijn weg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:20.281611009Z",
+  "model": "glm-5.3"
+}

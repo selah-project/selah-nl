@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 174,
+  "ref": "psalms 119:174",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik verlang naar uw heil, Jahweh, en uw Tora is mijn verrukking.",
+  "tokens": [
+    {
+      "surface": "תאבתי",
+      "gloss": "ik verlang"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "naar uw heil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "en uw Tora"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "mijn verrukking"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:50.512021050Z",
+  "model": "glm-5.3"
+}

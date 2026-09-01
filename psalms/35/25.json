@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Laat hen niet zeggen in hun hart: Aha, onze ⟨nefesh⟩! Laat hen niet zeggen: Wij hebben hem verslonden!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "hen zeggen"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "in hun hart"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "onze nefesh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "hen zeggen"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "wij hebben hem verslonden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:31.517416638Z",
+  "model": "glm-5.3"
+}

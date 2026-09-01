@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 64,
+  "translation": "Zij speuren naar onrecht; ⟨zij zeggen:⟩ 'Wij hebben ⟨de⟩ zoektocht volbracht, een uitgedokterde list'; ⟨ook⟩ het binnenste van een man en het hart ⟨is⟩ diep.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "speuren"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "onrecht"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "hebben volbracht"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "zoektocht"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "uitgedokterde list"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "en het binnenste"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van een man"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "en het hart"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "diep"
+    }
+  ],
+  "timestamp": "2026-08-31T23:46:04.342032990Z",
+  "model": "glm-5.3"
+}

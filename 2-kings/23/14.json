@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En hij brak ⟨את⟩ de zuilen stuk en hieuw ⟨את⟩ de Asjerim om, en vulde ⟨את⟩ hun plaats met mensenbeenderen.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "en hij brak stuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zuilen"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "de zuilen"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "en hij hieuw om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Asjerim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "de Asjerim"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "en hij vulde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun plaats"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "hun plaats"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "met beenderen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:14.972145278Z",
+  "model": "glm-5.3"
+}

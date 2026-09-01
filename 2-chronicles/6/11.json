@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En ik heb daar ⟨את⟩ de ark geplaatst, waarin ⟨is⟩ het verbond van Jahweh, dat hij met de kinderen van Israël gesneden heeft.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "en ik heb geplaatst"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "het verbond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "gesneden heeft"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:04:53.661573831Z",
+  "model": "glm-5.3"
+}

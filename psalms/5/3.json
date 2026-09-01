@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Sla ⟨de⟩ oren naar de stem van mijn geroep, mijn koning en mijn Elohim, want tot u bid ik.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "sla ⟨de⟩ oren"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "van mijn geroep"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mijn koning"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "en mijn Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "bid ik"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:31.520635858Z",
+  "model": "glm-5.3"
+}

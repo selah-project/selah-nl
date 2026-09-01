@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En dit zijn de namen van de zonen van Aharon: de eerstgeborene Nadav, en Avihoe, Elazar en Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "de eerstgeborene"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "en Avihoe"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "en Itamar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:59.272678421Z",
+  "model": "glm-5.3"
+}

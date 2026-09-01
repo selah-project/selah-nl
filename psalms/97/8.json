@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 97,
+  "translation": "Tsion hoorde het en verheugde zich, en de dochters van Jehoeda juichten om uw rechtshandelingen, Jahweh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "hoorde"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "en verheugde zich"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "en juichten"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dochters"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "uw rechtshandelingen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:24.744651185Z",
+  "model": "glm-5.3"
+}

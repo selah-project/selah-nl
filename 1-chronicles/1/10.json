@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Koesj verwekte ⟨את⟩ Nimrod; hij was degene die begon een gibbor te worden op de aarde.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "En Koesj"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "החל",
+      "gloss": "begon"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "te worden"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "een gibbor (machtige)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:20.395480839Z",
+  "model": "glm-5.3"
+}

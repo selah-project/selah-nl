@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "En Joesef onderhield ⟨את⟩ zijn vader en ⟨את⟩ zijn broers en ⟨את⟩ het gehele huis van zijn vader met brood, naar de mond van de kinderen.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "en hij onderhield"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn broers"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het gehele huis van zijn vader"
+    },
+    {
+      "surface": "כל",
+      "gloss": "het gehele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van zijn vader"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "naar de mond van"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "de kinderen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:01.384977662Z",
+  "model": "glm-5.3"
+}

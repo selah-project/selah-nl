@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Mijn hart klopt hevig, mijn kracht heeft mij verlaten, en het licht van mijn ogen — ook dat is niet ⟨bij⟩ mij.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "klopt hevig"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "heeft mij verlaten"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mijn kracht"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "en het licht"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "van mijn ogen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is niet"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "bij mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:56.990358098Z",
+  "model": "glm-5.3"
+}

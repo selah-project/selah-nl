@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 129,
+  "translation": "Op mijn rug hebben ploegers geploegd, zij hebben hun voren lang gemaakt.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "mijn rug"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "hebben geploegd"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ploegers"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "zij hebben lang gemaakt"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "hun voren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:24.932572430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij zei: werp het op de aarde. En hij wierp het op de aarde, en het werd een slang, en Mosjee vluchtte voor zijn aangezicht.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "werp het"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "en hij wierp het"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het werd"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "een slang"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "en hij vluchtte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "voor zijn aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:09.039386072Z",
+  "model": "glm-5.3"
+}

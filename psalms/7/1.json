@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Een sjigajon van Dawid, dat hij zong voor Jahweh, over de woorden ⟨betreffende⟩ Koesj, een Jeminiti.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Een sjigajon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hij zong"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Koesj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon ⟨van⟩"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Jeminiti"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:54.371645574Z",
+  "model": "glm-5.3"
+}

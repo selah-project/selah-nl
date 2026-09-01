@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Mijn nefesj brengt Hij terug; Hij leidt mij in sporen van tsedek, omwille van Zijn naam.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "brengt Hij terug"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "leidt Hij mij"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "in sporen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "van tsedek (recht)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "omwille van"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Zijn naam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:52.418114984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 8:7",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Gideon zei: Daarom — wanneer Jahweh ⟨את⟩ Zebach en ⟨את⟩ Tsalmonna in mijn hand geeft, dan zal ik uw vlees vertrappen ⟨את⟩ met de dorens van de woestijn en ⟨את⟩ met de brandnetels.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … zei"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Daarom"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "wanneer … geeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebach"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "Zebach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Tsalmonna"
+    },
+    {
+      "surface": "צלמנע",
+      "gloss": "Tsalmonna"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "in mijn hand"
+    },
+    {
+      "surface": "ודשתי",
+      "gloss": "dan zal ik vertrappen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw vlees"
+    },
+    {
+      "surface": "בשרכם",
+      "gloss": "uw vlees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dorens van de woestijn"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "met de dorens"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "van de woestijn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de brandnetels"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "de brandnetels"
+    }
+  ],
+  "timestamp": "2026-08-31T20:37:13.661582132Z",
+  "model": "glm-5.3"
+}

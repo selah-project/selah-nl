@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Brood van abirim at ⟨de⟩ man; spijze zond Hij hun tot verzadiging.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "van machtigen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "at"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "man"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "spijze"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zond Hij"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "tot verzadiging"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:52.367964122Z",
+  "model": "glm-5.3"
+}

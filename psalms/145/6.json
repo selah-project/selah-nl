@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "En de kracht van uw ontzagwekkende daden zullen ⟨zij⟩ vertellen, en uw grootheid zal ik vertellen.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "en de kracht"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "van uw ontzagwekkende daden"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "zullen ⟨zij⟩ vertellen"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "en uw grootheid"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "zal ik vertellen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:10.196283842Z",
+  "model": "glm-5.3"
+}

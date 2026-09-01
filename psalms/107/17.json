@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Dwazen, door de weg van hun overtreding en door hun ongerechtigheden worden zij gekweld.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Dwazen"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "door de weg van"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "hun overtreding"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "en door hun ongerechtigheden"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "worden zij gekweld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:02.191995388Z",
+  "model": "glm-5.3"
+}

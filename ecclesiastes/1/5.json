@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de zon gaat op, en de zon gaat onder, en hij hijgt naar zijn plaats — hij die daar opgaat ⟨daar⟩.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "en de zon gaat op"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "en gaat onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en naar"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "zijn plaats"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "hijgt"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "opgaat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:55.734918218Z",
+  "model": "glm-5.3"
+}

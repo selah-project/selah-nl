@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En zij zagen ⟨את⟩ Elohim van Jisraël, en onder zijn voeten ⟨was⟩ als het werk van lapis lazuli (saffiersteen), en als het wezen van de hemelen voor zuiverheid.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "en zij zagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim van Jisraël"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "en onder"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "zijn voeten"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "als het werk"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "van lapis lazuli"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "de saffiersteen"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "en als het wezen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van de hemelen"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "voor zuiverheid"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:03.959350706Z",
+  "model": "glm-5.3"
+}

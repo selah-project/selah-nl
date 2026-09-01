@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "Mijn geloften aan Jahweh zal ik betalen — nu, in het bijzijn van heel zijn volk.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "mijn geloften"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "zal ik betalen"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "in het bijzijn van"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "van heel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:13.901961521Z",
+  "model": "glm-5.3"
+}

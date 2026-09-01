@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En daarna las hij ⟨את⟩ alle woorden van de thorah voor, de zegen en de vloek, overeenkomstig alles wat geschreven staat in het boek van de thorah.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "las hij voor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle woorden van de thorah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "woorden van"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "de thorah"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "de zegen"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "en de vloek"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "overeenkomstig alles"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "wat geschreven staat"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in het boek van"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "de thorah"
+    }
+  ],
+  "timestamp": "2026-08-31T20:30:22.172514859Z",
+  "model": "glm-5.3"
+}

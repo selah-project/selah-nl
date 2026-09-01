@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 4:11",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Churam maakte ⟨את⟩ de ketels en ⟨את⟩ de scheppen en ⟨את⟩ de offerschalen; en Chiram voltooide het werk dat hij maakte voor koning Sjelomo ⟨in⟩ het huis van Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Churam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ketels"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "de ketels"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de scheppen"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "de scheppen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de offerschalen"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "de offerschalen"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "en hij voltooide"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te maken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het werk"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "het werk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hij maakte"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "voor koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨in⟩ het huis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:04:41.295634068Z",
+  "model": "glm-5.3"
+}

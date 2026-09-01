@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En hij bracht ⟨את⟩ de heilige gaven van zijn vader en zijn eigen heilige gaven in het huis van Elohim: zilver en goud en voorwerpen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "En hij bracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de heilige gaven van zijn vader"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "de heilige gaven"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van zijn vader"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "en zijn eigen heilige gaven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "en voorwerpen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:07:10.666721121Z",
+  "model": "glm-5.3"
+}

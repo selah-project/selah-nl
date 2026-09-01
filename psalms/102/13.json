@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Maar u, Jahweh, zit ⟨als⟩ troon voor eeuwig, en uw gedenknaam voor geslacht en geslacht.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Maar u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "zit ⟨als⟩ troon"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "en uw gedenknaam"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "voor geslacht"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en geslacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:49.213368514Z",
+  "model": "glm-5.3"
+}

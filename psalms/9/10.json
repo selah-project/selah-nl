@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Jahweh ⟨zal⟩ een hoog toevluchtsoord zijn voor de verdrukte, een hoog toevluchtsoord voor tijden van benauwdheid.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en hij zal zijn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "hoog toevluchtsoord"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "voor de verdrukte"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "hoog toevluchtsoord"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "voor tijden"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "van benauwdheid"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:34.287233281Z",
+  "model": "glm-5.3"
+}

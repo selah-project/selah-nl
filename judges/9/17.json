@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "omdat mijn vader voor jullie streed en ⟨את⟩ zijn nefesj (leven) wierp in het gevaar, en jullie redde uit de hand van Midjan —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "streed"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "en wierp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn nefesj (zijn leven)"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zijn nefesj"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "in het gevaar"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "en redde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "van Midjan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:38:06.214743387Z",
+  "model": "glm-5.3"
+}

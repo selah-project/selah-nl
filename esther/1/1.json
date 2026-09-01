@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En het gebeurde in de dagen van Achashverosh — hij is die Achashverosh die regeerde van Hodu tot Koesj, over zeven en twintig en honderd ⟨127⟩ landsdelen —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in de dagen van"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij is"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die regeerde als koning"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "van Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Koesj"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "en honderd"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "landsdelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:04.259387405Z",
+  "model": "glm-5.3"
+}

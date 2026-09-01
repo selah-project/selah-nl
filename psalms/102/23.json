@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "wanneer volken samengebracht worden, tezamen, en koninkrijken, om ⟨את⟩ Jahweh te dienen.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "wanneer samengebracht worden"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tezamen"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "en koninkrijken"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "om te dienen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:40.449542111Z",
+  "model": "glm-5.3"
+}

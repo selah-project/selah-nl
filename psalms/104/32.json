@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Die op de aarde ziet en zij beeft, de bergen aanraakt en zij roken.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "die ziet"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "en zij beeft"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "aanraakt"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "en zij rooken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:26.322257879Z",
+  "model": "glm-5.3"
+}

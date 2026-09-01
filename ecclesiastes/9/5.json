@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Want de levenden weten dat zij zullen sterven, maar de doden weten niets meer; er is voor hen geen loon meer, want hun gedachtenis ⟨is⟩ vergeten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levenden"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "weten"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "dat zij zullen sterven"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "maar de doden"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "⟨weten⟩ niet"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "weten"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "niets"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "er is niet"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "loon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "vergeten"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "hun gedachtenis"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:45.160438131Z",
+  "model": "glm-5.3"
+}

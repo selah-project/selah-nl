@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Ik heb gezegd tot Jahweh: Adonai, U bent ⟨is⟩; mijn goed — ⟨stijgt⟩ niet op boven ⟨tot⟩ U.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "ik heb gezegd"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tot Jahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "mijn goed"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "boven U"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:04.145937749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Een leugenwoord haat de rechtvaardige, maar de slechte doet stinken en ⟨komt⟩ tot schande.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leugen-"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "haat"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de rechtvaardige"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "maar de slechte"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "doet stinken"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "en ⟨komt⟩ tot schande"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:23.358334418Z",
+  "model": "glm-5.3"
+}

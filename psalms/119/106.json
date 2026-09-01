@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik heb gezworen en ik heb het bevestigd: ⟨dat⟩ ik uw rechtvaardige verordeningen zal bewaren.",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "ik heb gezworen"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "en ik heb het bevestigd"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te bewaren"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "verordeningen"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "van uw rechtvaardigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:08.267030401Z",
+  "model": "glm-5.3"
+}

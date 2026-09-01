@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 20:12",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Al is kwaad zoet in zijn mond, hij verbergt het onder zijn tong;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "al"
+    },
+    {
+      "surface": "תמתיק",
+      "gloss": "is zoet"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "in zijn mond"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "יכחידנה",
+      "gloss": "verbergt het"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "zijn tong"
+    }
+  ],
+  "timestamp": "2026-08-31T22:34:14.361949135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En ⟨את⟩ de vuurpannen en ⟨את⟩ de schalen — wat goud was, als goud, en wat zilver was, als zilver — nam de overste van de beulen weg.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de vuurpannen"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "de vuurpannen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de schalen"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "de schalen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "als goud"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "als zilver"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nam weg"
+    },
+    {
+      "surface": "רב",
+      "gloss": "overste"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "van de beulen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:50.412798720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Adonai, open mijn lippen, en mijn mond zal uw lof verkondigen.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mijn lippen"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "open"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "en mijn mond"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "zal verkondigen"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "uw lof"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:29.731000657Z",
+  "model": "glm-5.3"
+}

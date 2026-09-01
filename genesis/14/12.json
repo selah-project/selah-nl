@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En zij namen ⟨את⟩ Lot en ⟨את⟩ zijn have, de zoon van de broer van Avram — en hij woonde in Sedom — en gingen heen.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "en zij namen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn have"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "zijn have"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "van de broer"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "van Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en gingen heen"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "woonde"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "in Sedom"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:28.619863627Z",
+  "model": "glm-5.3"
+}

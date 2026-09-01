@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "Van Sjlomo. Elohim, geef uw rechtingen aan de koning, en uw tsedaqa aan de zoon van de koning.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Van Sjlomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "uw rechtingen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan de koning"
+    },
+    {
+      "surface": "תן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "en uw tsedaqa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "aan de zoon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:58.880051771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Voor de koorleider, bij snarenspel. Een masjkil van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "bij snarenspel"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "een masjkil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:03.606960327Z",
+  "model": "glm-5.3"
+}

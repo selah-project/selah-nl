@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Arnan keerde zich om en zag ⟨את⟩ de mal'ach, en zijn vier zonen bij hem verborgen zich; en Arnan dorste tarwe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en hij keerde zich om"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mal'ach"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "de mal'ach"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "en zijn vier"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "verborgen zich"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "en Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "dorste"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "tarwe"
+    }
+  ],
+  "timestamp": "2026-08-31T23:02:07.889828344Z",
+  "model": "glm-5.3"
+}

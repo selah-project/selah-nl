@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En ⟨את⟩ de huizen van Jeroesjalajim hebben jullie geteld, en jullie braken de huizen af om de muur te versterken.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de huizen"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "huizen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jeroesjalajim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "hebben jullie geteld"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "en jullie braken af"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "de huizen"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "om te versterken"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "de muur"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:24.158863867Z",
+  "model": "glm-5.3"
+}

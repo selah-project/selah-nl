@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 98,
+  "translation": "Een mizmor. Zing voor Jahweh een nieuw lied, want wonderen heeft Hij gedaan; verlossing heeft bezorgd ⟨voor⟩ Hem Zijn rechterhand en Zijn heilige arm.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "zing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nieuw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "wonderen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "heeft Hij gedaan"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "heeft verlossing bezorgd"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor Hem"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "Zijn rechterhand"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "en Zijn arm"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Zijn heilige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:06.980369071Z",
+  "model": "glm-5.3"
+}

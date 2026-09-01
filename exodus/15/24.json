@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En het volk morde tegen Mosjee en zei: Wat zullen wij drinken?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "en het morde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "zullen wij drinken"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:36.967478275Z",
+  "model": "glm-5.3"
+}

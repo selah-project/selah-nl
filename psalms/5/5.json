@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Want geen El die behagen heeft in onrecht bent U; kwaad zal bij U niet verkeren.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behagen heeft"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "in onrecht"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bent U"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "zal bij U verkeren"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:24.223421486Z",
+  "model": "glm-5.3"
+}

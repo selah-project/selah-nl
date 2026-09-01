@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En Ik zal mijn verblijf in jullie midden geven, en mijn nefesj zal geen afkeer van jullie hebben ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "En Ik zal geven"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "mijn verblijf"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "in jullie midden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "zal afkeer hebben"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:03.173211532Z",
+  "model": "glm-5.3"
+}

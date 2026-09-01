@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 5:17",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Jij kent ⟨את⟩ Dawid, mijn vader: hij kon geen huis bouwen voor de naam van Jahweh, zijn Elohim, vanwege de oorlog die hem omringde, totdat Jahweh hen ⟨את⟩ onder de zolen van zijn voeten gaf.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "bouwen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "een huis"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "voor de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "zijn Elohim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "de oorlog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "סבבהו",
+      "gloss": "hem omringde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "תת",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen (de vijanden)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "de zolen"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "van zijn voeten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:43.226645068Z",
+  "model": "glm-5.3"
+}

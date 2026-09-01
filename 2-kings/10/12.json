@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En hij stond op en ging en trok naar Sjomron — hij ⟨was⟩ bij Beit-Eked, het schaapscheerhuis, onderweg.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "En hij stond op"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en ging"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en trok"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "naar Sjomron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "van de herders"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "onderweg"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:31.767073073Z",
+  "model": "glm-5.3"
+}

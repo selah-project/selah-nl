@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "Zaken van ongerechtigheid waren sterker dan ik; onze overtredingen — u zult ze bedekken ⟨verzoenen⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Zaken"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "van ongerechtigheid"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "waren sterker"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dan ik"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "onze overtredingen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "zult u bedekken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:03.808108243Z",
+  "model": "glm-5.3"
+}

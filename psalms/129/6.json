@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 129,
+  "translation": "Mogen zij zijn als gras op de daken, waarvan ⟨het⟩ verdort voordat men het trekt.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mogen zij zijn"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "als gras"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "op de daken"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "dat voordat"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "men het trekt"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "verdort"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:33.039647769Z",
+  "model": "glm-5.3"
+}

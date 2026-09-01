@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Niet voor koningen, Lemoeel, niet voor koningen ⟨is het⟩ wijn te drinken, en voor vorsten ⟨is het niet⟩ sterke drank ⟨die zij begeren⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "voor koningen"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemoeel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "voor koningen"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "te drinken"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wijn"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "en voor vorsten"
+    },
+    {
+      "surface": "או",
+      "gloss": "⟨die zij begeren⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sterke drank"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:33.218380258Z",
+  "model": "glm-5.3"
+}

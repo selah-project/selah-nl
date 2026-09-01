@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "Geval, en Ammon, en Amalek, Pelesjet met de bewoners van Tsor.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Geval"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "en Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "en Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesjet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "de bewoners van"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsor"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:34.405009179Z",
+  "model": "glm-5.3"
+}

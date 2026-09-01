@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 79,
+  "translation": "Wij zijn een smaad geworden voor onze naasten, een spot en een bespotting voor hen die rondom ons ⟨zijn⟩.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Wij zijn geworden"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "een smaad"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "voor onze naasten"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "een spot"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "en een bespotting"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "voor hen die rondom ons zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:44.512499018Z",
+  "model": "glm-5.3"
+}

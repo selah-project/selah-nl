@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 124,
+  "translation": "Gezegend zij Jahweh, die ons niet als prooi gegeven heeft aan hun tanden.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "gezegend"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "ons gegeven heeft"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "als prooi"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "aan hun tanden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:47.471818017Z",
+  "model": "glm-5.3"
+}

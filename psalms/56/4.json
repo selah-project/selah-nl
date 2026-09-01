@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 56,
+  "translation": "De dag dat ik vrees — ik, op U vertrouw ik.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "De dag"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "dat ik vrees"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "vertrouw ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:52.235729573Z",
+  "model": "glm-5.3"
+}

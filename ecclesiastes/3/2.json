@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Een tijd om geboren te worden, en een tijd om te sterven; een tijd om te planten, en een tijd om het geplante uit te trekken.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "om geboren te worden"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "למות",
+      "gloss": "om te sterven"
+    },
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "om te planten"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "om uit te trekken"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "het geplante"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:41.447619065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Want zo heeft Jahweh gesproken tot het huis van Jisraël: zoekt Mij, en leeft.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gesproken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "tot het huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "zoekt Mij"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "en leeft"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:08.142259041Z",
+  "model": "glm-5.3"
+}

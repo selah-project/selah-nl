@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En weet dat Jahweh zich de chasid heeft afgezonderd; Jahweh zal horen wanneer ik tot Hem roep.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "en weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "heeft afgezonderd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "de chasid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "zal horen"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "wanneer ik roep"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot Hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:55.772088285Z",
+  "model": "glm-5.3"
+}

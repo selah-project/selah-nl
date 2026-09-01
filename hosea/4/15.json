@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 4:15",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Al hoereer jij, Israël — laat Jehoeda niet schuldig worden; en komt niet naar de Gilgal, en trekt niet op naar Beth-Aven, en zweert niet: zo waar Jahweh leeft!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "al"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "hoereer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "schuldig worden"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en komt niet"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "de Gilgal"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en trekt niet"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "op"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en zweert niet"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "zweert"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:34.405997239Z",
+  "model": "glm-5.3"
+}

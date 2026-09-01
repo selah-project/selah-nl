@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Je zult niet ploegen met een os en met een ezel samen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "zul je ploegen"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "met een os"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "en met een ezel"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "samen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:47.670792238Z",
+  "model": "glm-5.3"
+}

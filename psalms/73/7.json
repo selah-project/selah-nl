@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Uit het vet gaat hun oog ⟨uit⟩; de voortbrengselen van het hart gaan ⟨hun grens⟩ over.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "gaat uit"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "uit het vet"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "hun oog"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gaan over"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "de voortbrengselen"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "van het hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:12.496799480Z",
+  "model": "glm-5.3"
+}

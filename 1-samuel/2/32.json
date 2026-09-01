@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En jij zult ⟨een⟩ tegenstander aanschouwen ⟨in⟩ mijn woning, bij al het goede dat hij ⟨את⟩ Israël zal doen; en er zal geen oude ⟨man⟩ in je huis zijn, alle dagen.",
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "en jij zult aanschouwen"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tegenstander"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "mijn woning"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bij al"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "het goede dat"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "hij zal doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal er zijn"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "een oude (man)"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in je huis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:07.034240253Z",
+  "model": "glm-5.3"
+}

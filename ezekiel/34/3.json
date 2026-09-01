@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "⟨את⟩ het vet eten jullie, en ⟨את⟩ de wol kleden jullie je mee; het gemeste slachten jullie ⟨את⟩ de kudde; ⟨de kudde⟩ weiden jullie niet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het vet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "het vet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "eten jullie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de wol"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "de wol"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "kleden jullie je mee"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "het gemeste"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "slachten jullie"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "de kudde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "weiden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:49:57.113177813Z",
+  "model": "glm-5.3"
+}

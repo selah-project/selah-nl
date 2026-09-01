@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En zij namen hem en wierpen ⟨את⟩ hem in de put — en de put was leeg, geen water was erin.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "en zij namen hem"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "en zij wierpen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "in de put"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "en de put"
+    },
+    {
+      "surface": "רק",
+      "gloss": "was leeg"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "erin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:45.857188903Z",
+  "model": "glm-5.3"
+}

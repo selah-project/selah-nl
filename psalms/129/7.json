@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 129,
+  "translation": "⟨Gras⟩ waarmee de maaiers hand niet vult, noch de garvenbinder zijn ⟨schoot⟩.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "waarmee niet"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vult"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "de maaiers"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "noch zijn schoot"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "de garvenbinder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:33.039825810Z",
+  "model": "glm-5.3"
+}

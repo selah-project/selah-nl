@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Mosjee willigde ⟨om⟩ ⟨את⟩ bij de man te blijven wonen, en hij gaf ⟨את⟩ Tsippora, zijn dochter, aan Mosjee ⟨tot vrouw⟩.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "en willigde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "om te blijven wonen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bij",
+      "marks": "de man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hij gaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsippora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsippora"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "zijn dochter"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "aan Mosjee"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:38.897862609Z",
+  "model": "glm-5.3"
+}

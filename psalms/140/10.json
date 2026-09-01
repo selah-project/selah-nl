@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 140,
+  "translation": "⟨Het⟩ hoofd van wie mij omringen — het onheil van hun lippen bedekke hen.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "hoofd"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "van wie mij omringen"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "het onheil"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "van hun lippen"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "bedekke hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:25.594418400Z",
+  "model": "glm-5.3"
+}

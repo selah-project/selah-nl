@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Zie, Ik heb ⟨את⟩ jouw gezicht sterk gemaakt tegenover hun gezichten, en ⟨את⟩ jouw voorhoofd sterk tegenover hun voorhoofd.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ik heb gegeven\/ gemaakt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw gezicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "jouw gezicht"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "hun gezichten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "jouw voorhoofd"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "jouw voorhoofd"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "hun voorhoofd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:42:23.797492821Z",
+  "model": "glm-5.3"
+}

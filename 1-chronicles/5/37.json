@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Azarjah verwekte ⟨את⟩ Amarjah, en Amarjah verwekte ⟨את⟩ Achituv.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "en verwekte"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "en Amarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achituv"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:56.866775018Z",
+  "model": "glm-5.3"
+}

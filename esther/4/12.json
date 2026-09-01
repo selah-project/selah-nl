@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En zij vertelden aan Mordechai ⟨את⟩ de woorden van Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "en zij vertelden"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "aan Mordechai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de woorden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "van Ester"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:28.958449017Z",
+  "model": "glm-5.3"
+}

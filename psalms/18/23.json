@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Want al zijn verordeningen ⟨liegen⟩ vóór mij, en zijn chukkim heb ik niet van mij afgekeerd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "zijn verordeningen"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "vóór mij"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "en zijn chukkim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "heb ik afgekeerd"
+    },
+    {
+      "surface": "מני",
+      "gloss": "van mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:01.748967652Z",
+  "model": "glm-5.3"
+}

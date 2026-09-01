@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Par'o zei: Ik zal jullie ⟨את⟩ wegzenden, en jullie zullen slachten voor Jahweh, jullie Elohim, in de woestijn; alleen — verwijderd, verwijdert niet ver ⟨om⟩ te gaan; smeekt voor mij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "zal ik wegzenden"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "en jullie zullen slachten"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "רק",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "verwijderd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "verwijdert ver"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "smeekt"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "voor mij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:18.265774892Z",
+  "model": "glm-5.3"
+}

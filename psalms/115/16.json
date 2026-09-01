@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 115,
+  "translation": "De hemel, de hemelen ⟨zijn⟩ van Jahweh, maar de aarde heeft Hij gegeven aan de mensenkinderen.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "maar de aarde"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "heeft Hij gegeven"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan de … kinderen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "… van de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:04.515535500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Hij heeft mij neergedrukt op de weg — ⟨mijn⟩ kracht; hij heeft mijn dagen verkort.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "hij heeft neergedrukt"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "zijn kracht"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "hij heeft verkort"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mijn dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:40.449695217Z",
+  "model": "glm-5.3"
+}

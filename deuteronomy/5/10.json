@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "en die chesed (trouwgoedertierenheid) doet aan duizenden ⟨geslachten⟩, aan wie mij liefhebben en mijn geboden bewaren.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "en doet"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "aan duizenden"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "aan wie mij liefhebben"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "en aan die bewaren"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "zijn geboden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:52.604966482Z",
+  "model": "glm-5.3"
+}

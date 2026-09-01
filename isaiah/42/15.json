@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Ik maak bergen en heuvels tot woestijn, en al hun gewas verdort; Ik zet rivieren om tot eilanden en meren laat Ik opdrogen.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "Ik maak tot woestijn"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bergen"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "en heuvels"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "hun gewas"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "verdorrt"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "en Ik zet om"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rivieren"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "tot eilanden"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "en meren"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "laat Ik opdrogen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:21.572240131Z",
+  "model": "glm-5.3"
+}

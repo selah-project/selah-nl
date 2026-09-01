@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Het gebeurde in het derde jaar van Hosjeea, zoon van Ela, koning van Israël, dat Chizkia, zoon van Achaz, koning van Jehoeda, koning werd.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "het gebeurde"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "in het jaar"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "derde"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "van Hosjeea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "werd koning"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:43.163718410Z",
+  "model": "glm-5.3"
+}

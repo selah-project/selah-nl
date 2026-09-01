@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 111,
+  "translation": "De werken van zijn handen ⟨zijn⟩ waarachtig en recht; al zijn verordeningen ⟨zijn⟩ betrouwbaar.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "de werken"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "van zijn handen"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waarachtig"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en recht"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "betrouwbaar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "zijn verordeningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:31.086466561Z",
+  "model": "glm-5.3"
+}

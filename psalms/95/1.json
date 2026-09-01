@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 95,
+  "translation": "Komt, laten wij juichen voor Jahweh, laten wij jubelen ⟨voor⟩ de Rots van ons heil.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "komt"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "laten wij juichen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "laten wij jubelen"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "⟨voor⟩ de Rots"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "van ons heil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:16.009778503Z",
+  "model": "glm-5.3"
+}

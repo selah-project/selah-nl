@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Hij zit in de hinderlaag van de dorpen, in de verborgenheden doodt hij de onschuldige; zijn ogen loeren naar de weerloze, hij spant ⟨ze⟩ in het verborgene.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Hij zit"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "in de hinderlaag"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "van de dorpen"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "in de verborgenheden"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "doodt hij"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "de onschuldige"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "zijn ogen"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "naar de weerloze"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "spant hij in het verborgene"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:15.267789131Z",
+  "model": "glm-5.3"
+}

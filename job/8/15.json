@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Hij leunt op zijn huis, maar het houdt geen stand; hij grijpt het vast, maar het richt zich niet op.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "hij leunt"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "houdt stand"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "hij grijpt vast"
+    },
+    {
+      "surface": "בו",
+      "gloss": "het"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "richt zich op"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:26.214263269Z",
+  "model": "glm-5.3"
+}

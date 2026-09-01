@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En ik zei: Waar ga jij heen? En hij zei tot mij: Om Jeroesjalajim te meten, ⟨את⟩ Jeroesjalajim, om te zien hoe breed zij ⟨is⟩ en hoe lang zij ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ik zei"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "למד",
+      "gloss": "om te meten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeroesjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te zien"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "breed zij is"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "en hoe"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "lang zij is"
+    }
+  ],
+  "timestamp": "2026-08-31T22:03:07.036934539Z",
+  "model": "glm-5.3"
+}

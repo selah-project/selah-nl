@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En hij zei tot hen: Kent u ⟨את⟩ Lavan, de zoon van Nachor? En zij zeiden: Wij kennen ⟨hem⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "kent u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "wij kennen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:41.384097168Z",
+  "model": "glm-5.3"
+}

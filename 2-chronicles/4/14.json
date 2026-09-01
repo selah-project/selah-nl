@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En ⟨את⟩ de voetstukken maakte hij, en ⟨את⟩ de wasbekkens maakte hij, op de voetstukken.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de voetstukken"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "de voetstukken"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maakte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de wasbekkens"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "de wasbekkens"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maakte"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "de voetstukken"
+    }
+  ],
+  "timestamp": "2026-08-31T23:29:05.303755057Z",
+  "model": "glm-5.3"
+}

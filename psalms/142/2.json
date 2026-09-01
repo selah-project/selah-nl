@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 142,
+  "translation": "Mijn stem ⟨tot⟩ Jahweh roep ik, mijn stem ⟨tot⟩ Jahweh smeek ik om genade.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "mijn stem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨tot⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "roep ik"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mijn stem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨tot⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "smreek ik om genade"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:23.573521655Z",
+  "model": "glm-5.3"
+}

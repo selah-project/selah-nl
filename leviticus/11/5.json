@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En ⟨את⟩ de klipdassie, omdat hij ⟨de⟩ herkauwing ⟨op⟩⟨brengt⟩ maar ⟨de⟩ hoef niet splijt — onrein is hij voor jullie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de klipdassie"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "de klipdassie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "opbrengt"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "herkauwing"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "maar de hoef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "splijt"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:12.722976751Z",
+  "model": "glm-5.3"
+}

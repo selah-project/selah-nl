@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En bij het bijeenroepen van ⟨את⟩ de vergadering: jullie steken aan, maar jullie doen geen teroe'a.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "en bij het bijeenroepen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vergadering"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "jullie steken aan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "doen jullie teroe'a"
+    }
+  ],
+  "timestamp": "2026-08-31T20:11:45.872435028Z",
+  "model": "glm-5.3"
+}

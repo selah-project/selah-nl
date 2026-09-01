@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Jahweh, hoe zijn mijn tegenstanders talrijk geworden! Velen staan op tegen mij.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "zijn talrijk geworden"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mijn tegenstanders"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "velen"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "staan op"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:38.780867734Z",
+  "model": "glm-5.3"
+}

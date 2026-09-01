@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "⟨Aan hem⟩ die zijn volk deed rondtrekken door de woestijn, ja voor eeuwig ⟨duurt⟩ zijn chesed (trouw-liefde).",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "die deed rondtrekken"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "door de woestijn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:15.144438708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En ⟨את⟩ het varken, omdat het de hoef splijt — en ⟨de⟩ kloof van ⟨de⟩ hoef door ⟨de⟩ spleet snijdt — maar herkauwing niet opbrengt: onrein is het voor jullie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het varken"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "het varken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "splijt"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "de hoef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "en de kloof"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "door de spleet"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "van de hoef"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "maar het"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "herkauwing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "opbrengt"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:12.727299716Z",
+  "model": "glm-5.3"
+}

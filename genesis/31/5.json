@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En hij zei tot hen: ik zie ⟨את⟩ het aangezicht van jullie vader, dat het niet naar mij is als gisteren en eergisteren, maar de Elohim van mijn vader is ⟨geweest⟩ met mij.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "להן",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ik zie"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het aangezicht van jullie vader"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "van jullie vader"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "het is niet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naar mij"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "als gisteren"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "en eergisteren"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "en de Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "van mijn vader"
+    },
+    {
+      "surface": "היה",
+      "gloss": "is geweest"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "met mij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:52.131193901Z",
+  "model": "glm-5.3"
+}

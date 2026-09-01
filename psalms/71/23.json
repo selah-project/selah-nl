@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Mijn lippen zullen jubelen, want ik pszing voor U, ook mijn nefesj, die Gij verlost hebt.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "zullen jubelen"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mijn lippen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אזמrer",
+      "gloss": "ik pszing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor U"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "en mijn nefesj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "Gij verlost hebt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:27.674798536Z",
+  "model": "glm-5.3"
+}

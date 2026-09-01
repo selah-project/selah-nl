@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Onderwijs mij, Jahweh, in uw weg, en leid mij op een effen pad, om ⟨wil van⟩ mijn tegenstanders.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "onderwijs mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "in uw weg"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "en leid mij"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "op een pad"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "effen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "mijn tegenstanders"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:39.556101965Z",
+  "model": "glm-5.3"
+}

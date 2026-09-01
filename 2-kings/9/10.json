@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En ⟨את⟩ Izevel zullen de honden verslinden in het stuk ⟨van⟩ Jizreël, en er is geen ⟨die⟩ begraaft. En hij opende de deur en vluchtte.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zullen verslinden"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "de honden"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "in het stuk"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreël"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is geen"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "⟨die⟩ begraaft"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "en hij opende"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "de deur"
+    },
+    {
+      "surface": "ובנס",
+      "gloss": "",
+      "": ""
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:31.549393420Z",
+  "model": "glm-5.3"
+}

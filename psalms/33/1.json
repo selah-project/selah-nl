@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Jubelt, rechtvaardigen, in Jahweh; voor de oprechten past een lofzang.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "Jubelt"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rechtvaardigen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "voor de oprechten"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "past"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "een lofzang"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:31.154686345Z",
+  "model": "glm-5.3"
+}

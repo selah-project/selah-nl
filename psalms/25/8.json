@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Goed en recht is Jahweh; daarom onderwijst hij zondaars in de weg.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Goed"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "en recht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "daar⟨om⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨om⟩"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "onderwijst hij"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "zondaars"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in de weg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:10.942897997Z",
+  "model": "glm-5.3"
+}

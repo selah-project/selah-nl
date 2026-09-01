@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En ik zelf zal ⟨את⟩ het land verwoesten, en jullie vijanden die erin wonen zullen erover verbijsterd zijn.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "en ik zal verwoesten"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik zelf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "en zullen verbijsterd zijn"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "erover"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "jullie vijanden"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "die wonen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "erin"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:34.904072617Z",
+  "model": "glm-5.3"
+}

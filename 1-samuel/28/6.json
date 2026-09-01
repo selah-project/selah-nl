@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En Sjaoel vroeg ⟨het aan⟩ Jahweh, maar Jahweh antwoordde hem niet, noch door dromen, noch door de Urim, noch door profeten.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "en hij vroeg"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "antwoordde hem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "noch"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "door dromen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "noch"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "door de Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "noch"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "door profeten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:32.485632336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En heilig ⟨את⟩ mijn sabbatten, en ze zullen tot een teken zijn tussen mij en tussen u, om te weten dat ik, Jahweh, uw Elohim ben.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mijn sabbatten"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "mijn sabbatten"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "en ze zullen zijn"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "tot een teken"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen mij"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "en tussen u"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "om te weten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uw Elohim ben"
+    }
+  ],
+  "timestamp": "2026-08-31T21:46:01.710192092Z",
+  "model": "glm-5.3"
+}

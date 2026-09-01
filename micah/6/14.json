@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Jij zult eten maar niet verzadigd worden, en je zwakte ⟨zal⟩ in je binnenste ⟨zijn⟩; je zult wegdragen maar niet redden, en wat je redt geef ik aan het zwaard.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "zult eten"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "verzadigd worden"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "en je zwakte"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "in je binnenste"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "je zult wegdragen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "redden"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "je redt"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "aan het zwaard"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "geef ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:33.561917858Z",
+  "model": "glm-5.3"
+}

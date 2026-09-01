@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En ook voor de Leviëten: er is ⟨niets⟩ meer te dragen — ⟨את⟩ de woning en ⟨את⟩ al zijn gerei voor zijn dienst.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "En ook"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "voor de Leviëten"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is niet"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "te dragen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de woning"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "de woning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al zijn gerei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zijn gerei"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "voor zijn dienst"
+    }
+  ],
+  "timestamp": "2026-08-31T23:02:46.649671256Z",
+  "model": "glm-5.3"
+}

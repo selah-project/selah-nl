@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En hij zei tot Jehosjafat: Zult u meegaan ⟨את⟩ mij ten oorlog, Ramot-Gil'ad? En Jehosjafat zei tot de koning van Israël: Zoals ik, zo u; zoals mijn volk, zo uw volk; zoals mijn paarden, zo uw paarden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "zult u gaan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ten oorlog"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "zoals ik"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "zo u"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "zoals mijn volk"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "zo uw volk"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "zoals mijn paarden"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "zo uw paarden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:05:33.966220361Z",
+  "model": "glm-5.3"
+}

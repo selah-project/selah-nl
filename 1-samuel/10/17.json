@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Sjemooël riep ⟨את⟩ het volk samen tot Jahweh in de Mitspa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "en riep samen"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemooël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "in de Mitspa"
+    }
+  ],
+  "timestamp": "2026-08-31T23:19:21.038285864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Hij kloofde de zee en liet hen door gaan; en hij deed het water staan als een hoop.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "Hij kloofde"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "en liet hen doorgaan"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "en deed staan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "als"
+    },
+    {
+      "surface": "נד",
+      "gloss": "een hoop"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:50.999656271Z",
+  "model": "glm-5.3"
+}

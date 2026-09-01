@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En koning David was oud, gekomen in ⟨de⟩ dagen, en men bedekte hem met kleden, maar hij werd niet warm.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "En koning"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "was oud"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekomen"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in dagen"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "en men bedekte hem"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "met kleden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "werd warm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:29.448241628Z",
+  "model": "glm-5.3"
+}

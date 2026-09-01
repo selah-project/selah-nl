@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Zie, ik heb vandaag voor je gezicht ⟨את⟩ het leven gezet en ⟨את⟩ het goede, en ⟨את⟩ de dood en ⟨את⟩ het kwade.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ik heb gezet"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor je gezicht"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandaag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het leven"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "het leven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het goede"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de dood"
+    },
+    {
+      "surface": "המות",
+      "gloss": "de dood"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het kwade"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "het kwade"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:26.060880682Z",
+  "model": "glm-5.3"
+}

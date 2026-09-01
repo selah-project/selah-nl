@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Want in de dood is geen gedenken van u; in de Sjeool, wie looft u ⟨daar⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is geen"
+    },
+    {
+      "surface": "במות",
+      "gloss": "in de dood"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "gedenken van u"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "in de Sjeool"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "looft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:25.172847759Z",
+  "model": "glm-5.3"
+}

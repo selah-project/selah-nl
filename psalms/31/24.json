@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Hebt Jahweh lief, al Zijn chassidim (trouwenen); getrouwen bewaart Jahweh, en overvloedig vergeldt Hij wie hoogmoed handelt.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Hebt lief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "Zijn chassidim"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "getrouwen"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "bewaart"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "en vergeldt Hij"
+    },
+    {
+      "surface": "על",
+      "gloss": "overvloedig (over)"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "overvloedig"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wie handelt"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "hoogmoed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:06.378447623Z",
+  "model": "glm-5.3"
+}

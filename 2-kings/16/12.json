@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En de koning kwam uit Damasjek, en de koning zag ⟨את⟩ het altaar, en de koning naderde het altaar en offerde daarop.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en kwam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "uit Damasjek"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het altaar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "en naderde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en offerde"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:09.605647431Z",
+  "model": "glm-5.3"
+}

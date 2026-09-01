@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "Komt, ziet de werken van Jahweh, die verwoestingen gesteld heeft op de aarde.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Komt"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ziet"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "de werken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gesteld heeft"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "verwoestingen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:59.084854856Z",
+  "model": "glm-5.3"
+}

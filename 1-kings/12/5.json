@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En hij zei tot hen: Ga nog drie dagen en keer tot mij terug; en het volk ging heen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "en keer terug"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en ging heen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:58.251377816Z",
+  "model": "glm-5.3"
+}

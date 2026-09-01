@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Want hij heeft haar gegrondvest op de zeeën, en op de rivieren haar vastgesteld.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de zeeën"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "heeft haar gegrondvest"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "de rivieren"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "haar vastgesteld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:17.371328745Z",
+  "model": "glm-5.3"
+}

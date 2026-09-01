@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 75,
+  "translation": "Smeltende aarde en al haar bewoners — ik heb haar pilaren gestut. Sela.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Smeltende"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "haar bewoners"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "heb ik gestut"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "haar pilaren"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:41.761537896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "volgens de wet — wat te doen met koningin Wasjti, omdat zij ⟨את⟩ het bevel van de koning Achasjverosj niet heeft gedaan door de hand van de hovelingen?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "volgens de wet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "te doen"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "met de koningin"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Wasjti"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "heeft gedaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bevel"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "het bevel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achasjverosj"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand van"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "de hovelingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:02.912675358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 50:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Zo zegt Jahweh: waar is de scheidbrief van uw moeder, die ik heb weggezonden? Of wie van mijn schuldeisers is het, aan wie ik jullie ⟨את⟩ heb verkocht? Zie, om uw ongerechtigheden zijt gij verkocht, en om uw overtredingen is uw moeder weggezonden.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אי",
+      "gloss": "waar"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨is⟩ dit"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "scheidbrief"
+    },
+    {
+      "surface": "כריתות",
+      "gloss": "van scheiding"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "van uw moeder"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שלחתיה",
+      "gloss": "ik haar weggezonden heb"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "מנושי",
+      "gloss": "van mijn schuldeisers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan wie"
+    },
+    {
+      "surface": "מכרתי",
+      "gloss": "ik verkocht heb"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hem"
+    },
+    {
+      "surface": "הן",
+      "gloss": "zie"
+    },
+    {
+      "surface": "בעונתיכם",
+      "gloss": "om uw ongerechtigheden"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "zijt gij verkocht"
+    },
+    {
+      "surface": "ובפשעיכם",
+      "gloss": "en om uw overtredingen"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "is weggezonden"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "uw moeder"
+    }
+  ],
+  "timestamp": "2026-08-31T21:25:15.163697028Z",
+  "model": "glm-5.3"
+}

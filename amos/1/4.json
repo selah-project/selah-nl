@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ik zend vuur in het huis van Chazaël, en het verteert de burchten van Ben-Hadad.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "En ik zend"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "van Chazaël"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "en het verteert"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "de burchten"
+    },
+    {
+      "surface": "בן",
+      "gloss": "van Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    }
+  ],
+  "timestamp": "2026-08-31T21:57:04.287233807Z",
+  "model": "glm-5.3"
+}

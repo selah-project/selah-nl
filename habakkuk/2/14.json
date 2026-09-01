@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Want de aarde zal vervuld worden ⟨om⟩ ⟨את⟩ de heerlijkheid van Jahweh te kennen, zoals wateren die de zee bedekken.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "zal vervuld worden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "⟨om⟩ te kennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de heerlijkheid van Jahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "heerlijkheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "zoals wateren"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "die bedekken"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de zee"
+    }
+  ],
+  "timestamp": "2026-08-31T22:00:59.019658423Z",
+  "model": "glm-5.3"
+}

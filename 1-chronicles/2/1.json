@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Dit ⟨zijn⟩ de zonen van Jisraël: Re'uven, Sjim'on, Levi en Jehoeda, Jissaschar en Zevuloen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Sjim'on"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jissaschar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "en Zevuloen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:38.186332208Z",
+  "model": "glm-5.3"
+}

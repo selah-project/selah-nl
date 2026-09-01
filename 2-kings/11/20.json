@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En heel het volk van het land verblijdde zich, en de stad was rustig; en ⟨את⟩ Atalja doodden zij met het zwaard in het huis van de koning ⟨van Juda⟩.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "En verblijdde zich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "en de stad"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "was rustig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalja"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "doodden zij"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "met het zwaard"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:44.557281882Z",
+  "model": "glm-5.3"
+}

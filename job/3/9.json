@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Mogen de sterren van zijn schemering donker worden; moge het wachten op licht, maar ⟨er is⟩ geen; en moge het de oogleden van de dageraad niet zien.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "donker worden"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "de sterren"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "van zijn schemering"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "moge het wachten"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "op licht"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maar ⟨er is⟩ geen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en moge niet"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "zien"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "de oogleden"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "van de dageraad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:15.689063184Z",
+  "model": "glm-5.3"
+}

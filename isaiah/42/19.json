@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 42:19",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Wie is blind, zo niet mijn dienaar? En doof als mijn boodschapper, die ik zend? Wie is blind als de volmaakte, en blind als de dienaar van Jahweh?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "עור",
+      "gloss": "blind"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mijn dienaar"
+    },
+    {
+      "surface": "וחרש",
+      "gloss": "en doof"
+    },
+    {
+      "surface": "כמלאכי",
+      "gloss": "als mijn boodschapper"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "die ik zend"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "עור",
+      "gloss": "blind"
+    },
+    {
+      "surface": "כמשלם",
+      "gloss": "als de volmaakte"
+    },
+    {
+      "surface": "ועור",
+      "gloss": "en blind"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "als de dienaar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:17.038185335Z",
+  "model": "glm-5.3"
+}

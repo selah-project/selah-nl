@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 24:21",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Hij behandelt kwaad de onvruchtbare, die niet baart, en aan de weduwe doet hij geen goed.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "behandelt kwaad"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "de onvruchtbare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "baart"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "en aan de weduwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "doet goed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:35:08.095558434Z",
+  "model": "glm-5.3"
+}

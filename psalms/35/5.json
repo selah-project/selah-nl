@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Mogen zij zijn als kaf voor de wind, en de engel van Jahweh ⟨die⟩ hen verdrijft.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mogen zij zijn"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "als kaf"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de wind"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "en de engel van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "hen verdrijft"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:20.872465794Z",
+  "model": "glm-5.3"
+}

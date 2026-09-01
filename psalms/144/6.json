@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 144,
+  "translation": "Flits bliksem en verspreid hen; schiet uw pijlen uit en breng hen in verwarring.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "flits"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "bliksem"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "en verspreid hen"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "schiet uit"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "uw pijlen"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "en breng hen in verwarring"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:16.040013473Z",
+  "model": "glm-5.3"
+}

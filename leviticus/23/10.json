@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Spreek tot de kinderen van Jisraël en zeg tot hen: Wanneer gij komt in het land dat ik u geef en gij de oogst ervan maait, dan moet gij ⟨את⟩ de garf, het eersteling van uw oogst, naar de priester brengen —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en gij zult zeggen"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "gij komt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "u"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "en gij maait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de oogst ervan"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "de oogst ervan"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "en gij zult brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de garf"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "de garf"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "het eersteling"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "van uw oogst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:35.339388488Z",
+  "model": "glm-5.3"
+}

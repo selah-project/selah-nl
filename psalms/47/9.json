@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "Elohim is koning geworden over de natiën, Elohim zetelt op ⟨de⟩ troon van zijn heiligheid.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "is koning geworden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "de natiën"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "zetelt"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troon"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "van zijn heiligheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:36.578822444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Elohim gedacht ⟨את⟩ Noach en ⟨את⟩ al het levende en ⟨את⟩ al het vee dat ⟨את⟩⟨bij⟩ hem was in de ark; en Elohim deed een roeach over de aarde gaan, en de wateren bedaarden.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "en Hij gedacht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al het levende"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "het levende"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al het vee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bij hem"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "in de ark"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "en Hij deed gaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "een roeach (wind)"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "en bedaarden"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:06.592647724Z",
+  "model": "glm-5.3"
+}

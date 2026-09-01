@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "En ik — bijna waren mijn voeten ⟨uit⟩gegaan, mijn treden was als niets uitgeschud.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "bijna"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "(waren) gewend\/gegaan"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mijn voeten"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "als niets"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "uitgeschud"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mijn treden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:02.695900606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "Een broeder kan volstrekt niet loskopen, een mens geeft niet aan Elohim zijn losprijs —",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Een broeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "kan loskopen"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "volstrekt loskopen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een mens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "zijn losprijs"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:48.607646591Z",
+  "model": "glm-5.3"
+}

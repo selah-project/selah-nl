@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Looft Jahweh met de kinor, met de nevel van tien snaren; speelt voor Hem.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Looft"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "met de kinor"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "met de nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "van tien snaren"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "speelt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor Hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:31.154881290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de aarde zal antwoorden ⟨את⟩ het koren en ⟨את⟩ de most en ⟨את⟩ de olie, en zij zullen antwoorden ⟨את⟩ Jizreël.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "En de aarde"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "zal antwoorden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het koren"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "het koren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de most"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "de most"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de olie"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "de olie"
+    },
+    {
+      "surface": "והם",
+      "gloss": "en zij"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "zullen antwoorden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizreël"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:06.799444862Z",
+  "model": "glm-5.3"
+}

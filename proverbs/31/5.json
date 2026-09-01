@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "opdat ⟨hij⟩ niet drinkt en het vastgelegde vergeet, en het recht van alle zonen van ellende wijzigt.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "opdat ... niet"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "drinkt"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "en vergeet"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "het vastgelegde"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "en wijzigt"
+    },
+    {
+      "surface": "דין",
+      "gloss": "het recht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ellende"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:21.524669748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Alleen, de hoogten verdwenen niet; nog steeds slachtte het volk ⟨offers⟩ en deed wierook op de hoogten.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "de hoogten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "verdwenen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog steeds"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "slachtte ⟨offers⟩"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "en deed wierook"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "op de hoogten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:04.571472566Z",
+  "model": "glm-5.3"
+}

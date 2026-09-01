@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Goede smaak ⟨en⟩ kennis leer mij, want in uw geboden heb ik geloofd.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "goede"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "smaak (onderscheidingsvermogen)"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "en kennis"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "leer mij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "in uw geboden"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "heb ik geloofd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:38.179634564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 114,
+  "translation": "Die ⟨de⟩ rots deed keren tot een waterplas, ⟨de⟩ vuursteen tot waterbronnen van water.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "die deed keren"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "⟨de⟩ rots"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "tot een waterplas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van water"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "⟨de⟩ vuursteen"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "tot waterbronnen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van water"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:35.535850690Z",
+  "model": "glm-5.3"
+}

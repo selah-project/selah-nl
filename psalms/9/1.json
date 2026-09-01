@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Voor de koorleider, op ⟨de wijs van⟩ Almoet Laben; een mizmor van David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Almoet"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:12.053638619Z",
+  "model": "glm-5.3"
+}

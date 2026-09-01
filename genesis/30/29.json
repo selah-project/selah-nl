@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En hij zei tot hem: u weet ⟨את⟩ wat ik u gediend heb, en ⟨את⟩ wat uw vee bij mij ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "weet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat ik u gediend heb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ik u gediend heb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wat uw vee bij mij was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "uw vee"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bij mij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:07.377172120Z",
+  "model": "glm-5.3"
+}

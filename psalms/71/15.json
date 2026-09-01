@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Mijn mond zal uw gerechtigheid vertellen, de hele dag uw verlossing, want hun getal ken ik niet.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "zal vertellen"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "uw gerechtigheid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "uw verlossing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ken ik"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "hun getal"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:39.803304726Z",
+  "model": "glm-5.3"
+}

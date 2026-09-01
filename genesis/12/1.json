@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Jahweh zei tot Avram: Ga jij, weg uit jouw land, en uit jouw geboortegrond, en uit het huis van jouw vader, naar het land dat ik jou zal laten zien.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jij"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "uit jouw land"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "en uit jouw geboortegrond"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "en uit het huis"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van jouw vader"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ik jou zal laten zien"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:47.782563554Z",
+  "model": "glm-5.3"
+}

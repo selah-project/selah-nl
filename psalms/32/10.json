@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Velen ⟨zijn⟩ de smarten van de goddeloze, maar wie op Jahweh vertrouwt — chesed (liefdestrouw) omringt hem.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "velen"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "de smarten"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "van de goddeloze"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "maar wie vertrouwt"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "omringt hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:59.716768153Z",
+  "model": "glm-5.3"
+}

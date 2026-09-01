@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En de priester zal ⟨את⟩ het vet doen roken op het altaar, en de borst zal ⟨zijn⟩ voor Aharón en zijn zonen.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "en zal doen roken"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het vet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "het vet"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op het altaar"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en zal zijn"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "de borst"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "voor Aharón"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "en zijn zonen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:15.161801588Z",
+  "model": "glm-5.3"
+}

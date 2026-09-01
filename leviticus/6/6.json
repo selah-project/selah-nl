@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Een vuur ⟨van⟩ doorlopende aard brandt op het altaar, het mag niet gedoofd worden.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Een vuur"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doorlopend"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "brandt"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "gedoofd worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:57.223678080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Vervreemd ben ik geworden voor mijn broeders, en een vreemde voor de zonen van mijn moeder.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "vervreemd"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ben ik geworden"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "voor mijn broeders"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "en een vreemde"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "voor de zonen"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "van mijn moeder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:19.328472842Z",
+  "model": "glm-5.3"
+}

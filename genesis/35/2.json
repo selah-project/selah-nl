@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En Jaäkov zei tot zijn huisgezin en tot allen die bij hem waren: Doe ⟨את⟩ de goden van de vreemde weg, die in jullie midden zijn, weg, reinig jullie en verwissel jullie kleren.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huisgezin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bij hem waren"
+    },
+    {
+      "surface": "הסרו",
+      "gloss": "doe weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de goden van de vreemde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de goden van"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "de vreemde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "in jullie midden zijn"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "reinig jullie"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "en verwissel"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "jullie kleren"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:16.148454856Z",
+  "model": "glm-5.3"
+}

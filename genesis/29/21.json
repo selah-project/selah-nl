@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En Jaakob zei tot Lavan: Geef ⟨את⟩ mijn vrouw, want mijn dagen zijn vervuld, en ik zal tot haar gaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "geef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn vrouw"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mijn vrouw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "zijn vervuld"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mijn dagen"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "en ik zal gaan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "tot haar"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:43.770242180Z",
+  "model": "glm-5.3"
+}

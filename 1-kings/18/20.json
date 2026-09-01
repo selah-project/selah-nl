@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Achab zond onder alle kinderen van Israël, en verzamelde ⟨את⟩ de profeten op de berg de Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "En hij zond"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "onder alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "en verzamelde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de profeten"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "de profeten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "de Karmel"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:51.794704287Z",
+  "model": "glm-5.3"
+}

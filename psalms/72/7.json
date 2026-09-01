@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "In zijn dagen zal de rechtvaardige bloeien, en overvloed van vrede, tot er geen maan ⟨meer⟩ is.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "zal bloeien"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "in zijn dagen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de rechtvaardige"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "en overvloed van"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "er geen ... meer"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "maan is"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:04.686230234Z",
+  "model": "glm-5.3"
+}

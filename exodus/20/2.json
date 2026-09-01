@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Ik ⟨ben⟩ Jahweh, jouw Elohim, die jou uitgeleid heb uit het land Mitsrajim, uit het huis van slaven.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "die jou uitgeleid heb"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit het huis"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "van slaven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:42.970753063Z",
+  "model": "glm-5.3"
+}

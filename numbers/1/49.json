@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Alleen ⟨את⟩ de stam van Levi zul je niet tellen, en ⟨את⟩ hun hoofdtelling zul je niet opnemen te midden van de kinderen van Jisraël.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stam van Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stam"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "zul je tellen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun hoofdtelling"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "hun hoofdtelling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "zul je opnemen"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "te midden van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:05.394752240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Zijn nefesj ⟨zal⟩ in het goede verblijven, en zijn nageslacht zal het land erven.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "zijn nefesj"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "in het goede"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "⟨zal⟩ verblijven"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "en zijn nageslacht"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "zal erven"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:07.361950346Z",
+  "model": "glm-5.3"
+}

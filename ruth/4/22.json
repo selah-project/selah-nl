@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Oved verwekte ⟨את⟩ Jisjaj, en Jisjaj verwekte ⟨את⟩ David.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "En Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisjaj"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisjaj"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "en Jisjaj"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:36.517981714Z",
+  "model": "glm-5.3"
+}

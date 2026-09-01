@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Hiermee zal Aharon het heiligdom binnengaan: met een jonge stier, een zoon van het rund, voor een zondoffer, en een ram voor een brandoffer.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "hiermee"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "zal hij binnengaan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "het heiligdom"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "met een jonge stier"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon van"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "het rund"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "voor een zondoffer"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "en een ram"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "voor een brandoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:38.288032449Z",
+  "model": "glm-5.3"
+}

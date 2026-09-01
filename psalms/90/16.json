@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 90,
+  "translation": "Moge Uw werk gezien worden tot Uw dienaren, en Uw luister op hun kinderen.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "moge gezien worden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "Uw dienaren"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "Uw werk"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "en Uw luister"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "hun kinderen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:03.342162276Z",
+  "model": "glm-5.3"
+}

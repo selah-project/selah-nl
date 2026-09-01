@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 86,
+  "translation": "Op de dag van mijn benauwdheid roep ik u aan, want ú zult mij antwoorden.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "van mijn benauwdheid"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "roep ik u aan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "zult u mij antwoorden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:23.662675760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Zal een mens Elohim beroven? Maar gij berooft Mij ⟨את⟩. En gij zegt: wherein hebben wij U beroofd? In de tienden en de hefofferte.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "zal beroven"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "een mens"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "gij"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "beroopt"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Mij"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "en gij zegt"
+    },
+    {
+      "surface": "במה",
+      "gloss": "wherein"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "hebben wij U beroofd"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "in de tienden"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "en de hefofferte"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:52.969958542Z",
+  "model": "glm-5.3"
+}

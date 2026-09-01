@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Chur verwekte ⟨את⟩ Oeri, en Oeri verwekte ⟨את⟩ Betsalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "En Chur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oeri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Oeri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "en Oeri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:32.438841702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Laten zij Jahweh loven om zijn chesed en om zijn wonderdaden aan de mensenkinderen!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Laten zij loven"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "om zijn chesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "en om zijn wonderdaden"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan de kinderen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:59.353499880Z",
+  "model": "glm-5.3"
+}

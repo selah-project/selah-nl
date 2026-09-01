@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 101,
+  "translation": "Een verdraaid hart zal van mij wijken; het kwade zal ik niet kennen.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "een hart"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "verdraaid"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "zal wijken"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "רע",
+      "gloss": "het kwade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "zal ik kennen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:48.759441212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "En Israël kwam naar Mitsrajim, en Ja'akov verbleef als vreemdeling in het land van Cham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "En kwam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "naar Mitsrajim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "en Ja'akov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "verbleef als vreemdeling"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "חם",
+      "gloss": "van Cham"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:24.116135665Z",
+  "model": "glm-5.3"
+}

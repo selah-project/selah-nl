@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 76,
+  "translation": "U, ontzagwekkend bent u; en wie kan staan voor uw aangezicht, zodra ⟨ once ⟩ uw toorn ⟨ontbrandt⟩?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ontzagwekkend"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "kan staan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor uw aangezicht"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "zodra\/eens"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "uw toorn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:31.595162310Z",
+  "model": "glm-5.3"
+}

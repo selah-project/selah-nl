@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Bidt tot Jahweh — en laat het genoeg zijn ⟨met⟩ de donderslagen van Elohim en de hagel — dan zal ik ⟨את⟩ u laten gaan, en u zult niet langer blijven.'",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "bidt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "en laat het genoeg zijn"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "met"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "de donderslagen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "en de hagel"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "zal ik laten gaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "u"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "zult langer"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "blijven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:23.684034684Z",
+  "model": "glm-5.3"
+}

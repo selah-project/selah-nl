@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Ook ik zal hem tot eerstgeborene maken, tot hoogste van de koningen van ⟨de⟩ aarde.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "eerstgeborene"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "zal ik hem maken"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "hoogste"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "van de koningen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van ⟨de⟩ aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:09.891531528Z",
+  "model": "glm-5.3"
+}

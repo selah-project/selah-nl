@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En ik bad tot Jahweh, nadat ik ⟨את⟩ het koopgeschrift aan Baruch, zoon van Nerija, had gegeven, zeggende:",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "En ik bad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ik had gegeven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koopgeschrift"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "geschrift"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "van de aankoop"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruch"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Nerija"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T21:35:26.904189927Z",
+  "model": "glm-5.3"
+}

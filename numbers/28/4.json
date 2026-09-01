@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "⟨את⟩ het ene lam zult gij bereiden in de morgen, en ⟨את⟩ het tweede lam zult gij bereiden tussen de avonden.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het ene lam"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "het lam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "het ene"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zult gij bereiden"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het tweede lam"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "het lam"
+    },
+    {
+      "surface": "השני",
+      "gloss": "het tweede"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zult gij bereiden"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "de avonden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:17:26.688210212Z",
+  "model": "glm-5.3"
+}

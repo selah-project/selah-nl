@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Dit ⟨zij⟩ het loon van mijn aanklagers, van ⟨את⟩ Jahweh ⟨uitgaand⟩, en van hen die kwaad spreken over mijn nefesj.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "het loon \/ het wrought loon"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "van mijn aanklagers"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "en van hen die spreken"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:18.570215763Z",
+  "model": "glm-5.3"
+}

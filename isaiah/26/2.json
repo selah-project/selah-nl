@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Open de poorten, en een rechtvaardig volk treedt binnen, dat trouw bewaart.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "open"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "de poorten"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en treedt binnen"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "volk"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardig"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewaart"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "trouw"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:16.425447992Z",
+  "model": "glm-5.3"
+}

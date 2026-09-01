@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En de zonen van Jisraël kwamen om graan te kopen te midden van de komenden, want de hongersnood was in het land Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en kwamen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "om graan te kopen"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "te midden van"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "de komenden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "de hongersnood"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:49.637730759Z",
+  "model": "glm-5.3"
+}

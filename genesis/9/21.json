@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En hij dronk van de wijn en werd dronken, en hij ontkleedde zich binnen in ⟨de⟩ tent.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "en hij dronk"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "היין",
+      "gloss": "de wijn"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "en werd dronken"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "en hij ontkleedde zich"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "binnen in"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "⟨de⟩ tent"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:46.941808172Z",
+  "model": "glm-5.3"
+}

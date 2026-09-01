@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En hij zond boden naar Achav, koning van Israël, ⟨in⟩ de stad ⟨aan⟩,",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "En hij zond"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "boden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "de stad in"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:19.207843902Z",
+  "model": "glm-5.3"
+}

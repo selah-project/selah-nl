@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En de mannen van de stad trokken uit en streden tegen ⟨את⟩ Joab, en er vielen van het volk, van de dienaren van Dawid — en ook Oería de Chittiet stierf.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "en trokken uit"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "en streden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "en er vielen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "van de dienaren"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en stierf"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Oería"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "de Chittiet"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:29.115060574Z",
+  "model": "glm-5.3"
+}

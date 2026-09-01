@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En hij bouwde ⟨את⟩ de binnenhof: drie rijen gehouwen steen en een rij gehouwen cederhout.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de binnenhof"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "de Hof"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "de binnenste"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "rijen"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "gehouwen steen"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "en een rij"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "gehouwen balken"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "van ceder"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:58.232033763Z",
+  "model": "glm-5.3"
+}

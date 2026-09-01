@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En hun vijanden onderdrukten hen, en zij werden vernederd onder hun hand.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "en onderdrukten hen"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "hun vijanden"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "en zij werden vernederd"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hun hand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:38.765037745Z",
+  "model": "glm-5.3"
+}

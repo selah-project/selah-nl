@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "En nu — wat verwacht ik? Adonai, mijn verwachting, ⟨die⟩ is bij jou.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "verwacht ik"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "mijn verwachting"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bij jou"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨die⟩ is"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:16.794984385Z",
+  "model": "glm-5.3"
+}

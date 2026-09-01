@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "En ⟨את⟩ mij hebt gij niet aangeroepen, Jaäkov, want gij zijt van mij vermoeid geworden, Jisraël.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mij",
+      "marks": "mij (object van aangeroepen)"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "heb jij aangeroepen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ben jij vermoeid geworden"
+    },
+    {
+      "surface": "בי",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:20.715763163Z",
+  "model": "glm-5.3"
+}

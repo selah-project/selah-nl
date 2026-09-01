@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En Aharon zei: Laat de toorn van mijn heer niet ontbranden — u zelf kent ⟨את⟩ het volk, want het is in het kwaad ⟨gekeerd⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "ontbrande"
+    },
+    {
+      "surface": "אף",
+      "gloss": "toorn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "van mijn heer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u zelf"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "in het kwaad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:45.432542450Z",
+  "model": "glm-5.3"
+}

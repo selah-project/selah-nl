@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Geen enkel werk van dienstbaarheid zult gij doen, en gij zult een vuuroffer aanbieden aan Jahweh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "geen enkel"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "werk"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "van dienstbaarheid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "zult gij doen"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "en gij zult aanbieden"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "een vuuroffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:59.107624473Z",
+  "model": "glm-5.3"
+}

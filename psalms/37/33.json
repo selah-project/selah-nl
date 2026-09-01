@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Jahweh zal hem niet prijsgeven in zijn hand, en hem niet schuldig verklaren wanneer hij geoordeeld wordt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "zal hem prijsgeven"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in zijn hand"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "zal hem schuldig verklaren"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "wanneer hij geoordeeld wordt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:45.304034258Z",
+  "model": "glm-5.3"
+}

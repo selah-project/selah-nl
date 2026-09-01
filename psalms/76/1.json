@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 76,
+  "translation": "Voor de koorleider, op snarenspel. Een mizmor van Asaf, een lied.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "op snarenspel"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:25.623621855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 88,
+  "translation": "Wordt uw chesed in het graf verteld, uw trouw in de Abaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "wordt verteld"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "in het graf"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "uw chesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "uw trouw"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "in de Abaddon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:01.388664060Z",
+  "model": "glm-5.3"
+}

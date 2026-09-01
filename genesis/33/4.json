@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En Esav liep hem tegemoet en omarmde hem, en viel hem om de hals en kuste hem; en zij weenden.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "en hij liep"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "hem tegemoet"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "en omarmde hem"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "en viel"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "zijn hals"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "en kuste hem"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "en zij weenden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:28.867828394Z",
+  "model": "glm-5.3"
+}

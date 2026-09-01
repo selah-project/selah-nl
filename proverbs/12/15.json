@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "De weg van een dwaze ⟨is⟩ recht in zijn ogen, maar wie luistert naar raad ⟨is⟩ wijs.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "van een dwaze"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "recht"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in zijn ogen"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "maar wie luistert"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "naar raad"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wijs"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:31.377597337Z",
+  "model": "glm-5.3"
+}

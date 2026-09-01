@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Hij die hun hart als één formt, hij die ⟦naar⟧ al hun daden ziet.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "die formt"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "als één"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hun hart"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "die ziet\/verstaat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "hun daden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:18.674699407Z",
+  "model": "glm-5.3"
+}

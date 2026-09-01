@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Zendt Gij uw roeach uit, zij worden geschapen, en Gij vernieuwt het aangezicht van de aardbodem.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "zendt uit"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "uw roeach"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "worden geschapen"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "en vernieuwt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "van de aardbodem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:26.322025008Z",
+  "model": "glm-5.3"
+}

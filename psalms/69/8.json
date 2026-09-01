@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Want om uwentwil heb ik smaad gedragen; schaamte heeft mijn gelaat bedekt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "om uwentwil"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "heb ik gedragen"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "smaad"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "heeft bedekt"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "schaamte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mijn gelaat"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:33.735769244Z",
+  "model": "glm-5.3"
+}

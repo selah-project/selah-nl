@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En het volk dat achter Omri ⟨stond⟩, werd sterker dan het volk dat achter Tivni, de zoon van Ginat, ⟨stond⟩; toen stierf Tivni, en Omri werd koning.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "werd sterker"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk dat achter Tivni, de zoon van Ginat, stond"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achter"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon van"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "toen stierf"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en werd koning"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:29.556634959Z",
+  "model": "glm-5.3"
+}

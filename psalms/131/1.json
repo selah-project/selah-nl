@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 131,
+  "translation": "Een lied van de opgangen, van Dawid. Jahweh, mijn hart is niet hoogmoedig geworden, en mijn ogen zijn niet verheven, en ik heb niet gewandeld in grote dingen en in wonderen die ⟨te wonderbaar⟩ voor mij zijn.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van de opgangen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "is hoogmoedig geworden"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "zijn verheven"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mijn ogen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "heb ik gewandeld"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "in grote dingen"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "en in wonderen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "voor mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:30.959429169Z",
+  "model": "glm-5.3"
+}

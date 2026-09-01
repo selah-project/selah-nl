@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En u moet de woorden van dit verbond bewaren en ⟨את⟩ ze doen, opdat u welslagen hebt in alles wat u doet.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en u moet bewaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de woorden van dit verbond"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "van dit verbond"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ze"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "u welslagen hebt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat u doet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "u doet"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:03.799666978Z",
+  "model": "glm-5.3"
+}

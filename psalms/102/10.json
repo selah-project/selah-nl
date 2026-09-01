@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Want as als brood heb ik gegeten, en mijn drank heb ik met wenen gemengd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "as"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "als brood"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "heb ik gegeten"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "en mijn drank"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "met wenen"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "heb ik gemengd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:36.644337720Z",
+  "model": "glm-5.3"
+}

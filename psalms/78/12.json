@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Ten overstaan van hun vaders deed hij wonderen, in het land Mitsrajim, in het veld van Tsoän.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "Ten overstaan van"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "hun vaders"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "deed hij"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "wonderen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "in het veld van"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoän"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:48.091157679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En u zag ⟨את⟩ de ellende van onze vaderen in Mitsrajim, en ⟨את⟩ hun schreeuw hoorde u bij de Rietzee.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "en u zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ellende"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ellende"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "van onze vaderen"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hun schreeuw"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "hun schreeuw"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hoorde u"
+    },
+    {
+      "surface": "על",
+      "gloss": "bij"
+    },
+    {
+      "surface": "ים",
+      "gloss": "zee"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Riet(zee)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:55:30.518336310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En Ik zal vóór jou ⟨een⟩ maläch zenden, en Ik zal ⟨את⟩ de Kenaäniet verdrijven, de Emoriet en de Chittiet en de Perizziet, de Chiwwiet en de Jebusiet.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "en Ik zal zenden"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vóór jou"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "maläch (bode)"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "en Ik zal verdrijven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Kenaäniet"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "de Kenaäniet"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de Emoriet"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "en de Chittiet"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "en de Perizziet"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "de Chiwwiet"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "en de Jebusiet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:11.925905549Z",
+  "model": "glm-5.3"
+}

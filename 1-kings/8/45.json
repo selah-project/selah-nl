@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "dan zult Ú in de hemel hun gebed en hun smeekbede horen, en hun recht doen.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "dan zult Ú horen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "in de hemel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun gebed"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "hun gebed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun smeekbede"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "hun smeekbede"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en doen zult Ú"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "hun recht"
+    }
+  ],
+  "timestamp": "2026-08-31T21:00:24.675141594Z",
+  "model": "glm-5.3"
+}

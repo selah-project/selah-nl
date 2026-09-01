@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En ik ⟨ben⟩ als een dove, ik hoor niet; en als een stomme die zijn mond niet opent.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ik"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "als een dove"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ik hoor"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "als een stomme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "opent"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "zijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:59.958805879Z",
+  "model": "glm-5.3"
+}

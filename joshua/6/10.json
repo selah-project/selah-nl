@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En ⟨את⟩ het volk gebood Jehosjoea ⟨zeggend⟩: Gij zult niet jubelroepen en uw stem niet laten horen, en geen woord zal uit uw mond uitgaan, tot op de dag dat ik tot u zeg: Jubel! — dan zult gij jubelen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebood"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "zult gij jubelroepen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "laten horen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie stem"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "jullie stem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "zal uitgaan"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "uit jullie mond"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "een woord"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "dat ik zeg"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "jubel!"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "dan zult gij jubelen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:21.825348206Z",
+  "model": "glm-5.3"
+}

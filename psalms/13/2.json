@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Hoelang, Jahweh, zult ⟨u⟩ mij vergeten — voor altijd? Hoelang zult ⟨u⟩ ⟨את⟩ uw aangezicht voor mij verbergen?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hoe lang"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hoelang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "zult ⟨u⟩ mij vergeten"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "voor altijd"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hoe lang"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hoelang"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "zult ⟨u⟩ verbergen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw aangezicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "voor mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:11.121405904Z",
+  "model": "glm-5.3"
+}

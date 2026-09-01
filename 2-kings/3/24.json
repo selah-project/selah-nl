@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En zij kwamen bij het kamp van Jisraël, en Jisraël stond op en sloeg ⟨את⟩ Moav, en zij vluchten voor hun aangezicht; en zij trokken naar binnen, het land in, en sloegen ⟨את⟩ Moav.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en zij kwamen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "het kamp"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "en stond op"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en sloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "en zij vluchten"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "voor hun aangezicht"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "en zij trokken binnen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "erin (het land)"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "en sloegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:04.021643761Z",
+  "model": "glm-5.3"
+}

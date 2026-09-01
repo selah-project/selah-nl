@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En jij zult omkeren en luisteren naar de stem van Jahweh, en ⟨את⟩ al zijn geboden doen die ik je vandaag gebied.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en jij"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "zult omkeren"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "en luisteren"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al zijn geboden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "zijn geboden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "je gebied"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandaag"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:37.927265168Z",
+  "model": "glm-5.3"
+}

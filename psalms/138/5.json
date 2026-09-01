@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 138,
+  "translation": "En zij zullen zingen van de wegen van Jahweh, want groot is de heerlijkheid van Jahweh.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "en zij zullen zingen"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "van de wegen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "de heerlijkheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:37.490430904Z",
+  "model": "glm-5.3"
+}

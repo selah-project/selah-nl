@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Mijn El bent ⟨u⟩, en ik loof ⟨u⟩; mijn Elohim, ik verhoog ⟨u⟩.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Mijn El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bent u"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "en ik loof u"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ik verhoog u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:11.771173846Z",
+  "model": "glm-5.3"
+}

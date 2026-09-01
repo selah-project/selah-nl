@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 23:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Een vreemdeling en bijwoner ben ik bij u; geeft mij een grafbezit bij u, en ik zal mijn dode begraven van voor mijn aangezicht.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "een vreemdeling"
+    },
+    {
+      "surface": "ותושב",
+      "gloss": "en bijwoner"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ben ik"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bij u"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "een bezit"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "van een graf"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bij u"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "en ik zal begraven"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mijn dode"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "van voor mijn aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:17.174702526Z",
+  "model": "glm-5.3"
+}

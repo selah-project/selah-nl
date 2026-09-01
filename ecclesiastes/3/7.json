@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Een tijd om te scheuren en een tijd om te naaien; een tijd om te zwijgen en een tijd om te spreken.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "om te scheuren"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "om te naaien"
+    },
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "om te zwijgen"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "om te spreken"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:35.954100592Z",
+  "model": "glm-5.3"
+}

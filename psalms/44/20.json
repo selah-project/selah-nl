@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "⟨Toch⟩ hebt Gij ons vertrapt in de plaats van jakhalzen, en ons bedekt met doodsschaduw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨toch⟩"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "hebt Gij ons vertrapt"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in de plaats"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "van jakhalzen"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "en bedekt"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "met doodsschaduw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:29.958761669Z",
+  "model": "glm-5.3"
+}

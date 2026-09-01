@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Is de dag van Jahweh niet duisternis en geen licht, en donkerheid en geen glans voor hem?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Is... niet"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "אור",
+      "gloss": "licht"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "en donkerheid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "glans"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    }
+  ],
+  "timestamp": "2026-08-31T21:57:52.832455895Z",
+  "model": "glm-5.3"
+}

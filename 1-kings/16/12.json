@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Zo verdelgde Zimri ⟨את⟩ het hele huis van Baësja, naar het woord van Jahweh, dat Hij tegen Baësja gesproken had door de hand van Jehoe, de profeet,",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "verdelgde"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het hele huis van Baësja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "het hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "van Baësja"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "naar het woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baësja"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "van Jehoe"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "de profeet"
+    }
+  ],
+  "timestamp": "2026-08-31T21:02:46.888804693Z",
+  "model": "glm-5.3"
+}

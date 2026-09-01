@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En de wateren overweldigden ⟨de⟩ aarde honderd vijftig dagen.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "En overweldigden"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vijftig"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:53.076873266Z",
+  "model": "glm-5.3"
+}

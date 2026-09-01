@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En geen bewoner zal zeggen: ik ben ziek; het volk dat daarin woont, ⟨is⟩ vergeven ⟨van⟩ ongerechtigheid.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zal zeggen"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "bewoner"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "ik ben ziek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "dat woont"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "vergeven"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ongerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:33.736994928Z",
+  "model": "glm-5.3"
+}

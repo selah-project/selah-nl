@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 116,
+  "translation": "U zal ik een slachtoffer van dankoffer brengen, en in de naam van Jahweh zal ik aanroepen.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "U"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "zal ik brengen ⟨een⟩ slachtoffer"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slachtoffer"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "van dankoffer"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "en in de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zal ik aanroepen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:05.203278263Z",
+  "model": "glm-5.3"
+}

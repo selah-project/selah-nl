@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Zijn onrecht keert terug op zijn hoofd, en op zijn schedel daalt zijn geweld neer.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "keert terug"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "zijn onrecht"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "op zijn hoofd"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "zijn schedel"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "zijn geweld"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "daalt neer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:09.377130281Z",
+  "model": "glm-5.3"
+}

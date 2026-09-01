@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Maak ⟨staan⟩ voor uw dienaar uw woord, dat naar uw vreze ⟨strekt⟩.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Maak ⟨staan⟩"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "voor uw dienaar"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "uw woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "naar uw vreze"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:34.045223510Z",
+  "model": "glm-5.3"
+}

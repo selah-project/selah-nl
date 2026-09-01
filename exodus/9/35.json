@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En het hart van Par'o werd verhard, en hij zond ⟨את⟩ de kinderen van Israël niet weg, zo Jahweh gesproken had door de hand van Mosjee.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "en werd verhard"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Par'o"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hij zond weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "door de hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "van Mosjee"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:55.702419278Z",
+  "model": "glm-5.3"
+}

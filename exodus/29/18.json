@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 29:18",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En gij zult doen oprijzen ⟨את⟩ de hele ram op het altaar; een brandoffer is hij voor Jahweh, een rustgevende reuk, een vuuroffer voor Jahweh is hij.",
+  "tokens": [
+    {
+      "surface": "והקטרת",
+      "gloss": "en gij zult doen oprijzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hele ram"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ram"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op het altaar"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is hij"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "reuk"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "rustgevende"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vuuroffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is hij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:01.429506242Z",
+  "model": "glm-5.3"
+}

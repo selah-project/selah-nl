@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En Dawid gaf aan Sjelomo zijn zoon ⟨את⟩ het model van de voorhal, en ⟨את⟩ zijn vertrekken, zijn schatkamers, zijn bovenvertrekken en zijn binnenkamers, en ⟨את⟩ het huis van het verzoendeksel —",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "En hij gaf"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "aan Sjelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het model van de voorhal"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "het model"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "van de voorhal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vertrekken"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "zijn vertrekken"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "zijn schatkamers"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "zijn bovenvertrekken"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "zijn kamers"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "binnen-"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "en het huis"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "van het verzoendeksel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:03:57.792457660Z",
+  "model": "glm-5.3"
+}

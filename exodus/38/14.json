@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Hangen van vijftien el voor ⟨de⟩ ⟨ene⟩ schouder⟨zijde⟩; hun zuilen drie, en hun voetstukken drie.",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "hangen"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "voor"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "de schouder"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "hun zuilen"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "en hun voetstukken"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:03.346677110Z",
+  "model": "glm-5.3"
+}

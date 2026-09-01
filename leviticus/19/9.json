@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En wanneer jullie ⟨את⟩ de oogst van jullie land binnenhalen, zul je de rand van je veld niet geheel afmaaien, en het naleesgoed van je oogst zul je niet nalezen.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "en wanneer jullie binnenhalen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de oogst van jullie land"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "de oogst"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "van jullie land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "zul je geheel afmaken"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "de rand"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "van je veld"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "om te maaien"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "en het naleesgoed"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "van je oogst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "zul je nalezen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:29.319372091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En mijn nefesj is zeer ontzet — maar gij, Jahweh, hoe lang ⟨nog⟩?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "en mijn nefesj"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "is ontzet"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en gij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hoe lang"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:27.149073876Z",
+  "model": "glm-5.3"
+}

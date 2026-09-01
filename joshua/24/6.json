@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Ik bracht ⟨את⟩ jullie vaders uit Mitsrajim, en jullie kwamen aan de zee; en de Mitsrieten achtervolgden jullie vaders met wagens en met ruiters ⟨tot⟩ aan de Rietzee.",
+  "tokens": [
+    {
+      "surface": "וָֽאוֹצִ֤יא",
+      "gloss": "Ik bracht uit"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "jullie vaders"
+    },
+    {
+      "surface": "אֲבֽוֹתֵיכֶם֙",
+      "gloss": "jullie vaders"
+    },
+    {
+      "surface": "מִמִּצְרַ֔יִם",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "וַתָּבֹ֖אוּ",
+      "gloss": "en jullie kwamen"
+    },
+    {
+      "surface": "הַיָּ֑מָּה",
+      "gloss": "aan de zee"
+    },
+    {
+      "surface": "וַיִּרְדְּפ֨וּ",
+      "gloss": "en zij achtervolgden"
+    },
+    {
+      "surface": "מִצְרַ֜יִם",
+      "gloss": "de Mitsrieten"
+    },
+    {
+      "surface": "אַחֲרֵ֧י",
+      "gloss": "achter"
+    },
+    {
+      "surface": "אֲבוֹתֵיכֶ֛ם",
+      "gloss": "jullie vaders"
+    },
+    {
+      "surface": "בְּרֶ֥כֶב",
+      "gloss": "met wagens"
+    },
+    {
+      "surface": "וּבְפָרָשִׁ֖ים",
+      "gloss": "en met ruiters"
+    },
+    {
+      "surface": "יָ֝֗ם",
+      "gloss": "zee"
+    },
+    {
+      "surface": "ס֔וּף",
+      "gloss": "Rietzee"
+    }
+  ],
+  "timestamp": "2026-09-01T00:07:03.892093017Z",
+  "model": "glm-5.3"
+}

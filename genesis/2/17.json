@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "maar van de boom der kennis van goed en kwaad — daarvan zul je niet eten, want op de dag dat je daarvan eet, stervend zul je sterven.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "maar van de boom"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "der kennis"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "en kwaad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "zul je eten"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "je eet"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "stervend"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "zul je sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:52.099113538Z",
+  "model": "glm-5.3"
+}

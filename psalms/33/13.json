@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Vanuit ⟨de⟩ hemel heeft Jahweh neergezien, hij heeft ⟨את⟩ alle mensenkinderen gezien.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "vanuit de hemel"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "heeft neergezien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "heeft gezien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle mensenkinderen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:18.674293171Z",
+  "model": "glm-5.3"
+}

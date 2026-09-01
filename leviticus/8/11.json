@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En hij sprenkelde ervan op ⟨de⟩ alt zevenmaal, en hij zalfde ⟨את⟩ het altaar en ⟨את⟩ al zijn gerei, en ⟨את⟩ het bekken en ⟨את⟩ zijn voetstuk, om ze te heiligen.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "En hij sprenkelde"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ervan"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "keer"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "en hij zalfde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het altaar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al zijn gerei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zijn gerei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het bekken"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "het bekken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn voetstuk"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "zijn voetstuk"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "om ze te heiligen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:59.360851790Z",
+  "model": "glm-5.3"
+}

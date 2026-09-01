@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "U hebt ⟨de⟩ natie toegevoegd, Jahweh; u hebt ⟨de⟩ natie toegevoegd, u bent verheerlijkt; u hebt alle einden van ⟨de⟩ aarde wijd uiteengezet.",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "u hebt toegevoegd"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "⟨de⟩ natie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "u hebt toegevoegd"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "⟨de⟩ natie"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "u bent verheerlijkt"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "u hebt wijd uiteengezet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "einden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:21.984426754Z",
+  "model": "glm-5.3"
+}

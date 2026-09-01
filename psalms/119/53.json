@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Gloed ⟨is⟩ er over mij gekomen vanwege ⟨de⟩ goddelozen, die uw tora verlaten.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "gloed"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "heeft mij gegrepen"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "vanwege de goddelozen"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "die verlaten"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "uw tora"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:25.264420410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Je zult geen enkele gruwel eten.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "je zult eten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "gruwel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:07.152615266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Wat de gazam heeft overgelaten, heeft de arbeh gegeten; en wat de arbeh heeft overgelaten, heeft de jelék gegeten; en wat de jelék heeft overgelaten, heeft de chasíl gegeten.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Wat... heeft overgelaten"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "de gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "heeft gegeten"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "de arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "en wat... heeft overgelaten"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "de arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "heeft gegeten"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "de jelék"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "en wat... heeft overgelaten"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "de jelék"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "heeft gegeten"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "de chasíl"
+    }
+  ],
+  "timestamp": "2026-08-31T21:55:47.577973910Z",
+  "model": "glm-5.3"
+}

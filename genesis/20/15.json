@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Avimelech zei: Zie, mijn land ligt voor je; woon ⟨daar⟩ waar het goed is in je ogen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "mijn land"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ligt voor je"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "waar het goed is"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in je ogen"
+    },
+    {
+      "surface": "שב",
+      "gloss": "woon"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:20.721263401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "U doet mij ⟨de⟩ weg van ⟨het⟩ leven kennen; verzadiging van vreugden ⟨is⟩ voor ⟨את⟩ uw aangezicht; lieflijkheden ⟨zijn⟩ in uw rechterhand, voor altijd.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "u doet mij kennen"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "weg"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "van leven"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "verzadiging"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "van vreugden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw aangezicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "lieflijkheden"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "in uw rechterhand"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "voor altijd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:38.831936036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "die mijn lippen hebben geopend ⟨uit te spreken⟩, en mijn mond heeft gesproken in mijn benauwdheid.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "hebben geopend"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mijn lippen"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "en heeft gesproken"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in benauwdheid"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mijn"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:43.581448521Z",
+  "model": "glm-5.3"
+}

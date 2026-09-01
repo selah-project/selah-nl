@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Zie, wijzer dan Daniël ben jij; geen verborgen ding is voor jou verduisterd ⟨door hen⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wijzer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ben jij"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "dan Daniël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "geen … ⟨ding⟩"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "verborgen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "is voor jou verduisterd"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:07.859806972Z",
+  "model": "glm-5.3"
+}

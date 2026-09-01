@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "In mijn hart heb ik uw uitspraak verborgen, om niet tegen u te zondigen.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "in mijn hart"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "heb ik verborgen"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "uw uitspraak"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "te zondigen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tegen u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:34.523738453Z",
+  "model": "glm-5.3"
+}

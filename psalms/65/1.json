@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "Voor de koorleider. Een mizmor van Dawid, een lied.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Voor de koorleider"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "een lied"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:03.807600731Z",
+  "model": "glm-5.3"
+}

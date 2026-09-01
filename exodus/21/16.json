@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En wie een man steelt en hem verkoopt, en hij wordt in zijn hand gevonden — hij zal zeker gedood worden.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "En wie steelt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "en hem verkoopt"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "en hij wordt gevonden"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in zijn hand"
+    },
+    {
+      "surface": "מות",
+      "gloss": "gedood"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal hij zeker gedood worden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:35.962806223Z",
+  "model": "glm-5.3"
+}

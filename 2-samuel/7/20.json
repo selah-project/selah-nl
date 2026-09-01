@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En wat kan David nog meer spreken tot U? Maar Gij, Gij kent ⟨את⟩ Uw knecht, Adonai Jahweh.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "kan nog meer"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "spreken"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "maar Gij"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Gij kent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uw knecht"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "Uw knecht"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:51:46.088432875Z",
+  "model": "glm-5.3"
+}

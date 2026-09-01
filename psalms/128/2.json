@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 128,
+  "translation": "Het gewrocht van je handen zul je eten — gelukkig ben je, en goed ⟨zal het⟩ je gaan.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "het gewrocht"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "van je handen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "zul je eten"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "gelukkig ben je"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "en goed"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:22.241681745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 33:7",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En jij, mensenkind, als wachter heb Ik jou gegeven aan het huis van Jisraël; jij zult uit Mijn mond een woord horen en hen waarschuwen ⟨את⟩ namens Mij.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "En jij"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mensenkind (zoon van)"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "wachter"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "heb Ik jou gegeven"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "aan het huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "jij zult horen"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "uit Mijn mond"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "een woord"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "en waarschuwen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen (het huis van Jisraël)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "namens Mij (van Mij)"
+    }
+  ],
+  "timestamp": "2026-08-31T21:49:53.603305217Z",
+  "model": "glm-5.3"
+}

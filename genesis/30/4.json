@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En zij gaf hem ⟨את⟩ Bilha, haar dienstmaagd, tot vrouw; en Jaäkov ging naar haar toe.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "En zij gaf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "haar dienstmaagd"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "tot vrouw"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en ging"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "naar haar toe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:30.710345097Z",
+  "model": "glm-5.3"
+}

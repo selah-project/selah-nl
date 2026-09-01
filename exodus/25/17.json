@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En je zult een kapporet maken van zuiver goud: twee el en een half ⟨zal⟩ haar lengte ⟨zijn⟩, en een el en een half haar breedte.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en je zult maken"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kapporet (deksel)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "zuiver"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "twee el"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en een half"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "haar lengte"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en een el"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en een half"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "haar breedte"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:53.201390262Z",
+  "model": "glm-5.3"
+}

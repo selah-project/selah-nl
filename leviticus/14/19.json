@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En de priester zal de zondeoffer bereiden ⟨את⟩ en verzoening doen over hem die gereinigd wordt, van zijn onreinheid; en daarna zal hij het brandoffer slachten ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "zal bereiden"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zondeoffer"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "de zondeoffer"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "en verzoening doen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "hem die gereinigd wordt"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "van zijn onreinheid"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "zal slachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het brandoffer"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "het brandoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:24.759266507Z",
+  "model": "glm-5.3"
+}

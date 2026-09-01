@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Jahweh vergeldt mij naar mijn rechtvaardigheid, naar de reinheid van mijn handen keert hij ⟨mij⟩ vergelding terug.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "vergeldt mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "naar mijn rechtvaardigheid"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "naar de reinheid"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "van mijn handen"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "keert terug"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:01.748607661Z",
+  "model": "glm-5.3"
+}

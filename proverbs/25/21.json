@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Als uw vijand hongert, geef hem brood te eten; en als hij dorst heeft, geef hem water te drinken.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hongert"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "uw vijand"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "geef hem te eten"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "dorst heeft"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "geef hem te drinken"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:01.771061883Z",
+  "model": "glm-5.3"
+}

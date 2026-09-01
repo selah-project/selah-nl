@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Moge het voor hem zijn als ⟨een⟩ kleed waarmee hij zich bekleedt, en als een gordel die hij steeds omgordt.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "moge het zijn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "als een kleed"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "waarmee hij zich bekleedt"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "en als een gordel"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "steeds"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "die hij omgordt"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:18.569790675Z",
+  "model": "glm-5.3"
+}

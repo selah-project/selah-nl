@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Verwoesting en gruwel zijn ⟨geschied⟩ in het land.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "verwoesting"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "en gruwel"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "is geschied"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    }
+  ],
+  "timestamp": "2026-08-31T21:28:10.291604010Z",
+  "model": "glm-5.3"
+}

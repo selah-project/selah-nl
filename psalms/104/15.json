@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "en wijn die het hart van de sterveling verblijdt, om het gezicht te doen glimmen van olie, en brood dat het hart van de sterveling schraagt.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "en wijn"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "verblijdt"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "van de sterveling"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "te doen glimmen"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "het gezicht"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "van olie"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "en brood"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "van de sterveling"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "schraagt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:06.618067800Z",
+  "model": "glm-5.3"
+}

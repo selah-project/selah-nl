@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Want voor elk verlangen ⟨is er⟩ een tijd en een rechtspraak, want het kwaad van de mens is groot over hem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "voor elk"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "verlangen"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨is er⟩"
+    },
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en een rechtspraak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "het kwaad"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:55.439389828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "En ruk het woord van waarheid niet geheel weg uit mijn mond, want op Uw rechtsregelen heb ik gehoopt.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "ruk weg"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "uit mijn mond"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "van waarheid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "geheel"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "heel zeer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "op Uw rechtsregelen"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "heb ik gehoopt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:15.493786955Z",
+  "model": "glm-5.3"
+}

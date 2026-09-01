@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Barak riep Zevuloen ⟨את⟩ en Naftali ⟨את⟩ samen in Kedesj, en hij trok op te voet, tienduizend man, en Devora trok met hem op.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "en riep samen"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zevuloen"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevuloen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "in Kedesj"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en hij trok op"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "te voet"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "en zij trok op"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    }
+  ],
+  "timestamp": "2026-08-31T20:36:22.214659032Z",
+  "model": "glm-5.3"
+}

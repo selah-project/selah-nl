@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En de kinderen van Jisraëel zullen ⟨את⟩ de sjabbat bewaren, om ⟨את⟩ de sjabbat te doen, voor hun generaties, ⟨als⟩ een eeuwig verbond.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "en zullen bewaren"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraëel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de sjabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "de sjabbat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de sjabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "de sjabbat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "voor hun generaties"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "verbond"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:56.824821204Z",
+  "model": "glm-5.3"
+}

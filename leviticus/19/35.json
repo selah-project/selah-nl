@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Jullie moeten geen onrecht doen in het recht, in de maatlengte, in het gewicht en in de inhoudsmaat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "moeten jullie doen"
+    },
+    {
+      "surface": "עול",
+      "gloss": "onrecht"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in het recht"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "in de maatlengte"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "in het gewicht"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "en in de inhoudsmaat"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:09.675364416Z",
+  "model": "glm-5.3"
+}

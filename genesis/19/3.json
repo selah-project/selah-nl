@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 19:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En hij drong bij hen sterk aan, en zij wenden zich tot hem en kwamen zijn huis binnen; en hij maakte hun een feestmaal en bakte matsot, en zij aten.",
+  "tokens": [
+    {
+      "surface": "ויפצר",
+      "gloss": "en hij drong aan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bij hen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "en zij wenden zich"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en zij kwamen binnen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "een feestmaal"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "en matsot"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "hij bakte"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "en zij aten"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:11.839284924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En u zult ⟨את⟩ het verzoendeksel op de ark van de getuigenis zetten, in het heilige der heiligen.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "en u zult zetten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het verzoendeksel"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "het verzoendeksel"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "van de getuigenis"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in het heilige"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "der heiligen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:58.841855012Z",
+  "model": "glm-5.3"
+}

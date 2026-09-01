@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Hij zelf bouwde ⟨את⟩ Eilot en bracht het terug aan Jehoeda, nadat de koning was ontslaapt bij zijn vaders.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "hij zelf"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eilot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "en bracht het terug"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "aan Jehoeda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "was ontslaapt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    }
+  ],
+  "timestamp": "2026-08-31T23:09:28.012154768Z",
+  "model": "glm-5.3"
+}

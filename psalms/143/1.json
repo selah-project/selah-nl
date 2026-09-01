@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 143,
+  "translation": "Een mizmor van David. Jahweh, hoor mijn gebed, luister naar mijn smeking; in uw emoena antwoord mij, in uw tsedaka.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mijn gebed"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "luister"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mijn smeking"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "in uw emoena"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord mij"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "in uw tsedaka"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:39.658162772Z",
+  "model": "glm-5.3"
+}

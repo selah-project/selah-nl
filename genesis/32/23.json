@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En hij stond op in die nacht, en nam zijn twee vrouwen en ⟨את⟩ zijn twee dienstmaagden en ⟨את⟩ zijn elf kinderen, en hij liet ⟨את⟩ de overtocht van de Jabbok oversteken.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en hij stond op"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in die nacht"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "die (zelfde)"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn twee vrouwen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "zijn vrouwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn twee dienstmaagden"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "zijn dienstmaagden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn elf kinderen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-tien)"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "zijn kinderen"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "en hij liet oversteken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de overtocht van de Jabbok"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "de overtocht"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Jabbok"
+    }
+  ],
+  "timestamp": "2026-08-31T23:14:55.849829209Z",
+  "model": "glm-5.3"
+}

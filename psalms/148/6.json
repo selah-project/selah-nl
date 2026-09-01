@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 148,
+  "translation": "En hij stelde hen ⟨vast⟩ voor eeuwig, tot ⟨de⟩ eeuw toe; een verordening gaf hij, en het zal niet worden overschreden.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "en hij stelde hen vast"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot de eeuw toe"
+    },
+    {
+      "surface": "חק",
+      "gloss": "een verordening"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf hij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "zal worden overschreden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:29.589386198Z",
+  "model": "glm-5.3"
+}

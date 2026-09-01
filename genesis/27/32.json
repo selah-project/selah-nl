@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En Jitschak zijn vader zei tegen hem: Wie bent u? En hij zei: Ik ben uw zoon, uw eerstgeborene, Esav.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tegen hem"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bent u"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik ben"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "uw zoon"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "uw eerstgeborene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:05.342227920Z",
+  "model": "glm-5.3"
+}

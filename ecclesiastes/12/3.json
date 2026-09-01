@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "op de dag dat de bewakers van het huis beven en de machtige mannen zich krommen, en de maalstenen ophouden omdat ze weinig geworden zijn, en die door de vensters kijken, verduisterd worden;",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op de dag dat"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "beven"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "de bewakers van"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "en zich krommen"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "de mannen van"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "de macht"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "en ophouden"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "de maalstenen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "ze weinig geworden zijn"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "en verduisterd worden"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "die kijken"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "door de vensters"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:44.081793671Z",
+  "model": "glm-5.3"
+}

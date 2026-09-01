@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 8:4",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Ik zag ⟨את⟩ de ram naar het westen stoten en naar het noorden en naar het zuiden, en geen van alle dieren kon voor ⟨zijn⟩ aangezicht standhouden, en er was niemand die uit zijn hand redde; en hij deed naar zijn wil en werd groot.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ik zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "de ram"
+    },
+    {
+      "surface": "מנגח",
+      "gloss": "stotend"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "naar het westen"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "en naar het noorden"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "en naar het zuiden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en geen van alle"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "dieren"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "kon standhouden"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor zijn aangezicht"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er was niemand"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "die redde"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "uit zijn hand"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en hij deed"
+    },
+    {
+      "surface": "כרצנו",
+      "gloss": "naar zijn wil"
+    },
+    {
+      "surface": "והגדיל",
+      "gloss": "en werd groot"
+    }
+  ],
+  "timestamp": "2026-08-31T23:28:05.077464063Z",
+  "model": "glm-5.3"
+}

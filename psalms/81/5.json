@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 81,
+  "translation": "Want een verordening voor Israël is het, een rechtsregel voor de Elohim van Jaakov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חק",
+      "gloss": "een verordening"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "voor Israël"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is het"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "een rechtsregel"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "voor de Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:39.943934174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "⟨את⟩ de nagroei van je oogst zul je niet maaien, en ⟨את⟩ de druiven van je ongesnoeide wijnstok zul je niet lezen; een jaar van sabbatrust zal het land ⟨hebben⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de nagroei van je oogst"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "nagroei"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "van je oogst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "zul je maaien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de druiven van je ongesnoeide wijnstok"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "de druiven"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "van je ongesnoeide wijnstok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבצור",
+      "gloss": "zul je lezen"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "een jaar"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "van sabbatrust"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "voor het land"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:23.937541091Z",
+  "model": "glm-5.3"
+}

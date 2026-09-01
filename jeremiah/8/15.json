@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Wij hoopten op sjalom, maar er is geen goed; op een tijd van genezing, en zie: verschrikking.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "wij hoopten"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "op sjalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maar er is geen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "op een tijd van"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "genezing"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "verschrikking"
+    }
+  ],
+  "timestamp": "2026-08-31T21:29:57.866129980Z",
+  "model": "glm-5.3"
+}

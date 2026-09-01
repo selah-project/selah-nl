@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Van mij is het zilver, en van mij het goud, ⟨is⟩ de uitspraak van Jahweh van de legerscharen.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "het zilver"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "en van mij"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "het gold"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "de uitspraak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "loss": "",
+      "gloss": "van de legerscharen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:02:05.904232525Z",
+  "model": "glm-5.3"
+}

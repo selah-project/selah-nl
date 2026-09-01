@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 80:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "Dan zullen wij niet van u wijken; maak ons levend, en wij zullen op uw Naam aanroepen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "zullen wij wijken"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "van u"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "maak ons levend"
+    },
+    {
+      "surface": "ובשמך",
+      "gloss": "en op uw Naam"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "zullen wij aanroepen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:37.488171411Z",
+  "model": "glm-5.3"
+}

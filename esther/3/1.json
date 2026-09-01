@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Na deze dingen verhief de koning Achasjverosj ⟨את⟩ Haman, zoon van Hamdata de Agagiet, en hij verhief hem, en hij zette ⟨את⟩ zijn troon boven alle vorsten die ⟨את⟩⟨bij⟩ hem waren.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "deze dingen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "verhief"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achasjverosj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "van Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "de Agagiet"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "en hij verhief hem"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en hij zette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn troon"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "zijn troon"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "boven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "vorsten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:21.754094463Z",
+  "model": "glm-5.3"
+}

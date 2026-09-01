@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Toen ging Amasa weg om ⟨את⟩ Jehoeda op te roepen; maar hij bleef langer uit dan de vastgestelde termijn die hij ⟨hem⟩ gesteld had.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "toen ging weg"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "om op te roepen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoeda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "maar hij bleef uit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "langer dan"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "de vastgestelde termijn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "hij gesteld had"
+    }
+  ],
+  "timestamp": "2026-08-31T20:55:55.458909643Z",
+  "model": "glm-5.3"
+}

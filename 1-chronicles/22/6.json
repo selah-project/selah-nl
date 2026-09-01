@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 22:6",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Hij riep Sjelomo, zijn zoon, en gebood hem ⟨een⟩ huis te bouwen voor Jahweh, de Elohim van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "riep"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "voor Sjelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "gebood hem"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "te bouwen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:03:14.145703294Z",
+  "model": "glm-5.3"
+}

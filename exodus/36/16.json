@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En hij verbond ⟨את⟩ de vijf voorhangen afzonderlijk, en ⟨את⟩ de zes voorhangen afzonderlijk.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "En hij verbond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vijf voorhangen"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "de vijf"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "voorhangen"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "afzonderlijk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de zes voorhangen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "de zes"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "voorhangen"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "afzonderlijk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:00.088706703Z",
+  "model": "glm-5.3"
+}

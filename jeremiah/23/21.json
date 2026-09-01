@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Ik heb ⟨את⟩ de profeten niet gezonden, en zij zijn gaan lopen; ik heb niet tot hen gesproken, en zij hebben geprofeteerd.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "heb ik gezonden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de profeten"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "de profeten"
+    },
+    {
+      "surface": "והם",
+      "gloss": "en zij"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "zijn gaan lopen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "heb ik gesproken"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "והם",
+      "gloss": "en zij"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "hebben geprofeteerd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:33:09.037596458Z",
+  "model": "glm-5.3"
+}

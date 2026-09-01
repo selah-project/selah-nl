@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Jahweh is mijn kracht en mijn schild; op hem heeft mijn hart vertrouwd en ik ben geholpen, en mijn hart jubelt, en met mijn lied loof ik hem.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "mijn kracht"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "en mijn schild"
+    },
+    {
+      "surface": "בו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "heeft vertrouwd"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "en ik ben geholpen"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "en jubelt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "en met mijn lied"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "loof ik hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:20.643586066Z",
+  "model": "glm-5.3"
+}

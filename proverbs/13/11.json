@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Vermogen uit ijdelheid wordt minder, maar wie verzamelt met de hand vermenigvuldigt.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "vermogen"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "uit ijdelheid"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "wordt minder"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "maar wie verzamelt"
+    },
+    {
+      "surface": "על",
+      "gloss": "met"
+    },
+    {
+      "surface": "יד",
+      "gloss": "de hand"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "vermenigvuldigt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:19.798740062Z",
+  "model": "glm-5.3"
+}

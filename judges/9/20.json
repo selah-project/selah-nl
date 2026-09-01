@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "en zo niet, dan kome er vuur uit van Avimelech en verteere ⟨את⟩ de heren van Sjechem en ⟨את⟩ het huis Milo; en kome er vuur uit van de heren van Sjechem en uit het huis Milo, en verteere ⟨את⟩ Avimelech.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en zo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kome uit"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "uit Avimelech"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "en verteere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de heren van Sjechem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "de heren"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "van Sjechem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het huis Milo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "en kome uit"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "uit de heren"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "van Sjechem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "en uit het huis"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "en verteere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    }
+  ],
+  "timestamp": "2026-08-31T20:38:06.215507378Z",
+  "model": "glm-5.3"
+}

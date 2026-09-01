@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En Jaäkov kuste Rachjel, en hij hief ⟨את⟩ zijn stem op en weende.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "kuste"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachjel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "hief op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn stem"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "zijn stem"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "weende"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:44.049228408Z",
+  "model": "glm-5.3"
+}

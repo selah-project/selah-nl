@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 1:28",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Elohim zegende ⟨את⟩ hen, en Elohim zei tot hen: Weest vruchtbaar en vermenigvuldigt en vult ⟨את⟩ de aarde en onderwerpt haar; en heerst over de vissen van de zee en over het gevogelte van de hemel en over alles wat leeft en zich roert op de aarde.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "en zegende"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "weest vruchtbaar"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "en vermenigvuldigt"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "en vult"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "en onderwerpt haar"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "en heerst"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "over de vissen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van de zee"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "en over het gevogelte"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van de hemel"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en over alles wat"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "leeft"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "zich roert"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:37:27.545007745Z",
+  "model": "glm-5.3"
+}

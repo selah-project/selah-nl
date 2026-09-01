@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Van het geluid van het gedruis vluchtten de volken; van uw verheffing werden de naties verstrooid.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "van het geluid van"
+    },
+    {
+      "surface": "המון",
+      "gloss": "het gedruis"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "vluchtten"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "van uw verheffing"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "werden verstrooid"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "de naties"
+    }
+  ],
+  "timestamp": "2026-08-31T21:20:05.865046839Z",
+  "model": "glm-5.3"
+}

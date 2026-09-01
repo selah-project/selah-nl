@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En wie houdt ⟨את⟩ de dag van zijn komstand, en wie blijft staan wanneer hij zich laat zien? Want hij ⟨is⟩ als het vuur van een smelter en als het loog van wassers.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "En wie"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "houdt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "van zijn komstand"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "blijft staan"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "wanneer hij zich laat zien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "als het vuur"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "van een smelter"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "en als het loog"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "van wassers"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:01.781155052Z",
+  "model": "glm-5.3"
+}

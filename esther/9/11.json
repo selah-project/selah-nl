@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Op die dag kwam het getal van de gedoden in Sjoesjan ⟨de⟩ burcht vóór de koning.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwam"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "het getal van"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "de gedoden"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "in Sjoesjan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "de burcht"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vóór"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:40.557587765Z",
+  "model": "glm-5.3"
+}

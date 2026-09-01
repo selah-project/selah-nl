@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Uitgelezen zilver ⟨is⟩ de tong van de rechtvaardige; het hart van de goddelozen ⟨is⟩ als nietswaardigs.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "uitgelezen"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "de tong"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van de rechtvaardige"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "als nietswaardigs"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:12.097295959Z",
+  "model": "glm-5.3"
+}

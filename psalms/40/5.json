@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Hoe gelukkig ⟨is⟩ de man die Jahweh tot zijn toevlucht heeft gesteld, en die zich niet heeft gewend tot de aanmatigenden en de afwijkers ⟨naar⟩ leugen.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "hoe gelukkig"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "de man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שם",
+      "gloss": "heeft gesteld"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "tot zijn toevlucht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "zich heeft gewend"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "de aanmatigenden"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "en de afwijkers"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "leugen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:25.493114340Z",
+  "model": "glm-5.3"
+}

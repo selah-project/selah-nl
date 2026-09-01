@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Verberg uw aangezicht niet voor mij, buig niet af in toorn ⟨over⟩ uw dienaar; mijn hulp bent u geweest. Verwerp mij niet en verlaat mij niet, Elohim van mijn ⟨heil⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "verberg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תט",
+      "gloss": "buig af"
+    },
+    {
+      "surface": "באף",
+      "gloss": "in toorn"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "mijn hulp"
+    },
+    {
+      "surface": "היית",
+      "gloss": "bent u geweest"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "verwerp mij"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "verlaat mij"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "van mijn heil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:39.555725485Z",
+  "model": "glm-5.3"
+}

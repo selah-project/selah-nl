@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "opdat het land jullie niet uitbraakt wanneer jullie het onrein maken, zoals het ⟨את⟩ de natie heeft uitgebraakt die vóór jullie ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "uitbraakt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "wanneer jullie het onrein maken"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ het"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "heeft uitgebraakt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de natie"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "de natie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "vóór jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:18.377972948Z",
+  "model": "glm-5.3"
+}

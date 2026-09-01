@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 12:5",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En hij zei tot hen: ⟨Een⟩ getuige is Jahweh bij u, en ⟨een⟩ getuige ⟨is⟩ zijn Masjiach heden ⟨deze dag⟩, dat u niets in mijn hand gevonden hebt. En zij zeiden: ⟨Hij is⟩ getuige.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "getuige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "bij u"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en ⟨een⟩ getuige"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "zijn Masjiach"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze ⟨dag⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מצאתם",
+      "gloss": "u gevonden hebt"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "in mijn hand"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "niets"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "getuige"
+    }
+  ],
+  "timestamp": "2026-08-31T20:44:09.725012472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En heel het volk zag ⟨את⟩ de donderslagen en ⟨את⟩ de bliksemen en ⟨את⟩ de klank van de sjofar en ⟨את⟩ de rokende berg; en het volk zag ⟨het⟩, en zij beefden en stonden van verre.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "En heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de donderslagen"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "de donderslagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de bliksemen"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "de bliksemen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de klank van de sjofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "de klank"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "van de sjofar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de rokende berg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "rokende"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "en zij beefden"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "en stonden"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "van verre"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:06.302432413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En zij gaat uit zijn huis en gaat heen en wordt ⟨de vrouw⟩ van een andere man.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "en zij gaat uit"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "uit zijn huis"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "en gaat heen"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "en wordt"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "van een man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "een andere"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:27.680853643Z",
+  "model": "glm-5.3"
+}

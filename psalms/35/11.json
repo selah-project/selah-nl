@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Gewelddadige getuigen staan op; wat ik niet gekend heb, vragen zij mij.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "staan op"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "getuigen"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "gewelddadige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ik gekend heb"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "vragen zij mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:13.854771156Z",
+  "model": "glm-5.3"
+}

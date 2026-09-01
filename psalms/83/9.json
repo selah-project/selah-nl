@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "Ook Assjoer heeft zich ⟨bij⟩ hen gevoegd, zij zijn een arm geweest voor de kinderen van Lot. Sela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assjoer"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "heeft zich gevoegd"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "⟨bij⟩ hen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zij zijn geweest"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "een arm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "voor de kinderen"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "van Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:18.264608456Z",
+  "model": "glm-5.3"
+}

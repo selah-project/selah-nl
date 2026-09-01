@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 53,
+  "translation": "Een naval zei in zijn hart: ⟨Er is⟩ geen Elohim. Zij hebben bedorven en gruwelijk onrecht gedaan; ⟨er is⟩ niemand die goed doet.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "een naval"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in zijn hart"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨er is⟩ geen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "hebben bedorven"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "en gruwelijk gedaan"
+    },
+    {
+      "surface": "עול",
+      "gloss": "onrecht"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨er is⟩ geen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doet"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:44.393141727Z",
+  "model": "glm-5.3"
+}

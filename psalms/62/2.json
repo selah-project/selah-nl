@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 62,
+  "translation": "Alleen tot Elohim ⟨is⟩ mijn nefesj stil, van Hem ⟨komt⟩ mijn heil.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Alleen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "stil"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van Hem"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mijn heil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:04.309538786Z",
+  "model": "glm-5.3"
+}

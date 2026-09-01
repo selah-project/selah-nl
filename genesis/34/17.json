@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Maar als jullie niet naar ons luisteren om u te laten besnijden, dan nemen wij ⟨את⟩ onze dochter en gaan wij weg.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Maar als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "jullie luisteren"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "naar ons"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "om u te laten besnijden"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "dan nemen wij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onze dochter"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "onze dochter"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "en gaan wij weg"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:51.678404863Z",
+  "model": "glm-5.3"
+}

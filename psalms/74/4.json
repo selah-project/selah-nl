@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Uw tegenstanders brullen in het midden van uw vergaderplaats; zij hebben hun tekenen als tekenen opgericht.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "brullen"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "uw tegenstanders"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "uw vergaderplaats"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zij hebben opgericht"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "hun tekenen"
+    },
+    {
+      "surface": "אותות",
+      "gloss": "als tekenen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:44.958685918Z",
+  "model": "glm-5.3"
+}

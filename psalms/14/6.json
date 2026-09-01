@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "⟨Gij⟩ maakt het plan van de arme te schande, want Jahweh is zijn toevlucht.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "het plan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "van de arme"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "maakt te schande"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "is zijn toevlucht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:52.158021318Z",
+  "model": "glm-5.3"
+}

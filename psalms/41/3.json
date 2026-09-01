@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Jahweh zal hem bewaren en hem in leven houden; hij zal gezegend ⟨zijn⟩ op ⟨de⟩ aarde — geef hem niet over in de begerige hand van zijn vijanden.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "zal hem bewaren"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "en hem in leven houden"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "gelukkig\/gemaakt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op ⟨de⟩ aarde"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "geef hem over"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "aan de begeerte"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "van zijn vijanden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:06.613753345Z",
+  "model": "glm-5.3"
+}

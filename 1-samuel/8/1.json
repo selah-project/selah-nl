@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En het gebeurde, toen Sjemoeël oud geworden was, dat hij zijn zonen tot rechters over Israël aanstelde ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toen"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "oud geworden was"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemooël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "aanstelde hij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "tot rechters"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "over Israël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:28.834439375Z",
+  "model": "glm-5.3"
+}

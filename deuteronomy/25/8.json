@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 25:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Dan moeten de oudsten van zijn stad hem ontbieden en met hem spreken; als hij blijft staan en zegt: ik heb geen zin haar te nemen —",
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "dan moeten ontbieden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de oudsten van"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "zijn stad"
+    },
+    {
+      "surface": "ודברו",
+      "gloss": "en spreken"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "als hij blijft staan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en zegt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "heb geen zin"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "haar te nemen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:19.747865113Z",
+  "model": "glm-5.3"
+}

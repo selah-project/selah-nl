@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Ook zullen allen die op U wachten niet beschaamd worden; beschaamd zullen de verraders ⟨worden⟩, ⟨maar⟩ tevergeefs.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "die op U wachten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "zullen beschaamd worden"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "beschaamd"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "de verraders"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tevergeefs"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:07.820306894Z",
+  "model": "glm-5.3"
+}

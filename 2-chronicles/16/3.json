@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "⟨Er is⟩ een verdrag tussen mij en u, en tussen mijn vader en uw vader; zie, ik heb u zilver en goud gestuurd; ga, verbreek uw verdrag met ⟨את⟩ Basja, koning van Jisraël, zodat hij van mij wegtrekt.",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "een verdrag"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen mij"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "en u"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mijn vader"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uw vader"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "heb ik gestuurd"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zilver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "verbreek"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "uw verdrag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basja"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "zodat hij wegtrekt"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van mij"
+    }
+  ],
+  "timestamp": "2026-08-31T23:29:03.989814079Z",
+  "model": "glm-5.3"
+}

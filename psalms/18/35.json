@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Die mijn handen leert voor de strijd, zodat mijn armen een boog van koper neerbuigen.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Die leert"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mijn handen"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "voor de strijd"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "en neerbuigen (zij)"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "een boog"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "van koper"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "mijn armen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:20.281945506Z",
+  "model": "glm-5.3"
+}

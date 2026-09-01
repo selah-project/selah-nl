@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jehudah veroverde ⟨את⟩ Aza met zijn gebied, en ⟨את⟩ Asjkelon met zijn gebied, en ⟨את⟩ Ekeron met zijn gebied.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "en hij veroverde"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn gebied"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "zijn gebied"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Asjkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Asjkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn gebied"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "zijn gebied"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Ekeron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekeron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn gebied"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "zijn gebied"
+    }
+  ],
+  "timestamp": "2026-08-31T20:35:10.516347142Z",
+  "model": "glm-5.3"
+}

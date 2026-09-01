@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Mordechai vertelde hem ⟨את⟩ alles wat hem overkomen was, en ⟨את⟩ het bedrag van het zilver dat Haman had gezegd te wegen in de schatkisten van de koning, betreffende de Joden, om hen te verdelgen.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "en hij vertelde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "hem overkomen was"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het bedrag van het zilver"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "het bedrag"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "van het zilver"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "had gezegd"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "te wegen"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "de schatkisten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "betreffende de Joden"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "om hen te verdelgen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:21.454172551Z",
+  "model": "glm-5.3"
+}

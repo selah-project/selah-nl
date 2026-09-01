@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "⟨את⟩ Chelkat met zijn weiland, en ⟨את⟩ Rechov met zijn weiland: vier steden.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Chelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn weiland"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "met zijn weiland"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rechov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn weiland"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "met zijn weiland"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "steden"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    }
+  ],
+  "timestamp": "2026-08-31T20:33:46.675094002Z",
+  "model": "glm-5.3"
+}

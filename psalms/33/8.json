@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Moge heel ⟨de⟩ aarde Jahweh vrezen; voor hem moge beefd worden door alle bewoners van de wereld.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "moge vrezen"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "moge beefd worden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bewoners"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "van de wereld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:02.240819618Z",
+  "model": "glm-5.3"
+}

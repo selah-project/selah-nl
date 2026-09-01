@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "Toen zei ik: zie, ik ben gekomen — in de boekrol ⟨is⟩ ⟨het⟩ geschreven over mij.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "toen"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "zei ik"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ik ben gekomen"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "in de boekrol"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "van het boek"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "geschreven"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:25.493625068Z",
+  "model": "glm-5.3"
+}

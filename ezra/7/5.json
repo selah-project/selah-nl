@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "zoon van Avisjoea, zoon van Pinechas, zoon van Elazar, zoon van Aharon, de priester, het hoofd ⟨⟨de opperpriester⟩⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avisjoea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "het hoofd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:51:37.224409035Z",
+  "model": "glm-5.3"
+}

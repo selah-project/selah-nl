@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Hij geve zijn wang aan hem die hem slaat, hij worde verzadigd met smaad.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "hij geve"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "aan hem die hem slaat"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "wang"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "hij worde verzadigd"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "met smaad"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:38.031646312Z",
+  "model": "glm-5.3"
+}

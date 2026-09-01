@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Het einde van de zaak, het geheel is gehoord: vrees Elohim en bewaar ⟨את⟩ zijn geboden, want dit ⟨is⟩ de hele mens.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "het einde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "van de zaak"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "het geheel"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "is gehoord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn geboden"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "zijn geboden"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:22.406062144Z",
+  "model": "glm-5.3"
+}

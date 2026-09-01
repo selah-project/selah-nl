@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Sjem leefde na het verwekken van ⟨את⟩ Arpachsjad vijfhonderd jaar, en hij verwekte zonen en dochters.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "En leefde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sjem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "het verwekken van"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpachsjad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpachsjad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hij verwekte"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "en dochters"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:07.271488194Z",
+  "model": "glm-5.3"
+}

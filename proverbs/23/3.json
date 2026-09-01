@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Verlang niet naar zijn lekkernijen, want het ⟨is⟩ brood van leugens.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "verlang"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "naar zijn lekkernijen"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "want het"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "van leugens"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:47.005808518Z",
+  "model": "glm-5.3"
+}

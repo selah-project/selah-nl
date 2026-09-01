@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "En hij bracht mij naar de tempel, en hij mat ⟨את⟩ de pilaren: zes el breed van hier, en zes el breed van daar — de breedte van de tent.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "en hij bracht mij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "de tempel"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "en hij mat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de pilaren"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "de pilaren"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zes"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "breed"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "van hier"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en zes"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "breed"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "de breedte"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "van de tent"
+    }
+  ],
+  "timestamp": "2026-08-31T23:45:00.147444433Z",
+  "model": "glm-5.3"
+}

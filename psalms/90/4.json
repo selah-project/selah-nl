@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 90,
+  "translation": "Want duizend jaren zijn in Uw ogen als de dag van gisteren, wanneer hij voorbijgaat, en als een nachtwake in de nacht.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaren"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in Uw ogen"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "als de dag"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "van gisteren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "hij voorbijgaat"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "en een nachtwake"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in de nacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:05.763798485Z",
+  "model": "glm-5.3"
+}

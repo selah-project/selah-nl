@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Hoelang zal ik plannen stellen in mijn nefesj, verdriet in mijn hart, dag aan dag? Hoelang zal mijn vijand zich boven mij verheffen?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hoe lang"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hoelang"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "zal ik stellen"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "plannen"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "in mijn nefesj"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "verdriet"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "in mijn hart"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag aan dag"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hoe lang"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hoelang"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "zal zich verheffen"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijand"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "boven mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:11.121580172Z",
+  "model": "glm-5.3"
+}

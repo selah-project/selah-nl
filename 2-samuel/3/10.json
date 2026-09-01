@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "om het koninkrijk te doen overgaan van het huis van Sjaoel, en om ⟨את⟩ de troon van David op te richten over Israël en over Jehoeda, van Dan tot Beër-Sjeva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "om te doen overgaan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "het koninkrijk"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "van het huis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sjaoel"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "en om op te richten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de troon van David"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "de troon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en over"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "van Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beër"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sjeva"
+    }
+  ],
+  "timestamp": "2026-08-31T20:50:09.411028007Z",
+  "model": "glm-5.3"
+}

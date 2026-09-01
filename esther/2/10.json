@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Estjer had ⟨את⟩ haar volk en ⟨את⟩ haar afkomst niet bekendgemaakt, want Mordechai had haar geboden dat zij het niet zou bekendmaken.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "had bekendgemaakt"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estjer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar volk"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "haar volk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haar afkomst"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "haar afkomst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "had geboden"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "aan haar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "zij zou bekendmaken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:44:53.564801112Z",
+  "model": "glm-5.3"
+}

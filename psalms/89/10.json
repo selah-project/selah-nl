@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "U heerst over de trots van de zee; bij het verheffen van zijn golven — U stilt ze.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "heerst"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "over de trots"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van de zee"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "bij het verheffen"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "van zijn golven"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "stilt ze"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:12.124664092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Avraham ⟨was⟩ een zoon van honderd jaar bij ⟨het⟩ geboren worden aan hem van ⟨את⟩ Jitschak, zijn zoon.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "En Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "bij ⟨het⟩ geboren worden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:35.886093465Z",
+  "model": "glm-5.3"
+}

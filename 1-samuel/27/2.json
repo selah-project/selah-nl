@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En David stond op en trok over, hij en zeshonderd man die bij hem ⟨waren⟩, naar Akis, zoon van Maoch, koning van Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en hij stond op"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "en trok over"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en zes"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akis"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Maoch"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-08-31T20:49:21.389263642Z",
+  "model": "glm-5.3"
+}

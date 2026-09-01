@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En Mosjee zei: Eet het heden, want heden is een sjabbat voor Jahweh; heden zullen jullie het niet vinden op het veld.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … zei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "eet het"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sjabbat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "zullen jullie het vinden"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:05.789087922Z",
+  "model": "glm-5.3"
+}

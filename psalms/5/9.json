@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Jahweh, leid mij in uw gerechtigheid omwille van mijn tegenstanders; maak ⟨voor mijn aangezicht⟩ uw weg recht.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "leid mij"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "in uw gerechtigheid"
+    },
+    {
+      "surface": "למען",
+      "gloss": "omwille van"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "mijn tegenstanders"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "maak recht"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor mijn aangezicht"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "uw weg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:23.856673800Z",
+  "model": "glm-5.3"
+}

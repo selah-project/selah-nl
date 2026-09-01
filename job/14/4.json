@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Wie geeft iets reins uit iets onreins? Niet één!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "reins"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "uit onreins"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:52.704371067Z",
+  "model": "glm-5.3"
+}

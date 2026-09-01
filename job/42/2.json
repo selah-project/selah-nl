@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Ik weet dat U alles vermag, en dat geen voornemen voor U onuitvoerbaar is.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ik weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "U vermag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "onuitvoerbaar is"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "voor U"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "voornemen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:28.978129526Z",
+  "model": "glm-5.3"
+}

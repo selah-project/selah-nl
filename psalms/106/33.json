@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Want zij verbitterden ⟨את⟩ zijn roeach, en hij sprak overhaast met zijn lippen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "verbitterden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn roeach"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "zijn roeach"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "en hij sprak overhaast"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "met zijn lippen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:47.629972340Z",
+  "model": "glm-5.3"
+}

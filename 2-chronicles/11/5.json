@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Rechavam woonde in Jeroesjalajim, en hij bouwde steden tot vesting in Jehoeda.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en hij woonde"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeroesjalajim"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "steden"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "tot vesting"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "in Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T23:05:58.758625918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En zij doen een vergadering tegen je opkomen, en zij stenigen ⟨את⟩ jou met stenen, en zij doorboren je met hun zwaarden.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "en zij doen opkomen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tegen je"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "een vergadering"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "en zij stenigen"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "jou"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "met stenen"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "en zij doorboren je"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "met hun zwaarden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:44:54.418562479Z",
+  "model": "glm-5.3"
+}

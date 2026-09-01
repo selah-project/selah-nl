@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 1:19",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de koning sprak met ⟨את⟩ hen, en er werd onder hen allen niemand gevonden zoals Daniël, Chananja, Mishaël en Azarja; en zij stonden voor het aangezicht van de koning.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en sprak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "werd gevonden"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "onder hen allen"
+    },
+    {
+      "surface": "כדניאל",
+      "gloss": "zoals Daniël"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Chananja"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishaël"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "en Azarja"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "en zij stonden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:52.837760081Z",
+  "model": "glm-5.3"
+}

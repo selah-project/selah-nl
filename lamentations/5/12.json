@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Vorsten zijn door hun hand opgehangen; het aangezicht van oudsten is niet geëerd.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "vorsten"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "door hun hand"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "zijn opgehangen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "van oudsten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "is geëerd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:17.822666288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Achituv verwekte ⟨את⟩ Tsadok, en Tsadok verwekte ⟨את⟩ Sjallum.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "en Achituv"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "en Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Sjallum"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:56.867203320Z",
+  "model": "glm-5.3"
+}

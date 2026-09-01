@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "Wend uw plaag van mij af; door ⟨de⟩ strijd van uw hand ben ik vergaan.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "wend af"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "uw plaag"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "door de strijd"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "van uw hand"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ben vergaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:58.756372357Z",
+  "model": "glm-5.3"
+}

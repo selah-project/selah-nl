@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Par'o gaf mannen opdracht over hem, en zij stuurden hem weg, ⟨את⟩ zijn vrouw en ⟨את⟩ alles wat hij had.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "gaf opdracht"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over hem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "en zij stuurden weg"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn vrouw"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat hij had"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hij had"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:37.434382555Z",
+  "model": "glm-5.3"
+}

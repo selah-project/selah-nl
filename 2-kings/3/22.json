@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En zij stonden vroeg op in de morgen, en de zon scheen op het water, en Moav zag vanover tegen ⟨את⟩ het water ⟨dat het⟩ rood was als bloed.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "en zij stonden vroeg op"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "en de zon"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "scheen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המים",
+      "gloss": "het water"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "vanover tegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het water"
+    },
+    {
+      "surface": "המים",
+      "gloss": "het water"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "rood"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "als bloed"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:04.021361858Z",
+  "model": "glm-5.3"
+}

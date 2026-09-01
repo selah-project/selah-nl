@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Jahweh, onze Elohim, sneed ⟨een⟩ verbond met ons bij de Chorev.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sneed"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "met ons"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "verbond"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bij de Chorev"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:08.211696891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "Voor de koorleider, voor de zonen van Korach, een psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "voor de zonen van"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een psalm"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:14.398785795Z",
+  "model": "glm-5.3"
+}

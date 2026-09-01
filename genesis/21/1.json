@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Jahweh bezocht ⟨את⟩ Sara, zoals Hij gezegd had; en Jahweh deed aan Sara wat Hij gesproken had.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "En Jahweh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "bezocht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gezegd had"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en deed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "aan Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken had"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:44.877928883Z",
+  "model": "glm-5.3"
+}

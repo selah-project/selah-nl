@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En Avimelech zei tot Jitschak: Ga van ons weg, want jij bent machtiger geworden dan wij, zeer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "van ons weg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "jij bent machtiger geworden"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dan wij"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:47.541356556Z",
+  "model": "glm-5.3"
+}

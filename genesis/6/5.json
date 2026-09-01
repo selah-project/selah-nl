@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Jahweh zag dat de slechtheid van de mens groot was op aarde, en dat elk vormsel van de overwegingen van zijn hart alleen maar slecht was, de hele dag.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en zag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "groot was"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "de slechtheid"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van de mens"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op aarde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en elk"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "vormsel"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "van de overwegingen"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "van zijn hart"
+    },
+    {
+      "surface": "רק",
+      "gloss": "alleen maar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slecht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:38.248914747Z",
+  "model": "glm-5.3"
+}

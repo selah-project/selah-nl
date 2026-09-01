@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Ook wanneer ik schreeuw en om hulp roep, heeft hij mijn gebed gestopt.",
+  "tokens": [
+    {
+      "surface": "םם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ik schreeuw"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "en om hulp roep"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "heeft hij gestopt"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mijn gebed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:57.315861069Z",
+  "model": "glm-5.3"
+}

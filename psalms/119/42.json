@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "En ik zal hem die mij smaadt een antwoord ⟨kunnen⟩ geven, want ik heb vertrouwd op Uw woord.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "en ik zal antwoorden"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "mijn smader"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "een woord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ik heb vertrouwd"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "op Uw woord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:15.493668983Z",
+  "model": "glm-5.3"
+}

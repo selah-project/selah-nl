@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Jahweh — in zijn heilige paleis; Jahweh — in de hemelen is zijn troon. Zijn ogen aanschouwen, zijn oogleden onderzoeken de mensenkinderen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "in zijn paleis"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "zijn heilige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemelen"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "zijn troon"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "zijn ogen"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "aanschouwen"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "zijn oogleden"
+    },
+    {
+      "surface": "יבחנu",
+      "gloss": "onderzoeken"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van de mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:22.101251101Z",
+  "model": "glm-5.3"
+}

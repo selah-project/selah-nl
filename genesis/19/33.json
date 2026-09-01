@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En zij lieten hun vader die nacht wijn drinken, en de oudste ging in en lag bij haar vader; en hij merkte het niet toen zij ging liggen, noch toen zij opstond.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "en zij lieten drinken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun vader"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "hun vader"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wijn"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "die nacht"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "en ging in"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "de oudste"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "en lag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar vader"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "haar vader"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "merkte hij"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "toen zij ging liggen"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "noch toen zij opstond"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:38.774235890Z",
+  "model": "glm-5.3"
+}

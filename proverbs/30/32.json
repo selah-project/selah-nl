@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Als jij dwaas gehandeld hebt door jezelf te verheffen, en als jij kwaad beraamd hebt — leg ⟨dan⟩ je hand op je mond.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "jij dwaas gehandeld hebt"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "door jezelf te verheffen"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "jij kwaad beraamd hebt"
+    },
+    {
+      "surface": "יד",
+      "gloss": "leg ⟨dan⟩ je hand"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "op je mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:59.123380750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En hun hart was niet standvastig met hem, en zij bleven niet trouw aan zijn verbond.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "en hun hart"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "standvastig"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "bleven zij trouw"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "aan zijn verbond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:03.018649377Z",
+  "model": "glm-5.3"
+}

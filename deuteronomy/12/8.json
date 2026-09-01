@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "U zult niet doen naar alles wat wij hier heden doen, ieder ⟨wat⟩ recht is in zijn eigen ogen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "u zult doen"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "naar alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wij"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "doen"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "recht"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in zijn eigen ogen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:28.094344919Z",
+  "model": "glm-5.3"
+}

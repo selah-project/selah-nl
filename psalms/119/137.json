@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Rechtvaardig ben jij, Jahweh, en recht ⟨zijn⟩ je oordelen.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "en recht"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "je oordelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:06.879638563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En het volk wordt verdrukt, man door ⟨de⟩ man, en ieder door zijn naaste; de jongeling zal overmoedig zijn tegen de grijsaard, en de geringe tegen de eerbare.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "en wordt verdrukt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "door ⟨de⟩ man"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en ieder"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "door zijn naaste"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "zal overmoedig zijn"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "de jongeling"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "tegen de grijsaard"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "en de geringe"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "tegen de eerbare"
+    }
+  ],
+  "timestamp": "2026-08-31T21:13:27.823773457Z",
+  "model": "glm-5.3"
+}

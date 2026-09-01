@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ik dwaalde als een verloren schaap — zoek uw dienaar, want uw geboden ben ik niet vergeten.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "ik dwaalde"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "als een schaap"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "verloren"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "zoek"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "uw geboden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ben ik vergeten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:50.512273687Z",
+  "model": "glm-5.3"
+}

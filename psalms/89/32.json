@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "als zij mijn chukkot ontheiligen en mijn mitswot niet bewaren,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mijn chukkot"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ontheiligen"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "en mijn mitswot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bewaren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:23.482393846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "want hun voeten rennen naar het kwaad, en zij haasten zich om bloed te vergieten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "hun voeten"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "naar het kwaad"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "rennen"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "en zij haasten zich"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "om te vergieten"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:34.928608966Z",
+  "model": "glm-5.3"
+}

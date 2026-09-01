@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En Ja'akov hun vader zei tot hen: ⟨את⟩ mij hebben jullie beroofd ⟨van kinderen⟩; Joesef is er niet, en Shim'on is er niet, en ⟨את⟩ Binjamin zullen jullie nemen — op mij is dit alles gekomen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "hun vader"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mij",
+      "marks": "mij"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "hebben jullie beroofd"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "is er niet"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "en Shim'on"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "is er niet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "zullen jullie nemen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op mij"
+    },
+    {
+      "surface": "היו",
+      "gloss": "is gekomen"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "dit alles"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:07.725234961Z",
+  "model": "glm-5.3"
+}

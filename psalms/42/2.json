@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Zoals een hertenkoer hunkert naar waterstromen, zo hunkert mijn nefesj naar U, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "zoals een hertenkoer"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "hunkert"
+    },
+    {
+      "surface": "על",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "waterstromen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "hunkert"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "naar U"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:22.879617970Z",
+  "model": "glm-5.3"
+}

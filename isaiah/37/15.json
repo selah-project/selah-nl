@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En Chizkijahoe bad tot Jahweh, zeggende:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "En … bad"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahoe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:06.607751751Z",
+  "model": "glm-5.3"
+}

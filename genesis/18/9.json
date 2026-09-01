@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En zij zeiden tot hem: Waar is Sjara, jouw vrouw? En hij zei: Zie, in de tent.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar is"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sjara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "jouw vrouw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in de tent"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:47.635345102Z",
+  "model": "glm-5.3"
+}

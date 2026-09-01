@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "die Hij sneed ⟨את⟩ met Avraham, en zijn eed aan Jitschak,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sneed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "en zijn eed"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "aan Jitschak"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:24.508112219Z",
+  "model": "glm-5.3"
+}

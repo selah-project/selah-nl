@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ zijn tekenen en ⟨את⟩ zijn daden, die hij gedaan heeft te midden van Mitsrajim, aan Par'o, de koning van Mitsrajim, en aan heel zijn land;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn tekenen"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "zijn tekenen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn daden"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "zijn daden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hij gedaan heeft"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "te midden van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "aan Par'o"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "en aan heel"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "zijn land"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:37.402335486Z",
+  "model": "glm-5.3"
+}

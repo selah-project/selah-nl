@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "⟨waarmee⟩ uw vijanden gesmaad hebben, Jahweh, ⟨waarmee⟩ zij gesmaad hebben de sporen van uw Masjiach.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "gesmaad hebben"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "uw vijanden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "zij gesmaad hebben"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "de sporen"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "van uw Masjiach"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:50.467306395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Gedenk wat Amalek ⟨את⟩ jou aandeed op de weg, bij jullie uittocht uit Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Gedenk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Amalek jou aandeed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aandeed"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "bij jullie uittocht"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:44.616277411Z",
+  "model": "glm-5.3"
+}

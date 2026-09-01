@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Weent niet ⟨voor⟩ een dode, en betoon hem geen rouw; weent bitter ⟨voor⟩ hem die heengaat, want hij zal niet meer terugkeren en ⟨את⟩ het land van zijn geboorte niet meer zien.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "weent"
+    },
+    {
+      "surface": "למת",
+      "gloss": "⟨voor⟩ een dode"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "betoon rouw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "weent"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "⟨bitter⟩ (weent)"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "⟨voor⟩ hem die heengaat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "zal terugkeren"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en zien zal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land van zijn geboorte"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "van zijn geboorte"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:18.458725697Z",
+  "model": "glm-5.3"
+}

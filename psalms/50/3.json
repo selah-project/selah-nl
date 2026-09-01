@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Onze Elohim zal komen en niet zwijgen; vuur vóór zijn aangezicht verteert, en rondom hem woedt ⟨de storm⟩ hevig.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "zal komen"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "zwijgen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "vóór zijn aangezicht"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "verteert"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "en rondom hem"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "woedt ⟨de storm⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hevig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:21.775671442Z",
+  "model": "glm-5.3"
+}

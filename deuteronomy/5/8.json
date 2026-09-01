@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Maak voor jezelf geen gebeeldhouwd beeld, enige gestalte van wat in de hemelen is van boven, en wat op de aarde is van beneden, en wat in de wateren is van beneden ⟨onder⟩ de aarde",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "maak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor jezelf"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "gebeeldhouwd beeld"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "gestalte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemelen"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "van boven"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op de aarde"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "van beneden"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in de wateren"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "van beneden"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:54.108072183Z",
+  "model": "glm-5.3"
+}

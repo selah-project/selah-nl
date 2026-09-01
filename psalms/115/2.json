@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 115,
+  "translation": "Waarom zouden de volken zeggen: waar dan ⟨is⟩ hun Elohim?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "zouden zeggen"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hun Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:43.002307333Z",
+  "model": "glm-5.3"
+}

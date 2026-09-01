@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En het gebeurde, terwijl de ene ⟨de⟩ balk deed vallen, dat ⟨את⟩ het ijzer in het water viel; en hij riep en zeide: Ach, mijn heer! en het was geleend!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "deed vallen"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "de balk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het ijzer"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "het ijzer"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "viel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המים",
+      "gloss": "het water"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "en hij riep"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn heer"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en het"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "was geleend"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:11.485288724Z",
+  "model": "glm-5.3"
+}

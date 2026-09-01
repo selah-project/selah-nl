@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Zingt voor Elohim, psalmt zijn naam; werpt ⟨een weg⟩ op voor hem die rijdt door de steppe — in Jah ⟨is⟩ zijn naam; en verheugt u voor zijn aangezicht.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Zingt"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "voor Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "psalmt"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "werpt ⟨een weg⟩ op"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "voor hem die rijdt"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "door de steppe"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "in Jah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "en verheugt u"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor zijn aangezicht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:22.227213224Z",
+  "model": "glm-5.3"
+}

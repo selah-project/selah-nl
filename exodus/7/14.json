@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Jahweh zei tot Mosjee: het hart van Par'o is zwaar ⟨gemaakt⟩; hij weigert ⟨om⟩ het volk te laten gaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "is zwaar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Par'o"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "weigert"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "te laten gaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:13.677079802Z",
+  "model": "glm-5.3"
+}

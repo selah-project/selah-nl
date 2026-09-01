@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 37:10",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Want ook al zoudt gij de hele legermacht van de Kasdiem slaan, die met u vechten ⟨את⟩, en er zouden doorstoken mannen onder hen overblijven, ieder in zijn tent zou hij opstaan, en zij zouden ⟨את⟩ deze stad met vuur verbranden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ook al"
+    },
+    {
+      "surface": "הכיתם",
+      "gloss": "zoudt gij slaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de hele"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "legermacht"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "van de Kasdiem"
+    },
+    {
+      "surface": "הנלחמים",
+      "gloss": "die vechten"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u",
+      "marks": "u"
+    },
+    {
+      "surface": "ונשארו",
+      "gloss": "en zouden overblijven"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onder hen"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "doorstoken"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ieder"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "in zijn tent"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "zou hij opstaan"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "en zouden zij verbranden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    }
+  ],
+  "timestamp": "2026-08-31T21:36:44.436949660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En de koningin van Sjeba hoorde ⟨את⟩ het gerucht van Sjelomo, ⟨om⟩ de naam van Jahweh, en zij kwam om hem op de proef te stellen met raadsels.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "En de koningin van"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sjeba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hoorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het gerucht"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "het gerucht"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "van Sjelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "⟨om⟩ de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "en zij kwam"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "om hem op de proef te stellen"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "met raadsels"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:36.679880975Z",
+  "model": "glm-5.3"
+}

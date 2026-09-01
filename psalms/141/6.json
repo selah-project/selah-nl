@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 141,
+  "translation": "Hun rechters worden neergeworpen langs de zijden van ⟨de⟩ rots, en zij zullen mijn woorden horen, want zij zijn aangenaam.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "worden neergeworpen"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "langs de zijden van"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "de rots"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "hun rechters"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "en zij zullen horen"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mijn woorden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "zij zijn aangenaam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:42.812991573Z",
+  "model": "glm-5.3"
+}

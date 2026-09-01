@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "maar van de vrucht van de boom die in het midden van de tuin staat — Elohim heeft gezegd: Eet daar niet van en raak hem niet aan, anders zult jullie sterven.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "maar van de vrucht"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "van de boom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "de tuin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "eet"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "raak aan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "zult jullie sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:09.454849250Z",
+  "model": "glm-5.3"
+}

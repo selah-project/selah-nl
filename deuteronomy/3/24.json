@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Adonai Jahweh, jij bent begonnen ⟨את⟩ je knecht je grootheid te laten zien, en ⟨את⟩ je hand, de sterke; want wie is ⟨een⟩ El in de hemel en op de aarde, die doet naar jouw werken en naar jouw machtige daden?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "ben begonnen"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "te laten zien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je knecht"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "je knecht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je grootheid"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "je grootheid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "je hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "je hand"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "de sterke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "want"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemel"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "en op de aarde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "doet"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "naar jouw werken"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "en naar jouw machtige daden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:16.715049505Z",
+  "model": "glm-5.3"
+}

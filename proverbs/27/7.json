@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Een verzadigde nefesj vertrapt honingrui, maar voor een hongerige nefesj ⟨is⟩ elke bittere ding zoet.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "een nefesj"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "verzadigde"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "vertrapt"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "honingrui"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "maar een nefesj"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "hongerige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bittere ding"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "zoet"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:35.765817623Z",
+  "model": "glm-5.3"
+}

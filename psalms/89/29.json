@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Voor eeuwig zal ik mijn chesed voor hem bewaren, en mijn verbond zal ⟨hem⟩ trouw blijven.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "zal ik bewaren"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "mijn chesed"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "en mijn verbond"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "trouw (blijvend)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨hem⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:23.481761308Z",
+  "model": "glm-5.3"
+}

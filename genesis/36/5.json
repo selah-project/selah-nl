@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En Oholivama baarde ⟨את⟩ Jejisj en ⟨את⟩ Jeälam en ⟨את⟩ Korach. Dit zijn de zonen van Esav, die hem geboren werden in het land Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "En Oholivama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "baarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jejisj"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jejisj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Jeälam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jeälam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zijn de zonen"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "van Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "geboren werden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:25.043650584Z",
+  "model": "glm-5.3"
+}

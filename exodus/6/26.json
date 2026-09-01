@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Dit is Aharon en Mosjee, aan wie Jahweh zei: Breng ⟨את⟩ de kinderen van Jisraël uit het land van Mitsrajim, naar hun legers.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Dit is"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "en Mosjee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan wie"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hen"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Breng uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "naar"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "hun legers"
+    }
+  ],
+  "timestamp": "2026-08-31T23:41:12.650923344Z",
+  "model": "glm-5.3"
+}

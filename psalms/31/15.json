@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Maar ik — op U heb ik vertrouwd, Jahweh; ik zei: U bent mijn Elohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maar ik"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "heb ik vertrouwd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "zei ik"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U bent"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:20.783497723Z",
+  "model": "glm-5.3"
+}

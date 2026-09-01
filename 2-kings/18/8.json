@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Hij sloeg ⟨את⟩ de Filistijnen tot Aza toe, en ⟨את⟩ zijn gebied, van ⟨de⟩ wachttoren tot de vestingstad.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "sloeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Filistijnen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Filistijmen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn gebied"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "zijn gebied"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "van ⟨de⟩ toren van"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "wachters"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "vesting"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:02.362412819Z",
+  "model": "glm-5.3"
+}

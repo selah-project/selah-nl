@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 114,
+  "translation": "De zee zag ⟨het⟩ en vluchtte, de Jarden wendde zich achteruit.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zag"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "en vluchtte"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "wendde zich"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "achteruit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:41.557190400Z",
+  "model": "glm-5.3"
+}

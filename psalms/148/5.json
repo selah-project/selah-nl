@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 148,
+  "translation": "Laten zij de Naam van Jahweh loven, want ⟨hij⟩ gebood en zij werden geschapen.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "laten zij loven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Naam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebood"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "en zij werden geschapen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:29.589177914Z",
+  "model": "glm-5.3"
+}

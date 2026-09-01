@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "En zij lieten Jozef zeggen: Uw vader heeft voor zijn dood geboden en gezegd:",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "en zij lieten gebieden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uw vader"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "heeft geboden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "zijn dood"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:08.125806332Z",
+  "model": "glm-5.3"
+}

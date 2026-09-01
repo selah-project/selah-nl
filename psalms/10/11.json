@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Hij heeft in zijn hart gezegd: El ⟨is⟩ vergeten; hij heeft zijn aangezicht verborgen, hij zal ⟨het⟩ voor eeuwig niet zien.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "gezegd"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in zijn hart"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "vergeten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "verborgen"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zijn aangezicht"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zien"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:48.109366445Z",
+  "model": "glm-5.3"
+}

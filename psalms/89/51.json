@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "Gedenk, Adonai, ⟨aan⟩ de smaad van uw dienaren; ⟨ik⟩ draag in mijn schoot ⟨de smaad⟩ van alle vele volken,",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "gedenk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "de smaad"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "van uw dienaren"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "ik draag"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "in mijn schoot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:50.467167888Z",
+  "model": "glm-5.3"
+}

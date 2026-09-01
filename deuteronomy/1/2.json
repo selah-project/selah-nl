@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Elf dagen ⟨van reis⟩ vanaf Chorev, via de weg van het gebergte Se'ir, tot Kadesj-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "⟨elf⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "elf"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "vanaf Chorev"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "via de weg"
+    },
+    {
+      "surface": "הר",
+      "gloss": "het gebergte"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesj-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:27.595927657Z",
+  "model": "glm-5.3"
+}

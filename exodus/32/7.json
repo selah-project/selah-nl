@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En Jahweh sprak tot Mosjee: Ga, daal af, want je volk, dat jij hebt laten opgaan uit het land Mitsrajim, heeft verdorven gehandeld.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en hij sprak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "רד",
+      "gloss": "daal af"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "heeft verdorven"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "je volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "jij hebt laten opgaan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:55.593713940Z",
+  "model": "glm-5.3"
+}

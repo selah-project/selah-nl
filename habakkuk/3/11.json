@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Zon en maan stonden stil in hun verblijf; bij het licht van uw pijlen gingen zij, bij de glans van de flits van uw speer.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "Zon"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "maan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stonden stil"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "in hun verblijf"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "bij het licht"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "van uw pijlen"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "gingen zij"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "bij de glans"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "van de flits"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "van uw speer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:01:42.779715466Z",
+  "model": "glm-5.3"
+}

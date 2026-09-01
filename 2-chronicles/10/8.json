@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En hij verliet ⟨את⟩ het raad van de oudsten die hem geraadpleegd hadden, en overlegde ⟨את⟩ de jongelingen die ⟨את⟩ met hem grootgebracht waren, die voor hem stonden.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "en hij verliet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het raad van de oudsten"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "het raad"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "van de oudsten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "hem geraadpleegd hadden"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "en overlegde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de jongelingen"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "de jongelingen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "grootgebracht waren"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hem"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "die stonden"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:06:56.553219428Z",
+  "model": "glm-5.3"
+}

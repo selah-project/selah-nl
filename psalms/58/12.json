@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 58,
+  "translation": "En de mens zal zeggen: voorwaar, ⟨er is⟩ vrucht voor de rechtvaardige; voorwaar, ⟨er is⟩ Elohim, richtend op de aarde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zal zeggen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "אך",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vrucht"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "voor de rechtvaardige"
+    },
+    {
+      "surface": "אך",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨er is⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "richtend"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:43.768600304Z",
+  "model": "glm-5.3"
+}

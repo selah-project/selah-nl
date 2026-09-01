@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Een wijze zal horen en lering toevoegen, en een verstandige zal ⟨voor zichzelf⟩ listen verwerven.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "zal horen"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "een wijze"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "en zal toevoegen"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "lering"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "en een verstandige"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "listen"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "zal verwerven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:33.421933316Z",
+  "model": "glm-5.3"
+}

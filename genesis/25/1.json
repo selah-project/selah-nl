@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En Avraham voegde ⟨toe⟩ en nam een vrouw, en haar naam ⟨was⟩ Ketura.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "en voegde toe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en nam"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "een vrouw"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "en haar naam"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ketura"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:16.639665988Z",
+  "model": "glm-5.3"
+}

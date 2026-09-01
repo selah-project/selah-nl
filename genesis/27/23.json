@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 27:23",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En hij herkende hem niet, want zijn handen waren als de handen van Esav zijn broeder, behaard; en hij zegende hem.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "herkende hem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "zijn handen"
+    },
+    {
+      "surface": "כידי",
+      "gloss": "als de handen"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broeder"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "behaard"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "en hij zegende hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:41.704345168Z",
+  "model": "glm-5.3"
+}

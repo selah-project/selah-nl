@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Want de slechten zullen vergaan, en de vijanden van Jahweh — als het vet van rammen zullen zij vergaan, in rook zullen zij vergaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de slechten"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "zullen vergaan"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "en de vijanden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "als het vet"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "van rammen"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "zullen zij vergaan"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "in rook"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "zullen zij vergaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:43.784929648Z",
+  "model": "glm-5.3"
+}

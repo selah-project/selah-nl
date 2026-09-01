@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Door de zegen van de oprechten wordt ⟨de⟩ stad verheven, en door de mond van de goddelozen wordt ⟨zij⟩ neergehaald.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "door de zegen"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "van de oprechten"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "wordt verheven"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "⟨de⟩ stad"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "en door de mond"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "wordt ⟨zij⟩ neergehaald"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:27.524382285Z",
+  "model": "glm-5.3"
+}

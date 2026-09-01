@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "De vijand zei: Ik zal achtervolgen, ik zal inhalen, ik zal de buit verdelen; ⟨⟨van hen⟩⟩ zal mijn nefesj zich vol laten lopen; ik zal mijn zwaard laten leegstromen, mijn hand zal hen ⟨את⟩ verdelgen.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "de vijand"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "ik zal achtervolgen"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "ik zal inhalen"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "ik zal verdelen"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "de buit"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "zal zich laten vol lopen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "ik zal laten leegstromen"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "mijn zwaard"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "zal verdelgen"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mijn hand"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:26.113948699Z",
+  "model": "glm-5.3"
+}

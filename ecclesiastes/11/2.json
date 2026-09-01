@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Geef een deel aan zeven en ook aan acht, want u weet niet welk kwaad er over de aarde zal komen.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Geef"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "een deel"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "aan zeven"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "aan acht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "u weet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "welk"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal komen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:47.514855156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En de priester gaf aan de oversten van de honderdtallen ⟨את⟩ de speren en ⟨את⟩ de schilden die voor de koning Dawid ⟨waren⟩, die in het huis van Jahweh ⟨lagen⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en hij gaf"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "aan de oversten"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "van de honderdtallen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de speren"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "de speren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de schilden"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "de schilden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "voor de koning"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:11.358401939Z",
+  "model": "glm-5.3"
+}

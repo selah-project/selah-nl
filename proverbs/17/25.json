@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Een vertering ⟨is⟩ voor zijn vader een zoon, de kessil, en een bitterheid voor haar die hem gebaard heeft.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "vertering"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "voor zijn vader"
+    },
+    {
+      "surface": "בן",
+      "gloss": "een zoon"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "de kessil (dwaas)"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "en een bitterheid"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "voor haar die hem gebaard heeft"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:30.875841777Z",
+  "model": "glm-5.3"
+}

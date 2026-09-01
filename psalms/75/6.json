@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 75,
+  "translation": "Verheft jullie hoorn niet omhoog, spreekt niet met een stijve nek.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "verheft"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "omhoog"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "jullie hoorn"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "spreekt"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "met een nek"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "stijf (onbeschaamd)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:39.195740570Z",
+  "model": "glm-5.3"
+}

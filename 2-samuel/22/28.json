@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 22:28",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En ⟨את⟩ het verdrukte volk redt u, en uw ogen vernederen ⟨de⟩ verhevenen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het verdrukte volk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "עני",
+      "gloss": "verdrukte"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "redt u"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "en uw ogen"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨op⟩"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "verhevenen"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "vernederen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:34.538862283Z",
+  "model": "glm-5.3"
+}

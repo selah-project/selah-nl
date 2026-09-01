@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En hij zal ⟨את⟩ het huis ontzondigen met het bloed van de vogel en met het levende water en met de levende vogel en met het cederhout en met de hyssop en met het scharlaken.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "en hij zal ontzondigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "met het bloed"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "de vogel"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "en met het water"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "het levende"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "en met de vogel"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "de levende"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "en met het hout"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "de ceder"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "en met de hyssop"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "en met het scharlaken"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "de worm (scharlaken)"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:10.019470123Z",
+  "model": "glm-5.3"
+}

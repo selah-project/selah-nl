@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 19:23",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En Mosjee zei tot Jahweh: Het volk kan niet opstijgen naar de berg Sinaï, want u zelf hebt ons gewaarschuwd, zeggende: Zet een grens om ⟨את⟩ de berg en heilig hem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "opstijgen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaï"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u zelf"
+    },
+    {
+      "surface": "העדתה",
+      "gloss": "u hebt gewaarschuwd"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ons ⟨betreffende⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "zet een grens om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de berg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "וקדשתו",
+      "gloss": "en heilig hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:45.256771172Z",
+  "model": "glm-5.3"
+}

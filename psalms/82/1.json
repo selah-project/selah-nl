@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 82,
+  "translation": "Een mizmor van Asaf. Elohim staat in de vergadering van El; te midden van elohiem richt Hij ⟨recht⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "staat"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "in de vergadering"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "te midden van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohiem"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "richt Hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:23.700336978Z",
+  "model": "glm-5.3"
+}

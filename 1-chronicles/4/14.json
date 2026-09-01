@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En Meönotai verwekte ⟨את⟩ Ofra; en Serajah verwekte ⟨את⟩ Joab, de vader van het dal van de ambachtslieden — want ambachtslieden waren ⟨zij⟩.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "en Meönotai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ofra"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofra"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "en Serajah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "de vader van"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "het dal"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "van de ambachtslieden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ambachtslieden"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    }
+  ],
+  "timestamp": "2026-08-31T22:58:22.595632179Z",
+  "model": "glm-5.3"
+}

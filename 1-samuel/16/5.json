@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En hij zei: Vrede; om te offeren voor Jahweh ben ik gekomen. Heilig u, en kom met ⟨את⟩-mij mee naar het offer. En hij heiligde Jisjai en zijn zonen, en riep hen uit voor het offer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "om te offeren"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ben ik gekomen"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "heilig u"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "en kom"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩-mij"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "naar het offer"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "en hij heiligde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisjai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisjai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en riep"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "voor het offer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:44:48.728039716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Verberg Uw aangezicht voor mijn zonden, en wis al mijn ongerechtigheden uit.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "verberg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Uw aangezicht"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "voor mijn zonden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "mijn ongerechtigheden"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "wis uit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:31.066644979Z",
+  "model": "glm-5.3"
+}

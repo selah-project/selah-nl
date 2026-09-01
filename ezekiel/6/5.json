@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En ik zal ⟨את⟩ de lijken van de zonen van Jisraël leggen voor hun gilluliem, en ik zal ⟨את⟩ uw beenderen verstrooien rondom uw altaren.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en ik zal leggen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de lijken van de zonen van Jisraël"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "de lijken"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "hun gilluliem (afgodenbeelden)"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "en ik zal verstrooien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw beenderen"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "uw beenderen"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "uw altaren"
+    }
+  ],
+  "timestamp": "2026-08-31T21:41:44.344881742Z",
+  "model": "glm-5.3"
+}

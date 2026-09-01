@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En zij kwam bij haar schoonmoeder, en ⟨deze⟩ zei: Wie bent u, mijn dochter? En zij vertelde haar ⟨את⟩ alles wat de man voor haar gedaan had.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "en zij kwam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "haar schoonmoeder"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "את",
+      "gloss": "bent u"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mijn dochter"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "en zij vertelde"
+    },
+    {
+      "surface": "לה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedaan had"
+    },
+    {
+      "surface": "לה",
+      "gloss": "voor haar"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:24.269524335Z",
+  "model": "glm-5.3"
+}

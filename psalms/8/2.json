@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Jahweh, Adonai, hoe machtig is ⟨Uw⟩ naam in heel de aarde, ⟨U⟩ die ⟨Uw⟩ majesteit geeft boven de hemelen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "machtig"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "naam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨U⟩ die"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "majesteit"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:08.345814334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Wie in zijn oprechtheid wandelt, vreest Jahweh; maar wie krom is in zijn wegen, veracht Hem.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "wandelt"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "in zijn oprechtheid"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vreest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "maar wie krom is"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "in zijn wegen"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "veracht Hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:55.316156990Z",
+  "model": "glm-5.3"
+}

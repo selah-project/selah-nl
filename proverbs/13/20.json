@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Ga ⟨את⟩ de wijzen ⟨mee⟩ en word wijs, maar wie met kesielim omgaat, wordt zelf slecht.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de wijzen"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de wijzen"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "en word wijs"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "maar wie omgaat met"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kesielim"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "wordt zelf slecht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:36.668972472Z",
+  "model": "glm-5.3"
+}

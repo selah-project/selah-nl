@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 146,
+  "translation": "die de hemel maakt en de aarde, ⟨את⟩ de zee en ⟨את⟩ alles wat in hen is, die trouw bewaart voor eeuwig;",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "maakt"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "en de aarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zee"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in hen"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "die bewaart"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "trouw"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:29.229356628Z",
+  "model": "glm-5.3"
+}

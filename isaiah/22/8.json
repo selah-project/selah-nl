@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En hij ontblootte ⟨את⟩ de bedekking van Jehoeda, en u zag op die dag naar de wapens van het Huis van het Woud.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "En hij ontblootte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bedekking van Jehoeda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "de bedekking"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "en u zag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "de wapens"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van het Huis"
+    },
+    {
+      "surface": "היער",
+      "gloss": "van het Woud"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:45.885297628Z",
+  "model": "glm-5.3"
+}

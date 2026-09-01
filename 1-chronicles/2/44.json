@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Sjama verwekte ⟨את⟩ Racham, de vader van Jorkeam, en Rekem verwekte ⟨את⟩ Sjammaj.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "En Sjama"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Racham"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Racham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "de vader van"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "Jorkeam"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "en Rekem"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjammaj"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Sjammaj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:15.849621189Z",
+  "model": "glm-5.3"
+}

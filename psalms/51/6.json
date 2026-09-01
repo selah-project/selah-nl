@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Tegen u, u alleen, heb ik gezondigd, en het kwade in uw ogen gedaan — opdat u rechtvaardig bent in uw spreken, zuiver bent in uw oordelen.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tegen u"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "u alleen"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "heb ik gezondigd"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "en het kwade"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in uw ogen"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "gedaan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "u rechtvaardig bent"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "in uw spreken"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "u zuiver bent"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "in uw oordelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:32.243052549Z",
+  "model": "glm-5.3"
+}

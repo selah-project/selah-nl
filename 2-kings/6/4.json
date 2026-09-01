@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En hij ging met ⟨את⟩ hen, en zij kwamen aan de Yardén en hakten de bomen.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en zij kwamen"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "aan de Yardén"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "en hakten"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "de bomen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:54.442008994Z",
+  "model": "glm-5.3"
+}

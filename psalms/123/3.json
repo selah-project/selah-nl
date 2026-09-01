@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 123,
+  "translation": "Wees ons genadig, Jahweh, wees ons genadig, want overvloedig zijn wij verzadigd met verachting.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Wees ons genadig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "wees ons genadig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רב",
+      "gloss": "overvloedig"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "zijn wij verzadigd"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "met verachting"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:59.432369510Z",
+  "model": "glm-5.3"
+}

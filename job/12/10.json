@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "In wiens hand ⟨is⟩ de nefesj van alles wat leeft, en de roeach van alle vlees van ⟨de⟩ mens.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "in wiens"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "hand"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles wat"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leeft"
+    },
+    {
+      "surface": "ו",
+      "gloss": "en"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de roeach"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:08.144154925Z",
+  "model": "glm-5.3"
+}

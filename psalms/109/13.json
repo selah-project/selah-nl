@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Moge zijn einde ⟨zijn⟩ uitroeiing; in een generatie later worde hun naam uitgewist.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "moge zijn"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "zijn einde"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "uitroeiing"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "in een generatie"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "later"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "worde uitgewist"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "hun naam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:52.628036125Z",
+  "model": "glm-5.3"
+}

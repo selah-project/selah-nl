@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Er zal jou niet in je huis een efa en een efa ⟨zijn⟩, een grote en een kleine.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in je huis"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "een efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "en een efa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "een grote"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "en een kleine"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:39.292391662Z",
+  "model": "glm-5.3"
+}

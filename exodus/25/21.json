@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En u zult ⟨את⟩ het verzoendekstel plaatsen op de ark, van boven, en in de ark zult u ⟨את⟩ de getuigenis leggen die ik u geven zal.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "en u zult plaatsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het verzoendekstel"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "het verzoendekstel"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "van boven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en in"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zult u leggen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de getuigenis"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "de getuigenis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ik geven zal"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:36.323006926Z",
+  "model": "glm-5.3"
+}

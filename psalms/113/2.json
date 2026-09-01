@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 113,
+  "translation": "Zij ⟨zij⟩ de naam van Jahweh gezegend, van nu af en tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Zij ⟨zij⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "gezegend"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "van nu af"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:19.065233533Z",
+  "model": "glm-5.3"
+}

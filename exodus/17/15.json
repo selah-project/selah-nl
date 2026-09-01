@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En Mosjee bouwde een altaar, en hij noemde zijn naam Jahweh-Nissi (Jahweh is mijn banier).",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "een altaar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij noemde"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi (mijn banier)"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:07.859213550Z",
+  "model": "glm-5.3"
+}

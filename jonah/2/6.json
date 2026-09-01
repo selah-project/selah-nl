@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Wateren omringden mij tot ⟨aan⟩ mijn nefesj; de diepte omvatte mij, het riet was gebonden om mijn hoofd.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "omringden mij"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wateren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj ⟨leven⟩"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "de diepte"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "omvatte mij"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "het riet ⟨zeewier⟩"
+    },
+    {
+      "surface": "חבוש",
+      "gloss": "was gebonden"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "om mijn hoofd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:56.741967368Z",
+  "model": "glm-5.3"
+}

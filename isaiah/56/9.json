@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 56,
+  "translation": "Alle dieren van het veld, kom om ⟨את⟩ te verslinden — alle dieren van het bos.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "dieren"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "van het veld"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te verslinden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "dieren"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "in het bos"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:11.979594253Z",
+  "model": "glm-5.3"
+}

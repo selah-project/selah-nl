@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Zij sperren hun mond wijd open tegen mij, zij zeggen: Aha, aha! Ons oog heeft ⟨het⟩ gezien.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "zij sperren wijd open"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "hun mond"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "zij zeggen"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "heeft gezien"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ons oog"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:06.843549435Z",
+  "model": "glm-5.3"
+}

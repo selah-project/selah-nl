@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 147,
+  "translation": "Jahweh bouwt Jeroesjalajim op, ⟨hij⟩ verzamelt de verdrevenen van Jisraël.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "bouwt op"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "de verdrevenen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "verzamelt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:21.950240484Z",
+  "model": "glm-5.3"
+}

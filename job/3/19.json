@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Klein en groot ⟨is⟩ daar ⟨gelijk⟩, en de slaaf is vrij van zijn meester.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "klein"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "en groot"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨gelijk⟩"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "en de slaaf"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "is vrij"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "van zijn meester"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:27.430709021Z",
+  "model": "glm-5.3"
+}

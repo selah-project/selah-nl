@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "Zijn wateren brullen, ze woeden; de bergen beven door zijn hoogmoed. Sela.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "brullen"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "woeden"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "zijn wateren"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "beven"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "door zijn hoogmoed"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:01.201596509Z",
+  "model": "glm-5.3"
+}

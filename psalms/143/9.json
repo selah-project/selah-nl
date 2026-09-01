@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 143,
+  "translation": "Ruk mij weg, Jahweh, van mijn vijanden; bij U heb ik schuiling gezocht ⟨om mij te verbergen⟩.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ruk mij weg"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "van mijn vijanden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bij U"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "heb ik schuiling gezocht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:33.070803150Z",
+  "model": "glm-5.3"
+}

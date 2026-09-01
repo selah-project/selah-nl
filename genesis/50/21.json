@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "En nu, vreest niet: ik zal ⟨את⟩ u onderhouden en ⟨את⟩ uw kleinen. En hij troostte hen en sprak tot hun hart.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "vreest"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "zal onderhouden"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u",
+      "marks": "u"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "uw kleinen"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "uw kleinen"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "en hij troostte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "en hij sprak"
+    },
+    {
+      "surface": "על",
+      "gloss": "tot"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hun hart"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:16.760571783Z",
+  "model": "glm-5.3"
+}

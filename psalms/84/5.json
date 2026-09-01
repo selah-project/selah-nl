@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 84,
+  "translation": "Hoe gelukkig ⟨zijn⟩ zij die in uw huis wonen; steeds zullen zij u prijzen. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "hoe gelukkig"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "zij die wonen"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "in uw huis"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "steeds"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "zullen zij u prijzen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:36.739970927Z",
+  "model": "glm-5.3"
+}

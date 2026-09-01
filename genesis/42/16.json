@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Stuur één van jullie, en laat hij ⟨את⟩ jullie broeder halen; en jullie — wordt gebonden, en laat jullie woorden beproefd worden, of waarheid ⟨את⟩ bij jullie is; en zo niet — zo waar Par'o leeft: voorzeker verspieders zijn jullie.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "stuur"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "van jullie"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en laat hij halen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie broeder"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jullie broeder"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en jullie"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "wordt gebonden"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "en laat beproefd worden"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "jullie woorden"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "de waarheid"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bij jullie"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zo waar ... leeft"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "voorzeker"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "verspieders"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "zijn jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:13.084792751Z",
+  "model": "glm-5.3"
+}

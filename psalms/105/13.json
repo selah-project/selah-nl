@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "En zij trokken rond van natie naar natie, van ⟨het ene⟩ koninkrijk naar een ander volk.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "en zij trokken rond"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "van natie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "natie"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "van koninkrijk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ander"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:33.578718286Z",
+  "model": "glm-5.3"
+}

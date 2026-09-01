@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Adonai heeft gezegd: uit de Basjan zal ik ⟨hen⟩ laten terugkeren, laat terugkeren zal ik ⟨hen⟩ uit de diepten van de zee.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "uit de Basjan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "zal ik laten terugkeren"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "laat terugkeren zal ik"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "uit de diepten"
+    },
+    {
+      "surface": "ים",
+      "gloss": "van de zee"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:19.549847353Z",
+  "model": "glm-5.3"
+}

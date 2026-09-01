@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En u zult vijftig koperen haken maken, en u zult de haken in de lussen brengen, en u zult ⟨את⟩ de tent verbinden, en hij zal ⟨één⟩ zijn.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en u zult maken"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "haken"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "koperen"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vijftig"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "en u zult brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de haken"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "de haken"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "in de lussen"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "en u zult verbinden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de tent"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en hij zal zijn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:33.047484281Z",
+  "model": "glm-5.3"
+}

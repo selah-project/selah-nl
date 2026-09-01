@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Verslind, Adonai, spleet hun tong, want ik heb geweld en strijd gezien in de stad.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "verslind"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "spleet"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "hun tong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ik heb gezien"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "en strijd"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:43.773585125Z",
+  "model": "glm-5.3"
+}

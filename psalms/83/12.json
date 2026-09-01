@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "Maak hun edelen zoals Orev en zoals Ze'ev, en zoals Zevach en zoals Tzalmon'a, al hun vorsten;",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Maak"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "hun edelen"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "zoals Orev"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "en zoals Ze'ev"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "en zoals Zevach"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "en zoals Tzalmon'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "hun vorsten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:18.265206141Z",
+  "model": "glm-5.3"
+}

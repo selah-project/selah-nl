@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": " Touwen van de dood omringden mij, en beken van Belíal joegen mij schrik aan.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "omringden mij"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "touwen van"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de dood"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "en beken van"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belíal"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "joegen mij schrik aan"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:38.215831726Z",
+  "model": "glm-5.3"
+}

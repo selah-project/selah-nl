@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "En hij maakte ⟨את⟩ de planken voor de mishkan: twintig planken voor de zuidzijde, zuidwaarts.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de planken"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "de planken"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "voor de mishkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "planken"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "voor de zijde van"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "het zuiden"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "zuidwaarts"
+    }
+  ],
+  "timestamp": "2026-08-31T19:59:56.541233135Z",
+  "model": "glm-5.3"
+}

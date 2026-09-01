@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 63,
+  "translation": "Elohim, mijn El, bent ⟨u⟩; u zoek ik in de dageraad ⟨op⟩, dorstig naar u is mijn nefesj, naar u smacht mijn vlees, in een land dor en uitgedroogd, zonder water.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mijn El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bent u"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "zoek ik u in de dageraad"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "dorstig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "naar u"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "smacht"
+    },
+    {
+      "surface": "לך",
+      "gloss": "naar u"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mijn vlees"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in een land"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "dor"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "en uitgedroogd"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:07.331603458Z",
+  "model": "glm-5.3"
+}

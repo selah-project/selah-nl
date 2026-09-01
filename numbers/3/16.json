@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Mosjee telde hen ⟨את⟩ op gezag van Jahweh, zoals hem geboden was.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "en hij telde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen (de Levieten)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gezag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebooden was"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:42.356799501Z",
+  "model": "glm-5.3"
+}

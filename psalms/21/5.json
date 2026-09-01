@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Leven vroeg hij van U, U gaf ⟨het⟩ hem — lengte van dagen, tot in eeuwigheid en immer.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Leven"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "vroeg hij"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "van U"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "gaf U"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨het⟩ hem"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lengte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dagen"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en immer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:49.855481148Z",
+  "model": "glm-5.3"
+}

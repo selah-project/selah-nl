@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 58,
+  "translation": "die niet luistert naar de stem van de bezweerders, ⟨hoe⟩ behendig zij ook hun bezweringen ⟨kunnen⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "luistert"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "van de bezweerders"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "behendig"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "hun bezweringen"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "⟨hoe⟩ wijs ook"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:00.899042336Z",
+  "model": "glm-5.3"
+}

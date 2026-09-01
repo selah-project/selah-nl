@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Dawid pleegde overleg met de vorsten van de duizenden en de honderden, met elke leider.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "en pleegde overleg"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "de vorsten van"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "de duizenden"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "en de honderden"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "met elke"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "leider"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:18.159488309Z",
+  "model": "glm-5.3"
+}

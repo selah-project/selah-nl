@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Eer ⟨is⟩ het voor een man om te zwijgen bij ruzie, maar elke dwaas barst los in gescheld.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "eer"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "voor een man"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "om te zwijgen\/te onthouden"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "bij ruzie"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "maar elke"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "dwaas"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "barst los in gescheld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:11.600205129Z",
+  "model": "glm-5.3"
+}

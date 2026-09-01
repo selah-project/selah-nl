@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En jij zult tot hen zeggen: zo zegt Jahweh: vallen zij en staan zij niet op? keert hij terug en keert hij niet terug?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "En jij zult zeggen"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "vallen zij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "staan zij op"
+    },
+    {
+      "surface": "אם",
+      "gloss": "?"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "keert hij terug"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "keert hij terug"
+    }
+  ],
+  "timestamp": "2026-08-31T21:29:53.571577276Z",
+  "model": "glm-5.3"
+}

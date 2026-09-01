@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Kan de papyrus opgroeien zonder moeras, kan het riet gedijen zonder water?",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "kan opgroeien"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "de papyrus"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "moeras"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "kan gedijen"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "het riet"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:13.013689360Z",
+  "model": "glm-5.3"
+}

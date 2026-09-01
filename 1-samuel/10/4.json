@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En zij zullen u naar ⟨de⟩ vrede vragen en u twee broden geven, en u zult ⟨die⟩ uit hun hand aannemen.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "en zij zullen vragen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "naar ⟨de⟩ vrede"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "en geven"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "broden"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "en u zult aannemen"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "uit hun hand"
+    }
+  ],
+  "timestamp": "2026-08-31T20:44:02.827466374Z",
+  "model": "glm-5.3"
+}

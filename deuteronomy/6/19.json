@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "om al je vijanden van voor je weg te stoten, zoals Jahweh gesproken heeft.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "om weg te stoten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al je vijanden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "je vijanden"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "van voor je"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:01.700373838Z",
+  "model": "glm-5.3"
+}

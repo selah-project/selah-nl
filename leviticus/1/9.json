@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En zijn ingewanden en zijn poten zal hij wassen in water, en de priester zal ⟨את⟩ het geheel in rook laten opgaan op het altaar — een brandoffer, een vuuroffer, een rustgevende geur voor Jahweh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "en zijn ingewanden"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "en zijn poten"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "zal hij wassen"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in water"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "en zal in rook laten opgaan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het geheel"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "het geheel"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op het altaar"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vuuroffer"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "geur"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "rustgevende"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:19.531465459Z",
+  "model": "glm-5.3"
+}

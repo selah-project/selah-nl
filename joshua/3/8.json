@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En ú zult ⟨את⟩ de priesters gebieden, de dragers van de ark van het verbond, zeggend: wanneer u komt tot aan de rand van het water van de Jarden, blijft u in de Jarden staan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en u"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "zult gebieden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de priesters"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "de dragers van"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "van het verbond"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "wanneer u komt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "de rand"
+    },
+    {
+      "surface": "מי",
+      "gloss": "het water van"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "de Jarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "in de Jarden"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "blijft u staan"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:35.725763574Z",
+  "model": "glm-5.3"
+}

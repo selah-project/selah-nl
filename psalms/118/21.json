@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 118,
+  "translation": "Ik dank U, want U hebt mij beantwoord en U bent mij tot redding geworden.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ik dank U"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "U hebt mij beantwoord"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en U bent geworden"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "tot redding"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:02.595063801Z",
+  "model": "glm-5.3"
+}

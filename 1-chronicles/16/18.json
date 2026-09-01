@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "door te zeggen: Aan jou geef Ik het land Kenaän, het snoer van jullie erfdeel.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "door te zeggen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "geef Ik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaän"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "het snoer"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "van jullie erfdeel"
+    }
+  ],
+  "timestamp": "2026-08-31T23:28:56.455061384Z",
+  "model": "glm-5.3"
+}

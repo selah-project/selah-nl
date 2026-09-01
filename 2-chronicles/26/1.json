@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En heel het volk van Jehoeda nam Uzzija — hij was zestien jaar — en zij maakten hem koning in plaats van zijn vader Amatsja.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "en zij namen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzija"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzzija"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hij"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zes"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "en zij maakten koning"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "in plaats van zijn vader"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsja"
+    }
+  ],
+  "timestamp": "2026-08-31T23:09:28.011791913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "dat Jahweh zich aan Sjelomo vertoonde, voor de tweede maal, zoals hij zich aan hem vertoond had in Giv'on.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dat zich vertoonde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "voor de tweede maal"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "zich vertoond had"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aan hem"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "in Giv'on"
+    }
+  ],
+  "timestamp": "2026-08-31T23:20:19.614178697Z",
+  "model": "glm-5.3"
+}

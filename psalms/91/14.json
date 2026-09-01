@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Omdat hij aan Mij ⟨zijn liefde⟩ heeft gehecht, zal Ik hem bevrijden; Ik zal hem hoog verheffen, omdat hij Mijn naam kent.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aan Mij"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "heeft gehecht (liefgehad)"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "zal Ik hem bevrijden"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "zal Ik hem hoog verheffen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kent"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Mijn naam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:14.394822246Z",
+  "model": "glm-5.3"
+}

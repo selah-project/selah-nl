@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "Opdat ⟨men⟩ weet van het opgaan van de zon tot haar ondergang: er is niets buiten mij. Ik ben Jahweh, en er is geen ander.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "weten"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "van het opgaan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "van de zon"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "tot haar ondergang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "er is niets"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "buiten mij"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is geen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ander"
+    }
+  ],
+  "timestamp": "2026-08-31T21:23:30.613100743Z",
+  "model": "glm-5.3"
+}

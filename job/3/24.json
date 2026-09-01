@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Want vóór mijn brood komt mijn gezucht, en als water worden mijn kreten uitgestort.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vóór"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mijn brood"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "mijn gezucht"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "en uitgestort worden"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "als water"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "mijn kreten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:15.180471442Z",
+  "model": "glm-5.3"
+}

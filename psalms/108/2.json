@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 108,
+  "translation": "Klaar staat mijn hart, Elohim; ik zal zingen, ja psalmzingen, ook mijn heerlijkheid.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "klaar staat"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ik zal zingen"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ja psalmzingen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "mijn heerlijkheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:23.291239185Z",
+  "model": "glm-5.3"
+}

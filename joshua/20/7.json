@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En zij heiligden ⟨את⟩ Kedesj in de Galil, op het gebergte van Naftali, en ⟨את⟩ Sjechem op het gebergte van Efrajim, en ⟨את⟩ Kirjat-Arba — dat is Chevron — op het gebergte van Jehoeda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "En zij heiligden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesj"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesj"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "in de Galil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op het gebergte"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "van Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sjechem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjechem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op het gebergte"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "van Efrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "-Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dat is"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op het gebergte"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T20:34:08.038937219Z",
+  "model": "glm-5.3"
+}

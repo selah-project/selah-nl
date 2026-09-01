@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En zij namen hun dochters ⟨את⟩ voor zich tot vrouwen, en hun dochters gaven zij ⟨את⟩ aan hun zonen, en zij dienden hun goden ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "En zij namen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun dochters"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "hun dochters"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor zich"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "tot vrouwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun dochters"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "hun dochters"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gaven zij"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "aan hun zonen"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "en zij dienden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun goden"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hun goden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:35:23.369033814Z",
+  "model": "glm-5.3"
+}

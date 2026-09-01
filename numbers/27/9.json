@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En als er voor hem geen dochter ⟨is⟩, dan geven jullie ⟨את⟩ zijn erfdeel aan zijn broers.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En als"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er … geen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "dan geven jullie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn erfdeel"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "zijn erfdeel"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "aan zijn broers"
+    }
+  ],
+  "timestamp": "2026-08-31T20:17:16.752294917Z",
+  "model": "glm-5.3"
+}

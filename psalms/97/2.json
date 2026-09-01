@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 97,
+  "translation": "Wolk en donkerheid ⟨zijn⟩ rondom Hem; recht en rechtvaardigheid ⟨zijn⟩ de grondvesting van Zijn troon.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "wolk"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "en donkerheid"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "rondom Hem"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "recht"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en rechtvaardigheid"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "grondvesting"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "van Zijn troon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:14.788047990Z",
+  "model": "glm-5.3"
+}

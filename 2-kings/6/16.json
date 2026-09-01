@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En hij zei: Vrees niet, want velen ⟨zijn⟩ ⟨את⟩ met ons meer dan ⟨את⟩ met hen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "Vrees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "velen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ met ons"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "meer dan die"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ met hen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:36.854182922Z",
+  "model": "glm-5.3"
+}

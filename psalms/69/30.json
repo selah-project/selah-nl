@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "En ik ⟨ben⟩ ellendig en vol pijn; ⟨moge⟩ uw verlossing, o Elohim, mij verhogen.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ellendig"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "en vol pijn"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "uw verlossing"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "mij verhogen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:51.164156237Z",
+  "model": "glm-5.3"
+}

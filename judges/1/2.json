@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jahweh zei: Jehoeda zal optrekken; zie, ik heb ⟨את⟩ het land in zijn hand gegeven.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "zal optrekken"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "heb ik gegeven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in zijn hand"
+    }
+  ],
+  "timestamp": "2026-08-31T20:35:02.636047554Z",
+  "model": "glm-5.3"
+}

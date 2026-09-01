@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "De zon ging over de aarde uit, en Lot kwam in Tsoar aan.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ging uit"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "en Lot"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwam aan"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "in Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:33.412357711Z",
+  "model": "glm-5.3"
+}

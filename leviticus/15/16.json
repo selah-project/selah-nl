@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En een man, wanneer uit hem zaad-vloeiing uitgaat, dan baadt hij in water ⟨את⟩ heel zijn vlees en is onrein tot de avond.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "En een man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "uitgaat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "uit hem"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "vloeiing (van bijliggen)"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "van zaad"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dan baadt"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in water"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel zijn vlees"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "zijn vlees"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "en is onrein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "de avond"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:09.481811880Z",
+  "model": "glm-5.3"
+}

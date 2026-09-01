@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 89,
+  "translation": "En ik zal zijn hand stellen op ⟨de⟩ zee, en zijn rechterhand op de rivieren.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "en ik zal stellen"
+    },
+    {
+      "surface": "בים",
+      "gloss": "op ⟨de⟩ zee"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn hand"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "en op de rivieren"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "zijn rechterhand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:09.891260659Z",
+  "model": "glm-5.3"
+}

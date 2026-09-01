@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En mannen van heiligheid zult gij voor Mij zijn, en vlees dat op het veld verscheurd is, zult gij niet eten; aan de hond zult gij het werpen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "en mannen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "van heiligheid"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "zult gij zijn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor Mij"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "en vlees"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "verscheurd (dier)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "zult gij eten"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "aan de hond"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "zult gij werpen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (het verscheurde vlees)"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:10.793841081Z",
+  "model": "glm-5.3"
+}

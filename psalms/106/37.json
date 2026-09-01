@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En zij slachtten ⟨את⟩ hun zonen en ⟨את⟩ hun dochters voor de Sjeedim (demonen).",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "en zij slachtten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun zonen"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "hun zonen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hun dochters"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "hun dochters"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "voor de Sjeedim (demonen)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:35.916847033Z",
+  "model": "glm-5.3"
+}

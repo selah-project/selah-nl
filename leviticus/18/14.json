@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "De naaktheid van de broeder van uw vader zult gij niet ontden; tot zijn vrouw zult gij niet naderen: ⟨zij⟩ is uw tante.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "de naaktheid"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "de broeder"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van uw vader"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "zult gij ontden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "zijn vrouw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "zult gij naderen"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "uw tante"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨zij⟩ is"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:09.757443450Z",
+  "model": "glm-5.3"
+}

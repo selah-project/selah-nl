@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 50,
+  "translation": "Nabij is Hij die mij rechtvaardigt; wie wil ⟨את⟩ met mij twisten? Laat ons samen staan; wie is de heer van mijn rechtszaak? Laat hij tot mij naderen.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nabij"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "Hij die mij rechtvaardigt"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "wil twisten"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ met mij",
+      "marks": "met mij"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "laat ons staan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "samen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "de heer"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "van mijn rechtszaak"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "laat hij naderen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:56.066168878Z",
+  "model": "glm-5.3"
+}

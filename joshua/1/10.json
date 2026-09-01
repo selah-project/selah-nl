@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jehosjoea gebood ⟨את⟩ de ambtsdragers van het volk, zeggende:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "En gebood"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ambtsdragers van het volk"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "ambtsdragers"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T20:29:06.153786150Z",
+  "model": "glm-5.3"
+}

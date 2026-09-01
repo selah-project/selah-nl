@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En je oog zal geen medelijden ⟨tonen⟩: nefesj voor nefesj, oog voor oog, tand voor tand, hand voor hand, voet voor voet.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "zal medelijden tonen"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "je oog"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesj"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "voor nefesj"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "voor oog"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "voor tand"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "voor hand"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "voet"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "voor voet"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:20.031695756Z",
+  "model": "glm-5.3"
+}

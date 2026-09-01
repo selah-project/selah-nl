@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "In plaats van mijn liefde beschuldigen zij mij, maar ik — gebed.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mijn liefde"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "beschuldigen zij mij"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "maar ik"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "gebed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:49.555443322Z",
+  "model": "glm-5.3"
+}

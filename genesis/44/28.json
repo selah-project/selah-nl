@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "En de ene ging van ⟨את⟩ mij weg, en ik zei: Voorwaar, verscheurd is hij verscheurd; en ik heb hem tot hiertoe niet gezien.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "en hij ging uit"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "van ⟨את⟩ mij"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en ik zei"
+    },
+    {
+      "surface": "אך",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "verscheurd"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "is hij verscheurd"
+    },
+    {
+      "surface": "ויצא-placeholder-ולא",
+      "gloss": ""
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "heb ik hem gezien"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hiertoe"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:52.510062435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 57,
+  "translation": "Voor de koorleider, op ⟨de wijs van⟩ 'Al-tasjchet', van Dawid, een michkam, toen hij vluchtte voor het aangezicht van Sjaoel, in de spelonk.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op ⟨de wijs van⟩ 'Al-tasjchet'"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "'Al-tasjchet' (verderf niet)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "een michtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "toen hij vluchtte"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "in de spelonk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:24.340441891Z",
+  "model": "glm-5.3"
+}

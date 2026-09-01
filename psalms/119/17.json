@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Doe goed ⟨aan⟩ uw dienaar, dat ik leef en uw woord bewaar.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Doe goed"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨aan⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "dat ik leef"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "en bewaar"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "uw woord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:23.529982310Z",
+  "model": "glm-5.3"
+}

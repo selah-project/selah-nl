@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En heel de vergadering antwoordde en zei met luide stem: Zoals u ⟨gezegd⟩ hebt over ons ⟨zo⟩ moeten wij het doen.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "antwoordde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "קול",
+      "gloss": "met stem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "luide"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "zoals uw woord"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over ons"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:53:32.089754355Z",
+  "model": "glm-5.3"
+}

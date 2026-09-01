@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 101,
+  "translation": "Ik zal letting geven op de weg van ⟨de⟩ volmaakte; wanneer komt gij tot mij? Ik zal wandelen in onschuld van hart, in het midden van mijn huis.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "ik zal letting geven"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "van de volmaakte"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "komt gij"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ik zal wandelen"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "in onschuld"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in het midden van"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mijn huis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:48.759167759Z",
+  "model": "glm-5.3"
+}

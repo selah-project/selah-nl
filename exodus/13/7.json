@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Mazzot zullen ⟨de⟩ zeven dagen gegeten worden, en er zal geen gezuurd ⟨brood⟩ bij je gezien worden, en geen zuurdesem zal bij je gezien worden in heel je gebied.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Mazzot"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zullen gegeten worden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zeven dagen"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "zal gezien worden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bij je"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "gezuurd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "zal gezien worden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bij je"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "zuurdesem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in heel"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "je gebied"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:01.310347296Z",
+  "model": "glm-5.3"
+}

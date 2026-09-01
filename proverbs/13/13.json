@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 13:13",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Wie het woord veracht, wordt ⟨erdoor⟩ in het nauw gedreven; maar wie het gebod vreest, die zal vergolden worden.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "veracht"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "het woord"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "wordt in het nauw gedreven"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨erdoor⟩"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "maar wie vreest"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "het gebod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "die"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zal vergolden worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:43.266038966Z",
+  "model": "glm-5.3"
+}

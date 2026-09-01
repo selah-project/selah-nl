@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 67,
+  "translation": "Mogen de volken zich verheugen en jubelen, want U zult de volken rechtrichten en de naties op aarde zult U leiden. Sela.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "mogen … zich verheugen"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "en jubelen"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "de naties"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "zult U richten"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "rechtrichten"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "en de naties"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op aarde"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "zult U leiden"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:03.349497627Z",
+  "model": "glm-5.3"
+}

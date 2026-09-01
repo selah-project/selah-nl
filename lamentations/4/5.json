@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Die van lekkernijen aten, zijn verwoest ⟨op⟩ de straten; die in scharlaken ⟨gevoed⟩ werden, omarmen vuilnishopen.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "die van lekkernijen aten"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "van lekkernijen"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "zijn verwoest"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "op de straten"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "die gevoed werden"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "in"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "scharlaken"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "omarmen"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "vuilnishopen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:41:45.153927818Z",
+  "model": "glm-5.3"
+}

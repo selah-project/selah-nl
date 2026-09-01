@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Want er zijn geen ketenen bij hun dood, en vet ⟨is⟩ hun lichaam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er zijn geen"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "ketenen (pijnen)"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "bij hun dood"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "en vet\/gezond"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "hun lichaam"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:02.696170776Z",
+  "model": "glm-5.3"
+}

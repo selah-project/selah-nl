@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En Jahweh helpt hen en ontsteelt hen; Hij ontsteelt hen van de goddelozen en redt hen, want zij schuilen bij Hem.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "en Jahweh helpt hen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "en ontsteelt hen"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "ontsteelt hen"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "van de goddelozen"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "en redt hen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "zij schuilen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bij Hem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:45.247064521Z",
+  "model": "glm-5.3"
+}

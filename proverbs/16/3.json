@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Wentel je werken naar Jahweh, en je plannen zullen standhouden.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "wentel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "je werken"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "en ze zullen standhouden"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "je plannen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:12.679070048Z",
+  "model": "glm-5.3"
+}

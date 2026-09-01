@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Hij doodde met hagel hun wingerden, en hun sycomoren met ⟨de⟩ ijsvlagen.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "Hij doodde"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "met hagel"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "hun wingerden"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "en hun sycomoren"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "met ijsvlagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:05.902308886Z",
+  "model": "glm-5.3"
+}

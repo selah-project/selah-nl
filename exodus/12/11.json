@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En zo zullen jullie het eten: ⟨met⟩ jullie heupen omgord, jullie sandalen aan jullie voeten en jullie staf in jullie hand; en jullie zullen het eten ⟨את⟩ in haast — het ⟨is⟩ Pesach van Jahweh.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "en zo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "zullen jullie eten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (het pesachlam)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "jullie heupen"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "omgord"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "jullie sandalen"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "aan jullie voeten"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "en jullie staf"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in jullie hand"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "en jullie zullen eten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "het (het pesachlam)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "in haast"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "het ⟨is⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:57.822375492Z",
+  "model": "glm-5.3"
+}

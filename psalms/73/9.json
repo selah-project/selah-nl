@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Zij stellen hun mond ⟨in⟩ de hemel, en hun tong wandelt op de aarde.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "stellen"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in de hemel"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "hun mond"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "en hun tong"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "wandelt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:13.114617222Z",
+  "model": "glm-5.3"
+}

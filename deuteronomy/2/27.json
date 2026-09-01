@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Laat mij door uw land trekken; op de weg, op de weg zal ik gaan; ik zal niet afwijken naar rechts en naar links.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "laat mij trekken"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "door uw land"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "zal ik gaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "zal ik afwijken"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "naar rechts"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "en naar links"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:08.079563140Z",
+  "model": "glm-5.3"
+}

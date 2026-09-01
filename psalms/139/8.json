@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "Als ik opstijg naar de hemel — daar bent u; en als ik een leger spreid in de Sjeool — zie, u ⟨bent daar⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ik opstijg"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "naar de hemel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bent u"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "en als ik een leger spreid"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "in de Sjeool"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "zie, u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:24.431407556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de koning van Mitsrajim zei tegen de Hebreeuwse vroedvrouwen — de naam van de ene was Sjifra en de naam van de andere Pua —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "tegen de vroedvrouwen"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "de Hebreeuwse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— (van wie)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam van"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Sjifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en de naam van"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "de andere"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:33.701447291Z",
+  "model": "glm-5.3"
+}

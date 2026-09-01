@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "En onze vader zei: Keer terug, koop voor ons een weinig voedsel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "onze vader"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "koop graan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "een weinig"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "voedsel"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:52.509490389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Gedenk aan uw barmhartigheden, Jahweh, en aan uw chesed ( trouw-liefde ), want ⟨zij zijn⟩ van eeuwigheid ⟨af⟩.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Gedenk"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "aan uw barmhartigheden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "en aan uw chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "van eeuwigheid ⟨af⟩"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨zij zijn⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:10.942639420Z",
+  "model": "glm-5.3"
+}

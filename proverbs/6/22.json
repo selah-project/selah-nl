@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Bij je gaan zal het je leiden ⟨את⟩; bij je slapen zal het over je waken; en bij je ontwaken, dan zal het met je spreken.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "bij je gaan"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "zal het leiden"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "bij je slapen"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "zal het waken"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "over je"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "en bij je ontwaken"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dan, zij (zelf)"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "zal het met je spreken"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:56.685211102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En Jitschak liefhad ⟨את⟩ Esav, omdat er jacht(braad) in zijn mond was; maar Rivka liefhad ⟨את⟩ Jaäkov.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "en hij liefhad"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "jacht(braad)"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "in zijn mond"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "en Rivka"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "liefhad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaäkov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:30.019861609Z",
+  "model": "glm-5.3"
+}

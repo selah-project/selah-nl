@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Mijn zoon, bewaar het gebod van je vader en verzaak de torah van je moeder niet,",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "het gebod"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van je vader"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "verzaak"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "de torah van"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "je moeder"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:44.433132092Z",
+  "model": "glm-5.3"
+}

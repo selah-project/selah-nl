@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 10:5",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En men vertelde het aan David, en hij zond ⟨iemand⟩ hen tegemoet, want de mannen waren zeer beschaamd. En de koning zei: Blijf in Jericho tot uw baarden zijn gegroeid, en keer dan terug.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "en men vertelde"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "hen tegemoet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de mannen"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "beschaamd"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "blijf"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "in Jericho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "gegroeid zijn"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "uw baarden"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "en keer terug"
+    }
+  ],
+  "timestamp": "2026-08-31T20:51:59.236242295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En zij verwekten toorn bij de wateren van Meriva, en het ging kwaad met Mosjee om hunnentwil.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "verwekten toorn"
+    },
+    {
+      "surface": "על",
+      "gloss": "bij"
+    },
+    {
+      "surface": "מי",
+      "gloss": "de wateren van"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "en het ging kwaad"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "met Mosjee"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "om hunnentwil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:51.800836452Z",
+  "model": "glm-5.3"
+}

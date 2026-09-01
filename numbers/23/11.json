@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 23:11",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En Balak zei tot Bilam: Wat heb je mij aangedaan? Ik heb je laten komen om mijn vijanden te doorboren ⟨met vervloeking⟩, en zie, je hebt hen gezegend — geheel gezegend!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "heb je gedaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "לקב",
+      "gloss": "om te doorboren"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mijn vijanden"
+    },
+    {
+      "surface": "לקחתיך",
+      "gloss": "heb ik je laten komen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en zie"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "je hebt gezegend"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "geheel gezegend"
+    }
+  ],
+  "timestamp": "2026-08-31T20:15:52.650138545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Mogen de aanmatigenden beschaamd worden, want met leugen hebben zij mij verdraaid; ik ⟨daarentegen⟩ overpeins uw bevelen.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mogen beschaamd worden"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "de aanmatigenden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "met leugen"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "hebben zij mij verdraaid"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "overpeins"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "uw bevelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:08.853713104Z",
+  "model": "glm-5.3"
+}

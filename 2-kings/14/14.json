@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En hij nam al het goud en het zilver, en ⟨את⟩ alle voorwerpen die gevonden werden in het huis van Jahweh en in de schatkommen van het huis van de koning, en ⟨את⟩ de zonen van de onderpanden, en hij keerde terug naar Sjomron.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "en hij nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al het goud en het zilver"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "het goud"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "en het zilver"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle voorwerpen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "voorwerpen"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "die gevonden werden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "en in de schatkommen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de zonen van de onderpanden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "van de onderpanden"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hij keerde terug"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "naar Sjomron"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:03.575410184Z",
+  "model": "glm-5.3"
+}

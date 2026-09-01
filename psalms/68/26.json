@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 68,
+  "translation": "Vooraan gingen de zangers, daarna de spelers op snaren, te midden ⟨van⟩ de jonge vrouwen, tamboerijnend.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "vooraan gingen"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "de zangers"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "de spelers op snaren"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "te midden"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "jonge vrouwen"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "tamboerijnend"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:44.928545143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de herders kwamen en verdreven hen; en Mosjee stond op en redde hen, en hij drenkte ⟨את⟩ hun kudde.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en kwamen"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "de herders"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "en verdreven hen"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "en stond op"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "en redde hen"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "en hij drenkte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun kudde"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "hun kudde"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:48.139354706Z",
+  "model": "glm-5.3"
+}

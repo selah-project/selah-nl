@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 99,
+  "translation": "Verhoogt Jahweh, onze Elohim, en buigt u neer voor ⟨de⟩ berg van zijn heiligdom, want heilig ⟨is⟩ Jahweh, onze Elohim.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Verhoogt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "en buigt u neer"
+    },
+    {
+      "surface": "להר",
+      "gloss": "voor ⟨de⟩ berg"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "van zijn heiligdom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:30.660403234Z",
+  "model": "glm-5.3"
+}

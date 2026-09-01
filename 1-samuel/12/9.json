@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Maar zij vergaten Jahweh hun Elohim, en Hij verkocht ⟨את⟩ hen in de hand van Sisera, vorst van het leger van Chatsor, en in de hand van de Pelisjtiem, en in de hand van de koning van Moav, en zij streden tegen hen.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "en zij vergeten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hun Elohim"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "en Hij verkocht"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand van"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "vorst"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "van het leger"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "van Chatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "en in de hand van"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Pelisjtiem"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "en in de hand van"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moav"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "en zij streden"
+    },
+    {
+      "surface": "בם",
+      "gloss": "tegen hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:43:50.146819597Z",
+  "model": "glm-5.3"
+}

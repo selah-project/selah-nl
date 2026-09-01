@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 114,
+  "translation": "Vanwege het aangezicht van Adonai — beveel, aarde! Vanwege het aangezicht van El oa van Jaäkov!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "vanwege het aangezicht van"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "beveel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "vanwege het aangezicht van"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "El oa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:35.535736350Z",
+  "model": "glm-5.3"
+}

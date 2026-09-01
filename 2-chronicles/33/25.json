@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "En het volk van ⟨de⟩ land sloeg ⟨את⟩ alle samenzweerders tegen koning Amon; en het volk van ⟨de⟩ land deed Jehosjijahoe, zijn zoon, regeren ⟨את⟩ in zijn plaats.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "en sloeg"
+    },
+    {
+      "surface": "עם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle samenzweerders"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "samenzweerders"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "en deden regeren"
+    },
+    {
+      "surface": "עם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehosjijahoe"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jehosjijahoe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T23:12:02.669355406Z",
+  "model": "glm-5.3"
+}

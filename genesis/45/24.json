@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 45,
+  "translation": "En hij zond ⟨את⟩ zijn broeders weg, en zij gingen, en hij zei tot hen: Word niet opgewonden van woede op de weg.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hij zond weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn broeders"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broeders"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en zij gingen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "wordt opgewonden van woede"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    }
+  ],
+  "timestamp": "2026-08-31T19:48:53.592851269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Waarmee zal een jongeman ⟨את⟩ zijn pad zuiveren? ⟨Door⟩ het te bewaren naar uw woord.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "zuiveren"
+    },
+    {
+      "surface": "נער",
+      "gloss": "een jongeman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn pad"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "zijn pad"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "te bewaren"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "naar uw woord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:34.523420089Z",
+  "model": "glm-5.3"
+}

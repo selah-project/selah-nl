@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En u — hef ⟨את⟩ uw staf op en strek ⟨את⟩ uw hand uit over de zee, en klief haar, dan zullen de kinderen van Israël het midden van de zee binnengaan, op het droge.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en u"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "hef op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw staf"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "uw staf"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "en strek uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uw hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "en klief haar"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan zullen zij binnengaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "het midden van"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "op het droge"
+    }
+  ],
+  "timestamp": "2026-08-31T19:53:11.583370636Z",
+  "model": "glm-5.3"
+}

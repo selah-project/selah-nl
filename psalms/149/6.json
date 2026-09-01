@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 149,
+  "translation": "Verheffing van El ⟨is⟩ in hun keel, en een tweesnijdend zwaard in hun hand,",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "verheffing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "in hun keel"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "en een zwaard"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "tweesnijdend"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "in hun hand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:14.843307374Z",
+  "model": "glm-5.3"
+}

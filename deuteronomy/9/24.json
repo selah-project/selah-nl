@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Opstandig zijn jullie geweest met Jahweh ⟨tegensands⟩, vanaf de dag dat ik jullie ken.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "opstandig"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "zijn jullie geweest"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met ⟨tegen⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "vanaf de dag"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "dat ik ken"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "jullie (gekend)"
+    }
+  ],
+  "timestamp": "2026-08-31T20:22:01.006374149Z",
+  "model": "glm-5.3"
+}

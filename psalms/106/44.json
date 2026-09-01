@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En hij zag ⟨hun⟩ benauwdheid ⟨aan⟩, toen hij ⟨את⟩ hun geschreeuw hoorde.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hij zag"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "benauwdheid"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "toen hij hoorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun geschreeuw"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "hun geschreeuw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:38.765318950Z",
+  "model": "glm-5.3"
+}

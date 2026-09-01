@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En een verfoeisel zullen ze voor jullie zijn; van hun vlees mogen jullie niet eten, en ⟨את⟩ hun aas zullen jullie verfoeien.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "en een verfoeisel"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zullen ze zijn"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "van hun vlees"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mogen jullie eten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun aas"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "hun aas"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "zullen jullie verfoeien"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:55.534116027Z",
+  "model": "glm-5.3"
+}

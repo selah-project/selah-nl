@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "Ik, ik ⟨ben⟩ Jahweh, en buiten mij is er geen redder.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is niet"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "buiten mij"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "redder"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:51.038773628Z",
+  "model": "glm-5.3"
+}

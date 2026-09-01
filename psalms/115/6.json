@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 115,
+  "translation": "Oren hebben zij, maar zij horen niet; een neus hebben zij, maar zij ruiken niet.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "oren"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hebben zij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "zij horen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "een neus"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hebben zij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "zij ruiken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:44.665974826Z",
+  "model": "glm-5.3"
+}

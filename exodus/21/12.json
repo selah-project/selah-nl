@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Wie een man slaat en hij sterft — ⟨die⟩ zal zeker gedood worden.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "wie slaat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "en hij sterft"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood —"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zal gedood worden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:14.514712611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Opdat het laatste geslacht het zou weten, kinderen die geboren zullen worden; zij zullen opstaan en het hun kinderen vertellen.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "zouden weten"
+    },
+    {
+      "surface": "דור",
+      "gloss": "geslacht"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "het laatste"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "geboren zullen worden"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "zij zullen opstaan"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "en vertellen"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "hun kinderen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:55.206739602Z",
+  "model": "glm-5.3"
+}

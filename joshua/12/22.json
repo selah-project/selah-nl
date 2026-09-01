@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "de koning van Kedesj, één; de koning van Jokneäm ⟨bij⟩ de Karmel, één;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "van Kedesj"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "van Jokneäm"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "⟨bij⟩ de Karmel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T20:31:31.679049580Z",
+  "model": "glm-5.3"
+}

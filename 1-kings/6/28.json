@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En hij overtrok ⟨את⟩ de cherubs met goud.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "en hij overtrok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de cherubs"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "de cherubs"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    }
+  ],
+  "timestamp": "2026-08-31T20:59:29.083809933Z",
+  "model": "glm-5.3"
+}

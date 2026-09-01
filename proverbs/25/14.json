@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 25:14",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Wolken en wind, en geen regen — zo is een man die roemt van een geschenk van leugen.",
+  "tokens": [
+    {
+      "surface": "נשיאים",
+      "gloss": "wolken ⟨en wind⟩"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en wind"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "en regen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "מתהלל",
+      "gloss": "die roemt"
+    },
+    {
+      "surface": "במתת",
+      "gloss": "van een geschenk"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leugen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:01.000737189Z",
+  "model": "glm-5.3"
+}

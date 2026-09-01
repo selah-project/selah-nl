@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En hij zal de levende vogel wegzenden ⟨את⟩ naar buiten de stad, naar het aangezicht van het veld, en hij zal verzoening doen over het huis, en het zal rein worden.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "en hij zal wegzenden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de levende vogel"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "de vogel"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "de levende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van het veld"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "en hij zal verzoening doen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "en het zal rein worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:11.082038306Z",
+  "model": "glm-5.3"
+}

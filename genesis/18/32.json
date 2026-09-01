@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 18:32",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En hij zei: Laat het Adonai alstublieft niet ergeren, en ik zal slechts deze ene keer spreken: misschien worden daar tien gevonden. En Hij zei: Ik zal ⟨het⟩ niet verderven omwille van de tien.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat niet"
+    },
+    {
+      "surface": "נא",
+      "gloss": "alstublieft"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "het ergeren"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "en ik zal spreken"
+    },
+    {
+      "surface": "אך",
+      "gloss": "slechts"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "deze keer"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "misschien"
+    },
+    {
+      "surface": "ימצאון",
+      "gloss": "worden gevonden"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en Hij zei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "zal ik verderven"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "omwille van"
+    },
+    {
+      "surface": "העשרה",
+      "gloss": "de tien"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:46.803013403Z",
+  "model": "glm-5.3"
+}

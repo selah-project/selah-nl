@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Want zeven keer valt een rechtvaardige en staat op, maar slechten struikelen in rampspoed.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zeven keer"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "valt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "een rechtvaardige"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "en staat op"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "maar slechten"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "struikelen"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "in rampspoed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:44.351760384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 32:16",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En zij kwamen naar hem toe en zeiden: Kooien voor ⟨de⟩ kudden willen wij hier bouwen voor ons vee, en steden voor onze kleinen.",
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "En zij kwamen naar hem toe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naar hem"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zeiden"
+    },
+    {
+      "surface": "גדרת",
+      "gloss": "Kooien"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "voor ⟨de⟩ kudden"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "willen wij bouwen"
+    },
+    {
+      "surface": "למקננו",
+      "gloss": "voor ons vee"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "en steden"
+    },
+    {
+      "surface": "לטפנו",
+      "gloss": "voor onze kleinen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:18:16.843353474Z",
+  "model": "glm-5.3"
+}

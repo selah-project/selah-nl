@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En ⟨את⟩ de tweede zal hij bereiden als brandoffer volgens de verordening, en de priester zal voor hem verzoening doen vanwege zijn zonde waarmee hij gezondigd heeft, en het zal hem vergeven worden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de tweede"
+    },
+    {
+      "surface": "השני",
+      "gloss": "de tweede"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zal hij bereiden"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "volgens de verordening"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "en zal verzoening doen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "vanwege zijn zonde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hij gezondigd heeft"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "en het zal vergeven worden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:23.595934303Z",
+  "model": "glm-5.3"
+}

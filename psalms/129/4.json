@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 129,
+  "translation": "Jahweh ⟨is⟩ rechtvaardig: hij heeft de koorden van de goddelozen doorgehakt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardig"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "heeft doorggehakt"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "de koorden"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van de goddelozen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:24.932681043Z",
+  "model": "glm-5.3"
+}

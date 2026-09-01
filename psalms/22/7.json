@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En ik ⟨ben⟩ een worm en geen man, een smaad van mensen, en veracht door ⟨het⟩ volk.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "een worm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "een smaad"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van mensen"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "en veracht"
+    },
+    {
+      "surface": "עם",
+      "gloss": "door het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:01.725499100Z",
+  "model": "glm-5.3"
+}

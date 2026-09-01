@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Jongemannen moesten ⟨את⟩ het malen dragen, en jongens struikelden onder het hout.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "jongemannen"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "het malen"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "moesten dragen"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "en jongens"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "onder het hout"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "struikelden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:24.763246318Z",
+  "model": "glm-5.3"
+}

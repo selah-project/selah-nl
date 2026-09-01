@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Met mijn lippen heb ik verteld al ⟨de⟩ verordeningen van uw mond.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "met mijn lippen"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "heb ik verteld"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "de verordeningen"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "van uw mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:21.172181207Z",
+  "model": "glm-5.3"
+}

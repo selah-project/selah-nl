@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Een weg ⟨naar⟩ het leven ⟨is⟩ wie tucht in acht neemt, maar wie bestraffing verlaat, dwaalt af.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "weg"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "naar het leven"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "in acht neemt"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tucht"
+    },
+    {
+      "surface": "וועוזב",
+      "gloss": "maar die verlaat"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "bestraffing"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "dwaalt af"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:12.096703585Z",
+  "model": "glm-5.3"
+}

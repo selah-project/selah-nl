@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 96,
+  "translation": "De hemelen verheugen zich en de aarde jubelt; de zee dondert en al wat ⟨haar⟩ vult.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "verheugen zich"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "De hemelen"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "en jubelt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "dondert"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "en al wat ⟨haar⟩ vult"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:52.129978863Z",
+  "model": "glm-5.3"
+}

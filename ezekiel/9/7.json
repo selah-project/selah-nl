@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En hij zei tot hen: Ontreinig ⟨את⟩ het huis en vul ⟨את⟩ de voorhoven met doorstokenen! Ga naar buiten. En zij gingen naar buiten en sloegen in de stad.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "ontreinig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "en vul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de voorhoven"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "de voorhoven"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "met doorstokenen"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "ga naar buiten"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "en zij gingen naar buiten"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "en sloegen"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    }
+  ],
+  "timestamp": "2026-08-31T21:43:44.678072917Z",
+  "model": "glm-5.3"
+}

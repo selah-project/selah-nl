@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 84,
+  "translation": "Zelfs de vogel vond een huis, en de zwaluw een nest voor zichzelf, waar zij haar jongen neerzet: ⟨את⟩ uw altaren, Jahweh Tsevaot, mijn Koning en mijn Elohim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Zelfs"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "de vogel"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "vond"
+    },
+    {
+      "surface": "בית",
+      "gloss": "een huis"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "en de zwaluw"
+    },
+    {
+      "surface": "קן",
+      "gloss": "een nest"
+    },
+    {
+      "surface": "לה",
+      "gloss": "voor zichzelf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "zij neerzet"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "haar jongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw altaren"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "uw altaren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mijn Koning"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "en mijn Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:17:36.567578722Z",
+  "model": "glm-5.3"
+}

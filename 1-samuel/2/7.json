@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Jahweh ontneemt ⟨bezit⟩ en maakt rijk, Hij vernedert en verhoogt ook.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "ontneemt bezit"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "en maakt rijk"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "vernedert"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "verhoogt"
+    }
+  ],
+  "timestamp": "2026-08-31T20:41:11.051908363Z",
+  "model": "glm-5.3"
+}

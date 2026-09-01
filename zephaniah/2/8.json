@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Ik heb de smaad van Moab gehoord en de lasteringen van de zonen van Ammon, waarmee zij ⟨את⟩ mijn volk gesmaad en zich tegen hun grens grootgemaakt hebben.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ik heb gehoord"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "de smaad"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "en de lasteringen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "van Ammon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "zij gesmaad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "en grootgemaakt hebben"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "hun grens"
+    }
+  ],
+  "timestamp": "2026-08-31T22:02:25.046610808Z",
+  "model": "glm-5.3"
+}

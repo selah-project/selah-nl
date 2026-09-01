@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "En Sjechem zei tot Chamor, zijn vader, zeggend: Neem voor mij dit jonge meisje ⟨את⟩ als vrouw.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjechem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit jonge meisje"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "dit jonge meisje"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "als vrouw"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:48.099413167Z",
+  "model": "glm-5.3"
+}

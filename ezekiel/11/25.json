@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En ik sprak tot de ballingen ⟨את⟩ alle woorden van Jahweh, die Hij mij had getoond.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "en ik sprak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "de ballingen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle woorden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Hij mij had getoond"
+    }
+  ],
+  "timestamp": "2026-08-31T21:42:38.139829574Z",
+  "model": "glm-5.3"
+}

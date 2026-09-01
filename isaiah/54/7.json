@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 54,
+  "translation": "Een kort ogenblik heb ik je verlaten, maar met grote raḥamiem zal ik je bijeenbrengen.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "Een ogenblik"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kort"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "heb ik je verlaten"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "maar met raḥamiem"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grote"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "zal ik je bijeenbrengen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:22.728051072Z",
+  "model": "glm-5.3"
+}

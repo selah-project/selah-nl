@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "En een aardewerken vat dat de zav aanraakt, wordt gebroken; en elk houten voorwerp wordt in water afgespoeld.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "en een vat"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "aardewerken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "aanraakt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hij"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "de zav"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "wordt gebroken"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en elk"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "voorwerp"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "houten"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "wordt afgespoeld"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in water"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:06.427263061Z",
+  "model": "glm-5.3"
+}

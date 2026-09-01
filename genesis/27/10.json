@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En je zult het brengen aan je vader, en hij zal eten, opdat hij je zegene voor zijn dood.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "en je zult brengen"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "aan je vader"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "en hij zal eten"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "hij je zegene"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "zijn dood"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:44.371164119Z",
+  "model": "glm-5.3"
+}

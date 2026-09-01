@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "de koning van Eglon, één; de koning van Gezer, één;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "van Eglon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "van Gezer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T20:31:17.343106913Z",
+  "model": "glm-5.3"
+}

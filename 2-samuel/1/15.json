@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Dawid riep een van de jongemannen en zei: Nader, val hem aan. En hij sloeg hem, en hij stierf.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij riep"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "van de jongemannen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "גש",
+      "gloss": "nader"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "val aan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "en hij sloeg hem"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hij stierf"
+    }
+  ],
+  "timestamp": "2026-08-31T20:50:10.706291714Z",
+  "model": "glm-5.3"
+}

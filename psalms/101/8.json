@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 101,
+  "translation": "Elke morgen roei ik alle goddelozen van het land uit, om van de stad van Jahweh alle werkers van onheil af te snijden.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "elke morgen"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "roei ik uit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "goddelozen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "om af te snijden"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "van de stad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "werkers"
+    },
+    {
+      "surface": "און",
+      "gloss": "van onheil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:15.366317885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Verzadigd worden de bomen van Jahweh, de ceders van de Libanon, die hij geplant heeft;",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "verzadigd worden"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "de bomen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "de ceders"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "van de Libanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "geplant heeft"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:06.618182559Z",
+  "model": "glm-5.3"
+}

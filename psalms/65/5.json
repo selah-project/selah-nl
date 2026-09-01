@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "Gelukkig wie Gij uitkiest en doet naderen, zodat hij woont in uw voorhoven; wij worden verzadigd met het goede van uw huis, ⟨van⟩ uw heilige tempel.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Gelukkig"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "wie Gij uitkiest"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "en doet naderen"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "zodat hij woont"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "in uw voorhoven"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "worden wij verzadigd"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "met het goede"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "van uw huis"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "uw tempel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:47.758971929Z",
+  "model": "glm-5.3"
+}

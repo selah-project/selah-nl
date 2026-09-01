@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 25:26",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Toen stonden alle mensen op, van klein tot groot, en de vorsten van de krijgsmacht, en zij kwamen naar Mitsrajim, omdat zij bang waren voor het aangezicht van de Kasdim.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "toen stonden op"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mensen"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "van klein"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "en de vorsten"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "van de krijgsmacht"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en zij kwamen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "naar Mitsrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "zij bang waren"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "de Kasdim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:49.237378496Z",
+  "model": "glm-5.3"
+}

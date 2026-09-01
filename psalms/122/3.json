@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 122,
+  "translation": "Jeroesjalajim, ⟨de stad⟩ die gebouwd ⟨is⟩ als een stad die aan zichzelf verbonden ⟨is⟩, tezamen.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "die gebouwd ⟨is⟩"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "als een stad"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "die verbonden ⟨is⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "aan zichzelf"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tezamen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:41.247119474Z",
+  "model": "glm-5.3"
+}

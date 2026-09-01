@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "Als een wonderteken ben ik geworden voor velen, maar U bent mijn toevlucht, mijn sterkte.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "als een wonderteken"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ben ik geworden"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "voor velen"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "maar U"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mijn toevlucht"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mijn sterkte"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:28.596032092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En jullie oren zullen een woord horen achter jullie, dat zegt: Dit is de weg, wandelt daarin, wanneer jullie ⟨naar rechts⟩ afwijken en wanneer jullie ⟨naar links⟩ afwijken.",
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "en jullie oren"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "zullen horen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "een woord"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "achter jullie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dat zegt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "is de weg"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "wandelt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "jullie naar rechts afwijken"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "en wanneer"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "jullie naar links afwijken"
+    }
+  ],
+  "timestamp": "2026-08-31T21:19:45.088794640Z",
+  "model": "glm-5.3"
+}

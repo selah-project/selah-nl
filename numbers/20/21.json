@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Edom weigerde ⟨את⟩ Israël door te laten over zijn grensgebied, en Israël wende zich van hem af.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "weigerde"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "door te laten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "over te steken"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "over zijn grensgebied"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "en wende zich af"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "van hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:49.410368042Z",
+  "model": "glm-5.3"
+}

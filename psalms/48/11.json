@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Overeenkomstig uw naam, Elohim, zo ⟨is⟩ uw lof, tot aan de einden van de aarde; gerechtigheid vervult uw rechterhand.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "overeenkomstig uw naam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "uw lof"
+    },
+    {
+      "surface": "על",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "de einden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "gerechtigheid"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "vervult"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "uw rechterhand"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:48.437858324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "En Jahweh deed de gevangenschap van Ijob wederkeren, toen hij voor zijn vriend bad; en Jahweh voegde toe aan alles wat Ijob had ⟨tot⟩ het dubbele.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "En Jahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "dede wederkeren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gevangenschap"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "de gevangenschap"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "van Ijob"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "toen hij bad"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "zijn vriend"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "en voegde toe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Ijob had"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "⟨tot⟩ het dubbele"
+    }
+  ],
+  "timestamp": "2026-08-31T22:39:07.101368013Z",
+  "model": "glm-5.3"
+}

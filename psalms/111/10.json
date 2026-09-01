@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 111,
+  "translation": "Begin van wijsheid is ontzag voor Jahweh; goed inzicht hebben allen die ze doen; zijn lof staat vast voor eeuwig.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "begin"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "van wijsheid"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ontzag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "inzicht"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "die ze doen"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "zijn lof"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "staat vast"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:14.132450011Z",
+  "model": "glm-5.3"
+}

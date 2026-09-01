@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 91,
+  "translation": "Met zijn vlerken zal hij je bedekken, en onder zijn vleugels zul je schuilen; ⟨zijn⟩ trouw is schild en kleinood-rondas.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "met zijn vlerken"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "zal hij bedekken"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "en onder"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "zijn vleugels"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "zul je schuilen"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "schild"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "en rondas"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "⟨zijn⟩ trouw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:24.607562580Z",
+  "model": "glm-5.3"
+}

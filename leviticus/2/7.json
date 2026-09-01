@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En als je offergave een mingen uit de kookpan ⟨is⟩, van fijn meel met olie zal het gemaakt worden.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mingen"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "uit de kookpan"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "je offergave"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fijn meel"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "met olie"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zal gemaakt worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:55.333425739Z",
+  "model": "glm-5.3"
+}

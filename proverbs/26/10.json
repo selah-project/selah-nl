@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Een schutter die alles verwondt — zo ⟨is⟩ hij die een dwaas huurt, en hij die voorbijgangers huurt.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "een schutter"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "die verwondt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "zo hij die huurt"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "een dwaas"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "en hij die huurt"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "voorbijgangers"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:00.635346644Z",
+  "model": "glm-5.3"
+}

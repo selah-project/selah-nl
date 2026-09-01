@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 20:3",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "De terechtwijzing van mijn smaad hoor ik, en ⟨de⟩ roeach van mijn verstand antwoordt mij.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "de terechtwijzing"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "van mijn smaad"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hoor ik"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en ⟨de⟩ roeach"
+    },
+    {
+      "surface": "מבינתי",
+      "gloss": "van mijn verstand"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "antwoordt mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:34:37.519770043Z",
+  "model": "glm-5.3"
+}

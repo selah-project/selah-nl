@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En ook ⟨dat⟩ elke mens eet en drinkt en het goede ziet in al zijn gezwoeg — het is een gave van Elohim.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "en drinkt"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en ziet"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in al"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "zijn gezwoeg"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "een gave"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "het is"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:45.127402186Z",
+  "model": "glm-5.3"
+}

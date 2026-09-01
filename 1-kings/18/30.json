@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Elia zei tot heel het volk: Nader tot mij. En heel het volk naderde tot hem, en hij herstelde ⟨את⟩ het altaar van Jahweh, het verwoeste.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "zei"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tot heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Nader"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "en naderde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "en hij herstelde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het altaar van Jahweh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "het verwoeste"
+    }
+  ],
+  "timestamp": "2026-08-31T21:04:00.219994707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 24:18",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En u zult gedenken dat u een slaaf was in Mitsrajim, en dat Jahweh, uw Elohim, u van daar heeft losgekocht; daarom gebied ik u ⟨את⟩ dit woord te doen.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "en u zult gedenken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "een slaaf"
+    },
+    {
+      "surface": "היית",
+      "gloss": "u was"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "en heeft u losgekocht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "gebied ik u"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "te doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dit woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:23.113921845Z",
+  "model": "glm-5.3"
+}

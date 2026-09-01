@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Het zonde-offer van mijn volk eten zij op, en naar hun ongerechtigheid heffen zij hun nefesj.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "het zonde-offer"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "van mijn volk"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "eten zij op"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en naar"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "hun ongerechtigheid"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "heffen zij"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hun nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T21:54:29.170712325Z",
+  "model": "glm-5.3"
+}

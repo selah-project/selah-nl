@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 39:10",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "Kun jij de rem vastbinden aan de ploegvoor met zijn touw, of zal hij dalen eggen achter jou ⟨aan⟩?",
+  "tokens": [
+    {
+      "surface": "התקשר",
+      "gloss": "kun jij... vastbinden"
+    },
+    {
+      "surface": "רים",
+      "gloss": "de rem"
+    },
+    {
+      "surface": "בתלם",
+      "gloss": "aan de ploegvoor"
+    },
+    {
+      "surface": "עבתו",
+      "gloss": "met zijn touw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "zal hij eggen"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "dalen"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "achter jou"
+    }
+  ],
+  "timestamp": "2026-08-31T22:37:40.896134432Z",
+  "model": "glm-5.3"
+}

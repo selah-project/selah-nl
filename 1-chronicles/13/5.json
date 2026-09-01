@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En Dawid verzamelde heel Israël, van de Sjichor van Mitsrajim tot aan de intocht van Chamat, om ⟨את⟩ de ark van Elohim te halen uit Kirjat-Jearim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "verzamelde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "de Sjichor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "de intocht"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "te halen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "uit Kirjat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-Jearim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:11.789697875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En hij zei tot zijn zonen: Zadelt voor mij de ezel. En zij zadelden voor hem de ezel, en hij steeg erop.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "zadelt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "de ezel"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "en zij zadelden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "de ezel"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "en hij steeg op"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "erop"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:47.395401176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En Bilam stond op in de morgen, en zadelde ⟨את⟩ zijn ezelin, en ging met de vorsten van Moab.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en hij stond op"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "en hij zadelde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn ezelin"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "zijn ezelin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "de vorsten"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    }
+  ],
+  "timestamp": "2026-08-31T20:15:16.663287870Z",
+  "model": "glm-5.3"
+}

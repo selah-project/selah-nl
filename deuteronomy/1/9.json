@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ik zei tot jullie in die tijd, zeggende: Ik kan niet alleen ⟨את⟩ jullie dragen.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "En ik zei"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "tot jullie"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die tijd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan ik"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "dragen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:19:46.771532405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "⟨Als⟩ de zon opgaat, worden ze verzameld en in hun holen kruipen ze samen.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "gaat op"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "worden ze verzameld"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en in"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "hun holen"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "kruipen ze samen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:47.279556975Z",
+  "model": "glm-5.3"
+}

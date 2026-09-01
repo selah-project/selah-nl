@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Als er een rechtszaak is tussen mannen en zij voor het gericht verschijnen, en men een vonnis wijst, dan zullen zij ⟨de⟩ rechtvaardige rechtvaardigen en ⟨את⟩ de goddeloze schuldig verklaren — ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "als"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "er is"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "een rechtszaak"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mannen"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "en zij verschijnen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "het gericht"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "en men wijst een vonnis"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "dan zullen zij rechtvaardigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de rechtvaardige"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "de rechtvaardige"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "en schuldig verklaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de goddeloze"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "de goddeloze"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:00.081174118Z",
+  "model": "glm-5.3"
+}

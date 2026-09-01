@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 21:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Wanneer jij uittrekt ten strijde tegen jouw vijanden, en Jahweh jouw Elohim hen in jouw hand geeft, en jij gevangenen wegvoert,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "jij uittrekt"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ten strijde"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "jouw vijanden"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "en geeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jouw hand"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "en jij voert weg"
+    },
+    {
+      "surface": "שביו",
+      "gloss": "gevangenen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:34.110661869Z",
+  "model": "glm-5.3"
+}

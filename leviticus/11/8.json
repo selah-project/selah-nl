@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Van hun vlees zul je niet eten, en aan hun aas zul je niet komen — onrein zijn zij voor jullie.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "van hun vlees"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "zul je eten"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "en aan hun aas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "zul je komen"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zij"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:12.728740029Z",
+  "model": "glm-5.3"
+}

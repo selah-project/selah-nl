@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "Wij zullen ⟨ze⟩ niet verbergen voor hun kinderen, ⟨om⟩ het latere geslacht te vertellen de lofzangen van Jahweh, en zijn macht en zijn wonderdaden die hij gedaan heeft.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "zullen verbergen"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "voor hun kinderen"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "⟨om⟩ het geslacht"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "latere"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "te vertellen"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "de lofzangen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "en zijn macht"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "en zijn wonderdaden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hij gedaan heeft"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:56.872209122Z",
+  "model": "glm-5.3"
+}

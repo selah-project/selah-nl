@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En de knecht vertelde aan Jitschak ⟨את⟩ alle dingen die hij gedaan had.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "en vertelde"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "de knecht"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "aan Jitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle dingen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dingen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hij gedaan had"
+    }
+  ],
+  "timestamp": "2026-08-31T19:42:31.729315362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 41,
+  "translation": "Zelfs de man van mijn sjalom, op wie ik vertrouwde, die mijn brood at, heeft tegen mij ⟨de⟩ hiel verheven.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "zelfs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "van mijn sjalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "op die"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ik vertrouwde"
+    },
+    {
+      "surface": "בו",
+      "gloss": "op hem"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "at"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mijn brood"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "heeft verheven"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "hiel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:59.233419384Z",
+  "model": "glm-5.3"
+}

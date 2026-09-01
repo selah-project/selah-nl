@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 77,
+  "translation": "Met ⟨een⟩ arm hebt u uw volk vrijgekocht, de kinderen van Jaäkov en Jozef. Sela.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "hebt u vrijgekocht"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "met arm"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uw volk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "en Jozef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:28.587573106Z",
+  "model": "glm-5.3"
+}

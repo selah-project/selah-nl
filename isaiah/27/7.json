@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Als ⟨de⟩ slagen van wie hem sloeg — heeft Hij hem geslagen? Of zoals ⟨de⟩ doodslag van zijn gedoden — is hij gedood?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "als de slagen van"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "wie hem sloeg"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "heeft Hij hem geslagen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "als de doodslag van"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "zijn gedoden"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "is hij gedood"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:24.616801884Z",
+  "model": "glm-5.3"
+}

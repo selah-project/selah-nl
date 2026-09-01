@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "De naam van de ⟨een⟩ ⟨rivier⟩ is Pisjon; hij is het die de gehele landstreek Chawila omringt, waar het goud is.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "van de ⟨een⟩"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pisjon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij is het"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "die omringt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gehele landstreek Chawila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de gehele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landstreek"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Chawila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "het goud"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:19.159210618Z",
+  "model": "glm-5.3"
+}

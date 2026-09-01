@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "zie, ik geef ⟨את⟩ het land voor uw aangezicht; gaat binnen en neemt ⟨את⟩ het land in bezit dat Jahweh aan uw vaderen heeft gezworen, aan Avraham, aan Jitschak en aan Jaäkov, het hun te geven, en hun zaad na hen.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ik geef"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "voor uw aangezicht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gaat binnen"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "en neemt in bezit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "heeft gezworen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "aan uw vaderen"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "aan Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "aan Jitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "en aan Jaäkov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "te geven"
+    },
+    {
+      "surface": "להם",
+      "gloss": "het hun"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "en hun zaad"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "na hen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:26.899466457Z",
+  "model": "glm-5.3"
+}

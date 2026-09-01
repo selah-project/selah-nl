@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 65,
+  "translation": "Gij bezoekt de aarde en laat haar overvloeien; overvloedig verrijkt gij haar ⟨met⟩ de stroom van Elohim, vol van water; gij bereidt hun koren, want zo bereidt gij haar.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "gij bezoekt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "en laat haar overvloeien"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "overvloedig"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "verrijkt gij haar"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "de stroom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vol"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van water"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "gij bereidt"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "hun koren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "bereidt gij haar"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:42.796048384Z",
+  "model": "glm-5.3"
+}

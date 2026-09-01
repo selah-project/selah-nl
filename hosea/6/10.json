@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "In het huis van Jisraël heb ik een schrikwekkend ding gezien: daar ⟨is⟩ ontucht van Efrayim — Jisraël is onrein geworden.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "heb ik gezien"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "een schrikwekkend ding"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "ontucht"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "van Efrayim"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "is onrein geworden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T21:53:48.276206071Z",
+  "model": "glm-5.3"
+}

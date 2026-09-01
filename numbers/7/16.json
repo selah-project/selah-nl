@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "één behaarde bok ⟨van⟩ de geiten, voor een zondeoffer.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "behaarde bok"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "de geiten"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "voor een zondeoffer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:24.119857502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Want als het geknetter van doornen onder de pot, zo is het gelach van de dwaas — ook dit is hevel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "als het geknetter"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "van doornen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "de pot"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "het gelach"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "van de dwaas"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:26.220799059Z",
+  "model": "glm-5.3"
+}

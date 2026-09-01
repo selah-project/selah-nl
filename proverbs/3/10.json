@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "dan worden je schuren gevuld met overvloed, en je wijnpersen barsten uit van jonge wijn.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "dan worden...gevuld"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "je schuren"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "met overvloed"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "en van jonge wijn"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "je wijnpersen"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "barsten uit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:47.806252825Z",
+  "model": "glm-5.3"
+}

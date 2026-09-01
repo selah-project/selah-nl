@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Verheerlijk Jahweh met mij, en laten wij zijn naam tezamen verheffen.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Verheerlijk"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ met mij"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "en laten wij verheffen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tezamen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:14.453522542Z",
+  "model": "glm-5.3"
+}

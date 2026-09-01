@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "Voor Efraim en Binjamin en Menasje — wek uw macht op ⟨את⟩, en kom tot ⟨onze⟩ hulpgissing, voor ons!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "en Binjamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "en Menasje"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "wek op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw macht"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "uw macht"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "en kom"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "tot redding"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "voor ons"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:41.488588142Z",
+  "model": "glm-5.3"
+}

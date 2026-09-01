@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En jullie zullen ⟨את⟩ het vlees van jullie voorhuid besnijden, en het zal tot een teken zijn van ⟨het⟩ verbond tussen mij en jullie.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "en jullie zullen besnijden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het vlees van jullie voorhuid"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "van jullie voorhuid"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en het zal zijn"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "tot een teken"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "van verbond"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen mij"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "en jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:33.101120846Z",
+  "model": "glm-5.3"
+}

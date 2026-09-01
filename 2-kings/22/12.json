@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En de koning gebod ⟨את⟩ Chillkia de priester, en ⟨את⟩ Achikam de zoon van Sjafan, en ⟨את⟩ Akbor de zoon van Michaja, en ⟨את⟩ Sjafan de schrijver, en ⟨את⟩ Asaja de dienaar van de koning, zeggende:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en gebod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chillkia de priester"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chillkia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Achikam de zoon van Sjafan"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Achikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon van"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Sjafan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Akbor de zoon van Michaja"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akbor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon van"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "Michaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sjafan de schrijver"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Sjafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "de schrijver"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Asaja de dienaar van de koning"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asaja"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "de dienaar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    }
+  ],
+  "timestamp": "2026-08-31T21:11:41.440846540Z",
+  "model": "glm-5.3"
+}

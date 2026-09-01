@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En Chanoch leefde vijfenzestig jaar, en hij verwekte ⟨את⟩ Metoesjelach.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "En hij leefde"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanoch"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "enzestig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hij verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metoesjelach"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metoesjelach"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:17.303155748Z",
+  "model": "glm-5.3"
+}

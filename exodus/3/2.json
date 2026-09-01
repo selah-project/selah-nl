@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En een bode van Jahweh verscheen aan hem in een vlam van vuur, uit het midden van de struik; en hij zag, en ziet, de struik brandde in vuur, en de struik werd niet verteerd.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en verscheen"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "een bode"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aan hem"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "in een vlam"
+    },
+    {
+      "surface": "אש",
+      "gloss": "van vuur"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit het midden van"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "de struik"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en hij zag"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en ziet"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "de struik"
+    },
+    {
+      "surface": "בער",
+      "gloss": "brandde"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in vuur"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "en de struik"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "was niet"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "verteerd"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:40.758772482Z",
+  "model": "glm-5.3"
+}

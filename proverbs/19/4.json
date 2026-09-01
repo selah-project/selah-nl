@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Rijkdom voegt vele vrienden toe, maar de arme wordt van zijn vriend gescheiden.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Rijkdom"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "voegt toe"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "vrienden"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "maar de arme"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "van zijn vriend"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "wordt gescheiden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:18.390735535Z",
+  "model": "glm-5.3"
+}

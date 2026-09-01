@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de man Elkanah en heel zijn huis gingen op om aan Jahweh ⟨את⟩ het slachtoffer van de dagen ⟨te⟩ brengen en ⟨את⟩ zijn gelofte.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "en hij ging op"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "om te slachten"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het slachtoffer van de dagen"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slachtoffer"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "van de dagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn gelofte"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "zijn gelofte"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:10.496321553Z",
+  "model": "glm-5.3"
+}

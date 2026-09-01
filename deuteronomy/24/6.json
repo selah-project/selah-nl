@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Men zal geen molensteen, en zelfs niet de bovensteen, in onderpand nemen, want ⟨dat⟩ is een nefesj die hij in onderpand neemt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "zal in onderpand nemen"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "molensteen"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "en zelfs niet de bovensteen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "een nefesj"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dat⟩ is"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "die hij in onderpand neemt"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:57.518316289Z",
+  "model": "glm-5.3"
+}

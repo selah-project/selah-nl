@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 12:4",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En u, Daniël, sluit de woorden toe en verzegel het boek tot de tijd van het einde; velen zullen heen en weer gaan en de kennis zal vermeerderd worden.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en u"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniël"
+    },
+    {
+      "surface": "סתם",
+      "gloss": "sluit toe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de woorden"
+    },
+    {
+      "surface": "וחתם",
+      "gloss": "en verzegel"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "het boek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עת",
+      "gloss": "de tijd"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "van het einde"
+    },
+    {
+      "surface": "ישטטו",
+      "gloss": "zullen heen en weer gaan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "velen"
+    },
+    {
+      "surface": "ותרבה",
+      "gloss": "en zal vermeerderd worden"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "de kennis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:50:53.766982802Z",
+  "model": "glm-5.3"
+}

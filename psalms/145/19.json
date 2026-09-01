@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Het verlangen van wie hem vrezen zal hij doen, en ⟨את⟩ hun hulpgeroep zal hij horen en hen redden.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "het verlangen"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "van wie hem vrezen"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zal hij doen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hun hulpgeroep"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "hun hulpgeroep"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "zal hij horen"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "en hen redden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:17.634125165Z",
+  "model": "glm-5.3"
+}

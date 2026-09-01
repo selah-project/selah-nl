@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "En Aharon en zijn zonen zullen ⟨את⟩ het vlees van de ram eten, en ⟨את⟩ het brood dat in de mand is, bij de ingang van de tent van samenkomst.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "en zullen eten"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en zijn zonen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het vlees"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "van de ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het brood"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "het brood"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "in de mand"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bij de ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:42.387752888Z",
+  "model": "glm-5.3"
+}

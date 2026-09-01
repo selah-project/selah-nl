@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 52,
+  "translation": "Gij hebt het kwaad lief boven het goede, leugen boven het spreken van recht. Sela.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "gij hebt lief"
+    },
+    {
+      "surface": "רע",
+      "gloss": "het kwaad"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "boven het goede"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leugen"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "boven het spreken van"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "recht"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:01.362260863Z",
+  "model": "glm-5.3"
+}

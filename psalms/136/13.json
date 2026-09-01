@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "⟨Aan hem⟩ die de Zee van Soef in delen sneed, ja voor eeuwig ⟨duurt⟩ zijn chesed (trouw-liefde).",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "die sneed in delen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de Zee"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "van Soef"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "in delen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:15.143823913Z",
+  "model": "glm-5.3"
+}

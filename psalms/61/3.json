@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 61,
+  "translation": "Van het einde der aarde roep ik tot u; als mijn hart zich omsluiert, leidt gij mij naar de rots die hoger is dan ik.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "van het einde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der aarde"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "roep ik"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "als het zich omsluit"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "naar de rots"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "die hoger is"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dan ik"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "leidt gij mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:51.090957065Z",
+  "model": "glm-5.3"
+}

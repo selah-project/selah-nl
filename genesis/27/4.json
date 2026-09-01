@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 27:4",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "en maak voor mij lekkernijen zoals ik liefheb, en breng ⟨את⟩ het mij, zodat ik ervan eet, opdat mijn nefesj ⟨את⟩ jou zegene voordat ik sterf.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "en maak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "lekkernijen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ik liefheb"
+    },
+    {
+      "surface": "והביאה",
+      "gloss": "en breng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "het mij"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "zodat ik ervan eet"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "תברכך",
+      "gloss": "jou zegene"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ik sterf"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:14.513205964Z",
+  "model": "glm-5.3"
+}

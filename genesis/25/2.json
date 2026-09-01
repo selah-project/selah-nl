@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En zij baarde hem ⟨את⟩ Zimran en ⟨את⟩ Joksjan en ⟨את⟩ Medan en ⟨את⟩ Midjan en ⟨את⟩ Jisjbak en ⟨את⟩ Suwach.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "en zij baarde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Joksjan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Joksjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Midjan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jisjbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Jisjbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Suwach"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Suwach"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:16.639991754Z",
+  "model": "glm-5.3"
+}

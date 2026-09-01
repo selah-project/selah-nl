@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "Alleen ⟨dit⟩ mogen jullie niet eten van wat herkauwt ⟨opbrengt⟩ maar de hoef niet splijt: de kameel — ⟨want⟩ hij herkauwt ⟨opbrengt⟩ maar splijt de hoef niet; hij is voor jullie onrein.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mogen jullie eten"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "van wat opbrengt"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "het herkauwsel"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "en van wat splijt"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "de hoef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kameel"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "de kameel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "hij herkauwt"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "herkauwsel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "en de hoef"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "splijt"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:15.617005886Z",
+  "model": "glm-5.3"
+}

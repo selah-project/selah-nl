@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En u zult fijnmeel nemen en dat ⟨את⟩ bakken: twaalf koeken; twee tienden zal de ene koek ⟨zijn⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "en u zult nemen"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fijnmeel"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "en u zult bakken"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dat (de twaalf koeken)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twaalf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "חלות",
+      "gloss": "koeken"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "tienden"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "de koek"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "de ene"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:30.167096551Z",
+  "model": "glm-5.3"
+}

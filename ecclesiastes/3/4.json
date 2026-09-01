@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Een tijd om te wenend, en een tijd om te lachen; een tijd om te rouwklagen, en een tijd om te dansen.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "om te wenend"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "om te lachen"
+    },
+    {
+      "surface": "עת",
+      "gloss": "een tijd"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "om te rouwklagen"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en een tijd"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "om te dansen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:41.447940850Z",
+  "model": "glm-5.3"
+}

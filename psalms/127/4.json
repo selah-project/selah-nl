@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 127,
+  "translation": "Als pijlen in de hand van een held, zo ⟨zijn⟩ de zonen van de jeugd.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Als pijlen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "van een held"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "van de jeugd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:29.400128584Z",
+  "model": "glm-5.3"
+}

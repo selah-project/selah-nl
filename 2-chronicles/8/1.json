@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En het gebeurde aan het einde van twintig jaar, waarin Sjelomo het huis van Jahweh en ⟨את⟩ zijn eigen huis had gebouwd,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "aan het einde"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarin"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "had gebouwd"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn eigen huis"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn eigen huis"
+    }
+  ],
+  "timestamp": "2026-08-31T23:06:31.908137441Z",
+  "model": "glm-5.3"
+}

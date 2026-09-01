@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij zond Mosjee, zijn dienaar, en Aharon, die hij had uitverkoren.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Hij zond"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "zijn dienaar"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "hij had uitverkoren"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:14.118411932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 148,
+  "translation": "Looft Hem, hemelen der hemelen, en gij wateren die ⟨boven⟩ de hemelen ⟨zijn⟩.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Looft Hem"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "hemelen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "der hemelen"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "en gij wateren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨boven⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemelen"
+    }
+  ],
+  "timestamp": "2026-09-01T00:07:31.561397401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En hij verwierp de tent van Joesef, en de stam van Efrajim verkoos hij niet.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "en hij verwierp"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "de tent"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "van Joesef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "en de stam"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "van Efrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "verkoos"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:59.439010132Z",
+  "model": "glm-5.3"
+}

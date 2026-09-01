@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En gij zult ⟨את⟩ hen zalven, zoals gij ⟨את⟩ hun vader gezalfd hebt, en zij zullen voor Mij priester dienen; en hun zalving zal hun tot een eeuwig priesterschap zijn, voor hun geslachten.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "en gij zult zalven"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "de zonen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "gij gezalfd hebt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun vader"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "hun vader"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "en zij zullen priester dienen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor Mij"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "en zij zal zijn"
+    },
+    {
+      "surface": "להית",
+      "gloss": "om te zijn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "hun zalving"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "tot een priesterschap"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eeuwig"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "voor hun geslachten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:05.452227737Z",
+  "model": "glm-5.3"
+}

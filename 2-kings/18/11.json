@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En de koning van Asjoer voerde Israël weg ⟨את⟩ naar Asjoer, en hij deed hen wonen in Chalach en in Chevor, de rivier van Gozan, en in de steden van Madai.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "en voerde weg"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Asjoer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "naar Asjoer"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "en deed hen wonen"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "in Chalach"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "en in Chevor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "de rivier"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "van Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "en in de steden"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "van Madai"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:16.236364201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Wie kan zeggen: ik heb mijn hart zuiver gemaakt, ik ben rein van mijn zonde?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kan zeggen"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "ik heb zuiver gemaakt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "ik ben rein"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "van mijn zonde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:44.309426234Z",
+  "model": "glm-5.3"
+}

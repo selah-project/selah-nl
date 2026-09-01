@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "En Jahweh gaf een pestilentie in Israël, van de morgen tot de bepaalde tijd; en er stierven van het volk, van Dan tot Beër-Sjeva, zeventigduizend man.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en gaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pestilentie"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Israël"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "van de morgen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tijd"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "bepaalde ⟨tijd⟩"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en er stierven"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "van Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beër"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sjeva"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "zeventig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:22.396897130Z",
+  "model": "glm-5.3"
+}

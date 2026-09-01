@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Laat uw aangezicht lichten over uw dienaar, en leer mij ⟨את⟩ uw verordeningen.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "האר",
+      "gloss": "laat lichten"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "over uw dienaar"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "en leer mij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw verordeningen"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "uw verordeningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:03.227779240Z",
+  "model": "glm-5.3"
+}

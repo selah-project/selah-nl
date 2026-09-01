@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 127,
+  "translation": "Tevergeefs ⟨voor⟩ jullie, vroeg opstaan, laat gaan zitten, eters van brood der smarten — zo geeft Hij aan zijn geliefde ⟨de⟩ slaap.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "tevergeefs"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "vroeg opstaan"
+    },
+    {
+      "surface": "קום",
+      "gloss": "opstaan"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "laat"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "gaan zitten"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "eters"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "der smarten"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft Hij"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "aan zijn geliefde"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "slaap"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:29.399826564Z",
+  "model": "glm-5.3"
+}

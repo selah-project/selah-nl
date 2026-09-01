@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Manlijk en vrouwlijk schiep Hij ⟨את⟩ hen, en Hij zegende ⟨את⟩ hen, en Hij noemde ⟨את⟩ hun naam Adam, op de dag dat zij geschapen werden.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "manlijk"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "en vrouwlijk"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "schiep Hij hen"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en Hij zegende"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en Hij noemde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun naam"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "hun naam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "dat zij geschapen werden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:09.502190271Z",
+  "model": "glm-5.3"
+}

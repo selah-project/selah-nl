@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Jahweh, U hebt mijn nefesj opgehaald uit Sjeool, U hebt mij in leven gehouden ⟨voor⟩ hen die afdalen naar ⟨de⟩ kuil.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "U hebt omhooggehaald"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeool"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "U hebt mij in leven gehouden"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "⟨voor⟩ hen die afdalen"
+    },
+    {
+      "surface": "בור",
+      "gloss": "kuil"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:26.834422150Z",
+  "model": "glm-5.3"
+}

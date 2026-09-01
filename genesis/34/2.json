@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "En Sjechem, de zoon van Chamor de Chiwwiet, vorst van het land, zag haar ⟨את⟩, en hij nam haar ⟨את⟩, en hij lag bij haar ⟨את⟩, en hij vernederde haar.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "zag"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (Dina)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjechem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "de zoon"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "van Chamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "de Chiwwiet"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "vorst"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van het land"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (Dina)"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "lag bij"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (Dina)"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "vernederde haar"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:48.099022164Z",
+  "model": "glm-5.3"
+}

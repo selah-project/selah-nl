@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "Elohim, breng ons terug, en doe uw aangezicht schijnen, en wij zullen gered worden.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "breng ons terug"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "en doe schijnen"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "en wij zullen gered worden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:41.488688722Z",
+  "model": "glm-5.3"
+}

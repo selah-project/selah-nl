@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Te allen tijde zijn je kleden wit, en olie op je hoofd ⟨zal⟩ niet ontbreken.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "te allen"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tijde"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zij"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "je kleden"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "wit"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "en olie"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "je hoofd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ontbreke"
+    }
+  ],
+  "timestamp": "2026-08-31T23:27:52.218914049Z",
+  "model": "glm-5.3"
+}

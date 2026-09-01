@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Want wie is Eloa behalve Jahweh? En wie is een rots behalve onze Elohim?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "behalve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "En wie"
+    },
+    {
+      "surface": "צור",
+      "gloss": "een rots"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "behalve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:18.713136658Z",
+  "model": "glm-5.3"
+}

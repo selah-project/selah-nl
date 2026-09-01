@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Het verlangen van de luiaard doodt hem, want zijn handen weigeren te werken.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "het verlangen"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "van de luiaard"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "doodt hem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "weigeren"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "zijn handen"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "te werken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:57.444911226Z",
+  "model": "glm-5.3"
+}

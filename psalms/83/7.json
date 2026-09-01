@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 83,
+  "translation": "De tenten van Edom en de Jisjmaëlieten, Moav en de Hagrieten,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "de tenten van"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "en de Jisjmaëlieten"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "en de Hagrieten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:34.404846923Z",
+  "model": "glm-5.3"
+}

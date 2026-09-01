@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En als het werkelijk gegeten wordt op de derde dag, is het een piggoel ⟨verrot ding⟩; het zal geen welgevallen vinden.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "werkelijk gegeten"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "wordt gegeten"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "de derde"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "piggoel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is het"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "zal het welgevallen vinden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:38.423172259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "En Jahweh Elohim maakte voor Adam en voor zijn vrouw klederen van huid, en hij kleedde hen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "voor Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "en voor zijn vrouw"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "klederen"
+    },
+    {
+      "surface": "עור",
+      "gloss": "van huid"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "en hij kleedde hen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:07.536203719Z",
+  "model": "glm-5.3"
+}

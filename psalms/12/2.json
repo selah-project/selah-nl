@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Breng redding, Jahweh, want ⟨de⟩ chasied ⟨is⟩ ten einde gekomen, want ⟨de⟩ trouwvollen ⟨zijn⟩ verdwenen uit ⟨de⟩ mensenkinderen.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Breng redding"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ten einde gekomen"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "chasied"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "verdwenen"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "trouwvollen"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "uit de kinderen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    }
+  ],
+  "timestamp": "2026-08-31T23:45:48.802353124Z",
+  "model": "glm-5.3"
+}

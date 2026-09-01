@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 115,
+  "translation": "Israël, vertrouw op Jahweh; hun hulp en hun schild is hij.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertrouw"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "hun hulp"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "en hun schild"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is hij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:06.377044054Z",
+  "model": "glm-5.3"
+}

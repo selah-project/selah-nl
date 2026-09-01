@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Ga, spreek tot Par'o, koning van Mitsrajim, dat hij ⟨את⟩ de kinderen van Jisraël uit zijn land laat gaan.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dat hij laat gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "uit zijn land"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:55.543336526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 148,
+  "translation": " koningen van de aarde en alle volken, vorsten en alle rechters van de aarde,",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "koningen van"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "vorsten"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "rechters van"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:09.646622209Z",
+  "model": "glm-5.3"
+}

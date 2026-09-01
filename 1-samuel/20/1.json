@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En Dawid vluchtte uit Nawjot in Rama, en hij kwam en zei voor het aangezicht van Jehonatan: wat heb ik gedaan, wat is mijn ongerechtigheid en wat mijn zonde voor het aangezicht van uw vader, dat hij ⟨את⟩ mijn nefesj zoekt?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "en hij vluchtte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "uit Nawjot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "in Rama"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "heb ik gedaan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "is mijn ongerechtigheid"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mijn zonde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uw vader"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "hij zoekt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn nefesj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:00.472136568Z",
+  "model": "glm-5.3"
+}

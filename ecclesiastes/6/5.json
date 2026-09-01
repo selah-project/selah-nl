@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Ook de zon heeft hij niet gezien en niet gekend; rust heeft deze meer dan die.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "heeft gezien"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "gekend"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "rust"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "heeft deze"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "meer dan die"
+    }
+  ],
+  "timestamp": "2026-08-31T22:43:51.208376525Z",
+  "model": "glm-5.3"
+}

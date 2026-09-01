@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Ik zal mijn handen in onschuld wassen, en rondgaan om ⟨את⟩ uw altaar, Jahweh.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "zal ik wassen"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "in onschuld"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mijn handpalmen"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "en rondgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw altaar"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "uw altaar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:15.429714073Z",
+  "model": "glm-5.3"
+}

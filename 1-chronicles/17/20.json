@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Jahweh, er is niemand zoals U, en er is geen Elohim buiten U, naar alles wat wij met onze oren gehoord hebben.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er is niet"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "zoals U"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is niet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "buiten U"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "naar alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "wij gehoord hebben"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "met onze oren"
+    }
+  ],
+  "timestamp": "2026-08-31T23:01:58.771093332Z",
+  "model": "glm-5.3"
+}

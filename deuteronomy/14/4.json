@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Dit is het vee dat jullie mogen eten: rund, kleinvee van schapen en kleinvee van geiten.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "het vee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jullie mogen eten"
+    },
+    {
+      "surface": "שור",
+      "gloss": "rund"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kleinvee"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "van schapen"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "en kleinvee"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "van geiten"
+    }
+  ],
+  "timestamp": "2026-08-31T20:23:07.152735892Z",
+  "model": "glm-5.3"
+}

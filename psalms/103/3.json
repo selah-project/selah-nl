@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Die al jouw ongerechtigheid vergeeft, die al jouw kwalen geneest.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Die vergeeft"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "jouw ongerechtigheid"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "die geneest"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "jouw kwalen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:03.144673306Z",
+  "model": "glm-5.3"
+}

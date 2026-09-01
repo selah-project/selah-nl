@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Tien ellen ⟨zal zijn⟩ de lengte van een plank, en een el en een halve el de breedte van de ene plank.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lengte"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "van de plank"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en een el"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en een halve"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "breedte"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "van de plank"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ene"
+    }
+  ],
+  "timestamp": "2026-08-31T19:56:46.276472391Z",
+  "model": "glm-5.3"
+}

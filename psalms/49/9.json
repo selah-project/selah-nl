@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 49,
+  "translation": "want te kostbaar is het losgeld van hun nefesj (leven), en het houdt op ⟨voor⟩ eeuwig —",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "want te kostbaar"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "het losgeld"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "van hun nefesj (leven)"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "en het houdt op"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "voor eeuwig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:56.838981019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Wee ⟨aan⟩ hen die verordeningen van onrecht verordenen, en schrijvers die moeitevol onrecht voorschrijven",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "hen die verordenen"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "verordeningen"
+    },
+    {
+      "surface": "און",
+      "gloss": "van onrecht"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "en schrijvers"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "moeitevol onrecht"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "voorschrijven"
+    }
+  ],
+  "timestamp": "2026-08-31T23:44:24.052810503Z",
+  "model": "glm-5.3"
+}

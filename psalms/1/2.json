@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "maar ⟨in⟩ de Tora van Jahweh is zijn welbehagen, en in zijn Tora peinst hij dag en nacht.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨versterkend⟩"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "in de Tora van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "zijn welbehagen"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "en in zijn Tora"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "peinst hij"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en nacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:02.340909078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Toen nam Tsipporah een vuursteenmes, en sneed de voorhuid van haar zoon af, en raakte ⟨את⟩ zijn voeten ermee aan, en zei: voorwaar, een bruidegom van bloeden ben jij voor mij.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "toen nam"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipporah"
+    },
+    {
+      "surface": "צר",
+      "gloss": "een vuursteenmes"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "en sneed af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de voorhuid van haar zoon"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "de voorhuid"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "van haar zoon"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "en raakte aan"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "zijn voeten"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "een bruidegom"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "van bloeden"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ben jij"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:28.463588836Z",
+  "model": "glm-5.3"
+}

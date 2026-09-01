@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Die licht omhult als een kleed, die de hemelen uitspankt als een tentdoek.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "omhult"
+    },
+    {
+      "surface": "אור",
+      "gloss": "licht"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "als een kleed"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "uitspankt"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "als een tentdoek"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:14.977841071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Laat de berg TSION zich verblijden, laten de dochters van Jehoeda juichen, omwille van uw rechtshandelingen.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "laat zich verblijden"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "laten juichen"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "de dochters"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "omwille van"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "uw rechtshandelingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:48.438007938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "Waar is de koning van Chamat, en de koning van Arpad, en de koning van de stad Sefarwajim, Hena en Iwwa?”",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Waar is"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning van"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "en de koning van"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "en de koning van"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "de stad"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarwajim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "en Iwwa"
+    }
+  ],
+  "timestamp": "2026-08-31T21:21:06.607341958Z",
+  "model": "glm-5.3"
+}

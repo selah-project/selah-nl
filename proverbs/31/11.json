@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Het hart van haar man vertrouwt op haar, en aan buit ontbreekt ⟨het hem⟩ niet.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "vertrouwt"
+    },
+    {
+      "surface": "בה",
+      "gloss": "op haar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "het hart"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "van haar man"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "aan buit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ontbreekt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:16.780544793Z",
+  "model": "glm-5.3"
+}

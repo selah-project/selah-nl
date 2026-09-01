@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Voor de koorleider. Van David. Een mizmor. Elohim van mijn lof, zwijg niet.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "mijn lof"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "zwijg"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:49.554729063Z",
+  "model": "glm-5.3"
+}

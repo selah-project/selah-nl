@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Jahweh zei tegen mij: Zie, ik ben begonnen Sichon en zijn land voor je te geven — begin ⟨het⟩ in bezit te nemen, om zijn land te erven.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Zie"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "ik ben begonnen"
+    },
+    {
+      "surface": "תת",
+      "gloss": "te geven"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "zijn land"
+    },
+    {
+      "surface": "החל",
+      "gloss": "begin"
+    },
+    {
+      "surface": "רש",
+      "gloss": "in bezit te nemen"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "om te erven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "zijn land"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:22.713149291Z",
+  "model": "glm-5.3"
+}

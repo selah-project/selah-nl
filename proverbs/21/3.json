@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Righteousness doen en recht ⟨doen⟩ is voor Jahweh uitverkoren boven ⟨een⟩ offer.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "doen"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "righteousness"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en recht"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "is uitverkoren"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "boven een offer"
+    }
+  ],
+  "timestamp": "2026-08-31T22:28:12.640228125Z",
+  "model": "glm-5.3"
+}

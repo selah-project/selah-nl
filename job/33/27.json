@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 33:27",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Hij zingt voor mensen en zegt: Ik heb gezondigd, en het rechte heb ik verkeerd, en het heeft mij niet gebaat.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "hij zingt"
+    },
+    {
+      "surface": "על",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mensen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zegt"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ik heb gezondigd"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "en het rechte"
+    },
+    {
+      "surface": "העויתי",
+      "gloss": "heb ik verkeerd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "het heeft gebaat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:45.568230549Z",
+  "model": "glm-5.3"
+}

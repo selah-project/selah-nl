@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de dochter van Par'o zei tot haar: Ga. En het jonge meisje ging en riep ⟨את⟩ de moeder van het kind.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tot haar"
+    },
+    {
+      "surface": "בת",
+      "gloss": "de dochter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Par'o"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "en ging"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "het jonge meisje"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "en riep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de moeder"
+    },
+    {
+      "surface": "אם",
+      "gloss": "de moeder"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "van het kind"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:26.518218109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 78,
+  "translation": "En zij verzochten en verbitterden ⟨את⟩ Elohim, de Allerhoogste, en zijn getuigenissen hielden zij niet.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "en zij verzochten"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "en verbitterden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim, de Allerhoogste"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "de Allerhoogste"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "en zijn getuigenissen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "hielden zij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:11.486706136Z",
+  "model": "glm-5.3"
+}

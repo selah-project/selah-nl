@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En hij zal het slachten aan de zijde van het altaar, aan de noordzijde, voor het aangezicht van Jahweh; en de zonen van Aharon, de priesters, zullen ⟨את⟩ zijn bloed sprenkelen op het altaar, rondom.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "en hij zal slachten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ het",
+      "marks": "hem (het dier)"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "de zijde"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van het altaar"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "aan de noordzijde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "en zij zullen sprenkelen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn bloed"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "zijn bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-08-31T20:01:19.533986514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Want ⟨aan⟩ Mij ⟨zijn⟩ de kinderen van Jisraël dienaren — Mijn dienaren ⟨zijn⟩ zij — die Ik ⟨את⟩ hen heb uitgeleid uit het land Mitsrajim; Ik ⟨ben⟩ Jahweh, jullie Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan Mij"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinderen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "dienaren"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Mijn dienaren"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zij"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "heb Ik uitgeleid"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:54.810454468Z",
+  "model": "glm-5.3"
+}

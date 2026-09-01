@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Want het geschreeuw heeft zich rond de grens van Moav gewenteld — tot Eglajim zijn gejank, en tot Beër-Elim zijn gejank.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "heeft zich gewenteld rond"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "het geschreeuw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de grens van Moav"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "de grens"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moav"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglajim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "zijn gejank"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "en tot Beër"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "-Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "zijn gejank"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:11.946677427Z",
+  "model": "glm-5.3"
+}

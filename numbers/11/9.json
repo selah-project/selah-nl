@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En toen de dauw 's nachts op het kamp neerdaalde, daalde het manna daarop neer.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "En toen … neerdaalde"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "de dauw"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "het kamp"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "'s nachts"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "daalde … neer"
+    },
+    {
+      "surface": "המן",
+      "gloss": "het manna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    }
+  ],
+  "timestamp": "2026-08-31T20:12:52.316151434Z",
+  "model": "glm-5.3"
+}

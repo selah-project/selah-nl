@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "Want het volk en het koninkrijk dat u niet dient, zal vergaan; en de natiën zullen totaal verwoest worden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "en het koninkrijk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "u dient"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "zal vergaan"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "en de natiën"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "totaal verwoest"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "zullen verwoest worden"
+    }
+  ],
+  "timestamp": "2026-08-31T21:25:34.975713505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 52,
+  "translation": "Jahweh heeft ⟨את⟩ zijn heilige arm ontbloot voor de ogen van alle natiën, en alle einden van de aarde zullen ⟨את⟩ de verlossing van onze Elohim zien.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "heeft ontbloot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn heilige arm"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "arm"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "zijn heilige"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "voor de ogen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "de natiën"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "en zullen zien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "einden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van de aarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de verlossing van onze Elohim"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "de verlossing"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "van onze Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:24:12.940233650Z",
+  "model": "glm-5.3"
+}

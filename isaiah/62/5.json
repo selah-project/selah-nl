@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 62,
+  "translation": "Want zoals een jongeman een jonge vrouw trouwt, zo zullen je zonen jou trouwen; en zoals de bruidegom zich verblijdt over de bruid, zo zal jouw Elohim zich over jou verblijden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "trouwt"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "een jongeman"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "een jonge vrouw"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "jou trouwen"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "je zonen"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "en ⟨als⟩ de verblijding"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "de bruidegom"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "de bruid"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "zich verblijden"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "over jou"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T21:26:27.019612894Z",
+  "model": "glm-5.3"
+}

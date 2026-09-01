@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En ⟨את⟩ ulen zal ik verstrooien onder de naties, en Ik zal achter ulen het zwaard leegtrekken; en uw land zal een verwoesting zijn, en uw steden zullen een woestijn zijn.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ ulen",
+      "marks": "verstrooien (ulen)"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "verstrooien"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder de naties"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "en Ik zal leegtrekken"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "achter ulen"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zwaard"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "en zal zijn"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "uw land"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "verwoesting"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "en uw steden"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zullen zijn"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "woestijn"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:27.102268324Z",
+  "model": "glm-5.3"
+}

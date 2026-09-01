@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En ⟨את⟩ de huid van de stier en ⟨את⟩ al zijn vlees, op zijn hoofd en op zijn poten, en zijn ingewand en zijn mest —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de huid"
+    },
+    {
+      "surface": "עור",
+      "gloss": "huid"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "van de stier"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al zijn vlees"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "zijn vlees"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "zijn hoofd"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "zijn poten"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "en zijn ingewand"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "en zijn mest"
+    }
+  ],
+  "timestamp": "2026-08-31T20:02:03.101671485Z",
+  "model": "glm-5.3"
+}

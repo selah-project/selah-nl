@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Voor de koorleider, een psalm van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "een psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:33.349297611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Komt op naar mij en helpt mij, zodat wij ⟨את⟩ Giv'on slaan, want het heeft vrede gemaakt met ⟨את⟩ Jehosjoea en met ⟨את⟩ de zonen van Jisraël.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "komt op"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naar mij"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "en helpt mij"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "zodat wij slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giv'on"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Giv'on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "het heeft vrede gemaakt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehosjoea"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de zonen van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de zonen van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:31:21.997411769Z",
+  "model": "glm-5.3"
+}

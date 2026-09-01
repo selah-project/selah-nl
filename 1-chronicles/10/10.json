@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En zij zetten ⟨את⟩ zijn wapenrusting in het huis van hun goden, en ⟨את⟩ zijn schedel spijkerden zij ⟨vast⟩ in het huis van Dagon.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "en zij zetten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn wapenrusting"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zijn wapenrusting"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "van hun goden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn schedel"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "zijn schedel"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "spijkerden zij"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "van Dagon"
+    }
+  ],
+  "timestamp": "2026-08-31T22:59:57.130265595Z",
+  "model": "glm-5.3"
+}

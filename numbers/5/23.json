@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En de priester zal ⟨את⟩ deze vloeken in een boek schrijven, en hij zal ze uitwissen in het bittere water.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "en hij zal schrijven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deze vloeken"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "de vloeken"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in een boek"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "en hij zal uitwissen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "מי",
+      "gloss": "water"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "het bittere"
+    }
+  ],
+  "timestamp": "2026-08-31T20:10:25.822257182Z",
+  "model": "glm-5.3"
+}

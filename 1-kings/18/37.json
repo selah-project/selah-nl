@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 18:37",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Antwoord mij, Jahweh, antwoord mij, en dit volk zal weten dat u, Jahweh, ⟨de⟩ Elohim ⟨bent⟩, en dat u hun hart ⟨את⟩ achteruit hebt doen keren.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Antwoord mij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord mij"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "en ... zal weten"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dit volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨de⟩ Elohim"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en dat u"
+    },
+    {
+      "surface": "הסבת",
+      "gloss": "hebt doen keren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun hart"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hun hart"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "achteruit"
+    }
+  ],
+  "timestamp": "2026-08-31T23:55:27.583339999Z",
+  "model": "glm-5.3"
+}

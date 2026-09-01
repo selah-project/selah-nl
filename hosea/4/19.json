@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "De wind heeft haar omvangen ⟨in⟩ zijn vleugels, en zij zullen beschaamd worden om hun slachtoffers.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "heeft omvangen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de wind"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ haar",
+      "marks": "haar (Efraim, heteking van de omvanging)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "in zijn vleugels"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "en zij zullen beschaamd worden"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "om hun slachtoffers"
+    }
+  ],
+  "timestamp": "2026-08-31T21:53:48.820722268Z",
+  "model": "glm-5.3"
+}

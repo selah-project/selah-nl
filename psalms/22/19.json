@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Zij verdelen mijn klederen onder elkaar, en over mijn gewaad werpen zij het lot.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "zij verdelen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mijn klederen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onder elkaar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en over"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "mijn gewaad"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "werpen zij"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "het lot"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:30.233489621Z",
+  "model": "glm-5.3"
+}

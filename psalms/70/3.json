@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 70,
+  "translation": "Mogen zij beschaamd worden en met schaamte geslagen, die mijn nefesj zoeken; mogen zij terugwijken, achteruit ⟨gaan⟩ en te schande worden, die mijn kwaad begeren.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mogen zij beschaamd worden"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "en met schaamte geslagen"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "die zoeken"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "mogen zij terugwijken"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "achteruit"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "en te schande worden"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "die begeren"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mijn kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:49.338106901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Die dampen doet opstijgen van ⟨het⟩ uiterste der aarde, bliksems maakt voor de regen, ⟨en⟩ roeach voortbrengt uit zijn schatkamers.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "doet opstijgen"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "dampen"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "van ⟨het⟩ uiterste"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der aarde"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "bliksems"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "voor de regen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maakt"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "voortbrengt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeach (wind)"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "uit zijn schatkamers"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:55.544461110Z",
+  "model": "glm-5.3"
+}

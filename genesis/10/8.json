@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En Koesj verwekte ⟨את⟩ Nimrod; hij begon een gibbor te worden op de aarde.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "en Koesj"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "החל",
+      "gloss": "begon"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "te worden"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "een gibbor"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:05.879291533Z",
+  "model": "glm-5.3"
+}

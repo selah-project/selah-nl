@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En aan de wijnstok drie ranken, en ⟨het was⟩ als zij knoppen zette: haar bloesem ging omhoog, haar trossen rijpten druiven.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "en aan de wijnstok"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "ranken"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "en zij"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "als knoppend"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ging omhoog"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "haar bloesem"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "rijpten"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "haar trossen"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "druiven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:47:03.069039059Z",
+  "model": "glm-5.3"
+}

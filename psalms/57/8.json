@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 57,
+  "translation": "Vast staat mijn hart, Elohim; vast staat mijn hart; ik zal zingen, ja, psalmen zingen.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "vast staat"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "vast staat"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ik zal zingen"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ja, psalmen zingen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:19.273385844Z",
+  "model": "glm-5.3"
+}

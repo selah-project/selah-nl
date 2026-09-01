@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 145,
+  "translation": "Uw koninkrijk ⟨is⟩ een koninkrijk van alle eeuwen, en uw heerschappij ⟨duurt⟩ in alle geslachten, geslacht na geslacht.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "uw koninkrijk"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "een koninkrijk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "eeuwen"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "en uw heerschappij"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in alle"
+    },
+    {
+      "surface": "דור",
+      "gloss": "geslacht"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "geslacht na geslacht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:16.771966939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 40,
+  "translation": "En de overste der schenkers gedacht ⟨את⟩ Jozef niet, maar vergat hem.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gedacht"
+    },
+    {
+      "surface": "שר",
+      "gloss": "overste"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "der schenkers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "maar vergat hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:49.194417394Z",
+  "model": "glm-5.3"
+}

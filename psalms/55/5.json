@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 55,
+  "translation": "Mijn hart wriemt in mijn binnenste, en verschrikkingen van de dood zijn op mij gevallen.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "wriemt"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "in mijn binnenste"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "en verschrikkingen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van de dood"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "zijn gevallen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:33.082649968Z",
+  "model": "glm-5.3"
+}

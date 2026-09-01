@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "Een ieder die naar mijn naam genoemd is, en voor mijn eer ⟨hem⟩ heb ik geschapen, geformeerd heb ik hem, ja, gemaakt heb ik hem.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "een ieder"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "die genoemd is"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "naar mijn naam"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "en voor mijn eer"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "heb ik geschapen"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "geformeerd heb ik hem"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "gemaakt heb ik hem"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:05.952216338Z",
+  "model": "glm-5.3"
+}

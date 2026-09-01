@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "dan zal Mijn toorn ontbranden en zal Ik ⟨את⟩ jullie met het zwaard doden, en zullen jullie vrouwen weduwen worden en jullie kinderen wezen.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "en zal ontbranden"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "Mijn toorn"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "en zal Ik doden"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jullie"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "met het zwaard"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "en zullen worden"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "jullie vrouwen"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "weduwen"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "en jullie kinderen"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "wezen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:16.273353245Z",
+  "model": "glm-5.3"
+}

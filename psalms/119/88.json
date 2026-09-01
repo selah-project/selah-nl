@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Naar uw chesed doe mij leven, en ik zal het getuigenis van uw mond bewaren.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "naar uw chesed"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "doe mij leven"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "en ik zal bewaren"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "het getuigenis"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "van uw mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:04.312983922Z",
+  "model": "glm-5.3"
+}

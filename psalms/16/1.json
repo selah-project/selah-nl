@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Een michtham van David. Bescherm mij, El, want ik heb schuiling gezocht bij U.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "een michtham"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "bescherm mij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "heb ik schuiling gezocht"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bij U"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:04.145711655Z",
+  "model": "glm-5.3"
+}

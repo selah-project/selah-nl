@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "En zes jaar zul je je land bezaaien en ⟨את⟩ zijn opbrengst inzamelen.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "En zes"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "zul je bezaaien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "je land"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "je land"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "en zul je inzamelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn opbrengst"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "zijn opbrengst"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:29.349910021Z",
+  "model": "glm-5.3"
+}

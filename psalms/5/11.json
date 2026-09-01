@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "Verklaar hen schuldig, Elohim; laten zij vallen door hun eigen plannen; drijf hen weg in de veelheid van hun overtredingen, want zij hebben tegen U gerebelleerd.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "verklaar hen schuldig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "laten zij vallen"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "door hun eigen plannen"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "in de veelheid van"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "hun overtredingen"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "drijf hen weg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "hebben gerebelleerd"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tegen U"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:23.857049716Z",
+  "model": "glm-5.3"
+}

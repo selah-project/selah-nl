@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En het vonnis van de koning dat hij doet, worde gehoord in heel zijn koninkrijk — want het is groot — en alle vrouwen zullen hun mannen eer geven, van de grootste tot de kleinste.",
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "en worde gehoord"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "het vonnis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hij doet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in heel"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "zijn koninkrijk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "היא",
+      "gloss": "het is"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "vrouwen"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "zullen geven"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "eer"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "hun mannen"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "van de grootste"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "de kleinste"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:06.082877853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Gezegend ⟨zij⟩ jij bij je binnenkomst, en gezegend ⟨zij⟩ jij bij je uitgang.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gezegend"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "bij je binnenkomst"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "en gezegend"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "bij je uitgang"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:00.942402591Z",
+  "model": "glm-5.3"
+}

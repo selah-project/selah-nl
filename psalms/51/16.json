@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Ruk mij weg van bloedschuld, Elohim, Elohim van mijn verlossing; ⟨dan⟩ zal mijn tong uw tsedaka doen schallen.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ruk mij weg"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "van bloedschuld"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "mijn verlossing"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "zal doen schallen"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "mijn tong"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "uw tsedaka"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:31.914494434Z",
+  "model": "glm-5.3"
+}

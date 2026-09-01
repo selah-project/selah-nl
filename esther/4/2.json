@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij kwam tot vóór de poort van de koning, want er was ⟨geen⟩ binnengaan tot de poort van de koning in een kleed van rouwkleed.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "En hij kwam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vóór"
+    },
+    {
+      "surface": "שער",
+      "gloss": "de poort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er was geen"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "binnengaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שער",
+      "gloss": "de poort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "in een kleed"
+    },
+    {
+      "surface": "שק",
+      "gloss": "van rouwkleed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:04.437009210Z",
+  "model": "glm-5.3"
+}

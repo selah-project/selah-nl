@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Zeg toch ⟨dat⟩ jij mijn zuster bent, zodat het mij goed gaat omwille van jou, en mijn nefesj (leven) blijft leven dankzij jou.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Zeg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toch"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mijn zuster"
+    },
+    {
+      "surface": "את",
+      "gloss": "jij"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zodat"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "goed gaat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "het mij"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "omwille van jou"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "en blijft leven"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj (leven)"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "dankzij jou"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:39.781418469Z",
+  "model": "glm-5.3"
+}

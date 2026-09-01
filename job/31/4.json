@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "Ziet Hij niet mijn wegen, en telt Hij al mijn schreden?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ziet... niet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Hij"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ziet"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mijn wegen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "mijn schreden"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "telt"
+    }
+  ],
+  "timestamp": "2026-08-31T22:36:28.094864059Z",
+  "model": "glm-5.3"
+}

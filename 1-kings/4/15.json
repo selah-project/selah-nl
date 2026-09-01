@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Achimaäts in Naftali — ook hij nam ⟨את⟩ Basmat, dochter van Shelomo, tot vrouw.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaäts"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "in Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter van"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "tot vrouw"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:40.733324317Z",
+  "model": "glm-5.3"
+}

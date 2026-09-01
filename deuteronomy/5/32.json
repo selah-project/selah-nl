@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En jullie zullen bewaren om te doen zoals Jahweh, jullie Elohim, jullie geboden heeft — ⟨את⟩ jullie: jullie zullen niet afwijken naar rechts en ⟨naar⟩ links.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en jullie zullen bewaren"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboden heeft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jullie Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jullie",
+      "marks": "את met suffix = jullie (object)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "jullie zullen afwijken"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "naar rechts"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "en ⟨naar⟩ links"
+    }
+  ],
+  "timestamp": "2026-08-31T20:21:04.242353721Z",
+  "model": "glm-5.3"
+}

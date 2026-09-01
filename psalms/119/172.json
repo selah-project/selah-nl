@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Mijn tong antwoordt Uw uitspraak, want al Uw geboden ⟨zijn⟩ gerechtigheid.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "antwoordt"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "mijn tong"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Uw uitspraak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Uw geboden"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨zijn⟩ gerechtigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:56.350152384Z",
+  "model": "glm-5.3"
+}

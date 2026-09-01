@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En het geschiedde, toen alle mannen van de oorlog ten einde ⟨waren⟩, gestorven uit het midden van het volk,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het geschiedde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toen"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ten einde waren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mannen van"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "de oorlog"
+    },
+    {
+      "surface": "למות",
+      "gloss": "gestorven"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "uit het midden van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:19:56.769519694Z",
+  "model": "glm-5.3"
+}

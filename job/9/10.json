@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "Die grote dingen doet tot ⟨er⟩ geen onderzoek ⟨reikt⟩, en wonderen tot ⟨er⟩ geen getal ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "doet"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "grote dingen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "onderzoek"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "en wonderen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "getal"
+    }
+  ],
+  "timestamp": "2026-08-31T22:31:19.443813326Z",
+  "model": "glm-5.3"
+}

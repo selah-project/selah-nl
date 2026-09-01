@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Mijn ogen ⟨zien⟩ voortdurend naar Jahweh, want hij zal mijn voeten uit het net uithalen.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mijn ogen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hij"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "zal uithalen"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "uit het net"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mijn voeten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:07.362338073Z",
+  "model": "glm-5.3"
+}

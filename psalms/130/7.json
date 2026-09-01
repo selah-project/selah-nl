@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 130,
+  "translation": "Israël, hoop op Jahweh, want bij Jahweh is chesed (trouw-liefde), en bij hem is overvloedige verlossing.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "hoop"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "en overvloedige"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bij hem"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "verlossing"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:44.952245643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Jahweh onze Elohim gaf hem over in ons aangezicht, en wij sloegen ⟨את⟩ hem en ⟨את⟩ zijn zonen en ⟨את⟩ heel zijn volk.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "En hij gaf hem over"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onze Elohim"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "in ons aangezicht"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "en wij sloegen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "heel zijn volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zijn volk"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:43.698504114Z",
+  "model": "glm-5.3"
+}

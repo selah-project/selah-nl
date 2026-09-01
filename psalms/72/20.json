@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 72,
+  "translation": "Geëindigd zijn de gebeden van Dawid, zoon van Jisjai.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "geëindigd"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "de gebeden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "van Jisjai"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:54.844915796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "⟨את⟩ de zee, één, en ⟨את⟩ de twaalf runderen eronder;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zee"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de twaalf runderen"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "de runderen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "eronder"
+    }
+  ],
+  "timestamp": "2026-08-31T23:29:14.913712799Z",
+  "model": "glm-5.3"
+}

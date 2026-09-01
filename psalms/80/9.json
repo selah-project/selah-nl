@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 80,
+  "translation": "Een wijnstok hebt U uit Mitsrajim weggehaald, volkeren hebt U verdreven en hem geplant.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "een wijnstok"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "hebt U weggehaald"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "hebt U verdreven"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "volkeren"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "en hem geplant"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:17.046718204Z",
+  "model": "glm-5.3"
+}

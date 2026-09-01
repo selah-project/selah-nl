@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jahweh zei tegen mij: U hebt goed gezien, want ik waak over mijn woord om het te doen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "u hebt goed"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "gezien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "ik waak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mijn woord"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "om het te doen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:26:37.747069224Z",
+  "model": "glm-5.3"
+}

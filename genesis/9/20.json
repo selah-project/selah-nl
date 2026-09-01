@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Noach, een man van de aardbodem, begon en plantte een wijngaard.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "en begon"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van de aardbodem"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "en plantte"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "een wijngaard"
+    }
+  ],
+  "timestamp": "2026-08-31T19:38:33.729597828Z",
+  "model": "glm-5.3"
+}

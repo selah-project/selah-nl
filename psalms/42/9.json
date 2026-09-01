@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Overdag zal Jahweh zijn chesed gebieden, en in de nacht ⟨zal⟩ zijn lied met mij ⟨zijn⟩, een gebed tot El van mijn leven.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Overdag"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "zal gebieden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "en in de nacht"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "zijn lied"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "met mij"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "een gebed"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "tot El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "van mijn leven"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:03.266113617Z",
+  "model": "glm-5.3"
+}

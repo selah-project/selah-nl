@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 2:25",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Indien een man zondigt tegen een man, dan zal Elohim ⟨voor hem⟩ rechtspreken; maar indien een man zondigt tegen Jahweh, wie zal er voor hem bidden? Maar zij luisterden niet naar de stem van hun vader, want Jahweh wilde hen doen sterven.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Indien"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "zondigt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "tegen een man"
+    },
+    {
+      "surface": "ופללו",
+      "gloss": "dan zal rechtspreken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "maar indien"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tegen Jahweh"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "zondigt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "zal bidden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar niet"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "luisterden"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "hun vader"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wilde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "להמיתם",
+      "gloss": "hen doen sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:14.276481988Z",
+  "model": "glm-5.3"
+}

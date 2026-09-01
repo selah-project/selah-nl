@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En vlees, wanneer er in zijn huid een zweer is geweest en zij genezen is,",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "en vlees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "is geweest"
+    },
+    {
+      "surface": "בו",
+      "gloss": "erin"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "in zijn huid"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "een zweer"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "en zij is genezen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:33.270446169Z",
+  "model": "glm-5.3"
+}

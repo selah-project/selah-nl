@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "En ik ben een smaad voor hen geworden; zien zij mij, dan schudden zij hun hoofd.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ik"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ben ik geworden"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "een smaad"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "zien zij mij"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "dan schudden zij"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "hun hoofd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:24.026439345Z",
+  "model": "glm-5.3"
+}

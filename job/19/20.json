@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Aan mijn huid en aan mijn vlees kleeft mijn gebeente, en ik ben ontkomen met de huid van mijn tanden.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "aan mijn huid"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "en aan mijn vlees"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "kleeft"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mijn gebeente"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "en ik ben ontkomen"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "met de huid"
+    },
+    {
+      "surface": "שני",
+      "gloss": "van mijn tanden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:33:57.884068653Z",
+  "model": "glm-5.3"
+}

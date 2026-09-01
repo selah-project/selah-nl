@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "Want ik zei ⟨dit⟩: laat hen niet over mij juichen; bij het wankelen van mijn voet hebben zij zich tegen mij groot gemaakt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "zei ik"
+    },
+    {
+      "surface": "פן",
+      "gloss": "opdat niet"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "zij juichen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "bij het wankelen"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "van mijn voet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tegen mij"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "hebben zij groot gemaakt"
+    }
+  ],
+  "timestamp": "2026-08-31T23:25:22.143530896Z",
+  "model": "glm-5.3"
+}

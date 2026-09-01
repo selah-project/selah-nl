@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "En Jisraël zei: Waarom hebt u mij kwaad aangedaan door de man te vertellen dat u nog een broer ⟨hebt⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "hebt u kwaad aangedaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "door te vertellen"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan de man"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "dat u nog"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "u"
+    },
+    {
+      "surface": "אח",
+      "gloss": "een broer"
+    }
+  ],
+  "timestamp": "2026-08-31T23:14:30.058757386Z",
+  "model": "glm-5.3"
+}

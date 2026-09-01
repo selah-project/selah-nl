@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 13:4",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "En als de lichte vlek wit is op de huid van zijn vlees, en diep is haar aanzien niet, ⟨vergeleken met⟩ de huid, en haar haar is niet wit geworden, dan sluit de priester ⟨את⟩ de plaag zeven dagen op.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en als"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "lichte vlek"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "wit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "op de huid"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "van zijn vlees"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "en diep"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niet"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "haar aanzien"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan ⟨vergeleken met⟩"
+    },
+    {
+      "surface": "העור",
+      "gloss": "de huid"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "en haar haar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "geworden is"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "wit"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "dan sluit op"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de plaag"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "de plaag"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zeven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:38.784082230Z",
+  "model": "glm-5.3"
+}

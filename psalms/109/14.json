@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 109,
+  "translation": "Worde de schuld van zijn vaders gedacht bij Jahweh, en de zonde van zijn moeder — dat zij niet uitgewist worde.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "worde gedacht"
+    },
+    {
+      "surface": "עון",
+      "gloss": "de schuld"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "van zijn vaders"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "en de zonde"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "zijn moeder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "uitgewist worde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:52.628443964Z",
+  "model": "glm-5.3"
+}

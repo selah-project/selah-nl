@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En hij bouwde ⟨את⟩ de aanbouw tegen heel het huis, vijf el ⟨was⟩ zijn hoogte, en hij omvatte ⟨את⟩ het huis met cederhout.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hij bouwde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de aanbouw"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "de aanbouw"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "zijn hoogte"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "en hij omvatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "met hout van"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ceders"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:47.733246867Z",
+  "model": "glm-5.3"
+}

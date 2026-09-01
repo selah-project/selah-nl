@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En de dochter van Par'o zei tot haar: Ga met dit kind ⟨את⟩ en zoog het voor mij, en ik zal jouw loon geven ⟨את⟩. En de vrouw nam het kind en zoog het.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tot haar"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dochter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "het kind"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "en zoog het"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ik"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "zal geven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw loon"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "jouw loon"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "en nam"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "het kind"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "en zoog het"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:22.955657706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En de bomen zeiden tot de vijgenboom: Kom, jij, regeer over ons.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en zij zeiden"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "de bomen"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "tot de vijgenboom"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kom"
+    },
+    {
+      "surface": "את",
+      "gloss": "jij"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "regeer"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over ons"
+    }
+  ],
+  "timestamp": "2026-08-31T20:37:08.883783301Z",
+  "model": "glm-5.3"
+}

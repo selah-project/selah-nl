@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 71,
+  "translation": "U zult mijn grootheid doen toenemen, en ⟨u zilt⟩ wenden en mij troosten.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "zal ⟨u⟩ doen toenemen"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "mijn grootheid"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "en wenden"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "mij troosten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:27.674350953Z",
+  "model": "glm-5.3"
+}

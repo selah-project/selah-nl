@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En een man — ⟨את⟩ zijn heilige dingen — zullen voor hem zijn; wat een man de kohen ook geeft, het zal voor hem zijn.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "en een man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn heilige dingen"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "zijn heilige dingen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zullen zijn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "de kohen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zal zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:58.227602965Z",
+  "model": "glm-5.3"
+}

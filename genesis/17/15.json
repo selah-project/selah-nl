@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En Elohim zei tot Avraham: Sarai, jouw vrouw — jij zult haar naam niet Sarai noemen, want Sarah is haar naam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "jouw vrouw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "zult jij noemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar naam"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "haar naam"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "is haar naam"
+    }
+  ],
+  "timestamp": "2026-08-31T19:41:21.651810430Z",
+  "model": "glm-5.3"
+}

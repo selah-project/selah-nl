@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "Breng naar buiten ⟨het⟩ volk — blind, en ⟨toch⟩ ogen hebbend; en doven, en oren hebbend voor hen.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "breng naar buiten"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "עור",
+      "gloss": "blind"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "en ogen"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨er⟩ zijn"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "en doven"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "en oren"
+    },
+    {
+      "surface": "למו",
+      "gloss": "voor hen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:22:05.952372376Z",
+  "model": "glm-5.3"
+}

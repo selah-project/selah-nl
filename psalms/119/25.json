@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Mijn nefesj kleeft aan het stof; maak mij levend overeenkomstig Uw woord.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "kleeft"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "aan het stof"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "maak mij levend"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "overeenkomstig Uw woord"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:23.761705884Z",
+  "model": "glm-5.3"
+}

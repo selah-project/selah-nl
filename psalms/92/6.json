@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 92,
+  "translation": "Hoe groot zijn uw werken, Jahweh; ⟨hoe⟩ diep zijn uw gedachten ⟨zeer⟩.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "groot zijn"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "uw werken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "diep zijn"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "uw gedachten"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:19.046322390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "En Elohim verscheen aan Jaäkov opnieuw, bij zijn komst uit Paddan-Aram, en hij zegende hem.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en verscheen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opnieuw"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "bij zijn komst"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "uit Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en hij zegende"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T19:45:47.852593509Z",
+  "model": "glm-5.3"
+}

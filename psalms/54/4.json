@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 54,
+  "translation": "Elohim, hoor mijn gebed, neig ⟨Uw⟩ oor naar de woorden van mijn mond.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mijn gebed"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "neig ⟨Uw⟩ oor"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "naar de woorden"
+    },
+    {
+      "surface": "פי",
+      "gloss": "van mijn mond"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:37.494000504Z",
+  "model": "glm-5.3"
+}

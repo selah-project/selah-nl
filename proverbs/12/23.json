@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Een schrander mens bedekt kennis, maar het hart van dwazen roept dwaasheid uit.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "schrander"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "bedekt"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "maar het hart"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "van dwazen"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "roept uit"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "dwaasheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:27.191443534Z",
+  "model": "glm-5.3"
+}

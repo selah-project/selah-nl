@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En de bode ging, en hij kwam en berichtte aan David ⟨את⟩ alles wat Joav hem had opgedragen.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en de bode ging"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "de bode"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en berichtte"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "hij hem had opgedragen"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:36.571630249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 19:9",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En ik zal hen laten eten ⟨את⟩ het vlees van hun zonen en ⟨את⟩ het vlees van hun dochters, en ieder zal het vlees van zijn naaste eten, in de belegering en in de benauwdheid waarmee hun vijanden en zij die hun nefesj zoeken, hen zullen benauwen.",
+  "tokens": [
+    {
+      "surface": "והאכלתים",
+      "gloss": "en ik zal hen laten eten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het vlees van hun zonen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "van hun zonen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "het vlees van hun dochters"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "van hun dochters"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en ieder"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "het vlees"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "van zijn naaste"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zal eten"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "in de belegering"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "en in de benauwdheid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "יציקו",
+      "gloss": "zij zullen benauwen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "hun vijanden"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "en zij die zoeken"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hun nefesj"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:05.408820257Z",
+  "model": "glm-5.3"
+}

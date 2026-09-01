@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 82,
+  "translation": "Zij kennen niet en zij begrijpen niets; in duisternis dwalen zij rond; alle grondvesten van de aarde wankelen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "zij kennen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "zij begrijpen"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "in duisternis"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "dwalen zij rond"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "wankelen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "grondvesten"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:19.158302222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "⟨Jullie⟩ vaders — waar zijn ⟨zij⟩? En de profeten, leven zij voor eeuwig?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "vaders"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zij"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "en de profeten"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "leven zij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:02:42.939727842Z",
+  "model": "glm-5.3"
+}

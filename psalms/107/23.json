@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 107,
+  "translation": "Zij die afdalen naar de zee in schepen, die werk doen in vele wateren —",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "zij die afdalen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "naar de zee"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "in schepen"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "die doen"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in wateren"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:41.277062211Z",
+  "model": "glm-5.3"
+}

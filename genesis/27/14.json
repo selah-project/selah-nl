@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En hij ging en haalde ⟨ze⟩ en bracht ⟨ze⟩ naar zijn moeder; en zijn moeder maakte lekkernijen, zoals zijn vader liefhad.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en haalde"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en bracht"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "naar zijn moeder"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "en zij maakte"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "zijn moeder"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "lekkernijen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liefhad"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    }
+  ],
+  "timestamp": "2026-08-31T19:43:41.453376693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "⟨Aan hem⟩ die de grote lichten maakte, want tot in eeuwigheid ⟨duurt⟩ zijn chesed",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "die maakte"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "lichten"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:08.355896275Z",
+  "model": "glm-5.3"
+}

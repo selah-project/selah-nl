@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Wanneer Jahweh jouw Elohim de volken zal uitroeien, wier land Jahweh jouw Elohim jou geeft, en jij ⟨את⟩ hen in bezit neemt en woont in hun steden en in hun huizen,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wananneer"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "zal uitroeien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de volken"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wier"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hun land"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "en jij in bezit neemt"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "en woont"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "in hun steden"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "en in hun huizen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:28.819923659Z",
+  "model": "glm-5.3"
+}

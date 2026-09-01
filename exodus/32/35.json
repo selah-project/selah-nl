@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "En Jahweh sloeg ⟨את⟩ het volk, omdat zij ⟨את⟩ het kalf gemaakt hadden, dat Acharon gemaakt had.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "En sloeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zij gemaakt hadden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het kalf"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "het kalf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gemaakt had"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Acharon"
+    }
+  ],
+  "timestamp": "2026-08-31T19:58:33.232989631Z",
+  "model": "glm-5.3"
+}

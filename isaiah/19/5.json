@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En de wateren zullen ⟨uit⟩ de zee weggenomen worden, en de rivier zal verwoest en verdord zijn.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "en zullen weggenomen worden"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de wateren"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "uit de zee"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "en de rivier"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "zal verwoest worden"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "en verdord zijn"
+    }
+  ],
+  "timestamp": "2026-08-31T23:21:57.377563765Z",
+  "model": "glm-5.3"
+}

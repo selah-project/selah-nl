@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "En een rund of een klein vee — ⟨את⟩ hem en ⟨את⟩ zijn jong zult gij niet slachten op één dag.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "en een rund"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "שה",
+      "gloss": "klein vee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn jong"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn jong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "zult gij slachten"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op één dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "één"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:22.683549714Z",
+  "model": "glm-5.3"
+}

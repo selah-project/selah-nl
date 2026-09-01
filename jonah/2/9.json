@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 2:9",
+  "book": "jonah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Wie leugenachtige ijdelheden bewaken, verlaten hun chesed.",
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": "bewaken"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ijdelheden"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "leugenachtige"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "hun chesed"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "verlaten"
+    }
+  ],
+  "timestamp": "2026-08-31T21:58:48.397005160Z",
+  "model": "glm-5.3"
+}

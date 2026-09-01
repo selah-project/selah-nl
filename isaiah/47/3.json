@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "Je naaktheid zal onthuld worden, ook je schande zal gezien worden; wraak neem ik, en ik zal ⟨niemand⟩ ontzien ⟨als⟩ een mens.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "zal onthuld worden"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "je naaktheid"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "zal gezien worden"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "je schande"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "wraak"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "neem ik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "zal ik ontzien"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    }
+  ],
+  "timestamp": "2026-08-31T21:23:30.403665589Z",
+  "model": "glm-5.3"
+}

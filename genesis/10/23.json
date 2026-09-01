@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En de zonen van Aram: Oets, en Chul, en Geter, en Masj.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "en zonen van"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Oets"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "en Chul"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "en Geter"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "en Masj"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:20.098874954Z",
+  "model": "glm-5.3"
+}

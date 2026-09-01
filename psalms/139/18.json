@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "Ik tel ze — zij zijn meer dan ⟨het⟩ zand; ik word wakker, en ik ben nog steeds bij u.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "Ik tel ze"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "dan zand"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "zijn zij meer"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "ik word wakker"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "en nog steeds"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bij u"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:19.381257897Z",
+  "model": "glm-5.3"
+}

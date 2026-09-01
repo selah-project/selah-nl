@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En hij gaf hen over in de hand van ⟨de⟩ volken, en wie hen haatten, heersten over hen.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "en hij gaf hen over"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "en zij heersten"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "over hen"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "wie hen haatten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:38.764762267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Jahweh, de Elohim van jullie vaders, voege jullie duizendmaal zoveel toe als jullie ⟨zijn⟩, en hij zegene ⟨את⟩ jullie, zoals hij tot jullie gesproken heeft.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "van jullie vaders"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "voege toe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aan jullie"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "zoveel als jullie"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "maal"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en hij zegene"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jullie"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesproken heeft"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tot jullie"
+    }
+  ],
+  "timestamp": "2026-08-31T20:19:46.772042916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En de hoogmoed van Israël ⟨getuigt⟩ tegen zijn aangezicht; en zij zijn niet teruggekeerd naar Jahweh, hun Elohim, en hebben Hem niet gezocht bij al dit.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "en ⟨getuigt⟩"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "de hoogmoed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "tegen zijn aangezicht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "zij zijn teruggekeerd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hun Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "hebben Hem gezocht"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bij al"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:31.627488964Z",
+  "model": "glm-5.3"
+}

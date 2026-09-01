@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "⟨Neem een telling op van⟩ ⟨את⟩ de hoofden van de zonen van Kehat, uit het midden van de zonen van Levi, naar hun geslachten, naar het huis van hun vaders —",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "verhef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hoofden van de zonen van Kehat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "het hoofd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit het midden van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "naar hun geslachten"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "naar het huis van"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "hun vaders"
+    }
+  ],
+  "timestamp": "2026-08-31T20:09:57.974772217Z",
+  "model": "glm-5.3"
+}

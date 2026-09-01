@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 42,
+  "translation": "Wie is dit, die raad verhult zonder kennis? Daarom heb ik gesproken en niet begrepen; dingen, te wonderbaar voor mij, en ik ken ze niet.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "is dit"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "verhult"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "raad"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "heb ik gesproken"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "begrepen"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "te wonderbaar"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "voor mij"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ken ik"
+    }
+  ],
+  "timestamp": "2026-08-31T22:38:28.978310011Z",
+  "model": "glm-5.3"
+}

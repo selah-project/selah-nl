@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Elohim wekte hem een tegenstander: ⟨את⟩ Rezon, de zoon van Eljada, die gevlucht was van ⟨את⟩ zijn heer Hadadezer, koning van Tsova.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wekte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hem"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "een tegenstander"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon van"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eljada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "gevlucht was"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "zijn heer"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:42.364523423Z",
+  "model": "glm-5.3"
+}

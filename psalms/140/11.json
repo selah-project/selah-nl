@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 140,
+  "translation": "Laat ⟨gloeiende⟩ kolen op hen neervallen; in vuur doe hen neerstorten, in diepe kuilen — niet zullen zij opstaan.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "laat neervallen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hen"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "kolen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in vuur"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "doe hen neerstorten"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "in diepe kuilen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "zullen opstaan"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:25.594572273Z",
+  "model": "glm-5.3"
+}

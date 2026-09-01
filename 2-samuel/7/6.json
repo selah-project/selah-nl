@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Want ik heb niet gewoond in een huis vanaf de dag dat ik ⟨את⟩ de kinderen van Jisraël uit Mitsrajim liet opgaan, tot op deze dag, en ik ben geweest een wandelaar in een tent en in een tabernakel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "heb ik gewoond"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in een huis"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "vanaf de dag"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "dat ik liet opgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de kinderen van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "היום",
+      "gloss": "op deze dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "en ik ben geweest"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "een wandelaar"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in een tent"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "en in een tabernakel"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:11.280115388Z",
+  "model": "glm-5.3"
+}

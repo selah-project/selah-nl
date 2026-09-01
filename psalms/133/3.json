@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 133,
+  "translation": "Als de dauw van de Chermon, die neerdaalt op de bergen van Tsjion, want daar heeft Jahweh ⟨את⟩ de zegen geboden: leven tot in eeuwigheid.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Als de dauw"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "van de Chermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "die neerdaalt"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "de bergen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "van Tsjion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "heeft geboden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de zegen"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "de zegen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "leven"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "in eeuwigheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:28.051678175Z",
+  "model": "glm-5.3"
+}

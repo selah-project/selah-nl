@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 98,
+  "translation": "Voor het aangezicht van Jahweh, want Hij is gekomen om ⟨de⟩ aarde te oordelen; Hij zal ⟨de⟩ wereld oordelen in recht en ⟨de⟩ volken in oprechtheid.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בא",
+      "gloss": "is gekomen"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "om te oordelen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "Hij zal oordelen"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "de wereld"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "in recht"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "en de volken"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "in oprechtheid"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:36.561076934Z",
+  "model": "glm-5.3"
+}

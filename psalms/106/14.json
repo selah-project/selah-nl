@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "En zij begeerden een begeerte in de woestijn, en zij stelden Elohim op de proef in de dorre wildernis.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "en zij begeerden"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "een begeerte"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "en zij stelden op de proef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "in de dorre wildernis"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:53.794431487Z",
+  "model": "glm-5.3"
+}

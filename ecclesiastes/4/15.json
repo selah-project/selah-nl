@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Ik zag ⟨את⟩ al de levenden die wandelen onder de zon, met de jonge, de tweede, die zal staan op zijn plaats.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ik zag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al de levenden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levenden"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "die wandelen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "de jonge"
+    },
+    {
+      "surface": "השני",
+      "gloss": "de tweede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "zal staan"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "op zijn plaats"
+    }
+  ],
+  "timestamp": "2026-08-31T22:42:41.907199773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Alleen door het lot zal ⟨את⟩ het land verdeeld worden; naar de namen van de stammen van hun vaders zullen zij erven.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "door het lot"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "zal verdeeld worden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "naar de namen"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "van de stammen"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "van hun vaders"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "zullen zij erven"
+    }
+  ],
+  "timestamp": "2026-08-31T20:16:52.191946522Z",
+  "model": "glm-5.3"
+}

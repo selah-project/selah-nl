@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En zij zullen ⟨את⟩ de efod maken: goud, blauw en purper, worm van scharlaken en getwist fijn linnen, het werk van een kunstwever.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "En zij zullen maken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "de efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "blauw"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "en purper"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "worm"
+    },
+    {
+      "surface": "שני",
+      "gloss": "van scharlaken"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en fijn linnen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "getwist"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "het werk"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "van een kunstwever"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:03.228328974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "De ram die jij gezien hebt, ⟨de⟩ bezitter van de hoorns — ⟨dat zijn⟩ de koningen van Madai en Paras.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "de ram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "jij gezien hebt"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "bezitter van"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "de hoorns"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "de koningen van"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "en Paras"
+    }
+  ],
+  "timestamp": "2026-08-31T22:48:35.206542501Z",
+  "model": "glm-5.3"
+}

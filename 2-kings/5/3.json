@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En zij zei tot haar mevrouw: Had mijn heer maar gestaan voor het aangezicht van de profeet die in Sjomron is — dan zou hij hem wegnemen ⟨את⟩ van zijn melaatsheid.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "En zij zei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "haar mevrouw"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "had … maar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mijn heer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "de profeet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Sjomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "zou hij wegnemen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "van zijn melaatsheid"
+    }
+  ],
+  "timestamp": "2026-08-31T21:07:10.283240437Z",
+  "model": "glm-5.3"
+}

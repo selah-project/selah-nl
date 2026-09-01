@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Jahweh zei tot Mosjee: Par'o zal niet naar jullie luisteren, opdat mijn tekenen zich vermenigvuldigen in het land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En ... zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "zal luisteren"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "naar jullie"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "למען",
+      "gloss": "opdat"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "zich vermenigvuldigen"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mijn tekenen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:51:56.184280377Z",
+  "model": "glm-5.3"
+}

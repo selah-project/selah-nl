@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Een muur zijn zij voor ons geweest, zowel 's nachts als overdag, alle dagen dat wij bij hen waren, de kudde weidend.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "een muur"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zijn zij geweest"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zowel"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "'s nachts"
+    },
+    {
+      "surface": "גם",
+      "gloss": "als"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "overdag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "dat wij waren"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "bij hen"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "weidend"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "de kudde"
+    }
+  ],
+  "timestamp": "2026-08-31T20:48:17.929764684Z",
+  "model": "glm-5.3"
+}

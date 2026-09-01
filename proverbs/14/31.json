@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 14:31",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Wie de arme onderdrukt, smaadt zijn Maker; maar wie hem eer bewijst, is genadig voor de behoeftige.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "onderdrukt"
+    },
+    {
+      "surface": "דל",
+      "gloss": "de arme"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "smaadt"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "zijn Maker"
+    },
+    {
+      "surface": "ומכבדו",
+      "gloss": "maar wie hem eer bewijst"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "is genadig"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "voor de behoeftige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:31.132691620Z",
+  "model": "glm-5.3"
+}

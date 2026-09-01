@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Verwoest ⟨is⟩ ⟨het⟩ veld, treurt ⟨de⟩ grond, want verwoest ⟨is⟩ ⟨het⟩ koren, verdord ⟨is⟩ ⟨de⟩ most, verkwijnt ⟨de⟩ olie.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "verwoest"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "het veld"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "treurt"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "de grond"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "verwoest"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "het koren"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "verdord"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "de most"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "verkwijnt"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "de olie"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:11.613474063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "De aarde opende ⟨zich⟩ en verzwolg Datan, en bedekte de vergadering van Aviram.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "opende"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "en verzwolg"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "en bedekte"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "de vergadering"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "van Aviram"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:53.212687817Z",
+  "model": "glm-5.3"
+}

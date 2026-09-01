@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Een sabbat, een sabbatsrust is ⟨het⟩ voor u, en gij zult ⟨את⟩ uw nefesjoten verootmoedigen: op de negende ⟨dag⟩ van de maand, in de avond, van avond tot avond moet gij uw sabbat vieren.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "een sabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "een sabbatsrust"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is het"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "en gij zult verootmoedigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw nefesjoten"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "uw nefesjoten"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "op de negende"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van de maand"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in de avond"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "van avond"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "avond"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "moet gij vieren"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "uw sabbat"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:53.778374086Z",
+  "model": "glm-5.3"
+}

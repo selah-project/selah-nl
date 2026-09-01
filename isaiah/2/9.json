@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En ⟨de⟩ mens bukt zich, en ⟨de⟩ man wordt vernederd — en verhef hen niet.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "en bukt zich"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "en wordt vernederd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "verhef"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:12:20.421768762Z",
+  "model": "glm-5.3"
+}

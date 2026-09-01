@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 39,
+  "translation": "En de meester van Joséf nam ⟨את⟩ hem en gaf hem in het gevangenhuis, de plaats waar de gebondenen van de koning gebonden worden; en hij was daar in het gevangenhuis.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "En ... nam"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "de meester"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "van Joséf"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "en gaf hem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בית",
+      "gloss": "het huis"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "van de gevangenis"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "de plaats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "de gebondenen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "gebonden worden"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "En hij was"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in het huis"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "van de gevangenis"
+    }
+  ],
+  "timestamp": "2026-08-31T23:14:03.365201343Z",
+  "model": "glm-5.3"
+}

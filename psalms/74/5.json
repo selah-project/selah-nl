@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 74,
+  "translation": "Men kent ⟨hen⟩ als ⟨iemand⟩ die naar boven brengt, in het dichte kreupelhout van bomen, bijlen.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "men kent"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "als ⟨iemand⟩ die brengt"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "naar boven"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "in het dichte kreupelhout"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "van bomen"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "bijlen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:28.353747585Z",
+  "model": "glm-5.3"
+}

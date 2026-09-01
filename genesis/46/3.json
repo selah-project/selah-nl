@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 46,
+  "translation": "En hij zei: Ik ben El, Elohim van je vader. Wees niet bang om af te dalen naar Mitsrajim, want tot een groot volk zal ik je daar stellen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ik"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ben El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van je vader"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wees bang"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "om af te dalen"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "naar Mitsrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tot een volk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "zal ik je stellen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:11.597806515Z",
+  "model": "glm-5.3"
+}

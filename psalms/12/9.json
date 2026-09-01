@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "Rondom gaan de sledden voort, ⟨als⟩ verheven wordt het goedkope ⟨onder⟩ de mensen.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sledden"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "gaan voort"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "⟨als⟩ verheven wordt"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "het goedkope"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨onder⟩ de mensen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mensen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:33.219851958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Drijf de spotter uit, dan gaat de twist uit, en ⟨dan⟩ houdt rechtszaak en smaad op.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "Drijf uit"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "de spotter"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan gaat uit"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "de twist"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "en houdt op"
+    },
+    {
+      "surface": "דין",
+      "gloss": "rechtszaak"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "en smaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:58.077499515Z",
+  "model": "glm-5.3"
+}

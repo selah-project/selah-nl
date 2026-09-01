@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Weet jij dit niet vanouds, sinds ⟨de⟩ mens op ⟨de⟩ aarde geplaatst werd?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "weet jij"
+    },
+    {
+      "surface": "מני",
+      "gloss": "van"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vanouds"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sinds"
+    },
+    {
+      "surface": "שים",
+      "gloss": "geplaatst werd"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨de⟩ mens"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨de⟩ aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:34:37.519939143Z",
+  "model": "glm-5.3"
+}

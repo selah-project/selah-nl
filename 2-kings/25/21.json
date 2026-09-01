@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En de koning van Bavel sloeg ⟨את⟩ hen en doodde hen in Rivla, in het land van Chamat; en Jehoeda werd weggevoerd ⟨in ballingschap⟩ van zijn eigen grond.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "en sloeg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen (de gevangenen)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Bavel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "en doodde hen"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "in Rivla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "van Chamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "en werd weggevoerd in ballingschap"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "zijn grond"
+    }
+  ],
+  "timestamp": "2026-08-31T21:13:11.563023177Z",
+  "model": "glm-5.3"
+}

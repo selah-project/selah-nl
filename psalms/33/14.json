@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 33,
+  "translation": "Vanuit ⟨de⟩ vaste plaats van zijn troon slaat hij ⟦de⟩ ogen op ⟦naar⟧ al de bewoners van de aarde.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "vanuit de vaste plaats"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "van zijn verblijf"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "slaat hij de ogen op naar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "de bewoners"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:18.674549862Z",
+  "model": "glm-5.3"
+}

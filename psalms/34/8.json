@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "De malach van Jahweh legerkamp zich rondom wie Hem vrezen, en Hij redt hen.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "legerkamp zich"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "wie Hem vrezen"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "en Hij redt hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:01.245029712Z",
+  "model": "glm-5.3"
+}

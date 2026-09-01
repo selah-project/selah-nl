@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Want een ogenblik ⟨duurt⟩ zijn toorn, leven ⟨is⟩ in zijn welbehagen; 's avonds overnacht het geween, en tegen de morgen ⟨komt⟩ gejubel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "een ogenblik"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "in zijn toorn"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "leven"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "in zijn welbehagen"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "'s avonds"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "overnacht"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "geween"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "en tegen de morgen"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "gejubel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:30.615778548Z",
+  "model": "glm-5.3"
+}

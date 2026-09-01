@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Want ik weet dat Jahweh groot is, en onze Adonai boven alle elohim ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "en onze Adonai"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "boven alle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:55.544103772Z",
+  "model": "glm-5.3"
+}

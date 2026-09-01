@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 32,
+  "translation": "Zo deden uw vaders, toen ik ⟨את⟩ hen zond van Kadesj-Barnea om ⟨את⟩ het land te bekijken.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "deden"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "uw vaders"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "toen ik zond"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "van Kadesj"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te bekijken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "het land"
+    }
+  ],
+  "timestamp": "2026-08-31T20:18:08.943674484Z",
+  "model": "glm-5.3"
+}

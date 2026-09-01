@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "Mijn zoon, als jij borg werd voor je naaste, als jij je handpalm sloeg voor een vreemde —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mijn zoon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "werd jij borg"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "voor je naaste"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "sloeg jij"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "voor een vreemde"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "je handpalm"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:22.663072554Z",
+  "model": "glm-5.3"
+}

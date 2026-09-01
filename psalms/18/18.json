@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "Hij rukte mij weg van mijn machtige vijand en van mijn haters, want zij waren te sterk ⟨voor⟩ mij.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Hij rukte mij weg"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "van mijn vijand"
+    },
+    {
+      "surface": "עז",
+      "gloss": "machtige"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "en van mijn haters"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "zij waren sterk"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨te sterk⟩ voor mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:16.016759032Z",
+  "model": "glm-5.3"
+}

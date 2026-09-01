@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Terach leefde zeventig jaar, en verwekte ⟨את⟩ Avram, ⟨את⟩ Nachor en ⟨את⟩ Haran.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "en leefde"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "zeventig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:40.843177967Z",
+  "model": "glm-5.3"
+}

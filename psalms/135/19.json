@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Huis van Jisraël, zegent Jahweh; huis van Aharon, zegent Jahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "zegent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "zegent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:52.754594292Z",
+  "model": "glm-5.3"
+}

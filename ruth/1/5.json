@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ook stierven beide, Machlon en Kiljon, en de vrouw bleef over ⟨van⟩ haar twee kinderen en van haar man.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "en stierven"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "beide"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "en Kiljon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "en bleef over"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de vrouw"
+    },
+    {
+      "surface": "משני",
+      "gloss": "⟨van⟩ haar twee"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "kinderen van haar"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "en van haar man"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:33.013049964Z",
+  "model": "glm-5.3"
+}

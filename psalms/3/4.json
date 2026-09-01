@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Maar u, Jahweh, ⟨is⟩ een schild om mij heen, mijn kavod, en hij die mijn hoofd opheft.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "maar u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "een schild"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "om mij heen"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "mijn kavod"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "en hij die opheft"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mijn hoofd"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:38.781186166Z",
+  "model": "glm-5.3"
+}

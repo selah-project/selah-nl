@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Ik — ⟨is⟩ mijn klacht ⟨gericht⟩ aan een mens? En zo niet, waarom zou mijn roeach niet ongeduldig worden?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "aan een mens"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "mijn klacht"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en zo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "ongeduldig wordt"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mijn roeach"
+    }
+  ],
+  "timestamp": "2026-08-31T22:34:24.278444537Z",
+  "model": "glm-5.3"
+}

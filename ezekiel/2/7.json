@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En jij zult ⟨את⟩ mijn woorden tot hen spreken, of zij horen of zij nalaten ⟨te horen⟩, want rebellie zijn zij.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "En jij zult spreken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn woorden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mijn woorden"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tot hen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "zij horen"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en of"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "zij nalaten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "rebellie"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zijn zij"
+    }
+  ],
+  "timestamp": "2026-08-31T21:41:39.195481123Z",
+  "model": "glm-5.3"
+}

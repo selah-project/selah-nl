@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Zij riepen een vasten uit, en zetten ⟨את⟩ Navot aan het hoofd ⟨van⟩ het volk.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "zij riepen uit"
+    },
+    {
+      "surface": "צום",
+      "gloss": "een vasten"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "en zij zetten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "aan het hoofd"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:55.609121625Z",
+  "model": "glm-5.3"
+}

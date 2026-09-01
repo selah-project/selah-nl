@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En je zult ⟨את⟩ de mingen brengen die uit deze ⟨dingen⟩ gemaakt wordt, aan Jahweh; en men moet haar aanbieden aan de priester, en hij moet haar naar het altaar brengen.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "en je zult brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de mingen"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "de mingen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gemaakt wordt"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "uit deze"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "en men moet haar aanbieden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "en hij moet haar brengen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:55.333619983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Zult gij een voortgedreven blad tergen, en ⟨את⟩ verdord stro najagen?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "een blad"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "voortgedreven"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "zult gij tergen"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "verdord stro"
+    },
+    {
+      "surface": "קש",
+      "gloss": "stro"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "verdord"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "najagen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:32:47.948498377Z",
+  "model": "glm-5.3"
+}

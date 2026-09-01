@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "Voet zal haar vertrappen, ⟨de⟩ voeten van de verdrukte, ⟨de⟩ stappen van de geringen.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "zal haar vertrappen"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "voet"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "voeten van"
+    },
+    {
+      "surface": "עני",
+      "gloss": "de verdrukte"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "stappen van"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "de geringen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:18:06.411474513Z",
+  "model": "glm-5.3"
+}

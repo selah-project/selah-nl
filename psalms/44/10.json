@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 44,
+  "translation": "Maar ⟨nu⟩ hebt u verworpen en ons te schande gemaakt, en u trekt niet uit met onze legers.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "maar"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "hebt u verworpen"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "en ons te schande gemaakt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "trekt u uit"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "met onze legers"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:35.038475986Z",
+  "model": "glm-5.3"
+}

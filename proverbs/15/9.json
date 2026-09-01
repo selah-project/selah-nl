@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Een gruwel voor Jahweh is de weg van de slechte, maar wie gerechtigheid najagt, heeft Hij lief.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "een gruwel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van de slechte"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "maar wie najagt"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "gerechtigheid"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "heeft Hij lief"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:57.094197640Z",
+  "model": "glm-5.3"
+}

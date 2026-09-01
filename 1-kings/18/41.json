@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En Eliyahu zeide tot Achav: klim op, eet en drink, want ⟨er is⟩ een geluid van geruis van de regen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "tot Achav"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "klim op"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "en drink"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קול",
+      "gloss": "een geluid"
+    },
+    {
+      "surface": "המון",
+      "gloss": "geruis"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "van de regen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:41.420011700Z",
+  "model": "glm-5.3"
+}

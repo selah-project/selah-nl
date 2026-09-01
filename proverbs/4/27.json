@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "Neig niet ⟨naar⟩ rechts en ⟨naar⟩ links; wend je voet af van het kwade.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תט",
+      "gloss": "neig"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "rechts"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "en links"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "wend af"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "je voet"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "van het kwade"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:58.816026382Z",
+  "model": "glm-5.3"
+}

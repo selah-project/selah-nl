@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Hij wendde zich tot het gebed van de verlatene, en ⟨את⟩ hun gebed heeft hij niet veracht.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "wendde zich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "het gebed"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "van de verlatene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "heeft veracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun gebed"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "hun gebed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:58.007483599Z",
+  "model": "glm-5.3"
+}

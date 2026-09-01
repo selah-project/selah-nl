@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 90,
+  "translation": "In de morgen bloeit het op en gaat voorbij; tegen de avond wordt het afgesneden en verdort.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "In de morgen"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "bloeit het op"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "en gaat voorbij"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "tegen de avond"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "wordt het afgesneden"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "en verdort"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:04.981158362Z",
+  "model": "glm-5.3"
+}

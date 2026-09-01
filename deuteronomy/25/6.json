@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En het zal gebeuren: de eerstgeborene die zij baart, zal staan op ⟨de naam van⟩ zijn gestorven broer, zodat zijn naam niet uitgewist wordt uit Jisraël.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en het zal gebeuren"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "de eerstgeborene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "zij baart"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "zal staan"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam van"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broer"
+    },
+    {
+      "surface": "המת",
+      "gloss": "de gestorvene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "zodat niet"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "uitgewist wordt"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zijn naam"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "uit Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:19.747466628Z",
+  "model": "glm-5.3"
+}

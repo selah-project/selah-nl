@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "Jahweh, mijn Elohim, als ik dit gedaan heb, als er onrecht ⟨is⟩ in mijn handpalmen:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mijn Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ik gedaan heb"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er is"
+    },
+    {
+      "surface": "עול",
+      "gloss": "onrecht"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "in mijn handpalmen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:05:54.372289143Z",
+  "model": "glm-5.3"
+}

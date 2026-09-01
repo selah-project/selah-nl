@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 56,
+  "translation": "Op Elohim heb ik vertrouwd; ik vrees niet — wat zou een mens mij doen?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "op Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "heb ik vertrouwd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "vrees ik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zou doen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "een mens"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:44.228012067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 60,
+  "translation": "Van mij is Gilad, en van mij is Menashsheh; en Efrayim ⟨is⟩ de vesting van mijn hoofd; Jehoeda ⟨is⟩ mijn wetgever.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "van mij"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "en van mij"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "en Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "de vesting"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "van mijn hoofd"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "mijn wetgever"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:30.633942554Z",
+  "model": "glm-5.3"
+}

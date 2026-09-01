@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ook al zitten vorsten ⟨en⟩ spreken kwaad over mij — uw dienaar spreekt ⟨vanzelf⟩ over Uw choekim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook al"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zitten"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "vorsten"
+    },
+    {
+      "surface": "בי",
+      "gloss": "over mij"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "spreken kwaad"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uw dienaar"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "spreekt over"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "Uw choekim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:31.192766175Z",
+  "model": "glm-5.3"
+}

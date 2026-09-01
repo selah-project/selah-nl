@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En ik gebood ⟨את⟩ jullie rechters in die tijd en zei: luister ⟨tussen⟩ jullie broeders en spreek rechtvaardig ⟨recht⟩ tussen een man en tussen zijn broeder en tussen zijn bijwoner.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "En ik gebood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie rechters"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "jullie rechters"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "die tijd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨tussen⟩"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jullie broeders"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "en spreek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "rechtvaardig ⟨recht⟩"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broeder"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "zijn bijwoner"
+    }
+  ],
+  "timestamp": "2026-08-31T20:20:03.283752078Z",
+  "model": "glm-5.3"
+}

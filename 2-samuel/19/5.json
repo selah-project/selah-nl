@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En de koning bedekte ⟨את⟩ zijn gezicht, en de koning riep met een grote stem: mijn zoon, Avsjalom! Avsjalom, mijn zoon, mijn zoon!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "en de koning"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "bedekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn gezicht"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "zijn gezicht"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "en riep"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "קול",
+      "gloss": "met een stem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsjalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsjalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T20:56:17.006526626Z",
+  "model": "glm-5.3"
+}

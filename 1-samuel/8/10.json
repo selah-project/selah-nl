@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En Sjemoeël sprak ⟨את⟩ alle woorden van Jahweh uit tot het volk dat bij hem een koning vroeg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En sprak uit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle woorden van Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "woorden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "dat vroeg"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ bij hem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "een koning"
+    }
+  ],
+  "timestamp": "2026-08-31T20:42:24.819588351Z",
+  "model": "glm-5.3"
+}

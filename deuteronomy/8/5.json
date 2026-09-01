@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "En gij zult weten met uw hart, dat, zoals een man zijn zoon terechtwijst, Jahweh uw Elohim u terechtwijst.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "en gij zult weten"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "uw hart"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zoals"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "terechtwijst"
+    },
+    {
+      "surface": "איש",
+      "gloss": "een man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zoon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zijn zoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "u terechtwijst"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:14.511334595Z",
+  "model": "glm-5.3"
+}

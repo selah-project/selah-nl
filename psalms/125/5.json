@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 125,
+  "translation": "En wie hun kronkelpaden inslaan, Jahweh zal hen ⟨את⟩ de daders van onrecht wegleiden — vrede over Jisraël!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "en wie afwenden"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "hun kronkelpaden"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "zal hen wegleiden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de daders van onrecht"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "de daders"
+    },
+    {
+      "surface": "האון",
+      "gloss": "van onrecht"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:03.324975702Z",
+  "model": "glm-5.3"
+}

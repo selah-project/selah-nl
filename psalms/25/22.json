@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Los vrij, Elohim, ⟨את⟩ Jisraël uit al zijn benauwdheden.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "los vrij"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit al"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "zijn benauwdheden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:08:54.358729299Z",
+  "model": "glm-5.3"
+}

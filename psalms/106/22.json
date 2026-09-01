@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "wonderdaden in het land van Cham, ontzagwekkende daden aan de Zee van Soef.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "wonderdaden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in het land"
+    },
+    {
+      "surface": "חם",
+      "gloss": "van Cham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ontzagwekkende daden"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de Zee"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "van Soef"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:14.953274122Z",
+  "model": "glm-5.3"
+}

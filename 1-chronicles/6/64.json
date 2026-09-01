@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "en ⟨את⟩ Kedemot en ⟨את⟩ zijn weidegronden, en ⟨את⟩ Mefaät en ⟨את⟩ zijn weidegronden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn weidegronden"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "zijn weidegronden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Mefaät"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "zijn weidegronden"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "zijn weidegronden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:59:23.164702039Z",
+  "model": "glm-5.3"
+}

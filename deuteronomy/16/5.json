@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "Gij moogt het pesach ⟨את⟩ niet slachten in een van uw poorten die Jahweh uw Elohim u geeft.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "gij moogt"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "slachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "het pesach"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "in een van"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "uw poorten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:28.361897925Z",
+  "model": "glm-5.3"
+}

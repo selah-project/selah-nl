@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "En zij zeiden tot Mosjee: Spreek jij met ons en wij zullen luisteren; maar laat Elohim niet met ons spreken, opdat wij niet sterven.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "En zij zeiden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "met ons"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "en wij zullen luisteren"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maar laat niet"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "spreken"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "met ons"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "opdat niet"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "wij sterven"
+    }
+  ],
+  "timestamp": "2026-08-31T19:55:06.302577346Z",
+  "model": "glm-5.3"
+}

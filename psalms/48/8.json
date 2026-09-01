@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Met een oostenwind verbrijzelde u de schepen van Tarsjiesj.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "met een wind"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "oosten-"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "verbrijzelde"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "schepen"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "van Tarsjiesj"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:56.302131556Z",
+  "model": "glm-5.3"
+}

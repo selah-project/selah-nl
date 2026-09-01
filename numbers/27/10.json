@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En als er voor hem geen broers ⟨zijn⟩, dan geven jullie ⟨את⟩ zijn erfdeel aan de broers van zijn vader.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En als"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er … geen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "broers"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "dan geven jullie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn erfdeel"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "zijn erfdeel"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "aan de broers"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van zijn vader"
+    }
+  ],
+  "timestamp": "2026-08-31T20:17:16.752542733Z",
+  "model": "glm-5.3"
+}

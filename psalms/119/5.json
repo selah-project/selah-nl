@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Ach, waren mijn wegen vastgemaakt om uw verordeningen te bewaren!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "ach, waren"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "vastgemaakt"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mijn wegen"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te bewaren"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "uw verordeningen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:13.621585040Z",
+  "model": "glm-5.3"
+}

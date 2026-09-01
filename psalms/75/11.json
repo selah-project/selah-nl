@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 75,
+  "translation": "En alle hoorns van ⟨de⟩ goddelozen hag ik af; verhoogd worden de hoorns van ⟨de⟩ rechtvaardige.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "En alle"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "hoorns"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van ⟨de⟩ goddelozen"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "hag ik af"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "verhoogd worden"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "de hoorns"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van ⟨de⟩ rechtvaardige"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:14.463353436Z",
+  "model": "glm-5.3"
+}

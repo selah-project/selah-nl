@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 48,
+  "translation": "Rilling greep hen daar ⟨ vast⟩, wee als van een barende vrouw.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "rilling"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "greep hen ⟨vast⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wee"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "als van een barende vrouw"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:56.302026715Z",
+  "model": "glm-5.3"
+}

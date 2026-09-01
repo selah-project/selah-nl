@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En u zult een altaar maken om reukwerk op te laten rijzen; van acacia-hout zult u het maken.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en u zult maken"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "een altaar"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "om te doen rijzen (rook)"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "reukwerk"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia's"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zult u maken"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ het",
+      "marks": "het (het altaar)"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:49.505713566Z",
+  "model": "glm-5.3"
+}

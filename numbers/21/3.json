@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En Jahweh luisterde naar de stem van Jisraël, en Hij gaf ⟨את⟩ de Kenaäniet over, en ⟨hij⟩ wijdde ⟨את⟩ hen en ⟨את⟩ hun steden aan de ban; en hij riep de naam van die plaats Chorma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en Hij luisterde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en Hij gaf over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de Kenaäniet"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "de Kenaäniet"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "en hij wijdde aan de ban"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ hen",
+      "marks": "hen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hun steden"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "hun steden"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hij riep"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "van die plaats"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Chorma"
+    }
+  ],
+  "timestamp": "2026-08-31T20:15:01.527497981Z",
+  "model": "glm-5.3"
+}

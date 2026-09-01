@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 135,
+  "translation": "Zoals zij ⟨zijn⟩, zullen hun makers zijn; allen die op hen vertrouwen.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "zoals zij"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zullen zijn"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "hun makers"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertrouwen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "op hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:22:52.754424843Z",
+  "model": "glm-5.3"
+}

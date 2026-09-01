@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 28:41",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "En u zult hen kleden: ⟨את⟩ Aharon, uw broeder, en ⟨את⟩ zijn zonen ⟨את⟩ met hem; en u zult ⟨את⟩ hen zalven, en u zult ⟨את⟩ hun hand vullen, en u zult ⟨את⟩ hen heiligen, en zij zullen als priester dienen voor Mij.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "en u zult kleden"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon, uw broeder"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "uw broeder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn zonen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zijn zonen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hem"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "en u zult zalven"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "ומלאת",
+      "gloss": "en u zult vullen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hun hand"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hun hand"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "en u zult heiligen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hen"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "als priester dienen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor Mij"
+    }
+  ],
+  "timestamp": "2026-08-31T23:15:33.618824106Z",
+  "model": "glm-5.3"
+}

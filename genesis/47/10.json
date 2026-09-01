@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "En Jaakob zegende ⟨את⟩ Par'o, en hij ging uit van het aangezicht van Par'o.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "en hij zegende"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Par'o"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en hij ging uit"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "van het aangezicht van"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    }
+  ],
+  "timestamp": "2026-08-31T19:49:01.384641489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 22,
+  "translation": "Toen zond de koning ⟨iemand⟩ om te roepen ⟨את⟩ Achimelech, zoon van Achitov, de priester, en ⟨את⟩ heel zijn vaderlijk huis, de priesters die in Nov waren; en zij kwamen allen naar de koning.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "toen zond"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "om te roepen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achimelech, zoon van Achitov, de priester"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelech"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "van Achitov"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "heel zijn vaderlijk huis, de priesters"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vaderlijk"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "in Nov"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en zij kwamen"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "allen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    }
+  ],
+  "timestamp": "2026-08-31T20:47:25.647441885Z",
+  "model": "glm-5.3"
+}

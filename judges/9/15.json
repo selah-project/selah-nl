@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 9:15",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En de doornstruik zei tot de bomen: Als jullie in waarheid ⟨את⟩ mij tot koning over jullie zalven, kom ⟨dan⟩ en schuilt in mijn schaduw; en zo niet, dan zal vuur uitgaan uit de doornstruik en ⟨את⟩ de ceders van de Libanon verteren.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "de doornstruik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "de bomen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in waarheid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jullie"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "zalven"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mij",
+      "marks": "tot koning over jullie"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tot koning"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "over jullie"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "schuilt"
+    },
+    {
+      "surface": "בצלי",
+      "gloss": "in mijn schaduw"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en zo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "zal uitgaan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "de doornstruik"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "en verteren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ceders van de Libanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "de ceders"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "van de Libanon"
+    }
+  ],
+  "timestamp": "2026-08-31T23:18:45.809632710Z",
+  "model": "glm-5.3"
+}

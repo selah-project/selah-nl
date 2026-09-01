@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En hij zal verzoening brengen over ⟨את⟩ het allerheiligste heiligdom, en ⟨את⟩ de tent van samenkomst, en ⟨את⟩ het altaar zal hij verzoenen; en over de priesters en over heel het volk van de vergadering zal hij verzoening brengen.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "en hij zal verzoening brengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het allerheiligste heiligdom"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "heiligdom"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van het heiligste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de tent van samenkomst"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samenkomst"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "het altaar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "zal hij verzoenen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en over"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "de priesters"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "van de vergadering"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "zal hij verzoening brengen"
+    }
+  ],
+  "timestamp": "2026-08-31T23:16:27.901017898Z",
+  "model": "glm-5.3"
+}

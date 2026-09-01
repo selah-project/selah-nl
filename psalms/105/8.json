@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Hij gedenkt ⟨tot⟩ in eeuwigheid zijn verbond, ⟨het⟩ woord dat hij geboden heeft tot duizend geslachten.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Hij gedenkt"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "zijn verbond"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hij geboden heeft"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "tot duizend"
+    },
+    {
+      "surface": "דור",
+      "gloss": "geslachten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:24.402635265Z",
+  "model": "glm-5.3"
+}

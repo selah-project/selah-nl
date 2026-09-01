@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Wees niet wijs in je eigen ogen; ontzag Jahweh ⟨את⟩, en wend je af van het kwaad.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "Wees"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wijs"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in je eigen ogen"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ontzag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "en wend je af"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "van het kwaad"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:53.020064861Z",
+  "model": "glm-5.3"
+}

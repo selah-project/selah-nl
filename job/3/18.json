@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Samen ⟨zijn⟩ de gevangenen gerustgesteld; zij horen de stem van de drijver niet.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "samen"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "de gevangenen"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "⟨zijn⟩ gerustgesteld"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "horen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "de stem"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "van de drijver"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:27.430470493Z",
+  "model": "glm-5.3"
+}

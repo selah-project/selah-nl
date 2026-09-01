@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En jullie zullen ⟨את⟩ jullie vijanden achtervolgen, en zij zullen vallen voor jullie ⟨gezicht⟩, ⟨geveld⟩ door het zwaard.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "en jullie zullen achtervolgen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jullie vijanden"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "jullie vijanden"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "en zij zullen vallen"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "voor jullie"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "door het zwaard"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:13.320130456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 139,
+  "translation": "Doorgrond mij, El, en ken mijn hart; beproef mij en ken mijn ⟨angst⟩gedachten:",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "doorgrond mij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "en ken"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "beproef mij"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "en ken"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "mijn gedachten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:28.173287435Z",
+  "model": "glm-5.3"
+}

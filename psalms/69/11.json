@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "En ik weende ⟨met⟩ vasten voor mijn nefesj, en het werd tot smaad voor mij.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "en ik weende"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "⟨met⟩ vasten"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mijn nefesj"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en het werd"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "tot smaad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "voor mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:19.328792185Z",
+  "model": "glm-5.3"
+}

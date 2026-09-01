@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 37,
+  "translation": "En zij zonden ⟨את⟩ de veelkleurige tuniek en brachten ⟨die⟩ naar hun vader, en zeiden: Dit hebben wij gevonden; herken nu ⟨of⟩ dit de tuniek van je zoon is, of niet.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "zonden zij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de veelkleurige tuniek"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "de tuniek"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "veelkleurige"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "brachten zij"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "hun vader"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "zeiden"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "hebben wij gevonden"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "herken"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "de tuniek"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "van je zoon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    }
+  ],
+  "timestamp": "2026-08-31T19:46:36.240649933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 66,
+  "translation": "Gezegend ⟨zij⟩ Elohim, die mijn gebed niet heeft afgewend, noch zijn chesed (trouw liefde) ⟨את⟩ van mij.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gezegend"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "heeft afgewend"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mijn gebed"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "noch zijn chesed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ van mij"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:46.588393864Z",
+  "model": "glm-5.3"
+}

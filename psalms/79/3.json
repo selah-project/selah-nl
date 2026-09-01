@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 79,
+  "translation": "Zij hebben hun bloed uitgestort als water rondom Jeroesjalajim, en er was niemand die ⟨hen⟩ begroef.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Zij hebben uitgestort"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "hun bloed"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "als water"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeroesjalajim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er was niemand die"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "begroef"
+    }
+  ],
+  "timestamp": "2026-08-31T22:16:44.512388100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En de malach van Jahweh zeide tot haar: Vermenigvuldigend zal ik ⟨את⟩ jouw nageslacht vermenvuldigen, zodat het niet te tellen zal zijn vanwege ⟨de⟩ menigte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zeide"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tot haar"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "de malach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "vermenigvuldigend"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "zal ik vermenigvuldigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw nageslacht"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "jouw nageslacht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "zal geteld worden"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "vanwege menigte"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:33.807226508Z",
+  "model": "glm-5.3"
+}

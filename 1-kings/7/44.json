@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "en ⟨את⟩ de ene zee, en ⟨את⟩ de twaalf runderen onder de zee;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de zee"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de runderen"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "de runderen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien (twaalf)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de zee"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:53.657359156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Geef hun naar hun handeling en naar het kwaad van hun daden; naar het werk van hun handen — geef hun, wend hun vergelding op hen terug.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "naar hun handeling"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "en naar het kwaad"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "van hun daden"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "naar het werk"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "van hun handen"
+    },
+    {
+      "surface": "תן",
+      "gloss": "geef"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hun"
+    },
+    {
+      "surface": "השב",
+      "gloss": "wend terug"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "hun vergelding"
+    },
+    {
+      "surface": "להם",
+      "gloss": "op hen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:39.417765383Z",
+  "model": "glm-5.3"
+}

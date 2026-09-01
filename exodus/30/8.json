@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "En wanneer Aharon ⟨את⟩ de lampen laat opgaan tussen de avonden, zal hij die laten opgaan, een voortdurende wierook voor het aangezicht van Jahweh, voor uw generaties.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "en bij het laten opgaan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de lampen"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "de lampen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "de avonden"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "zal hij die laten opgaan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "wierook"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurend"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "voor uw generaties"
+    }
+  ],
+  "timestamp": "2026-08-31T19:57:26.958044461Z",
+  "model": "glm-5.3"
+}

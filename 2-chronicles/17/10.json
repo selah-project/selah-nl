@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 17:10",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En er kwam een vreze van Jahweh over alle koninkrijken van de landen die rondom Jehoeda lagen, zodat zij geen oorlog voerden met Jehosjafat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en er kwam"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "een vreze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "koninkrijken"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "van de landen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "rondom lagen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "zodat niet"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "zij oorlog voerden"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    }
+  ],
+  "timestamp": "2026-08-31T23:07:20.276918633Z",
+  "model": "glm-5.3"
+}

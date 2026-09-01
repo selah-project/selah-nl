@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "Jahweh is koning voor eeuwig en altijd; de volken zijn omgekomen ⟨ uit ⟩ zijn land.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "voor eeuwig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en altijd"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "zijn omgekomen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "de volken"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "uit zijn land"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:52.365499996Z",
+  "model": "glm-5.3"
+}

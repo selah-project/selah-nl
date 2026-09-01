@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 113,
+  "translation": "Van waar de zon opkomt tot waar zij ondergaat, geloofd ⟨zĳ⟩ de naam van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Van waar … opkomt"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "de zon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "waar zij ondergaat"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "geloofd ⟨zĳ⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-08-31T22:20:19.065373227Z",
+  "model": "glm-5.3"
+}

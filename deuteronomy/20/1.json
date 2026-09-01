@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 20:1",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Wanneer gij uittrekt ten strijde tegen uw vijanden, en gij paarden ziet en wagens, een volk talrijker dan gij, weest niet bevreesd voor hen; want Jahweh, uw Elohim, ⟨is⟩ met u, die u optrok uit het land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wanneer"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "gij uittrekt"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ten strijde"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "uw vijanden"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "en gij ziet"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "paarden"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "en wagens"
+    },
+    {
+      "surface": "עם",
+      "gloss": "een volk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "talrijker"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dan gij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "weest bevreesd"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met u"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "die u optrok"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit het land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:54.666331772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En de satan antwoordde Jahweh ⟨את⟩ en zei: voor niets vreest Ijov Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en antwoordde"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "de satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "voor niets"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vreest"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:30:46.900848509Z",
+  "model": "glm-5.3"
+}

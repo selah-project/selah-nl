@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En Serug leefde, nadat hij Nachor verwekt had, tweehonderd jaar, en hij verwekte zonen en dochters.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "en leefde"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hij verwekt had"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tweehonderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en verwekte"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zonen"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "en dochters"
+    }
+  ],
+  "timestamp": "2026-08-31T19:39:28.990986205Z",
+  "model": "glm-5.3"
+}

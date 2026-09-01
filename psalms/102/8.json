@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Ik waak slaaploos, en ik ben als een eenzame vogel op ⟨het⟩ dak.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "ik waak slaaploos"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "en ik ben"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "als een vogel"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "eenzame"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "גג",
+      "gloss": "dak"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:35.236463721Z",
+  "model": "glm-5.3"
+}

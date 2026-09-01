@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 18,
+  "translation": "En nu, zend ⟨voort⟩, verzamel bij mij heel Israël op de berg de Karmel, en ⟨את⟩ de profeten van de Baäl, vierhonderdvijftig, en de profeten van de Asjera, vierhonderd, die eten aan de tafel van Izebel.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zend"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "verzamel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bij mij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heel Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de berg"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "de Karmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de profeten van de Baäl"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "de profeten"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "van de Baäl"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "en vijftig"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "en de profeten"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "van de Asjera"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "die eten"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "aan de tafel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "van Izebel"
+    }
+  ],
+  "timestamp": "2026-08-31T21:03:51.794557189Z",
+  "model": "glm-5.3"
+}

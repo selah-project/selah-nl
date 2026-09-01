@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En jij zult luisteren naar de stem van Jahweh, jouw Elohim, en jij zult ⟨את⟩ zijn geboden en ⟨את⟩ zijn verordeningen doen, die ik jou heden gebied.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "En jij zult luisteren"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "naar de stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en jij zult doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn geboden"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "zijn geboden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn verordeningen"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "zijn verordeningen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "jou gebied"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:25:55.284933975Z",
+  "model": "glm-5.3"
+}

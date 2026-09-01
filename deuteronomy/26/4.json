@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 26,
+  "translation": "En de priester neemt de mand uit jouw hand en zet die neer voor het aangezicht van het altaar van Jahweh jouw Elohim.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "en neemt"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "de mand"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "uit jouw hand"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "en zet die neer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor het aangezicht van"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "het altaar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jouw Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T23:17:24.241537267Z",
+  "model": "glm-5.3"
+}

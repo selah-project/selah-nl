@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 47,
+  "translation": "Alle volken, klapt in de handen, juicht Elohim toe met een stem van gejubel!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "klapt"
+    },
+    {
+      "surface": "כף",
+      "gloss": "in de handen"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "juicht toe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "met een stem"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "van gejubel"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:14.399006653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 34,
+  "translation": "Wendt u af van het kwaad en doet het goede; zoekt sjalom en achtervolgt het.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "wendt u af"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "van het kwaad"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en doet"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "het goede"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "zoekt"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "en achtervolgt het"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:09.957985656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En de koning zei tot haar: Wat scheelt jou? En zij zei: Deze vrouw heeft tot mij gezegd: Geef ⟨את⟩ jouw zoon, zodat wij hem vandaag kunnen eten, en ⟨את⟩ mijn zoon zullen wij morgen eten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hij zei"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tot haar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "scheelt jou"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "En zij zei"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "deze vrouw"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "deze"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot mij"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Geef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw zoon"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jouw zoon"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "zodat wij hem kunnen eten"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandaag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mijn zoon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "zullen wij eten"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "morgen"
+    }
+  ],
+  "timestamp": "2026-08-31T21:06:23.014514404Z",
+  "model": "glm-5.3"
+}

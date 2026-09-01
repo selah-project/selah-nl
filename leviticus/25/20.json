@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "En wanneer jullie zeggen: wat zullen wij eten in het zevende jaar — zie, wij zaaien niet en wij oogsten ⟨את⟩ onze opbrengst niet?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "en wanneer"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "jullie zeggen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "zullen wij eten"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "in het jaar"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "het zevende"
+    },
+    {
+      "surface": "הן",
+      "gloss": "zie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "wij zaaien"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "oogsten wij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onze opbrengst"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "onze opbrengst"
+    }
+  ],
+  "timestamp": "2026-08-31T20:07:56.443533224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En hij maakte ⟨את⟩ de gegoten Zee, tien el van rand tot rand, rond rondom, en vijf el zijn hoogte, en een snoer van dertig el omsloot ⟨את⟩ het rondom.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hij maakte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gegoten Zee"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de Zee"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "gegoten"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "van zijn rand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "zijn rand"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "rond"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "en vijf"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "zijn hoogte"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "en een snoer"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "omsloot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ het",
+      "marks": "het (de Zee)"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-08-31T23:05:15.621596520Z",
+  "model": "glm-5.3"
+}

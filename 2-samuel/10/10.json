@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "En ⟨את⟩ de rest van het volk gaf hij in de hand van Avisjai, zijn broer, en hij stelde ⟨hen⟩ op tegenover de kinderen van Ammon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de rest van het volk"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "de rest"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van het volk"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in de hand"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avisjai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broer"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "en hij stelde op"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de kinderen"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "van Ammon"
+    }
+  ],
+  "timestamp": "2026-08-31T23:19:18.886583001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 10,
+  "translation": "De rechtvaardige zal in eeuwigheid niet wankelen, maar de goddelozen zullen het land niet bewonen.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "de rechtvaardige"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "in eeuwigheid"
+    },
+    {
+      "surface": "בל",
+      "gloss": "geenszins"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "zal wankelen"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "maar de goddelozen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "zullen bewonen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    }
+  ],
+  "timestamp": "2026-08-31T22:26:10.016088603Z",
+  "model": "glm-5.3"
+}

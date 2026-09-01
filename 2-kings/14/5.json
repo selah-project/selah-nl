@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En het gebeurde, zodra het koninkrijk vast in zijn hand stond, dat hij zijn dienaren sloeg, ⟨את⟩ de mannen die de koning, zijn vader, geslagen hadden — ⟨את⟩ de koning.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En het gebeurde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zodra"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "vast stond"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "het koninkrijk"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in zijn hand"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "sloeg hij"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn dienaren"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zijn dienaren"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "de mannen die geslagen hadden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "de koning"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    }
+  ],
+  "timestamp": "2026-08-31T21:09:11.904284234Z",
+  "model": "glm-5.3"
+}

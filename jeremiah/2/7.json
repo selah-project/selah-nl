@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Ik bracht ⟨את⟩ u naar het land van de karmel, om zijn vrucht en zijn goed te eten; maar u kwam en verontreinigde ⟨את⟩ Mijn land, en Mijn erfdeel maakte u tot een gruwel.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "En Ik bracht"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u",
+      "marks": "u"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "van de karmel"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te eten"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "zijn vrucht"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "en zijn goed"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "maar u kwam"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "en verontreinigde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mijn land"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "Mijn land"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "en Mijn erfdeel"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "maakte u"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "tot een gruwel"
+    }
+  ],
+  "timestamp": "2026-08-31T21:27:31.783461803Z",
+  "model": "glm-5.3"
+}

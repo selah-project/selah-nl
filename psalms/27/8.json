@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "Over u heeft mijn hart gezegd: Zoek mijn aangezicht. Uw aangezicht, Jahweh, zal ik zoeken.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "over u"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mijn hart"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "zoek"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mijn aangezicht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uw aangezicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uw aangezicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "zal ik zoeken"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:32.417969461Z",
+  "model": "glm-5.3"
+}

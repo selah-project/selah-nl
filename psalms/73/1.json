@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 73,
+  "translation": "Een mizmor van Asaf. Alleen — goed ⟨is⟩ Elohim voor Jisraël, voor wie rein van hart zijn.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "alleen — zeker"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "voor Jisraël"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "voor wie rein"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "van hart"
+    }
+  ],
+  "timestamp": "2026-08-31T22:15:02.695604173Z",
+  "model": "glm-5.3"
+}

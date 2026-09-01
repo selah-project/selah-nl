@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En hij kwam bij zijn vader en zei: Mijn vader. En hij zei: Hier ben ik; wie ben jij, mijn zoon?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hij kwam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Mijn vader"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hier ben ik"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ben jij"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    }
+  ],
+  "timestamp": "2026-08-31T23:13:15.926128898Z",
+  "model": "glm-5.3"
+}

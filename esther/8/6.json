@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Want hoe zou ik ⟨het⟩ kunnen ⟨verdragen⟩ en aanzien het kwaad dat mijn volk zal treffen, en hoe zou ik kunnen ⟨verdragen⟩ en aanzien de ondergang van mijn geboortevolk?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ik zou kunnen"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "en aanzien"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "het kwaad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "zal treffen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "en hoe"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ik zou kunnen"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "en aanzien"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "de ondergang"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "van mijn geboortevolk"
+    }
+  ],
+  "timestamp": "2026-08-31T22:46:36.762999208Z",
+  "model": "glm-5.3"
+}

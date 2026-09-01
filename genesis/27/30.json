@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 27:30",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 27,
+  "translation": "En het gebeurde: toen Jitschak klaar was met Jaaḱov te zegenen — ja, Jaaḱov was nog maar net weggegaan uit ⟨את⟩ de tegenwoordigheid van Jitschak zijn vader — toen kwam Esav zijn broer binnen van zijn jacht.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeurde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toen"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "klaar was"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "om te zegenen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaaḱov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaaḱov"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en het was"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nog maar net"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "weggegaan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "was gegaan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaaḱov"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "uit ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "de tegenwoordigheid van"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zijn vader"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "en Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "zijn broer"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwam binnen"
+    },
+    {
+      "surface": "מצידו",
+      "gloss": "van zijn jacht"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:05.341847254Z",
+  "model": "glm-5.3"
+}

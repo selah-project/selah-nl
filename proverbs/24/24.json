@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 24,
+  "translation": "Die tegen de goddeloze zegt: rechtvaardig ben jij — volken zullen hem vervloeken, natiën hem verafschuwen.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Die zegt"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "tegen de goddeloze"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "rechtvaardig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "zullen hem vervloeken"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volken"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "hem verafschuwen"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "natiën"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:01.066360387Z",
+  "model": "glm-5.3"
+}

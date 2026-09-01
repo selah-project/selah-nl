@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Ram verwekte ⟨את⟩ Amminadav, en Amminadav verwekte ⟨את⟩ Nachsjon, vorst van de zonen van Jehoeda.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "En Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "en Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachsjon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachsjon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "vorst"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van de zonen van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:17.070003799Z",
+  "model": "glm-5.3"
+}

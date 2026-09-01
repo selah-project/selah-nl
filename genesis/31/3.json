@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 31,
+  "translation": "En Jahweh zei tot Jaäkov: Keer terug naar het land van je vaders en naar je geboortegrond, en Ik zal met je zijn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkov"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "het land"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "van je vaders"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "en naar je geboortegrond"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "en Ik zal zijn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met je"
+    }
+  ],
+  "timestamp": "2026-08-31T19:44:49.372926879Z",
+  "model": "glm-5.3"
+}

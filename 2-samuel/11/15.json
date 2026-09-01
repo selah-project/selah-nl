@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 11,
+  "translation": "En hij schreef in de brief, zeggende: Zet ⟨את⟩ Urja tegenover het aangezicht van de harde strijd, en keert achter hem terug, zodat hij geslagen wordt en sterft.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "en hij schreef"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in de brief"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggende"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "zet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urja"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מול",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "פני",
+      "gloss": "het aangezicht van"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "de strijd"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "de harde"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "en keert terug"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "achter hem vandaan"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "zodat hij geslagen wordt"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "en sterft"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:49.886760333Z",
+  "model": "glm-5.3"
+}

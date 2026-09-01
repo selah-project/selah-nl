@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 57,
+  "translation": "Verhoogd zijt Gij, Elohim, boven de hemelen; over heel de aarde ⟨is⟩ Uw kavod.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "verhoogd zijt Gij"
+    },
+    {
+      "surface": "על",
+      "gloss": "boven"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "Uw kavod (heerlijkheid)"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:19.273115115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "nl",
+  "chapter": 3,
+  "translation": "Brult een leeuw in het bos zonder dat hij prooi heeft? Geeft een jonge leeuw zijn stem uit zijn hol, zonder dat hij gevangen heeft?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Brult"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "een leeuw"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "in het bos"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "en prooi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hij heeft"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Geeft"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "een jonge leeuw"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "zijn stem"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "uit zijn hol"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "zonder dat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "hij gevangen heeft"
+    }
+  ],
+  "timestamp": "2026-08-31T21:56:48.039806421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "En de priester gaat naar buiten, naar buiten ⟨van⟩ de legerplaats, en de priester ziet, en ziet, ⟨als⟩ de plaag van de tsara'at genezen is van de metsora —",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "en hij gaat naar buiten"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "⟨van⟩ de legerplaats"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en hij ziet"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "de priester"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en ziet"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "is genezen"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "de plaag"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "van de tsara'at"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "de metsora"
+    }
+  ],
+  "timestamp": "2026-08-31T20:04:20.790255214Z",
+  "model": "glm-5.3"
+}

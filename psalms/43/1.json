@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 43,
+  "translation": "Doe mij recht, o Elohim, en voer mijn rechtszaak tegen een volk zonder chesed; van een man van bedrog en onrecht red ⟨mij⟩.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Doe mij recht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "en voer"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "mijn rechtszaak"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "tegen een volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "zonder"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "van een man"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "van bedrog"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "en onrecht"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "red ⟨mij⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:11:25.641282559Z",
+  "model": "glm-5.3"
+}

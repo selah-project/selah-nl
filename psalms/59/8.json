@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 59,
+  "translation": "Zie, zij laten het wellen op ⟨uit⟩ hun mond — zwaarden ⟨zijn⟩ op hun lippen; want wie hoort ⟨het⟩?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "laten zij wellen op"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "hun mond"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "zwaarden"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "op hun lippen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoort"
+    }
+  ],
+  "timestamp": "2026-08-31T22:13:24.596672112Z",
+  "model": "glm-5.3"
+}

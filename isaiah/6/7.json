@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En hij raakte mijn mond aan en zei: zie, deze heeft je lippen aangeraakt, en je ongerechtigheid ⟨is⟩ geweken en je zonde ⟨is⟩ verzoend.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "en hij raakte aan"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mijn mond"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zie"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "heeft aangeraakt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "deze"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "je lippen"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "en ⟨is⟩ geweken"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "je ongerechtigheid"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "en je zonde"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "⟨is⟩ verzoend"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:15.022522515Z",
+  "model": "glm-5.3"
+}

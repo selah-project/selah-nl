@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En zij hingen ⟨את⟩ Haman op aan de boom die hij voor Mordechai bereid had; en de grimmigheid van de koning ging liggen.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "en zij hingen op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "de boom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hij bereid had"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "voor Mordechai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "en de grimmigheid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van de koning"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "ging liggen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:45:35.124292977Z",
+  "model": "glm-5.3"
+}

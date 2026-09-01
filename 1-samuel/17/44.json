@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "En de Filistijn zei tot David: kom toch naar mij toe, en ik zal ⟨את⟩ jouw vlees geven aan het gevogelte van de hemel en aan het vee van het veld.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en zei"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "de Filistijn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kom toch"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "naar mij toe"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "en ik zal geven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouw vlees"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "jouw vlees"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "aan het gevogelte"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van de hemel"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "en aan het vee"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van het veld"
+    }
+  ],
+  "timestamp": "2026-09-01T00:07:09.518455764Z",
+  "model": "glm-5.3"
+}

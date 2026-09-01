@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 14,
+  "translation": "Echter, naar Sjeool word jij neergeworpen, naar de uiterste ⟨delen⟩ van de kuil.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Echter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeool"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "word jij neergeworpen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "de uiterste ⟨delen⟩ van"
+    },
+    {
+      "surface": "בור",
+      "gloss": "de kuil"
+    }
+  ],
+  "timestamp": "2026-08-31T21:16:18.617509985Z",
+  "model": "glm-5.3"
+}

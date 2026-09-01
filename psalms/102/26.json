@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 102,
+  "translation": "Vroeger hebt u de aarde gegrondvest, en het werk van uw handen ⟨zijn⟩ de hemelen.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Vroeger"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "hebt u gegrondvest"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "en het werk"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "van uw handen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "de hemelen"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:19.735945594Z",
+  "model": "glm-5.3"
+}

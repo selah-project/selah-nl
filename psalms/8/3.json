@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Uit de mond van zuigelingen en ⟨zogende⟩ kinderen hebt U kracht gegrondvest, om ⟨Uw⟩ tegenstanders ⟨te⟩ doen zwijgen, vijand en wrekende.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "uit de mond"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "kinderen"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "en zuigelingen"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "hebt U gegrondvest"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kracht"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "tegenstanders"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "te doen zwijgen"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vijand"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "en wrekende"
+    }
+  ],
+  "timestamp": "2026-08-31T22:06:08.346012350Z",
+  "model": "glm-5.3"
+}

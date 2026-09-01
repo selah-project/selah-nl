@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En ⟨את⟩ de Zee plaatste hij aan de rechter⟨zijde⟩, oostwaarts, tegenover ⟨het⟩ zuiden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de Zee"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de Zee"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "plaatste hij"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "aan de schouder\/zijde"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "de rechter"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "oostwaarts"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "tegenover"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "het zuiden"
+    }
+  ],
+  "timestamp": "2026-08-31T23:04:41.295378289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Jahweh was ⟨את⟩ met Jehudah, en hij nam het bergland in bezit, maar ⟨om⟩ de bewoners van de laagvlakte ⟨uit te roeien⟩ — ⟨want⟩ zij hadden strijdwagens van ijzer.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en hij was"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ met",
+      "marks": "Jehudah (prepositie 'met', geen DOM)"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "en hij nam in bezit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het bergland"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "het bergland"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "om uit te roeien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bewoners"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "de bewoners van"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "de laagvlakte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "strijdwagens"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "van ijzer"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hadden zij"
+    }
+  ],
+  "timestamp": "2026-08-31T20:35:10.516602574Z",
+  "model": "glm-5.3"
+}

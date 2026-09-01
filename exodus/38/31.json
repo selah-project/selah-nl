@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 38,
+  "translation": "En ⟨את⟩ de voetstukken van de voorhof rondom, en ⟨את⟩ de voetstukken van de poort van de voorhof, en ⟨את⟩ alle pinnen van de tabernakel, en ⟨את⟩ alle pinnen van de voorhof rondom.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de voetstukken van de voorhof"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "de voetstukken"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van de voorhof"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de voetstukken van de poort"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "de voetstukken"
+    },
+    {
+      "surface": "שער",
+      "gloss": "van de poort"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van de voorhof"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle pinnen van de tabernakel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pinnen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "van de tabernakel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle pinnen van de voorhof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pinnen"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van de voorhof"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-08-31T20:00:15.026317708Z",
+  "model": "glm-5.3"
+}

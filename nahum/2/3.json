@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Want Jahweh heeft ⟨את⟩ de trots van Jaäkov teruggebracht, als de trots van Jisraëel, want leegmakers hebben hen leeggehaald en hun wijnranken verwoest.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "שב",
+      "gloss": "heeft teruggebracht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de trots van Jaäkov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "de trots"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "als de trots"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraëel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "hebben hen leeggehaald"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "leegmakers"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "en hun wijnranken"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "verwoest"
+    }
+  ],
+  "timestamp": "2026-08-31T22:01:24.561150820Z",
+  "model": "glm-5.3"
+}

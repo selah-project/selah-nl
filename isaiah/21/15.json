@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "Want vanwege de zwaarden zijn zij gevlucht, vanwege het ontblote zwaard, en vanwege de gespannen boog, en vanwege het zware geweld van de oorlog.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "de zwaarden"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "zijn zij gevlucht"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanwege"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "het zwaard"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "ontblote"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "en vanwege"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "de boog"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "gespannen"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "en vanwege"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "het zware geweld"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "van de oorlog"
+    }
+  ],
+  "timestamp": "2026-08-31T21:17:00.860086846Z",
+  "model": "glm-5.3"
+}

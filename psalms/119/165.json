@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Grote vrede ⟨is⟩ voor wie uw tora liefhebben, en er is voor hen geen struikelblok.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grote"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "voor wie liefhebben"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "uw tora"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en er is niet"
+    },
+    {
+      "surface": "למו",
+      "gloss": "voor hen"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "struikelblok"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:47.266498653Z",
+  "model": "glm-5.3"
+}

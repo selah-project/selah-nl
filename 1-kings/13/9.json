@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Want zo heeft Jahweh ⟨את⟩ mij geboden bij ⟨את⟩ zijn woord, zeggend: u zult geen brood eten en geen water drinken, en u zult niet terugkeren op de weg waarlangs u gegaan bent.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "heeft geboden"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "בדבר"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bij zijn woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zeggend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "u zult eten"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "u zult drinken"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "u zult terugkeren"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op de weg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarlangs"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "u gegaan bent"
+    }
+  ],
+  "timestamp": "2026-08-31T21:01:30.535940346Z",
+  "model": "glm-5.3"
+}

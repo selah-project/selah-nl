@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 23:3",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "Zes dagen mag werk gedaan worden, maar op de zevende dag ⟨is⟩ sjabat, een sabbatsrust, een heilige samenroeping; alle werk zult gij niet doen — sjabat is het, voor Jahweh, in al uw woonplaatsen.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "zes"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mag gedaan worden"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "maar op de dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "de zevende"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sjabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "sabbatsrust"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "samenroeping"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "zult gij doen"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sjabat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is het"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in al"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "uw woonplaatsen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:57.497248760Z",
+  "model": "glm-5.3"
+}

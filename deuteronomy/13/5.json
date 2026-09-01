@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 13,
+  "translation": "Achter Jahweh uw Elohim ⟨zal⟩ u gaan, en ⟨את⟩ hem zult gij vrezen, en ⟨את⟩ zijn geboden zult gij bewaren, en naar zijn stem zult gij luisteren, en ⟨את⟩ hem zult gij dienen, en aan hem zult gij vasthouden.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "achter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uw Elohim"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "zult u gaan"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "zult gij vrezen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zijn geboden"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "zijn geboden"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "zult gij bewaren"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "en naar zijn stem"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "zult gij luisteren"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "hem"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "zult gij dienen"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "en aan hem"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "zult gij vasthouden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:12.272596512Z",
+  "model": "glm-5.3"
+}

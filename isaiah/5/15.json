@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En de mens wordt neergebogen, en de man vernederd, en de ogen van de hoogmoedigen worden geslaagd.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "en wordt neergebogen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de mens"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "en wordt vernederd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de man"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "en de ogen van"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "de hoogmoedigen"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "worden geslaagd"
+    }
+  ],
+  "timestamp": "2026-08-31T21:15:05.516531392Z",
+  "model": "glm-5.3"
+}

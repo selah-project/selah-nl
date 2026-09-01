@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 5,
+  "translation": "En hij sprak drieduizend spreuken, en zijn liederen waren duizend en vijf ⟨honderd⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en hij sprak"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drie"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "משל",
+      "gloss": "spreuken"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en waren"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "zijn liederen"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vijf"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "en duizend"
+    }
+  ],
+  "timestamp": "2026-08-31T20:58:45.391817448Z",
+  "model": "glm-5.3"
+}

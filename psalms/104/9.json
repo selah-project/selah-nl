@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 104,
+  "translation": "Een grens heb U gesteld — zij zullen hem niet overstijgen, zij zullen niet terugkeren om de aarde te bedekken.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "een grens"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "heb U gesteld"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "zullen zij overstijgen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "zullen zij terugkeren"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "om te bedekken"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:42.367428851Z",
+  "model": "glm-5.3"
+}

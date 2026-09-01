@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "Want bij U is ⟨de⟩ bron ⟨van⟩ leven; in uw licht zien wij licht.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bij U"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "bron"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "leven"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "in uw licht"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "zien wij"
+    },
+    {
+      "surface": "אור",
+      "gloss": "licht"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:12.257782867Z",
+  "model": "glm-5.3"
+}

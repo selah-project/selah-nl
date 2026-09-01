@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 23:30",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 23,
+  "translation": "en om te staan, morgen aan morgen, om te danken en om te loven ⟨voor⟩ Jahweh, en zo in de avond;",
+  "tokens": [
+    {
+      "surface": "ולעמד",
+      "gloss": "en om te staan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aan morgen"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "om te danken"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "en om te loven"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "en zo"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "in de avond"
+    }
+  ],
+  "timestamp": "2026-08-31T23:03:17.710684710Z",
+  "model": "glm-5.3"
+}

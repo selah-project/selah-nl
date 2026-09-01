@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Een verblijd hart doet ⟨als⟩ een genezing goed, maar een verslagen roeach doet het gebeente verdrogen.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "een hart"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "verblijd"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "doet goed"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "een genezing"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "maar een geest"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "verslagen"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "verdroogt"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "het gebeente"
+    }
+  ],
+  "timestamp": "2026-08-31T22:27:13.919006069Z",
+  "model": "glm-5.3"
+}

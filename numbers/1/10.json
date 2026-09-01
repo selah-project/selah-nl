@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Voor de zonen van Jozef: voor Efrayim, Eljisjama, zoon van Ammichoed; voor Menasje, Gamliël, zoon van Pedahtsoer.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Voor de zonen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "van Jozef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "voor Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Eljisjama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammichoed"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "voor Menasje"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliël"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedahtsoer"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:34.228132589Z",
+  "model": "glm-5.3"
+}

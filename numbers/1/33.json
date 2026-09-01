@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "Hun getelden, voor de stam Efrájim: veertig duizend en vijfhonderd.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "hun getelden"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "voor de stam"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrájim"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duizend"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "en vijf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    }
+  ],
+  "timestamp": "2026-08-31T20:08:49.285975687Z",
+  "model": "glm-5.3"
+}

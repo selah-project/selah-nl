@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Oved verwekte ⟨את⟩ Jehoe, en Jehoe verwekte ⟨את⟩ Azarjah.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "En Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoe"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehoe"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "en Jehoe"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:21.563164772Z",
+  "model": "glm-5.3"
+}

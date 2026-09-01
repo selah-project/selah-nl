@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 30:19",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 30,
+  "translation": "Ik heb heden tegen jullie ⟨als⟩ getuigen ⟨את⟩ de hemel en ⟨את⟩ de aarde geroepen: het leven en de dood heb ik voor je neergezet, de zegen en de vloek — kies dan het leven, zodat jij en je nageslacht leven.",
+  "tokens": [
+    {
+      "surface": "העידתי",
+      "gloss": "Ik heb tot getuigen geroepen"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "tegen jullie"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hemel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de aarde"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "het leven"
+    },
+    {
+      "surface": "והמות",
+      "gloss": "en de dood"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "heb ik neergezet"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor je"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "de zegen"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "en de vloek"
+    },
+    {
+      "surface": "ובחרת",
+      "gloss": "kies dan"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "het leven"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zodat"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "leeft"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "en je nageslacht"
+    }
+  ],
+  "timestamp": "2026-08-31T20:28:40.836515788Z",
+  "model": "glm-5.3"
+}

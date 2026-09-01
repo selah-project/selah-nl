@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "nl",
+  "chapter": 7,
+  "translation": "En Jehosjoea stond vroeg in de morgen op en liet Israël ⟨את⟩ voorkomen naar zijn stammen; en de stam van Jehoeda werd gegrepen.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "stond vroeg op"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in de morgen"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "en liet voorkomen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "naar zijn stammen"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "werd gegrepen"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "de stam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-08-31T20:30:57.199184213Z",
+  "model": "glm-5.3"
+}

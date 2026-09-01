@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "nl",
+  "chapter": 17,
+  "translation": "Ook Jehoeda hield ⟨את⟩ de geboden van Jahweh, hun Elohim, niet in acht, en zij ging in de verordeningen van Israël die zij gemaakt hadden.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hield in acht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de geboden"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "de geboden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hun Elohim"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en ging"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "in de verordeningen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Israël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zij hadden gemaakt"
+    }
+  ],
+  "timestamp": "2026-08-31T21:10:28.752460433Z",
+  "model": "glm-5.3"
+}

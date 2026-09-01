@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 51,
+  "translation": "Want mijn opstanden ken ik, en mijn zonde staat gedurig vóór mij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mijn opstanden"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ik"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ken"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "en mijn zonde"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "vóór mij"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    }
+  ],
+  "timestamp": "2026-08-31T22:12:32.242804100Z",
+  "model": "glm-5.3"
+}

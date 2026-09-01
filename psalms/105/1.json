@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 105,
+  "translation": "Belooft Jahweh, roept aan in zijn naam, maakt bekend onder de volken zijn daden.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Belooft"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "roept aan"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "in zijn naam"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "maakt bekend"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "onder de volken"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "zijn daden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:38.571986361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "En tot dit volk zul jij zeggen: zo heeft Jahweh gezegd: ziet, Ik stel voor uw aangezicht ⟨את⟩ de weg van het leven en ⟨את⟩ de weg van de dood.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "zul jij zeggen"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "heeft gezegd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ziet, Ik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "stel"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "voor uw aangezicht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de weg van het leven"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "van het leven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "de weg van de dood"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de weg"
+    },
+    {
+      "surface": "המות",
+      "gloss": "van de dood"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:34.500081496Z",
+  "model": "glm-5.3"
+}

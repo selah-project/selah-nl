@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Gij zult niet moorden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "zult moorden"
+    }
+  ],
+  "timestamp": "2026-08-31T19:54:06.268244774Z",
+  "model": "glm-5.3"
+}

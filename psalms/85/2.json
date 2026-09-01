@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 85,
+  "translation": "U heeft welbehagen gehad in uw land, Jahweh; de gevangenschapswending van Jaakob heeft u omgekeerd.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "u heeft welbehagen gehad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "in uw land"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "heeft u omgekeerd"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "de gevangenschapswending"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaakob"
+    }
+  ],
+  "timestamp": "2026-09-01T00:04:37.917197009Z",
+  "model": "glm-5.3"
+}

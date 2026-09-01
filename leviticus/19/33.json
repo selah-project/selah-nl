@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "En wanneer een vreemdeling bij ⟨את⟩-jou als gast woont in jullie land, moeten jullie hem niet onderdrukken ⟨את⟩-hem.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "En wanneer"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "als gast woont"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-jou (bij jou)"
+    },
+    {
+      "surface": "גר",
+      "gloss": "een vreemdeling"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "in jullie land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "moeten jullie onderdrukken"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hem",
+      "marks": "hem"
+    }
+  ],
+  "timestamp": "2026-08-31T20:06:09.674968174Z",
+  "model": "glm-5.3"
+}

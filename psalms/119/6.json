@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 119,
+  "translation": "Dan schaam ik mij niet, wanneer ik zie naar al uw geboden.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "schaam ik mij"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "wanneer ik zie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "uw geboden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:21:13.621901518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 150,
+  "translation": "Loof Hem met trommel en reidans; loof Hem met snarenspel en fluit.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Loof Hem"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "met trommel"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "en reidans"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "loof Hem"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "met snarenspel"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "en fluit"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:01.266346560Z",
+  "model": "glm-5.3"
+}

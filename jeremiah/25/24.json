@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "en ⟨את⟩ alle koningen van Arab en ⟨את⟩ alle koningen van het gemengde volk dat in de woestijn woont;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alle koningen van Arab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "koningen van"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alle koningen van het gemengde volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "koningen van"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "het gemengde volk"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "dat woont"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in de woestijn"
+    }
+  ],
+  "timestamp": "2026-08-31T21:32:52.741551156Z",
+  "model": "glm-5.3"
+}

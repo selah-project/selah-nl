@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 4,
+  "translation": "En gij zult tot Par'o zeggen: zo zegt Jahweh: mijn zoon, mijn eerstgeborene is Jisraël.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "en gij zult zeggen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mijn zoon"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "mijn eerstgeborene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-31T19:50:58.688550315Z",
+  "model": "glm-5.3"
+}

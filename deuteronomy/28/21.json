@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Jahweh zal ⟨את⟩ de pest aan jou doen kleven, tot hij ⟨את⟩ je heeft verteerd van ⟨de⟩ aardbodem waar jij daarheen komt om haar in bezit te nemen.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "zal doen kleven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de pest"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "de pest"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "hij je heeft verteerd"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨de⟩ aardbodem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jij"
+    },
+    {
+      "surface": "בא",
+      "gloss": "komt"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "om haar in bezit te nemen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:27:07.385119675Z",
+  "model": "glm-5.3"
+}

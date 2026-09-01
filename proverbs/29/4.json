@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 29,
+  "translation": "Een koning richt door ⟨recht⟩ het land op; maar een man van geschenken breekt het af.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "een koning"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "door recht"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "richt op"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "maar een man"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "van geschenken"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "breekt het af"
+    }
+  ],
+  "timestamp": "2026-08-31T22:29:47.427394787Z",
+  "model": "glm-5.3"
+}

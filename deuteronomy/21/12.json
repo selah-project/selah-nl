@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 21,
+  "translation": "dan breng jij haar naar het midden van jouw huis, en zij scheren ⟨את⟩ haar hoofd en zij knippen ⟨את⟩ haar nagels,",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "dan breng jij haar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "het midden van"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "jouw huis"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "en zij scheren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar hoofd"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "haar hoofd"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "en zij doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar nagels"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "haar nagels"
+    }
+  ],
+  "timestamp": "2026-08-31T20:24:34.110949079Z",
+  "model": "glm-5.3"
+}

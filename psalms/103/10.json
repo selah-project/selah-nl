@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 103,
+  "translation": "Niet naar onze zonden heeft Hij ⟨aan ons⟩ gedaan, en niet naar onze ongerechtigheden heeft Hij ⟨ons⟩ vergolden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "naar onze zonden"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "heeft Hij gedaan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en niet"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "naar onze ongerechtigheden"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "heeft Hij vergolden"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ons"
+    }
+  ],
+  "timestamp": "2026-08-31T23:26:02.767530807Z",
+  "model": "glm-5.3"
+}

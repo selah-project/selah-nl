@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 6,
+  "translation": "En Dawid en het hele huis van Jisraël lieten de ark van Jahweh omhoog gaan, ⟨את⟩, met geschal en met het geluid van de sjofar.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "en Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en het hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "lieten omhoog gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ark van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "met geschal"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "en met het geluid van"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "de sjofar"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:01.526691853Z",
+  "model": "glm-5.3"
+}

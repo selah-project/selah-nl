@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "nl",
+  "chapter": 12,
+  "translation": "En Natan ging naar zijn huis. En Jahweh sloeg ⟨את⟩ het kind dat de vrouw van Uríja aan Dawid gebaard had, en het werd ⟨ernstig⟩ ziek.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hij ging"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "zijn huis"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "en hij sloeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "het kind"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebaard had"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "de vrouw van"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uríja"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "en het werd ernstig ziek"
+    }
+  ],
+  "timestamp": "2026-08-31T20:52:55.426653658Z",
+  "model": "glm-5.3"
+}

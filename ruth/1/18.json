@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En zij zag dat zij vastberaden was om ⟨את⟩ met haar mee te gaan, en zij hield op tot haar te spreken.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "en zij zag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "vastberaden was"
+    },
+    {
+      "surface": "היא",
+      "gloss": "zij"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "met haar mee"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "en zij hield op"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "te spreken"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "tot haar"
+    }
+  ],
+  "timestamp": "2026-08-31T22:40:27.565585615Z",
+  "model": "glm-5.3"
+}

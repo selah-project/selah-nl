@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Jahweh zei tegen Mosjee: Ga naar Par'o en spreek tot hem: Zo zegt Jahweh, Elohim van de Hebreeuwen: Laat ⟨את⟩ mijn volk gaan, opdat zij mij dienen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … zei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosjee"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "en spreek"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Zo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "de Hebreeuwen"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Laat … gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mijn volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mijn volk"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "opdat zij mij dienen"
+    }
+  ],
+  "timestamp": "2026-08-31T19:52:25.375523391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Zij maakten een kalf in Chorev en bogen zich neer voor een gegoten beeld.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "maakten zij"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "een kalf"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "in Chorev"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "en bogen zich neer"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "voor een gegoten beeld"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:53.213028393Z",
+  "model": "glm-5.3"
+}

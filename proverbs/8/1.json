@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "nl",
+  "chapter": 8,
+  "translation": "Roept de chokma niet, en geeft de tevoena haar stem niet?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "roepen niet ⟨vraagt⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "de chokma"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "roept"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "en de tevoena"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "geeft"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "haar stem"
+    }
+  ],
+  "timestamp": "2026-08-31T22:25:59.469846500Z",
+  "model": "glm-5.3"
+}

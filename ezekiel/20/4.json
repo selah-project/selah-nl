@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "nl",
+  "chapter": 20,
+  "translation": "Zul je hen richten, zul je hen richten, mensenzoon? ⟨את⟩ de gruwelen van hun vaderen — maak die hun bekend.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "zul je richten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hen"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "zul je richten"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zoon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gruwelen van hun vaderen"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "gruwelen"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "hun vaderen"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "maak die hun bekend"
+    }
+  ],
+  "timestamp": "2026-08-31T23:24:19.985771473Z",
+  "model": "glm-5.3"
+}

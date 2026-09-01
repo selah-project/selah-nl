@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 106,
+  "translation": "Gelukkig ⟨zijn⟩ wie het recht bewaren, die gerechtigheid doen te allen tijde.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Gelukkig"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "die bewaren"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "het recht"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doen"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "gerechtigheid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "te allen"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tijde"
+    }
+  ],
+  "timestamp": "2026-08-31T22:19:52.624541729Z",
+  "model": "glm-5.3"
+}

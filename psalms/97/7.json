@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 97,
+  "translation": "Beschamd worden allen die een uitgesneden beeld dienen, die zich beroemen op afgoden; buig u neer voor hem, alle elohim.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "beschaamd worden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienen"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "een uitgesneden beeld"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "die zich beroemen"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "op afgoden"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "buig u neer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T22:18:24.744503109Z",
+  "model": "glm-5.3"
+}

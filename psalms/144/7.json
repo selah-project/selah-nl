@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 144,
+  "translation": "Strekt ⟨u⟩w hand uit vanuit de hoogte; red mij en bevrijd mij uit grote wateren, uit de hand van zonen van vreemden.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "strekt uit"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "uw hand"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "vanuit de hoogte"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "red mij"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "en bevrijd mij"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "uit wateren"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "grote"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit de hand van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zonen van"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vreemden"
+    }
+  ],
+  "timestamp": "2026-08-31T22:24:16.040147161Z",
+  "model": "glm-5.3"
+}

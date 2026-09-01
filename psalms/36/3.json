@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "Want het heeft zich gladgestreken ⟨voor⟩ hem in zijn ogen, om zijn ongerechtigheid te vinden, om te haten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "heeft zich gladgestreken"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨voor⟩ hem"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in zijn ogen"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "om te vinden"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "zijn ongerechtigheid"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "om te haten"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:27.920496407Z",
+  "model": "glm-5.3"
+}

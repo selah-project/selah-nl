@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 35,
+  "translation": "Al mijn beenderen zeggen: Jahweh, wie is als U, die de verdrukte redt van ⟨hem die⟩ sterker is dan hij, de verdrukte en de behoeftige van zijn berover?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mijn beenderen"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "zeggen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "als U"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "redt"
+    },
+    {
+      "surface": "עני",
+      "gloss": "de verdrukte"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "van de sterkere"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dan hij"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "de verdrukte"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en de behoeftige"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "van zijn berover"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:13.854595Z",
+  "model": "glm-5.3"
+}

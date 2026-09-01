@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "nl",
+  "chapter": 28,
+  "translation": "Vervloekt zult u zijn in de stad, en vervloekt zult u zijn op het veld.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "vervloekt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "en vervloekt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op het veld"
+    }
+  ],
+  "timestamp": "2026-08-31T20:26:44.639660425Z",
+  "model": "glm-5.3"
+}

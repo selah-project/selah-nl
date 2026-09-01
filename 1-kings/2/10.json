@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "En Dawid legde zich neer bij zijn vaders, en hij werd begraven in de stad van Dawid.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "en hij legde zich neer"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bij"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "zijn vaders"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en hij werd begraven"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in de stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-08-31T20:57:32.997269800Z",
+  "model": "glm-5.3"
+}

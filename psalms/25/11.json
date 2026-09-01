@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 25,
+  "translation": "Om uw naams wil, Jahweh, vergeef mij mijn schuld, want zij ⟨is⟩ groot.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "om…wil"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "uw naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "vergeef U"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "mijn schuld"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רב",
+      "gloss": "groot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zij ⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T22:09:05.214347723Z",
+  "model": "glm-5.3"
+}

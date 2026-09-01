@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "nl",
+  "chapter": 1,
+  "translation": "En Arpachsjad verwekte ⟨את⟩ Selach, en Selach verwekte ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "En Arpachsjad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Selach"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "en Selach"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "verwekte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-31T22:57:15.683821732Z",
+  "model": "glm-5.3"
+}

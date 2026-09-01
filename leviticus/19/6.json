@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 19,
+  "translation": "Op de dag van jullie slachtoffer zal het gegeten worden, en de dag daarna; maar wat overblijft tot de derde dag, zal in het vuur verbrand worden.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op de dag"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "van jullie slachtoffer"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zal het gegeten worden"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "en de dag daarna"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "en wat overblijft"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de dag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "de derde"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in het vuur"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "zal verbrand worden"
+    }
+  ],
+  "timestamp": "2026-08-31T20:05:38.422881766Z",
+  "model": "glm-5.3"
+}

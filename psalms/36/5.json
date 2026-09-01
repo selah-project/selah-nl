@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 36,
+  "translation": "Onheil weeft hij op zijn leger; hij stelt zich op een weg die niet goed is; het kwade wijst hij niet af.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "onheil"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "weeft hij"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "zijn leger"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "stelt hij zich"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "een weg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "רע",
+      "gloss": "het kwade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "wijst hij af"
+    }
+  ],
+  "timestamp": "2026-08-31T22:10:26.004172034Z",
+  "model": "glm-5.3"
+}

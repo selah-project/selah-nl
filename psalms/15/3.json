@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 15,
+  "translation": "Die niet lastert met zijn tong, geen kwaad doet aan zijn naaste, en geen smaad opneemt tegen wie hem nabij is;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "lastert"
+    },
+    {
+      "surface": "על",
+      "gloss": "met"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "zijn tong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doet"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "aan zijn naaste"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "en geen smaad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niet"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "opneemt"
+    },
+    {
+      "surface": "על",
+      "gloss": "tegen"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "wie hem nabij is"
+    }
+  ],
+  "timestamp": "2026-08-31T22:07:18.298932730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 69,
+  "translation": "Voor de koorleider, op ⟨de wijze van⟩ Sjosjannim; van David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "voor de koorleider"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Sjosjannim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van David"
+    }
+  ],
+  "timestamp": "2026-08-31T22:14:47.782464082Z",
+  "model": "glm-5.3"
+}

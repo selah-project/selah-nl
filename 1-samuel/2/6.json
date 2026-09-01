@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "nl",
+  "chapter": 2,
+  "translation": "Jahweh doet sterven en maakt levend, Hij doet afdalen naar Sjeool en doet opkomen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "doet sterven"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "en maakt levend"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "doet afdalen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "naar Sjeool"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en doet opkomen"
+    }
+  ],
+  "timestamp": "2026-08-31T20:41:11.051705387Z",
+  "model": "glm-5.3"
+}

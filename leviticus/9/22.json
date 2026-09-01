@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "nl",
+  "chapter": 9,
+  "translation": "En Aharon hief ⟨את⟩ zijn handen op naar het volk en zegende hen; en hij daalde neer van het brengen van het zondoffer en het brandoffer en de vredeoffers.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "en hief op"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn handen"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "zijn handen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "het volk"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "en zegende hen"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "en hij daalde neer"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "van het brengen"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "het zondoffer"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "en het brandoffer"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "en de vredeoffers"
+    }
+  ],
+  "timestamp": "2026-08-31T20:03:26.783753303Z",
+  "model": "glm-5.3"
+}

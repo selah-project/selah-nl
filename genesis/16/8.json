@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 16:8",
+  "book": "genesis",
+  "lang": "nl",
+  "chapter": 16,
+  "translation": "En hij zei: Hagar, slavin van Sarai, vanwaar kom je en waar ga je heen? En zij zei: Ik vlucht weg van ⟨het aangezicht van⟩ Sarai, mijn meesteres.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hij zei"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "slavin"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "van Sarai"
+    },
+    {
+      "surface": "אי",
+      "gloss": "vanwaar"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "hiervandaan"
+    },
+    {
+      "surface": "באת",
+      "gloss": "kom je"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "en waarheen"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ga je"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en zij zei"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "van het aangezicht van"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "mijn meesteres"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ik"
+    },
+    {
+      "surface": "ברחת",
+      "gloss": "vlucht"
+    }
+  ],
+  "timestamp": "2026-08-31T19:40:44.981221271Z",
+  "model": "glm-5.3"
+}

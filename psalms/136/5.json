@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "nl",
+  "chapter": 136,
+  "translation": "⟨Aan hem⟩ die de hemelen maakte met inzicht, want tot in eeuwigheid ⟨duurt⟩ zijn chesed",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "die maakte"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "de hemelen"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "met inzicht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in eeuwigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zijn chesed"
+    }
+  ],
+  "timestamp": "2026-08-31T22:23:08.355587132Z",
+  "model": "glm-5.3"
+}
