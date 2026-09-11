@@ -25,3 +25,8 @@ Heb je een groot taalmodel of machinevertaling gebruikt — zeg het uitdrukkelij
 ## Licentie en toetsing
 
 Door bij te dragen stem je ermee in dat alles wat wordt aangenomen onder [CC BY-SA 4.0](LICENSE.md) wordt gepubliceerd. De Git-geschiedenis houdt het verslag en de redenen open. Toetsers beoordelen voorstellen aan het Hebreeuws, aan de regels, aan de verwijzingen en aan de uitlijning.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
