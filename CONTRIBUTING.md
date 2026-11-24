@@ -6,7 +6,7 @@ Dank — voor het helderder, zichtbaarder, dichter bij het Nederlands maken van 
 
 - Als een woord bespreking vraagt, of er meer dan één lezing is — open een **Issue**.
 - Als fout én verbetering beide duidelijk zijn — open een **Pull request**.
-- Voor vragen over de software of de beveiliging — [Selah Support](https://selahproject.com/support).
+- Voor vragen over de software of de beveiliging — [Selah Support](https://s33k3r.com/learn/support).
 
 ## Regels voor het bewerken van bestanden
 

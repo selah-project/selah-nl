@@ -39,7 +39,7 @@ Eén vers — één bestand: het vers zelf en de weergave van elk woord naast zi
 
 ## Selah steunen
 
-Deze weergave is open onder de licentie CC BY-SA 4.0. Als dit werk je van nut is en je de vertaling, de herziening, de publicatie en de groei ervan wilt steunen — zie: [selahproject.com/support](https://selahproject.com/support)
+Deze weergave is open onder de licentie CC BY-SA 4.0. Als dit werk je van nut is en je de vertaling, de herziening, de publicatie en de groei ervan wilt steunen — zie: [s33k3r.com/learn/support](https://s33k3r.com/learn/support)
 
 ## Kom nakijken
 
@@ -47,6 +47,6 @@ Lezers, studenten Hebreeuws, vertalers, moedertaalsprekers van het Nederlands �
 
 ## Selah
 
-- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
-- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
-- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- The languages of Selah — every chair, native name and status: https://s33k3r.com/learn/languages/index
+- How the renderings are made — the process, the discipline, the receipts: https://s33k3r.com/learn/data-sources/selah-renderings
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://s33k3r.com/learn/data-sources/oshb-wlc
